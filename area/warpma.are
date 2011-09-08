@@ -1,0 +1,107 @@
+#AREADATA
+Name Warp Machine~
+Builders Grimace~
+VNUMs 22350 22399
+Credits [ ALL ] Grimace Warp Machine~
+Security 10
+End
+
+
+
+#MOBILES
+#22350
+warp master~
+the Warp Master~
+The Warp Master stands next to the control center.
+~
+The Warp Master is the genious who built this magnificent machine, having
+spent many years building it.  He wears thick glasses has a bushy grey
+mustache.  
+~
+Human~
+AB DFJ 0 0 0
+200 140 10d100+10000 5d5+100 30d30+200 smash
+0
+0 0 0 0
+stand stand male 55555
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 22351 100~
+M GRALL 22350 100~
+M SPEECH 22354 talagrath~
+M SPEECH 22353 midgaard~
+M SPEECH 22352 poway~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22350
+The Warp Machine~
+You are inside the Warp Machine.  You see several warp pads in here, and
+there is a control center with a big lever that stands out from the rest of
+the little gizmos and gadgets.  
+ 
+There is a notice posted to the wall.
+~
+0 1036 0
+E
+notice~
+Current Destinations Available:
+ 
+-Midgaard
+-Poway
+-Talagrath
+ 
+Just say to the Warp Master where you would like to go, and it will be done.
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 22350 1 22350 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#22350
+say Hello, welcome to my Warp Machine!  Where can I send you?
+~
+#22351
+echo The door closes behind you.
+~
+#22352
+say Poway it is!
+emote pulls the big lever down.
+mob transfer $n 21481
+~
+#22353
+say Midgaard it is!
+emote pulls the big lever down.
+mob transfer $n 3382
+~
+#22354
+say Talagrath it is!
+emote pulls the big lever down.
+mob transfer $n 17450
+~
+#0
+
+#$

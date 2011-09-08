@@ -1,0 +1,526 @@
+#AREADATA
+Name Training Grounds~
+Builders Wardrof~
+VNUMs 16241 16299
+Credits [05 60] Wardrof Training Grounds~
+Security 9
+End
+
+
+
+#MOBILES
+#16241
+bunny~
+A Bunny~
+A bunny hops playfully here.
+~
+~
+rabbit~
+AG 0 0 -1000 0
+70 9 3d100+250 1d1+1 3d9+2 none
+5
+FH 0 0 0
+stand stand none 100
+AGV ACDEFHJK tiny fur
+#16242
+bear~
+The Bear~
+The bear is here, trying to run you over.
+~
+~
+bear~
+AFG 0 0 1000 0
+80 10 3d100+350 0d0+0 3d9+8 none
+2
+DEO 0 EI 0
+stand stand none 150
+AGV ABCDEFHJKUV large unknown
+#16243
+deer~
+A Deer~
+A deer is here, prancing about the fields.
+~
+~
+Centaur~
+AG 0 0 -1000 0
+85 15 3d100+450 0d0+0 3d9+10 none
+1
+0 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#16244
+bird song~
+A song bird~
+A song bird is here singing a wonderful song.
+~
+~
+song bird~
+AG T 0 1000 0
+85 0 3d100+500 0d0+0 3d9+15 peck
+0
+FH 0 0 0
+stand stand none 500
+AGW ACDEFHKP tiny feather
+#16255
+Ruler~
+The Ruler of the Forest~
+The Ruler of the Forest is here, killing the one who disturbs him
+~
+~
+Human~
+ABF 0 0 0 0
+101 350 1d1+14999 1d1+13999 1d500+250 none
+-30
+ABEFK 0 0 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#16256
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16257
+beetle~
+The Ugly Beetle~
+The Ugly Beetle is here, waiting for you to attack.
+~
+~
+Human~
+AU 0 0 0 0
+30000 800 1d1+0 0d0+0 1d1+3 none
+10
+0 AB 0 C
+stand stand none 50000
+AHMV ABCDEFGHIJKQU medium unknown
+#16258
+random tester~
+the random tester~
+The random tester is here, gunna kick yer ass
+~
+~
+Human~
+A 0 0 0 0
+1 0 1d1+100 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 16250 100~
+#0
+
+
+
+#OBJECTS
+#16255
+ring holy forest~
+{&Holy {^Ring {@of the {2Fo{1re{2st{x~
+Holy Ring of the Forest~
+unknown~
+armor 0 AB
+15 15 15 25 0
+101 1 40000 P
+A
+20 -25
+A
+19 25
+A
+18 25
+A
+12 200
+A
+13 150
+#16256
+golden key~
+a {yGolden{x Key~
+A Golden Key~
+gold~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+#16257
+beetle dagger~
+the BEETLES DAGGER~
+(no description)~
+unknown~
+weapon PU AN
+dagger 101 101 thwart 0
+30000 0 0 P
+#0
+
+
+
+#ROOMS
+#16241
+Entrance to the Training Grounds~
+You are standing in the Entrance to the Training Grounds.  North of here
+there are bears and deer that you can hunt.  It is rumored that some can
+make food of corpses.  Maybe you should save a few for food.  
+~
+0 0 2
+D0
+~
+~
+0 0 16242
+S
+#16242
+In the Training Grounds~
+Entering the Training grounds is something that almost all young heroes
+do.  It is rumored that some spend all of their time as young warriors in
+the training grounds.  Perhaps that is why it is known for its fast
+leveling?  
+~
+0 0 2
+D0
+~
+~
+0 0 16243
+D2
+~
+~
+0 0 16241
+S
+#16243
+In basic training~
+You are in the basic training course.  This is a meadow where deer and
+bear graze.  They are very high levels but because they are in basic
+training they never got very tough.  All around are animals that are here
+for you to attack.  
+~
+0 0 2
+D0
+~
+~
+0 0 16246
+D1
+~
+~
+0 0 16245
+D2
+~
+~
+0 0 16242
+D3
+~
+~
+0 0 16244
+S
+#16244
+In basic training~
+These fields of basic training are perfect for young warriors to show
+their true destiny.  Some will find that they level faster than others. 
+Some will find that they live off of killing others.  Some may find that
+hiding from pk is the best way to stay alive.  Your true self comes throung
+in the training grounds.  
+~
+0 0 2
+D0
+~
+~
+0 0 16249
+D1
+~
+~
+0 0 16243
+S
+#16245
+In basic training~
+These fields of basic training are home to many.  Both young warriors and
+old ones come to the training grounds to prove who they are.  
+~
+0 0 2
+D0
+~
+~
+0 0 16251
+D3
+~
+~
+0 0 16243
+S
+#16246
+In basic training~
+Deer and bear run around the fields of basic training.  They know that
+they are to be slayed by young warriors.  They have no fear.  They have no
+fealing.  
+~
+0 0 2
+D0
+~
+~
+0 0 16247
+D1
+~
+~
+0 0 16251
+D2
+~
+~
+0 0 16243
+D3
+~
+~
+0 0 16249
+S
+#16247
+In basic training~
+The birds chirp while they are being attacked.  The bears hardly scratch
+their apponents, the creatures here have no problem with dieing.  They know
+that they will come back to life sooner or later.  
+~
+0 0 2
+D0
+~
+~
+0 0 16252
+D1
+~
+~
+0 0 16250
+D2
+~
+~
+0 0 16246
+D3
+~
+~
+0 0 16248
+S
+#16248
+In basic training~
+Watch your back, hiding in the shadows might be a stalker.  Be alert at
+all times.  Fighting or not.  Some may come up to you when you LEAST expect
+it.  
+~
+0 0 2
+D1
+~
+~
+0 0 16247
+D2
+~
+~
+0 0 16249
+S
+#16249
+In basic training~
+Birds and bears run around the fields of basic training.  They are here,
+training you in the arts of fighting and magic.  Slaying one of them might
+get you stronger in your skills.  The true test will come when you and your
+hero friends attack your foes.  You will find why you must go through this
+training course.  
+~
+0 0 2
+D0
+~
+~
+0 0 16248
+D1
+~
+~
+0 0 16246
+D2
+~
+~
+0 0 16244
+S
+#16250
+In basic training~
+The north east corner of the basic training course is filled with animals
+that care not to die.  It is recommended that you pay close attention to
+your alignment for it affects the exp you gain.  
+~
+0 0 2
+D2
+~
+~
+0 0 16251
+D3
+~
+~
+0 0 16247
+S
+#16251
+In basic training~
+Entering basic training is a big step for all young heroes.  You will see
+that the faster you level is not always the best.  Sometimes if you spend
+more time leveling you will get more in the end.  
+~
+0 0 2
+D0
+~
+~
+0 0 16250
+D2
+~
+~
+0 0 16245
+D3
+~
+~
+0 0 16246
+S
+#16252
+Entrance to Advanced training~
+As you enter advanced training you might want to think about what you are
+doing.  It is rumored to not be possible to live without 5 or 6 great
+heroes.  Although the rewards are great, hope you bring some fellow heroes. 
+~
+0 0 3
+D0
+~
+~
+0 0 16253
+D2
+~
+~
+0 0 16247
+S
+#16253
+The Advaned training course~
+Walking farther into the advanced training course you feal more and more
+fear.  At the end, The ruler of the forest is waiting for you.  Everybody
+knows this and nobody denys it.  It is something that you will just have to
+do.  
+~
+0 4 3
+D2
+~
+~
+0 0 16252
+D3
+~
+~
+1 0 16254
+S
+#16254
+Before The End of time~
+You are standing before the end of time.  The Ruler of the Forest lies to the
+north.  The only way out from here is to kill him and get his all powerful
+ring.  It is rumored that the one who wears it will have great powers.  
+~
+0 8192 3
+D0
+~
+~
+0 0 16255
+S
+#16255
+The End Of TIME~
+You are in the end of TIME.  By now you are probably already dead.  
+~
+0 8192 3
+D0
+~
+~
+2 16256 16256
+D2
+~
+~
+0 0 16254
+S
+#16256
+Free Trip Home~
+You can RECALL NOW!  
+~
+0 4 0
+S
+#16257
+Inside Mr. Howard's Beard~
+You are inside mr.  Howard's beard.  Bad move!  This Beatle has lived in
+this beard for centuries.  1 wrong move and its GAME OVER!  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 16255 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 16253 3 1
+D 0 16255 0 2
+M 0 16243 5 16243 5
+M 0 16244 9 16243 9
+M 0 16242 3 16243 3
+M 0 16241 10 16243 10
+M 0 16243 5 16244 5
+M 0 16244 9 16244 9
+M 0 16242 3 16244 3
+M 0 16241 10 16244 10
+M 0 16243 5 16245 5
+M 0 16244 9 16245 9
+M 0 16242 3 16245 3
+M 0 16241 10 16245 10
+M 0 16244 9 16246 9
+M 0 16242 3 16246 3
+M 0 16241 10 16246 10
+M 0 16243 5 16246 5
+M 0 16243 5 16247 5
+M 0 16244 9 16247 9
+M 0 16242 3 16247 3
+M 0 16241 10 16247 10
+M 0 16243 5 16248 5
+M 0 16244 9 16248 9
+M 0 16241 10 16248 10
+M 0 16242 3 16248 3
+M 0 16243 5 16249 5
+M 0 16244 9 16249 9
+M 0 16242 3 16249 3
+M 0 16241 10 16249 10
+M 0 16243 5 16250 5
+M 0 16244 9 16250 9
+M 0 16242 3 16250 3
+M 0 16241 10 16250 10
+M 0 16243 5 16251 5
+M 0 16242 3 16251 3
+M 0 16241 10 16251 10
+M 0 16244 9 16251 9
+M 0 16255 1 16255 1
+E 0 16255 0 1
+G 0 16256 0
+M 0 16257 1 16257 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16250
+say Well done $n.
+say With this jewel I have created a jeweled ring. Thank you!
+hug $n
+say I am glad I can forge rings, to repay you, you can take this ring!
+mob cast 'random ring'
+
+give ring $n
+give sleeve $n
+give sword $n
+give boot $n
+give amulet $n
+give armor $n
+give glove $n
+~
+#0
+
+#$

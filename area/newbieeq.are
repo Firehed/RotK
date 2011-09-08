@@ -1,0 +1,413 @@
+#AREADATA
+Name Newbie EQ Place~
+Builders Firehed~
+VNUMs 20000 20050
+Credits [NEWEQ] Firehed Newbie Equipment~
+Security 1
+End
+
+
+
+#MOBILES
+#20000
+dirty orc~
+A dirty orc~
+A dirty orc is here, trying to get to the town square.
+~
+~
+orc~
+AB J 0 0 0
+50 100 1d1+10000 1d1+29999 1d1+500 thwack
+0
+0 0 Q S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20001
+female villager~
+A female villager~
+A female villager stands here, hoping not to get slain by orcs.
+~
+~
+Human~
+A 0 0 1000 0
+1 1 1d1+0 1d1+1 1d1+1 none
+0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20002
+male villager~
+A male villager~
+A male villager stands here.
+~
+~
+Human~
+A 0 0 1000 0
+1 1 1d1+0 1d1+1 1d1+1 none
+0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20000
+newbie ramen noodles~
+{!R{#o{@t{6K{0 {MRamen Noodles{0~
+A package of {!R{#o{@t{6K{0 {MRamen Noodles{0 is here!~
+unknown~
+food 0 A
+15 15 0 0 0
+0 0 0 P
+#20001
+newbie cloak~
+{!R{#o{@t{6K{0 {MCloak{0~
+A {!R{#o{@t{6K{0 {MCloak{0 is here.~
+unknown~
+armor 0 AC
+8 5 4 7 0
+0 0 0 P
+A
+12 2
+A
+13 1
+#20002
+newbie club~
+{!R{#o{@t{6K{0 {MClub{0~
+A {!R{#o{@t{6K{0 {MClub{0 is here.~
+unknown~
+weapon 0 AN
+mace 1 12 thwack F
+0 0 0 P
+#20003
+newbie armor~
+{!R{#o{@t{6K{0 {MArmor{0~
+Some {!R{#o{@t{6K{0 {MArmor{0 is here.~
+unknown~
+armor 0 AD
+10 10 10 10 0
+0 0 0 P
+#20004
+newbie gloves~
+{!R{#o{@t{6K{0 {MGloves{0~
+Some {!R{#o{@t{6K{0 {MGloves{0 are here.~
+unknown~
+armor 0 AH
+1 1 2 5 0
+0 0 0 P
+A
+13 1
+#20005
+newbie sleeves~
+{!R{#o{@t{6K{0 {MSleeves{0~
+A pair of {!R{#o{@t{6K{0 {MSleeves{0 are here.~
+unknown~
+armor 0 AI
+1 2 6 2 0
+0 0 0 P
+#20006
+newbie shield~
+{!R{#o{@t{6K{0 {MShield{0~
+A {!R{#o{@t{6K{0 {MShield{0 is here.~
+unknown~
+armor 0 AJ
+10 10 10 10 0
+0 0 0 P
+#20007
+newbie helmet~
+{!R{#o{@t{6K{0 {MHelmet{0~
+A {!R{#o{@t{6K{0 {MHelmet{0 is here.~
+unknown~
+armor 0 AE
+1 2 5 1 0
+0 0 0 P
+#20008
+newbie leggings~
+{!R{#o{@t{6K{0 {MLeggings{0~
+A pair of {!R{#o{@t{6K{0 {MLeggings{0 are here.~
+unknown~
+armor 0 AF
+1 0 0 4 0
+0 0 0 P
+#20009
+newbie boots~
+{!R{#o{@t{6K{0 {MBoots{0~
+A pair of {!R{#o{@t{6K{0 {MBoots{0 are here.~
+unknown~
+armor 0 AG
+3 0 4 1 0
+0 0 0 P
+A
+13 3
+#20010
+newbie axe~
+{!R{#o{@t{6K{0 {MAxe{0~
+A {!R{#o{@t{6K{0 {MAxe{0 is here.~
+unknown~
+weapon 0 AN
+axe 2 8 chop F
+0 0 0 P
+#20011
+newbie dagger~
+{!R{#o{@t{6K{0 {MDagger{0~
+A {!R{#o{@t{6K{0 {MDagger{0 is here.~
+unknown~
+weapon 0 AN
+dagger 3 1 pierce 0
+0 0 0 P
+A
+19 1
+A
+18 1
+#20012
+newbie polearm~
+{!R{#o{@t{6K{0 {MPolearm{0~
+A {!R{#o{@t{6K{0 {MPolearm{0 is here.~
+unknown~
+weapon 0 AN
+polearm 1 13 chop F
+0 0 0 P
+#20013
+newbie belt~
+{!R{#o{@t{6K{0 {MBelt{0~
+A {!R{#o{@t{6K{0 {MBelt{0 is here.~
+unknown~
+armor 0 AL
+0 0 0 0 0
+0 0 0 P
+A
+18 1
+A
+19 1
+A
+14 5
+A
+12 5
+A
+13 5
+#20014
+newbie bracelet~
+{!R{#o{@t{6K{0 {MBracelet{0~
+A {!R{#o{@t{6K{0 {MBracelet{0 is here.~
+unknown~
+armor 0 AM
+1 1 1 1 0
+0 0 0 P
+#20015
+newbie floater bird pet~
+{!R{#o{@t{6K{0 {MPet Bird{0~
+{!R{#o{@t{6K{0 {MPet Bird{0 is flying around here!~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+0 0 0 P
+A
+13 5
+A
+12 1
+#20016
+newbie staff~
+{RR{Yo{Gt{cK {MStaff{x~
+A {!R{#o{@t{6K{0 {MSpear{0 is here.~
+unknown~
+weapon 0 AN
+staff 3 6 smash F
+0 0 0 P
+#20017
+newbie ring~
+{!R{#o{@t{6K{0 {MRing{0~
+A {!R{#o{@t{6K{0 {MRing{0 is here.~
+unknown~
+armor 0 AB
+2 2 2 2 0
+0 0 0 P
+#20018
+newbie whip~
+{!R{#o{@t{6K{0 {MWhip{0~
+A {!R{#o{@t{6K{0 {MWhip{0 is here.~
+unknown~
+weapon 0 AN
+whip 3 4 sting 0
+0 0 0 P
+#20019
+newbie morning star~
+{!R{#o{@t{6K{0 {MMorning Star{0~
+A {!R{#o{@t{6K{0 {MMorning Star{0 is here.~
+unknown~
+weapon 0 AN
+flail 4 4 smash F
+0 0 0 P
+#20020
+newbie sword~
+{!R{#o{@t{6K{0 {MSword{0~
+A {!R{#o{@t{6K{0 {MSword{0 is here.~
+unknown~
+weapon 0 AN
+sword 2 4 slash 0
+0 0 0 P
+#20021
+newbie earring~
+{!R{#o{@t{6K{0 {MEarring{0~
+A {!R{#o{@t{6K{0 {MEarring{0 is here.~
+unknown~
+armor 0 AS
+0 0 0 0 0
+0 0 0 P
+A
+13 2
+A
+12 2
+A
+14 1
+A
+19 1
+A
+18 1
+#20022
+newbie light~
+{!R{#o{@t{6K{0 {MLight{0~
+A {!R{#o{@t{6K{0 {MLight{0 is here.~
+unknown~
+light 0 A
+0 0 1000 0 0
+0 0 0 P
+#20023
+newbie water jug~
+{!R{#o{@t{6K{0 {MWater Jug{0~
+A {!R{#o{@t{6K{0 {MWater Jug{0 is here.~
+unknown~
+drink 0 A
+30 30 'water' 0 0
+0 0 0 P
+#20024
+newbie spellup~
+{!R{#o{@t{6K{0 {&Spel{!lup {^Pot{$ion{0~
+A {!R{#o{@t{6K{0 {&Spel{!lup {^Pot{$ion{0 is here!~
+unknown~
+potion 0 A
+60 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+0 0 0 P
+#20025
+newbie healing potion~
+{!R{#o{@t{6K {MHealing Potion{0~
+A {!R{#o{@t{6K {MHealing Potion{0 is here.~
+unknown~
+potion 0 A
+100 'refresh' 'heal' 'mass healing' 'restore mana'
+0 0 0 P
+#20026
+black gauntlets wizslapping~
+{*Bla{7ck {&G{7a{*u{&n{7t{*l{&e{7t{*s of {&W{7i{*z{&s{7l{*a{&p{7p{*i{7n{*g{0~
+Firehed's {*Bla{7ck {&G{7a{*u{&n{7t{*l{&e{7t{*s of {&W{7i{*z{&s{7l{*a{&p{7p{*i{7n{*g{0 are here.~
+wizslap~
+armor E AH
+5000 5000 5000 5000 0
+110 0 1 P
+A
+18 5000
+A
+19 5000
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+20 -5000
+#20027
+newbie bow~
+{!R{#o{@t{6K {%Bow{x~
+A {RR{Yo{Gt{cK {MBow{x is here.~
+unknown~
+weapon 0 AN
+bow 1 13 pierce 0
+1 0 0 P
+A
+19 1
+A
+18 1
+#20028
+newbie quiver~
+{!R{#o{@t{6K {%Quiver{x~
+A {!R{#o{@t{6K{% Quiver{x is here.~
+unknown~
+quiver 0 AN
+50 0 0 50 0
+1 0 0 P
+#20049
+invisibility cloak~
+{*Invisibility Cloak{0~
+There is an {*Invisibility cloak{0 here.~
+unknown~
+armor F AC
+50 50 50 50 0
+101 0 1 P
+A
+18 35
+A
+19 35
+A
+14 500
+A
+12 250
+A
+13 300
+F
+S 0 0 B
+E
+cloak~
+Remove and wear me if my effects wear off!
+~
+E
+invisibility~
+Remove and wear me if my effects wear off!  
+~
+#20050
+protoplasm~
+protoplasm~
+Protoplasm~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#20000
+~
+~
+0 524292 0
+S
+#20050
+~
+~
+0 524292 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

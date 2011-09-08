@@ -1,0 +1,1279 @@
+#AREADATA
+Name Tansinia~
+Builders Grimace~
+VNUMs 20101 20300
+Credits [ ALL ] Grimace Tansinia~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20101
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  To the east
+you see the river, which comes out of the great ravine to the south.  You
+have heard stories of orcs that used to come out of caves and terrorize
+people travelling through the ravine.  Here and northward the road goes
+through a large, grassy plain with a few trees scattered here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20102
+D2
+~
+~
+0 0 5686
+S
+#20102
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  To the east
+of here, you see the river bend to the east, and south of here you see
+hills.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20103
+D2
+~
+~
+0 0 20101
+S
+#20103
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  Far to the
+south you see some hills.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20104
+D2
+~
+~
+0 0 20102
+S
+#20104
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20105
+D2
+~
+~
+0 0 20103
+S
+#20105
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20106
+D2
+~
+~
+0 0 20104
+S
+#20106
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20107
+D2
+~
+~
+0 0 20105
+S
+#20107
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20108
+D2
+~
+~
+0 0 20106
+S
+#20108
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20109
+D2
+~
+~
+0 0 20107
+S
+#20109
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20110
+D2
+~
+~
+0 0 20108
+S
+#20110
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20126
+D2
+~
+~
+0 0 20109
+D3
+~
+~
+0 0 20111
+S
+#20111
+Lonas Road~
+You are on Lonas Road.  This road is less traveled than Tansinia Road,
+but is still considered a main road.  To the east you see an intersection. 
+Southeast of here is mostly grassy plains, and northwest of here you see a
+forest.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20110
+D3
+~
+~
+0 0 20112
+S
+#20112
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20111
+D3
+~
+~
+0 0 20113
+S
+#20113
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20112
+D3
+~
+~
+0 0 20114
+S
+#20114
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20113
+D3
+~
+~
+0 0 20115
+S
+#20115
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20114
+D3
+~
+~
+0 0 20116
+S
+#20116
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20115
+D3
+~
+~
+0 0 20117
+S
+#20117
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  North of here is the
+forest and south of here is a large grassy plain.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20116
+D3
+~
+~
+0 0 20118
+S
+#20118
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  The road goes east and
+north here, along the forest.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20119
+D1
+~
+~
+0 0 20117
+S
+#20119
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  The forest begins on the
+east side of the road, and on the west are some rolling fields.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20120
+D2
+~
+~
+0 0 20118
+S
+#20120
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  The forest begins on the
+east side of the road, and on the west are some rolling fields.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20121
+D2
+~
+~
+0 0 20119
+S
+#20121
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  The forest is on the east
+and north of here you see a village.  There is an old trail that goes into
+the forest here.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21800
+D2
+~
+~
+0 0 20120
+D3
+~
+~
+0 0 20122
+S
+#20122
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  The forest is east of
+here, and north of here you see a village.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20121
+D3
+~
+~
+0 0 20123
+S
+#20123
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  Looking a ways west, you
+see the sea, and north of here you see a village.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20124
+D1
+~
+~
+0 0 20122
+S
+#20124
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  Looking a ways west, you
+see the sea, and north of here you see a village.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20125
+D2
+~
+~
+0 0 20123
+S
+#20125
+Lonas Road~
+You are on Lonas Road.  This dirt road is one of the main roads in
+Tansinia, going along the forest and to the sea.  Looking a ways west, you
+see the sea, and north of here is the village of Lonas.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20301
+D2
+~
+~
+0 0 20124
+S
+#20126
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  You see an
+intersection to the west.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20127
+D3
+~
+~
+0 0 20110
+S
+#20127
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20128
+D3
+~
+~
+0 0 20126
+S
+#20128
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20129
+D3
+~
+~
+0 0 20127
+S
+#20129
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20130
+D3
+~
+~
+0 0 20128
+S
+#20130
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20131
+D3
+~
+~
+0 0 20129
+S
+#20131
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20132
+D3
+~
+~
+0 0 20130
+S
+#20132
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20133
+D3
+~
+~
+0 0 20131
+S
+#20133
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20134
+D3
+~
+~
+0 0 20132
+S
+#20134
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20135
+D3
+~
+~
+0 0 20133
+S
+#20135
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20136
+D3
+~
+~
+0 0 20134
+S
+#20136
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20137
+D3
+~
+~
+0 0 20135
+S
+#20137
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20138
+D3
+~
+~
+0 0 20136
+S
+#20138
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20139
+D3
+~
+~
+0 0 20137
+S
+#20139
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20140
+D3
+~
+~
+0 0 20138
+S
+#20140
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20141
+D3
+~
+~
+0 0 20139
+S
+#20141
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20142
+D3
+~
+~
+0 0 20140
+S
+#20142
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20143
+D3
+~
+~
+0 0 20141
+S
+#20143
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20144
+D3
+~
+~
+0 0 20142
+S
+#20144
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The area
+around here is a grassy plain with a few trees here and there.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20145
+D3
+~
+~
+0 0 20143
+S
+#20145
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20146
+D3
+~
+~
+0 0 20144
+S
+#20146
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20147
+D3
+~
+~
+0 0 20145
+S
+#20147
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20148
+D3
+~
+~
+0 0 20146
+S
+#20148
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20149
+D3
+~
+~
+0 0 20147
+S
+#20149
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20150
+D3
+~
+~
+0 0 20148
+S
+#20150
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20151
+D3
+~
+~
+0 0 20149
+S
+#20151
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20152
+D3
+~
+~
+0 0 20150
+S
+#20152
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20153
+D3
+~
+~
+0 0 20151
+S
+#20153
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20154
+D3
+~
+~
+0 0 20152
+S
+#20154
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest that stretches out to the south.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20155
+D3
+~
+~
+0 0 20153
+S
+#20155
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+forest to the east and southwest of here.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20156
+D3
+~
+~
+0 0 20154
+S
+#20156
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20155
+D2
+~
+~
+0 0 20157
+S
+#20157
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20156
+D2
+~
+~
+0 0 20158
+S
+#20158
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20157
+D2
+~
+~
+0 0 20159
+S
+#20159
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20158
+D2
+~
+~
+0 0 20160
+S
+#20160
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20159
+D2
+~
+~
+0 0 20161
+S
+#20161
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20160
+D2
+~
+~
+0 0 20162
+S
+#20162
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20161
+D2
+~
+~
+0 0 20163
+S
+#20163
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20162
+D2
+~
+~
+0 0 20164
+S
+#20164
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20163
+D2
+~
+~
+0 0 20165
+S
+#20165
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20164
+D2
+~
+~
+0 0 20166
+S
+#20166
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and another forest on the east
+side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20165
+D2
+~
+~
+0 0 20167
+S
+#20167
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  There is a
+large forest on the west side of the road and the road goes east along the
+southern edge of another forest.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20166
+D1
+~
+~
+0 0 20168
+S
+#20168
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west along the southern edge of the forest to the north.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20169
+D3
+~
+~
+0 0 20167
+S
+#20169
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west along the southern edge of the forest to the north.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20170
+D3
+~
+~
+0 0 20168
+S
+#20170
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west along the southern edge of the forest to the north.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20171
+D3
+~
+~
+0 0 20169
+S
+#20171
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west along the southern edge of the forest to the north.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20172
+D3
+~
+~
+0 0 20170
+S
+#20172
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west along the southern edge of the forest to the north.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20173
+D3
+~
+~
+0 0 20171
+S
+#20173
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west.  You see a forest to the northwest and a town north
+of here.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20174
+D3
+~
+~
+0 0 20172
+S
+#20174
+Tansinia Road~
+You are on Tansinia Road, the great road that leads through the country
+of Tansinia.  This is a well travelled main road, made of dirt.  The road
+travels east and west.  You see a forest to the northwest and a town north
+of here.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20175
+D3
+~
+~
+0 0 20173
+S
+#20175
+Tansinia Road~
+You are at an end of Tansinia Road, the great road that leads through the
+country of Tansinia.  This is a well travelled main road, made of dirt. 
+There is a medium sized town to the north of here.  
+There is a sign in the ground.
+~
+0 524288 0
+E
+sign~
+Welcome to Poway
+~
+D0
+~
+~
+0 0 21400
+D2
+~
+~
+0 0 20174
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

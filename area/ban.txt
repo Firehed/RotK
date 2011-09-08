@@ -1,0 +1,8 @@
+hse-montreal-ppp334845.sympatico.ca 110 DF
+ip68-9-202-54.ri.ri.cox.net 110 DF
+209.194.159.178      110 DF
+pool-63              110 ADF
+213.154.159.206      110 DF
+u58n62.hfx.eastlink.ca 110 DF
+a0hm2902y38kj.bc.hsia.telus.net 110 DF
+66.73.48.200         110 DF

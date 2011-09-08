@@ -1,0 +1,1979 @@
+#AREADATA
+Name The Glacier~
+Builders Wardrof~
+VNUMs 450 550
+Credits [ EXP ] Wardrof The Glacier~
+Security 1
+End
+
+
+
+#MOBILES
+#450
+tlakejltajsdlfjas~
+Mr. Howard~
+Mr. Howard is here, watching over you
+~
+~
+school monster~
+ABU 0 P -1000 0
+101 300 1d1+2999 0d0+0 1d1+499 none
+-10
+0 AB 0 C
+stand stand none 9999
+AMV ABCDEFHJKQU giant unknown
+#451
+guard blue~
+a guard of the {4b{$l{4u{$e{0 order~
+A guard of the {4b{$l{4u{$e {0order is here.
+~
+~
+Human~
+AG 0 0 1000 0
+150 300 1d1+2999 0d0+0 1d1+200 none
+0
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#452
+tlakejltajsdlfjasasdf~
+Mr. Debritz~
+Mr. Debritz is here.
+~
+~
+school monster~
+ABU 0 R 1000 0
+101 400 1d1+3999 0d0+0 1d1+599 none
+0
+0 AB 0 C
+stand stand none 0
+AMV ABCDEFHJKQU small unknown
+#488
+yellow guard~
+guard of the {3Y{#e{3l{#l{3o{#w {0order~
+A guard of the {3Y{#e{3l{#l{3o{#w {0order is here.
+~
+~
+Human~
+AG 0 0 1000 0
+160 350 1d1+3999 0d0+0 1d1+250 none
+-10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#513
+green guard~
+{2G{@r{2e{@e{2n{0 Guards~
+Guards of the green order are here.
+~
+~
+Human~
+A 0 0 1000 0
+180 400 1d1+7999 0d0+0 1d1+350 none
+-15
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#526
+teddy bear~
+a teddy bear~
+A teddy bear is here.
+~
+~
+bear~
+A 0 0 0 0
+1 0 1d1+9999 0d0+0 1d1+400 none
+0
+DEO 0 EI 0
+stand stand none 500000
+AGV ABCDEFHJKUV medium unknown
+#0
+
+
+
+#OBJECTS
+#450
+polearm destiny~
+{1P{!o{1l{!e{1a{!r{1m {@of {^D{&e{^s{&t{^i{&n{^y{0~
+The {1P{!o{1l{!e{1a{!r{1m {@of {^D{&e{^s{&t{^i{&n{^y{0 is here.~
+Destiny~
+weapon CHMZ AN
+polearm 23 25 blast ABEF
+101 0 0 P
+A
+19 55
+A
+18 45
+A
+12 300
+A
+13 900
+#451
+axe ancients~
+{1A{3x{1e {3o{1f {3t{1h{3e {1A{3n{1c{3i{1e{3n{1t{3s{0~
+The {1A{3x{1e {3o{1f {3t{1h{3e {1A{3n{1c{3i{1e{3n{1t{3s{0 is here.~
+ancients~
+weapon 0 AN
+axe 18 18 wrath ABEGH
+101 0 0 P
+A
+1 5
+A
+4 5
+A
+12 300
+A
+13 300
+A
+20 -15
+A
+19 40
+A
+18 40
+#452
+sword~
+{DS{Rw{Do{Rr{Dd {RO{Df {RK{Di{Rl{Dl{Ri{Dn{Rg{X~
+Dikan's longSword~
+unknown~
+weapon 0 AN
+sword 1000 1000 flame ABCDEGH
+0 0 0 P
+A
+18 10000
+A
+19 10000
+A
+20 10000
+A
+17 31072
+A
+17 10000
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#454
+tyme mask~
+{%M{^a{%s{^k {0of {@T{#y{$m{%e{0~
+The {%M{^a{%s{^k {0of {@T{#y{$m{%e{0 is here.~
+unknown~
+armor 0 AR
+13 15 18 28 0
+95 0 0 P
+A
+18 25
+A
+19 20
+A
+20 -20
+A
+12 500
+A
+13 100
+#456
+boots leather~
+{3L{1e{3a{1t{3h{1e{3r {7Boots{0~
+A pair of leather laced boots is here~
+leather~
+armor 0 AG
+10 10 10 5 0
+95 0 0 P
+F
+A 0 0 U
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 15
+A
+19 15
+#0
+
+
+
+#ROOMS
+#450
+Entrance to the Glacier~
+Here is the entrance to the glacier, a huge three story ice mound with
+guards posted to keep people like you out!  
+~
+0 4 0
+D4
+~
+~
+0 0 451
+D5
+~
+~
+0 0 903
+S
+#451
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 4 0
+D0
+~
+~
+0 0 452
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 457
+D3
+~
+~
+0 0 461
+D4
+~
+~
+0 0 488
+D5
+~
+~
+0 0 450
+S
+#452
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 453
+D1
+~
+~
+0 0 455
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 467
+S
+#453
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 454
+D2
+~
+~
+0 0 452
+D3
+~
+~
+0 0 468
+S
+#454
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 475
+D2
+~
+~
+0 0 455
+D3
+~
+~
+0 0 453
+S
+#455
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 454
+D1
+~
+~
+0 0 474
+D2
+~
+~
+0 0 456
+D3
+~
+~
+0 0 452
+S
+#456
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 455
+D1
+~
+~
+0 0 473
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 451
+S
+#457
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 451
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 463
+S
+#458
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 460
+D3
+~
+~
+0 0 464
+S
+#459
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 456
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 457
+S
+#460
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 459
+D1
+~
+~
+0 0 471
+D3
+~
+~
+0 0 458
+S
+#461
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 467
+D1
+~
+~
+0 0 451
+D2
+~
+~
+0 0 463
+D3
+~
+~
+0 0 462
+S
+#462
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 461
+D2
+~
+~
+0 0 465
+S
+#463
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 464
+D3
+~
+~
+0 0 465
+S
+#464
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 463
+D1
+~
+~
+0 0 458
+D3
+~
+~
+0 0 466
+S
+#465
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 462
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 466
+S
+#466
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 465
+D1
+~
+~
+0 0 464
+S
+#467
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 468
+D1
+~
+~
+0 0 452
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 469
+S
+#468
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 453
+D2
+~
+~
+0 0 467
+D3
+~
+~
+0 0 470
+S
+#469
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 470
+D1
+~
+~
+0 0 467
+D2
+~
+~
+0 0 462
+S
+#470
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 469
+S
+#471
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 472
+D3
+~
+~
+0 0 460
+S
+#472
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 473
+D2
+~
+~
+0 0 471
+D3
+~
+~
+0 0 459
+S
+#473
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 474
+D2
+~
+~
+0 0 472
+D3
+~
+~
+0 0 456
+S
+#474
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D0
+~
+~
+0 0 475
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 455
+S
+#475
+First level of the Glacier~
+Above the mountain of Olympus there is a grand glacier.  Here lies that
+glacier.  Guards of the {4B{$l{4u{$e {0order are standing all around
+watching for people like you to come around.  You should watch your back if
+you want to stay alive.  
+~
+0 0 0
+D2
+~
+~
+0 0 474
+D3
+~
+~
+0 0 454
+S
+#476
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D1
+~
+~
+0 0 481
+D2
+~
+~
+0 0 477
+S
+#477
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 482
+D2
+~
+~
+0 0 478
+S
+#478
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 483
+D2
+~
+~
+0 0 479
+S
+#479
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 484
+D2
+~
+~
+0 0 480
+S
+#480
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 479
+D1
+~
+~
+0 0 485
+S
+#481
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D1
+~
+~
+0 0 486
+D2
+~
+~
+0 0 482
+D3
+~
+~
+0 0 476
+S
+#482
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 481
+D1
+~
+~
+0 0 487
+D2
+~
+~
+0 0 483
+D3
+~
+~
+0 0 477
+S
+#483
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 482
+D1
+~
+~
+0 0 488
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 478
+S
+#484
+Second level of the glacier~
+OYou now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 489
+D2
+~
+~
+0 0 485
+D3
+~
+~
+0 0 479
+S
+#485
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 484
+D1
+~
+~
+0 0 490
+D3
+~
+~
+0 0 480
+S
+#486
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D1
+~
+~
+0 0 491
+D2
+~
+~
+0 0 487
+D3
+~
+~
+0 0 481
+S
+#487
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 486
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 488
+D3
+~
+~
+0 0 482
+S
+#488
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 4 0
+D0
+~
+~
+0 0 487
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 489
+D3
+~
+~
+0 0 483
+D4
+~
+~
+0 0 513
+D5
+~
+~
+0 0 451
+S
+#489
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 488
+D1
+~
+~
+0 0 494
+D2
+~
+~
+0 0 490
+D3
+~
+~
+0 0 484
+S
+#490
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 489
+D1
+~
+~
+0 0 495
+D3
+~
+~
+0 0 485
+S
+#491
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D1
+~
+~
+0 0 496
+D2
+~
+~
+0 0 492
+D3
+~
+~
+0 0 486
+S
+#492
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 491
+D1
+~
+~
+0 0 497
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 487
+S
+#493
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 492
+D1
+~
+~
+0 0 498
+D2
+~
+~
+0 0 494
+D3
+~
+~
+0 0 488
+S
+#494
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 499
+D2
+~
+~
+0 0 495
+D3
+~
+~
+0 0 489
+S
+#495
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 494
+D1
+~
+~
+0 0 500
+D3
+~
+~
+0 0 490
+S
+#496
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D2
+~
+~
+0 0 497
+D3
+~
+~
+0 0 491
+S
+#497
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 496
+D2
+~
+~
+0 0 498
+D3
+~
+~
+0 0 492
+S
+#498
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 497
+D2
+~
+~
+0 0 499
+D3
+~
+~
+0 0 493
+S
+#499
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 498
+D2
+~
+~
+0 0 500
+D3
+~
+~
+0 0 494
+S
+#500
+Second level of the glacier~
+You now stand in the {3Y{#e{3l{#l{3o{#w {0guard's land.  These are all
+guards who have graduated from the blue order into the yellow order.  Up
+from here is the very elite green order.  Come to think of it, what are they
+guarding?  
+~
+0 0 0
+D0
+~
+~
+0 0 499
+D3
+~
+~
+0 0 495
+S
+#501
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D1
+~
+~
+0 0 506
+D2
+~
+~
+0 0 502
+S
+#502
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 503
+S
+#503
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 504
+S
+#504
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 505
+S
+#505
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 504
+D1
+~
+~
+0 0 510
+S
+#506
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 0 501
+S
+#507
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 506
+D1
+~
+~
+0 0 512
+D2
+~
+~
+0 0 508
+D3
+~
+~
+0 0 502
+S
+#508
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 513
+D2
+~
+~
+0 0 509
+D3
+~
+~
+0 0 503
+S
+#509
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 514
+D2
+~
+~
+0 0 510
+D3
+~
+~
+0 0 504
+S
+#510
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 509
+D1
+~
+~
+0 0 515
+D3
+~
+~
+0 0 505
+S
+#511
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D1
+~
+~
+0 0 516
+D2
+~
+~
+0 0 512
+D3
+~
+~
+0 0 506
+S
+#512
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 517
+D2
+~
+~
+0 0 513
+D3
+~
+~
+0 0 507
+S
+#513
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 4 0
+D0
+~
+~
+0 0 512
+D1
+~
+~
+0 0 518
+D2
+~
+~
+0 0 514
+D3
+~
+~
+0 0 508
+D4
+~
+~
+0 0 526
+D5
+~
+~
+0 0 488
+S
+#514
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 513
+D1
+~
+~
+0 0 519
+D2
+~
+~
+0 0 515
+D3
+~
+~
+0 0 509
+S
+#515
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n {0guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 520
+D3
+~
+~
+0 0 510
+S
+#516
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D1
+~
+~
+0 0 521
+D2
+~
+~
+0 0 517
+D3
+~
+~
+0 0 511
+S
+#517
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 522
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 0 512
+S
+#518
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 517
+D1
+~
+~
+0 0 523
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 513
+S
+#519
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 518
+D1
+~
+~
+0 0 524
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 514
+S
+#520
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 519
+D1
+~
+~
+0 0 525
+D3
+~
+~
+0 0 515
+S
+#521
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 516
+S
+#522
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 521
+D2
+~
+~
+0 0 523
+D3
+~
+~
+0 0 517
+S
+#523
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 522
+D2
+~
+~
+0 0 524
+D3
+~
+~
+0 0 518
+S
+#524
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 523
+D2
+~
+~
+0 0 525
+D3
+~
+~
+0 0 519
+S
+#525
+Third level of the glacier~
+Now you are in the area of the elite {2G{@r{2e{@e{2n{0 guards.  Anything
+that gets in their way, they will attack, that meens you.  But, why would
+there be so many guards around if there is nothing to guard.  Or maybe their
+is something to guard.  
+~
+0 0 0
+D0
+~
+~
+0 0 524
+D3
+~
+~
+0 0 520
+S
+#526
+Teddy Bear~
+Is this all they were guarding!?!?!
+~
+0 0 0
+D5
+~
+~
+0 0 513
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 451 24 452 1
+M 0 451 24 453 1
+M 0 451 24 454 1
+M 0 451 24 455 1
+M 0 451 24 456 1
+M 0 451 24 457 1
+M 0 451 24 458 1
+M 0 451 24 459 1
+M 0 451 24 460 1
+M 0 451 24 461 1
+M 0 451 24 462 1
+M 0 451 24 463 1
+M 0 451 24 464 1
+M 0 451 24 465 1
+M 0 451 24 466 1
+M 0 451 24 467 1
+M 0 451 24 468 1
+M 0 451 24 469 1
+M 0 451 24 470 1
+M 0 451 24 471 1
+M 0 451 24 472 1
+M 0 451 24 473 1
+M 0 451 24 474 1
+M 0 451 24 475 1
+M 0 488 24 476 1
+M 0 488 24 477 1
+M 0 488 24 478 1
+M 0 488 24 479 1
+M 0 488 24 480 1
+M 0 488 24 481 1
+M 0 488 24 482 1
+M 0 488 24 483 1
+M 0 488 24 484 1
+M 0 488 24 485 1
+M 0 488 24 486 1
+M 0 488 24 487 1
+M 0 488 24 489 1
+M 0 488 24 490 1
+M 0 488 24 491 1
+M 0 488 24 492 1
+M 0 488 24 493 1
+M 0 488 24 494 1
+M 0 488 24 495 1
+M 0 488 24 496 1
+M 0 488 24 497 1
+M 0 488 24 498 1
+M 0 488 24 499 1
+M 0 488 24 500 1
+M 0 513 24 501 1
+M 0 513 24 502 1
+M 0 513 24 503 1
+M 0 513 24 504 1
+M 0 513 24 505 1
+M 0 513 24 506 1
+M 0 513 24 507 1
+M 0 513 24 508 1
+M 0 513 24 509 1
+M 0 513 24 510 1
+M 0 513 24 511 1
+M 0 513 24 512 1
+M 0 513 24 514 1
+M 0 513 24 515 1
+M 0 513 24 516 1
+M 0 513 24 517 1
+M 0 513 24 518 1
+M 0 513 24 519 1
+M 0 513 24 520 1
+M 0 513 24 521 1
+M 0 513 24 522 1
+M 0 513 24 523 1
+M 0 513 24 524 1
+M 0 513 24 525 1
+M 0 526 1 526 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

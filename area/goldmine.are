@@ -1,0 +1,921 @@
+#AREADATA
+Name Goldmine~
+Builders Tanus~
+VNUMs 22051 22149
+Credits [BLDG.] Tanus   Goldmine~
+Security 1
+End
+
+
+
+#MOBILES
+#22051
+gold digger~
+A {#G{3o{#l{3d {!D{1i{&g{*g{%e{!r{x~
+A {#g{3o{#l{3d {!D{1i{&g{7g{%e{!r {xis here digging some gold out of the walls
+~
+You see a stoutly dwarf greedily digging out ALOT of gold... boy dont you
+wish you had all that gold...
+~
+Dwarf~
+AB J H 0 0
+150 1000 1d1+5000 2000d2+100 1d1+900 none
+-300
+0 0 LQ HR
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium unknown
+#22052
+guardian top level~
+{!G{6u{1a{8rd{!ian {@of the {$top {4le{$v{4el{x~
+{!G{6u{1a{8rd{!ian {@of the {$top {4le{$v{4el{xcrouches above the entrance to level {#2{x
+~
+~
+Dwarf~
+ABF J H 0 0
+170 1500 1d1+10000 1000d3+50 1d1+1500 none
+-316
+0 0 LQ HR
+stand stand male 5000000
+AHMV ABCDEFGHIJK medium unknown
+#22053
+two headed platinum digger~
+{!Two {@H{2e{@a{2d{@e{2d {&P{7l{&a{7t{&i{7n{&u{7m {#d{3i{#g{3g{#e{3r{x~
+{!Two {@H{2e{@a{2d{@e{2d {&P{7l{&a{7t{&i{7n{&u{7m {#d{3i{#g{3g{#e{3r {xis crouching here
+~
+~
+Giant~
+ABF 0 CEHP 0 0
+100 10003 1d1+18000 10000d3+0 1d1+1800 none
+-320
+0 0 I HJP
+stand stand none 1000000
+AHMV ABCDEFGHIJK giant unknown
+F res H
+#22054
+two headed platinum titan~
+{!Two {@H{2e{@a{2d{@e{2d {&p{7l{&a{7t{&i{7n{&u{7m {#T{&i{#t{&a{#n{x~
+{!Two {@H{2e{@a{2d{@e{2d {&p{7l{&a{7t{&i{7n{&u{7m {#T{&i{#t{&a{#n{x stands guard at the door here
+~
+~
+Titan~
+ABF Da H -500 0
+120 30006 1d1+20000 10000d2+0 1d1+2400 none
+-350
+0 B D HM
+stand stand male 1000000
+AHMV ABCDEFGHIJK large unknown
+#22055
+taita~
+Taita~
+Taita, the Gold changer is standing here waiting to collect your finds
+~
+Standing before you is a very old man, some say he is 300 years old but
+his featured are that of an agile young man, and strung between his neck is
+a key.  
+~
+Human~
+AB 0 0 500 0
+101 20100 10000d4+500 10000d5+1000 10000d6+1000 none
+-400
+0 0 0 0
+stand stand none 100000000
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 22063 22062~
+#22056
+tortured soul miner~
+{*T{&ortured {&S{*oul{x~
+{*T{&ortured {&S{*oul{x of a dead miner is lurking in the shadows here
+~
+~
+Shadow~
+ABF TU 0 -750 0
+180 3006 1d1+22000 1000d5+0 1d1+3000 none
+-300
+0 0 M HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22057
+guardian second level~
+{!G{6u{1a{8rd{!ian {xof the {3Second {#level{x~
+{!G{6u{1a{8rd{!ian {xof the {3Second {#level{x towers over you.
+~
+~
+Titan~
+ABF Da 0 0 0
+250 30500 1d1+25000 1000d6+0 1d1+3900 none
+-212
+0 B D HM
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#22058
+angered spirit~
+{1An{!ger{1ed {&S{*p{&i{*r{&i{*t{x~
+One pissed off {1An{!ger{1ed {&S{*p{&i{*r{&i{*t{x is here looking for something to kill.
+~
+~
+Shadow~
+ABF TU 0 -1000 0
+220 30600 1d1+30000 1000d5+0 1d1+4500 none
+-120
+0 0 M HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22059
+shadow~
+{*S{7h{&a{7d{&o{*w{x~
+One huge ass {*S{7h{&a{7d{&o{*w{x of a dead miner is here.
+~
+~
+Shadow~
+ABF TU 0 -1 0
+250 30500 1d1+32000 10000d4+0 1d1+6000 none
+-150
+0 0 M HNS
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#22060
+guardian third level~
+{!G{6u{1a{*rd{!ian {xof the {^third {6level{x~
+The {!G{6u{1a{*rd{!ian {xof the {^third {6level{x is here waiting to crush you with his fingers (you're like putty in his hands)
+~
+Im CRUSHING your head I'm CRUSHING your head, it is like putty in MY HANDS AHAHAHA *AHEM*{!{1KITH{x*AHEM*
+~
+Human~
+ABF 0 0 -1000 0
+400 30750 1d1+35000 10000d5+200 1d1+6900 none
+-150
+0 0 0 H
+stand stand none 3000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22062
+shadow mistress~
+{!S{7h{!a{7d{!o{7w {#M{*i{3s{*t{3r{*e{3s{*s{x~
+{!S{7h{!a{7d{!o{7w {#M{*i{3s{*t{3r{*e{3s{*s{x slowly walks toward you.
+~
+A slim opaque woman stares back at you with what was once a pair of eyes
+she extends her hand toward you, but then as you reach out toward it she
+recoils and extends a pick axe...
+~
+Shadow~
+ABF JTU 0 -1 0
+290 30100 1d1+50000 10000d3+0 1d1+9000 none
+-20
+0 0 LMQ HNRS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#22064
+Mephisto elder~
+Elder Mephisto~
+The elder Mephisto sits in a chair by the fire smoking slowly from his pipe.
+~
+A tall strong warrior stares back at you from behind his pipe, he smiles faintly
+at you, and then turns back to the fire. You can notice a gigantic bow
+hanging on his back. He has many battle scars, and seems withered, but still not an
+opponent to be reckoned with.
+~
+Human~
+AB 0 0 1000 0
+101 30000 1d1+29999 0d0+0 1d1+29000 none
+-100
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 22063 22062~
+#22065
+Horus~
+{2H{&o{7r{#u{2s{x~
+{2H{&o{7r{#u{2s{x stands here protecting his fortune
+~
+~
+Shadow~
+ABF TU 0 0 0
+350 30100 1d1+100000 10000d2+0 1d1+13500 none
+-1000
+0 0 M NS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#22051
+golden breastplate armor tanus~
+{!T{1a{!n{1u{!s' {#go{3ld{#en {&b{7r{&e{7a{&s{7t{&p{7l{&a{*t{8e{x~
+{!T{1a{!n{1u{!s' {#go{3ld{#en {&b{7r{&e{7a{&s{7t{&p{7l{&a{*t{8e{x is lying here~
+Gold~
+armor 0 AD
+666 666 666 666 0
+102 0 66600 P
+A
+20 -500
+A
+20 -500
+A
+13 2000
+A
+12 3000
+#22052
+mat~
+a {#m{3a{#t {xis on the ground here~
+A {#m{3a{#t {xis on the ground here~
+unknown~
+furniture 0 0
+1000000 1000 H 2000 2000
+45 0 0 P
+#22053
+tatoo~
+a {#T{3a{#t{3t{#o{3o {&of {@H{2o{@r{2u{@s{x~
+A {#T{3a{#t{3t{#o{3o {&of {@H{2o{@r{2u{@s{x is stuck to a piece of skin here on the floor...~
+skin~
+jewelry 0 AT
+0 0 0 0 0
+102 0 0 P
+A
+12 5000
+A
+20 -1000
+A
+13 6000
+A
+20 -500
+A
+13 1000
+A
+12 1000
+A
+18 200
+A
+19 200
+#22054
+platinum key~
+{&platinum {8key{x~
+{&platinum {8key {@is lying here{x~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#22055
+gold chunk~
+a {#G{3o{#l{3d {&chunk{x~
+A {#G{3o{#l{3d {&chunk{x is lying here~
+gold~
+trash 0 A
+0 0 0 0 0
+0 0 650000 P
+#22056
+platinum chunk~
+a {^P{6u{^r{6e {&p{7l{&a{7t{&i{7n{&u{7m {#C{3h{#u{3n{#k{x~
+A glimmering {^P{6u{^r{6e {&p{7l{&a{7t{&i{7n{&u{7m {#C{3h{#u{3n{#k{x is here~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1000000 P
+#22057
+chest~
+a chest~
+A chest is bolted to the ground here.~
+wood~
+container 0 0
+2000000000 AC 0 2147483647 2147483647
+0 0 0 P
+#22058
+byzantium~
+{&B{#y{*z{^a{#n{*t{^i{&u{#m{x~
+The very valuable mineral {&B{#y{*z{^a{#n{*t{^i{&u{#m{x lies here.~
+gold~
+trash 0 A
+0 0 0 0 0
+0 0 20000000 P
+#22059
+water table underground~
+an {2Und{@e{2r{&ground {$water {4table{x ~
+An {2Und{@e{2r{&ground {$water {4table {xis here~
+unknown~
+furniture 0 0
+100 800 K 10000 10000
+0 0 0 P
+#22060
+miners diary~
+{!M{&in{7ers {!D{1i{7a{&r{7y{x~
+A {!M{&in{7ers {!D{1i{7a{&r{7y{x lies here~
+unknown~
+map A A
+0 0 0 0 0
+0 0 0 P
+#22061
+key~
+{!The {^key{x~
+{!T{#a{!n{#u{!s' {^key{x lies here~
+gold~
+key 0 A
+0 0 0 0 0
+102 0 9990000 P
+#22062
+obsidian~
+{*O{8b{&s{7i{&d{8i{*a{&n{x~
+A large chunk of {*O{8b{&s{7i{&d{8i{*a{&n{x gleams in the light here.~
+unknown~
+money 0 A
+10 0 0 0 0
+101 0 0 P
+#22063
+Chest~
+a chest~
+A large glowing chest is just sticking above the ground here.~
+unknown~
+container 0 0
+2000000000 ACD 22064 999999999 99999999
+0 0 0 P
+#22064
+Gold Key~
+a {#Golden {&key{x~
+A key that is rumored to unlock the greatest treasure in all of this realm.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#22051
+The Entrance to the Mines~
+You dropped down from a trap door from hephaestus, and you better hope he didnt notice you come
+come in here, or else he will set his wrath upon you. This place seems very alien, but you
+realize now that you are going underneath mt. olympus, to the fabled gold mines of horus.
+Ahead is a large room with flames dancing off of the walls, probably coming from a fire nearby.
+~
+0 16 0
+D0
+~
+~
+0 0 22052
+D4
+~
+~
+1 0 954
+S
+#22052
+Ye Golde Shoppe~
+You enter into a circular room.  The walls are adorned with gold, pretty
+much everything you see is gold.  There is a counter here with a man
+standing behind it, ready to take your gold.  Even the counter and the man
+are made of gold...  Well not the man.  
+~
+0 1040 0
+D0
+~
+~
+0 0 22053
+D2
+~
+~
+0 0 22051
+S
+#22053
+Entrance to the Mines~
+You enter a hallway that is bleak and empty, the only thing in this
+hallway is the generator in the corner and the lights strung up throughout
+the caves, there are two exits, one to the north and one back to taita
+WARNING: North is recommended for GROUPS of HEROS only, the mobs are very
+tough, but i think you will find very rewarding 
+~
+0 65552 0
+D0
+~
+~
+0 0 22054
+D2
+~
+~
+0 0 22052
+S
+#22054
+Top Floor of the Mines~
+You enter into a small room, you have to crouch to walk through this section of the mines
+The sides of the walls sparkle brightly with specs of gold dust it seems to illuminate your way.
+As you walk farther into the mines you seem to sense a foreboding danger to the north,
+but you cant seem to pry yourself from the thought of all the gold awaiting you up ahead.
+~
+0 16 0
+D0
+~
+~
+0 0 22055
+D2
+~
+~
+0 0 22053
+S
+#22055
+Top Floor of the Mines~
+This room continues to the north, where it seems to go on to oblivion the
+farther north you get the bigger the chunks of gold are that stick t0 the
+sides of the walls.  
+~
+0 17 0
+D0
+~
+~
+0 0 22056
+D2
+~
+~
+0 0 22054
+S
+#22056
+Top Floor of the Mines~
+As you walk through these mine shafts the walls start to to get closer
+and closer and closer...  
+~
+0 16 0
+D0
+~
+~
+0 0 22057
+D2
+~
+~
+0 0 22055
+S
+#22057
+Top Stairs of the Mine~
+You are now crawling to get through any farther, the room is pitch black
+and with your light you can see nothing interesting except a small set of
+"stairs" leading downwards to the second level of the mines 
+~
+0 16 0
+D2
+~
+~
+0 0 22056
+D5
+~
+~
+0 0 22058
+S
+#22058
+Entrance to the Second Floor of the Gold Mines~
+You have scaled your way down the so called "stairs" and are at the
+entrance to the second level of the mines This room is much bigger, and you
+are able to stand.  To the east is more gold mines, and to the south there
+is a faint glow of light from far south 
+~
+0 16 0
+D1
+~
+~
+0 0 22062
+D2
+~
+~
+0 0 22059
+D4
+~
+~
+0 0 22057
+S
+#22059
+Southern Track Along the Mines~
+The walls  around you in this hallway have gold chunks the size of your
+head sticking out of the walls Their are some strange creatures scurrying
+along by your feet, and as you pick your head up you see a 2 headed being
+staring back at you, he is almost 3 times your size and has to crouch to
+stand up he is wearing a large backpackwhich is most certainly filled with gold 
+~
+0 16 0
+D0
+~
+~
+0 0 22058
+D2
+~
+~
+0 0 22060
+S
+#22060
+End of Southern Track~
+You have come to an end of the track.  The cave abruptly stops, and to
+the south is a metal wall, whith a wooden door in front of it.  A huge
+monster much like the one you just fought is guarding the doorway...  He
+looks a little bigger though...  
+~
+0 16 0
+D0
+~
+~
+0 0 22059
+D2
+~
+~
+1 22054 22061
+S
+#22061
+Second Floor Chest Room~
+This room was extravangantly carved out of the mountain, as you take a
+closer look you realize that the walls have been carved out of PLATINUM.  In
+the middle of the room sits a large wooden chest. 
+~
+0 16 0
+D0
+~
+~
+1 22054 22060
+S
+#22062
+Eastern Track of the Second Floor~
+The room around you is a hallway that leads east, the room is very damp. 
+The floors are very muddy, the ceiling is dripping like mad in this room... 
+Better move on.  
+~
+0 16 0
+D1
+~
+~
+0 0 22063
+D3
+~
+~
+0 0 22058
+D4
+~
+~
+1 0 22064
+S
+#22063
+Eastern Track of the Second Floor~
+Walking along the eastern shaft of the mines for hours now, and you
+wonder if theirs anything left in these mines when you see a faint shimmer
+you look around and a monster seeps out of the shadows...  The tortured soul
+of a miner, why would that be here...  Suddenly you are overcome by a great
+feeling of fear.  
+~
+0 16 0
+D1
+~
+~
+0 0 22065
+D3
+~
+~
+0 0 22062
+S
+#22064
+Healing Pool of the Mines~
+All around you you see water, the water continues to the north and south
+for leagues upon leagues the cool air and the water look very refreshing and
+this seems to be a great place to take a rest.  
+~
+0 16 0
+D4
+~
+~
+1 22061 22066
+D5
+~
+~
+1 0 22062
+S
+#22065
+End of the Eastern Track~
+You've come to an abrupt halt.  The tunnel stops here.  The wall to the
+east looks like it was cut by skilled hands, for it is completly flat with
+no edges showing To the South and North are walls, filled with rich rich
+gold...  
+~
+0 16 0
+D3
+~
+~
+0 0 22063
+D5
+~
+~
+1 0 22067
+S
+#22066
+The Resting Area of Tanus~
+You have entered the owner and creator of the gold mines.  This is his
+personal sleeping quarters, so you better have a good reason to be here. 
+There is his meditation mat in the corner of the room next to many
+construction blueprints which are strewn all about 
+~
+0 8208 0
+D5
+~
+~
+1 22061 22064
+O tanus~
+S
+#22067
+Between the Second and Third Floor~
+You have just scaled down a small crevice from the room above you and
+their is a pugnant stench coming from the south, no, down and to the
+south...  I think, it is so strong you almost throw-up all over the damp
+floor.  "Luckily" a creature catches your attention...  
+~
+0 16 0
+D4
+~
+~
+1 0 22065
+D5
+~
+~
+0 0 22068
+S
+#22068
+The Third Level of the Mines~
+You defeated that monster somehow and got here...  The walls all around
+you are more mine shafts: pale, dark, damp, and hot.  The stench is even
+greater from the south.  To the east is the rest of the mines, to the south
+is the "living" quarters of the miners...  
+~
+0 16 0
+D1
+~
+~
+0 0 22072
+D2
+~
+~
+0 0 22069
+D4
+~
+~
+0 0 22067
+S
+#22069
+The Third Level of the Mines~
+This room is very dark, damp, and the smell is getting unbearable, you do
+not know if you can go on for much longer.  There is something strange about
+this room, you feel a very angry presence which seems to get stronger with
+the smell...  Their is a door to the south.  
+~
+0 16 0
+D0
+~
+~
+0 0 22068
+D2
+~
+~
+1 0 22070
+S
+#22070
+Living Quarters of the Miners~
+The stench is so powerful, you can finally tell what that stench is... 
+Its the stench of rotting flesh.  The bunks are filled with dead, burned
+bodys.  Theyre are roaches, fleas, flys, strange beetles eating the flesh of
+the bodies, they have been sitting here for many years, but for somereason
+the flesh and stench is still here.  You can hear the scuttle of the bugs,
+and something else, coming from the southern half of the living quarters, it
+sounds like nothing youve ever heard before.  
+~
+0 16 0
+D0
+~
+~
+1 0 22069
+D2
+~
+~
+0 0 22071
+S
+#22071
+Southern Living Quarters~
+The bodys are strewn about the room, the stench is overpowering, you turn
+your head and throw up all over the corner of the room.  You seem to have
+disturbed one hell of a large shadow, I would run if I were you.  
+~
+0 16 0
+D0
+~
+~
+0 0 22070
+S
+#22072
+Third Floor of the Mines~
+The stench has left, and now you stand in a darkened hallway, this room
+seems like it has been exiled from any life for centuries.  The walls are
+crumbling, and the wooden supports are falling apart as you touch them... 
+This is a very sad excuse for a room.  
+~
+0 16 0
+D1
+~
+~
+0 0 22073
+D3
+~
+~
+0 0 22068
+S
+#22073
+Third Floor of the Mines~
+This room, is completly different from the last room it has been
+refurnished, and repaired.  It looks like someone has been here not too long
+ago...  
+~
+0 16 0
+D1
+~
+~
+0 0 22074
+D3
+~
+~
+0 0 22072
+S
+#22074
+Atop the Stairs of the Fourth Level~
+Whew, you've made it this far, now heres your next challenge...  This
+room is adorned with gold, silver, platinum and a strange exotic metal of
+which you have no clue as to what it is.  The room is large, and theyre are
+some steps down to level four, but for now you should worry about the guard
+who seems to be towering over you here.  
+~
+0 16 0
+D3
+~
+~
+0 0 22073
+D5
+~
+~
+0 0 22075
+S
+#22075
+Fourth Floor of the Mines~
+The stairs you just ascended seemed like they would nigh end.  The room
+you are standing in is very large, and well decorated, someone has definitly
+been here not long ago, you must be eons below the surface of the earth.  As
+your moral starts to dip thinking you'll never leave this place you stick
+your hand in your pocket and the chunk of obsidian is still gleaming their,
+and you hear a voice: "First to enter upon THINE layer bring me thine prize
+and I shall reward thee accordingly."  Your moral takes a boost...  
+~
+0 16 0
+D2
+~
+~
+0 0 22076
+D4
+~
+~
+0 0 22074
+S
+#22076
+Fourth Floor of the Mines~
+The room around you is very bland, tis in oval shape, wet, and damp. 
+Pretty much like the rest of these damned caves...  
+~
+0 16 0
+E
+wall~
+You see a name etched into the wall: Clo but you cant make out the last
+letters.  
+~
+D0
+~
+~
+0 0 22075
+D2
+~
+~
+0 0 22077
+S
+#22077
+Fourth Floor of the Mines~
+The room you stand in is a portrait of beauty, the walls around you
+seemed to have just slipped into an unreal fantasy of gold, silver,
+obsidian, and many more beautiful precious gems.  The most beatiful woman
+you've ever seen is sitting in a very decorative couch, she looks at you and
+gets up and as her arm extends to throw a punch it dissappears into a mist
+of musty smelling air.  From the thin of air walks a mistress of shadow,
+better hide...  
+~
+0 16 0
+D0
+~
+~
+0 0 22076
+D3
+~
+~
+0 0 22078
+S
+#22078
+End of the Shaft~
+This is the end of the mine tunnels.  The ground is littered with rotting
+corpses of the dead dwarven miners...  There must be at least 15 corpses
+here.  The tunnel is abruptly cut off looking as though the miners were
+killed while they were working on it.  Bags half full, and empty litter the
+ground, obscuring the ground completly. From the end of the mine shaft a large  
+hawk flies out and turns from shadow to living God.
+~
+0 16 0
+D1
+~
+~
+0 0 22077
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 22051 4 1
+D 0 22060 2 2
+D 0 22061 0 2
+D 0 22062 4 1
+D 0 22064 4 2
+D 0 22064 5 1
+D 0 22065 5 1
+D 0 22066 5 2
+D 0 22067 4 1
+D 0 22069 2 1
+D 0 22070 0 1
+M 0 22055 1 22052 1
+G 0 22058 0
+G 0 22056 0
+G 0 22055 0
+M 0 22064 1 22052 1
+E 0 22050 0 16
+G 0 22064 0
+M 0 22051 2 22055 1
+G 0 22055 0
+M 0 22051 2 22056 1
+G 0 22055 0
+M 0 22052 1 22057 1
+G 0 22055 0
+G 0 22055 0
+M 0 22053 2 22059 1
+G 0 22055 0
+M 0 22054 1 22060 1
+G 0 22054 0
+O 0 22057 0 22061
+P 0 22056 2 22057 2
+P 0 22056 2 22057 2
+M 0 22051 4 22062 1
+G 0 22055 0
+M 0 22056 3 22063 1
+G 0 22055 0
+G 0 22055 0
+O 0 22059 0 22064
+M 0 22056 3 22065 1
+G 0 22055 0
+G 0 22055 0
+O 0 22052 0 22066
+M 0 22057 1 22067 1
+G 0 22056 0
+M 0 22058 4 22069 1
+G 0 22055 0
+G 0 22055 0
+M 0 22059 1 22071 1
+G 0 22056 0
+M 0 22058 4 22072 1
+M 0 22058 4 22073 1
+M 0 22060 1 22074 1
+G 0 22062 0
+M 0 22062 2 22076 2
+G 0 22056 0
+G 0 22056 0
+M 0 22062 2 22077 2
+G 0 22056 0
+G 0 22056 0
+O 0 22063 0 22078
+P 0 22058 1 22063 1
+M 0 22065 1 22078 1
+S
+
+
+
+#SHOPS
+22055 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#22063
+say Thank $n, I have been searching for this.
+say In return I will give you this golden key, which unlocks what maybe the greatest treasure in this realm.
+load obj 22064
+give key $n
+mob purge obsidian
+~
+#0
+
+#$

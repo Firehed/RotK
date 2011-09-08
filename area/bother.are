@@ -1,0 +1,322 @@
+#AREADATA
+Name Brotherhood~
+Builders Wardrof~
+VNUMs 16200 16219
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#16200
+Tian~
+Tian~
+Tian is here, ready to take your money.
+~
+~
+human~
+AB 0 0 0 0
+105 0 50d50+16505 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16201
+Mordeth~
+Mordeth~
+Mordeth Stands here.
+~
+~
+human~
+ABJKb 0 0 0 0
+0 0 1000d1000+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16202
+demon~
+Demon~
+The Demon is here, ready to be attacked.
+~
+~
+human~
+AB 0 0 0 1
+100 0 100d100+100 100d100+100 1d1+1 none
+-10 -10 -10 -10
+EFK ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16200
+sword~
+{1A {7S{&h{7i{&m{7e{&r{7in{&g {1Sword of the Bro{8th{7er{8ho{1od{@~
+A sword of the Brotherhood lies here.~
+silver~
+weapon A AN
+sword 10 15 none BDE
+50 7 5000 P
+#16201
+necklace~
+{@The {#Golden Necklace{@ of the {1Bro{8th{7er{8ho{1od{@~
+A necklace inscribed with "Brotherhood" lies here.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+35 5 7500 P
+A
+17 -15
+A
+18 10
+A
+13 75
+A
+19 10
+#16202
+speed potion~
+{#Speed Potion{@~
+A {#Speed Potion {@is here.~
+glass~
+potion 0 A
+150 'shield' 'armor' 'haste' 'giant strength'
+35 5 1500 P
+#16203
+pool~
+{4P{$o{4o{$l {@of the {1Bro{8th{7er{8ho{1od{@~
+{4P{$o{4o{$l {@of the {1Bro{8th{7er{8ho{1od{@ is here~
+unknown~
+furniture 0 0
+50 50000 CFIL 80000 80000
+1 0 0 P
+#16204
+spring~
+a Spring~
+A {#M{$a{%g{^i{#c{!a{^l {@spring.~
+marble~
+fountain 0 0
+-1 -1 'water' 0 0
+1 0 0 P
+#16205
+potion spellup~
+{1Bro{8th{7er{8ho{1od {@Spellup Potion~
+{1Bro{8th{7er{8ho{1od {@Spellup Potion is here~
+glass~
+potion 0 A
+150 'sanctuary' 'shockshield' 'fireshield' 'iceshield'
+35 1 2500 P
+#16206
+healing potion~
+{1Bro{8th{7er{8ho{1od {@healing potions~
+A healing potion lies here~
+unknown~
+potion 0 A
+1 'heal' 'heal' 'mass healing' 'refresh'
+35 1 3500 P
+#16207
+potion health~
+{6Potion of Good Health{@~
+A Potion of Good Health lies here~
+glass~
+potion A 0
+150 'cure disease' 'cure poison' 'cure blindness' 'reserved'
+35 1 3500 P
+#0
+
+
+
+#ROOMS
+#16200
+Sanctuary of the Brotherhood~
+You have entered The Brotherhood's clan hall.  You may want to look
+around.  The Brotherhood is a chaotic neutral clan.  This meens we will kill
+anybody without [ The Brotherhood ] before their name.  But you must
+remember, we are neutral.  We do not favor either good or evil.  If I,
+Wardrof or my second in command catch you helping either good or evil, you
+will know what it meens to be a TWIT!  
+~
+0 4 0
+D2
+~
+~
+0 0 16201
+D5
+~
+~
+0 0 3014
+C brotherhood~
+S
+#16201
+The Southern Hallway~
+You stand in the southern hallway.  Down there is Midgaard.  To the west
+is a shope where you can buy many great items.  To the east there is a
+trainer, that will help you train your skills.  
+~
+0 0 0
+D0
+~
+~
+0 0 16200
+D1
+~
+~
+0 0 16203
+D2
+~
+~
+0 0 16209
+D3
+~
+~
+0 0 16202
+D4
+~
+~
+0 0 16204
+D5
+~
+~
+0 0 16208
+S
+#16202
+The Shoppe~
+You stand in the shoppe of The Brotherhood.  There are swords and potions
+that great heros need to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 16201
+S
+#16203
+Training Room~
+You are in the Training room of the brotherhood.  You can TRAIN PRAC or
+GAIN here.  Please use all three commands for they are very useful!  
+~
+0 0 0
+D3
+~
+~
+0 0 16201
+S
+#16204
+Hall of the Brothers~
+This is the hall for the regulars of the brotherhood, the brothers. 
+There is nothing fancy here.  
+~
+0 0 0
+D4
+~
+~
+0 0 16205
+D5
+~
+~
+0 0 16201
+S
+#16205
+Hall of SETH~
+This is the hall of the SETH.  He is my 3rd in command.  He takes orders
+from me and my KANE 
+~
+0 0 0
+D4
+~
+~
+0 0 16206
+D5
+~
+~
+0 0 16204
+S
+#16206
+Hall of my KANE~
+The KANE is my second in command.  He listens to me and gives orders to
+everybody else.  
+~
+0 0 0
+D4
+~
+~
+0 0 16207
+D5
+~
+~
+0 0 16205
+S
+#16207
+God's hall~
+You are on holy ground.  Your god, wardrof, lives here.  You will listen
+to him nomatter who you are, even if you are not in my clan you will listen
+to me!  
+~
+0 0 0
+D5
+~
+~
+0 0 16206
+S
+#16208
+Room of Many Portals~
+~
+0 4 0
+D0
+~
+~
+0 0 11707
+S
+#16209
+Test Dummies~
+Type "K Demon" to attack the dummies.  
+~
+0 0 0
+D0
+~
+~
+0 0 16201
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 16203 0 16200
+O 0 16204 0 16200
+M 0 16200 1 16202 1
+G 0 16200 0
+G 0 16201 0
+G 0 16205 0
+G 0 16202 0
+G 0 16206 0
+M 0 16201 1 16203 1
+M 0 16202 4 16209 1
+S
+
+
+
+#SHOPS
+16200 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,529 @@
+#AREADATA
+Name Wanderers Clanhall~
+Builders Baal~
+VNUMs 18051 18070
+Credits [ CLAN] Baal    Dark Wanderers~
+Security 1
+End
+
+
+
+#MOBILES
+#18052
+The Dark Wanderer's healer~
+the healer of the Dark Wanderer's ~
+The healer of The Dark Wanderer's
+~
+Before you is a tall kind hearted looking woman
+~
+Human~
+ABa 0 0 0 0
+200 0 30d20+50 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18054
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18055
+Soul~
+a captured soul is here~
+A captured soul is here in tattered cloths that dont seem to cover much
+~
+You see a poor soul, captured, barely clothed in tattered rags, leaving much of her body bare
+~
+Human~
+AI 0 0 0 0
+1 10 1d2+6 0d0+0 1d2+0 none
+0
+0 I X X
+stand stand female 5
+AHMV ABCDEFGHIJK medium unknown
+#18060
+Shopkeeper~
+The Shopkeeper for the {8Wanderer's{0.~
+The Shopkeeper for the {8Wanderer's{0.
+~
+~
+Human~
+AB 0 0 0 0
+0 0 10d10+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18063
+shopkeeper~
+The shopkeeper of the {*Wanderer's{0~
+The shopkeeper of the {*Wanderer's{0
+~
+This Dark shopkeeper is here ready to sell items to aid in the conquest of this realm.{0
+~
+Human~
+AB DFL 0 0 0
+101 0 10d10+10 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18066
+Trainer~
+The Trainer of The Wanderer's~
+The Trainer of The Wanderer's
+~
+Before you is a powerful looking woman ready to help you hone your skills
+~
+Human~
+ABJKb 0 0 0 0
+25 0 10d10+10 0d0+0 0d0+0 none
+0
+0 A 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#18051
+pk healing spellup co potion~
+{!P{*K{0 Potion~
+{!P{*K{0~
+unknown~
+potion 0 A
+150 'golem' 'golem' 'golem' 'golem'
+1 0 1000 P
+#18052
+pool~
+healing pool~
+Healing pool~
+shiny~
+furniture 0 0
+1000 1000 FIL 20000 20000
+47 17 0 P
+#18053
+fountain~
+the fountain of the Dark Wanderers~
+The fountain of the Dark Wanderers is gushing here.~
+unknown~
+fountain 0 0
+-1 -1 'coke' 0 0
+0 0 0 P
+#18054
+earring~
+{8Dark {!E{8a{!r{8r{!i{8n{!g {0~
+The {8Dark {!E{8a{!r{8r{!i{8n{!g {0~
+unknown~
+armor 0 AS
+0 0 0 0 0
+50 0 2000 P
+A
+5 2
+A
+3 2
+A
+19 10
+A
+18 10
+#18055
+ring~
+a {8Dark Smokey Ring  {0~
+A {8Dark Smokey Ring {0 with a trapped soul pulsing from within~
+unknown~
+armor 0 AB
+0 0 0 0 0
+50 0 2000 P
+A
+4 2
+A
+1 2
+A
+19 10
+A
+18 10
+#18056
+arr~
+the Grand Throne of Baal~
+The Throne of the {!D{8a{!r{8k {!W{8a{!n{8d{!e{8r{!e{8r{0 himself sits here in a dim {!red{0 light~
+unknown~
+furniture 0 0
+2 10000 E 10000 10000
+106 0 0 P
+#18057
+bracer~
+bracer of the {8Dark {0~
+Due to cutbacks this is simply the Bracer of the {*Dark{0~
+unknown~
+armor 0 AM
+10 10 10 10 0
+50 0 2000 P
+A
+19 10
+A
+18 10
+A
+2 2
+A
+1 2
+#18058
+shimmering~
+a {!S{@h{#i{$m{%m{^e{&r{!i{@n{#g {0amulet of the {8Dark {0~
+A {!S{@h{#i{$m{%m{^e{&r{!i{@n{#g {0amulet of the {8Dark {0 pulses from the constant banging of a Trapped soul~
+unknown~
+armor 0 AC
+0 0 0 0 0
+50 0 2000 P
+A
+3 2
+A
+1 2
+A
+4 2
+A
+19 10
+A
+18 10
+#18059
+amulet~
+the Tainted Amulet of {8Darkness {0~
+The Tainted Amulet of {8Darkness {0~
+unknown~
+armor 0 AC
+0 0 0 0 0
+101 0 3000 P
+A
+18 20
+A
+19 20
+A
+5 2
+A
+3 2
+A
+4 1
+A
+13 100
+A
+12 50
+#18060
+blade~
+small Silver Blade~
+Small Silver Blade~
+unknown~
+weapon 0 AN
+dagger 10 15 wrath ABCDEGH
+50 0 3000 P
+A
+1 3
+A
+13 100
+A
+18 25
+A
+19 25
+#18061
+mark~
+the {8Dark{0 Recall potion~
+The {8Dark{0 Recall potion~
+unknown~
+potion 0 A
+101 'word of recall' 'reserved' 'reserved' 'reserved'
+1 0 1000 P
+#18062
+thrones~
+throne of the Enchantress~
+Throne of the Enchantress~
+unknown~
+furniture 0 0
+1 1000000 E 2147483647 2147483647
+0 0 0 P
+#18063
+heal~
+the {8Dark {0potion of heal~
+The {8Dark {0potion of heal~
+unknown~
+potion 0 A
+100 'heal' 'heal' 'heal' 'heal'
+25 0 2000 P
+#18064
+shielding~
+a {8Wanderer{0's {1Shielding{0 potion~
+The {1Shielding {0potion of the {8Wanderer's{0.~
+unknown~
+potion 0 A
+100 'sanctuary' 'shield' 'armor' 'giant strength'
+25 0 2500 P
+#18065
+boots~
+the {8Hovering Boots of Death  {0~
+The {8Hovering Boots of Death  {0~
+unknown~
+armor 0 AG
+75 75 75 75 0
+101 0 3000 P
+A
+18 20
+A
+19 10
+A
+1 3
+#18066
+mask~
+{8Dark {0Mask of Death~
+{8Dark {0Mask of Death~
+unknown~
+armor 0 AR
+40 40 40 40 0
+101 0 0 P
+A
+13 250
+A
+19 20
+A
+18 20
+#18067
+tattoo~
+the {8Tattoo{0 of the {!D{8a{!r{8k {!W{8a{!n{8d{!e{8r{!e{8r{!s{0~
+The {8Tattoo{0 of the {!D{8a{!r{8k {!W{8a{!n{8d{!e{8r{!e{8r{!s{0~
+unknown~
+armor BJ AT
+40 40 40 40 0
+101 0 0 P
+A
+4 2
+A
+19 20
+A
+18 20
+A
+5 3
+A
+3 3
+A
+12 50
+A
+13 200
+#18068
+mask~
+{3Glowing {!Red{0 eyes from the {8Darkness{0~
+{3Glowing {!Red{0 eyes from the {8Darkness{0~
+unknown~
+armor J AR
+50 50 50 50 0
+101 0 0 P
+A
+1 4
+A
+18 20
+A
+19 20
+A
+13 250
+A
+12 50
+#18069
+mark wanderer~
+the mark of the {!W{*a{!n{*d{!e{*r{!e{*r{0~
+The mark of the {!W{*a{!n{*d{!e{*r{!e{*r{0 lies here~
+unknown~
+armor 0 AT
+0 0 0 0 0
+10 0 0 P
+A
+18 25
+A
+19 25
+A
+13 250
+#0
+
+
+
+#ROOMS
+#18051
+The Gathering Place of the Wanderers~
+This is where the Wanderers like to meet to talk about successful PKs,
+how they tricked someone, or better yet played a practical joke on some poor
+un-suspecting fool.  
+~
+0 0 0
+D0
+The Healing Chamber
+~
+~
+0 0 18052
+S
+#18052
+The Healing Chamber of the Dark Wanderers~
+This is where Wanderers come to regain the few hp they lost in their last
+battle.  Most fall to the Wanderers rather quickly, so this room is often
+unused.  
+~
+0 1024 0
+D0
+~
+~
+0 0 18056
+D2
+The Pit of the Wanderers
+~
+~
+0 0 18051
+D3
+~
+~
+0 0 18054
+D4
+~
+~
+1 22154 18053
+D5
+~
+~
+0 0 18055
+S
+#18053
+Baal's Throne Room~
+The first thing you notice as you walk in is how very quiet and {*Dark{0
+this room is.  You also notice the over apparent smell of rotten flesh and
+blood.  You get a sense that this room emits a lust for death and pk, you
+wonder who would want to be in this room, and then a dim {!  Red{0 light
+goes on.  You simply see the profile of two large chairs, as you get closer
+to one of them the whole ground seems to move.  
+~
+0 0 0
+D4
+~
+~
+1 22154 22154
+D5
+~
+~
+1 22169 18052
+S
+#18054
+Shop~
+This is where the Wanderers come to buy the weapons and armor they need to help quench they're lust for PK's and supreme dominance over this realm.
+This store can get you set for a PK very quickly, be it killing someone dead on, or  tricking them with a PK potion, you'll have your kill.
+~
+0 4 0
+D1
+~
+~
+0 0 18052
+S
+#18055
+Training Chamber~
+This is where the {*Wanderers{0 come to hone their skills, to further the
+development of themselves and the clan as a whole, but mainly to gain more
+skills to make PK'ing faster.  
+~
+0 0 0
+D1
+~
+~
+1 22159 70
+D4
+~
+~
+0 0 18052
+S
+#18056
+The Chamber of many Paths~
+The chamber of many paths 
+~
+0 0 0
+D0
+~
+~
+0 0 11703
+D1
+~
+~
+0 0 2201
+D2
+~
+~
+0 0 18052
+D4
+~
+~
+0 0 11702
+D5
+~
+~
+0 0 3014
+S
+#18068
+baals room~
+Baal's hang out, this is where he hides from his clannies, and spends time having fun
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18053 4 2
+D 0 18055 1 2
+O 0 18053 0 18051
+M 0 18052 1 18052 1
+O 0 18052 0 18052
+O 0 18056 0 18053
+O 0 18062 0 18053
+M 0 18063 1 18054 1
+G 0 18060 0
+G 0 18064 0
+G 0 18054 0
+G 0 18055 0
+G 0 18057 0
+G 0 18058 0
+G 0 18059 0
+G 0 18065 0
+G 0 18063 0
+G 0 18051 0
+M 0 18066 1 18055 1
+S
+
+
+
+#SHOPS
+18060 0 0 0 0 0 100 100 0 23
+18063 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#18063
+~
+#0
+
+#$

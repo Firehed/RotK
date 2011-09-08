@@ -1,0 +1,994 @@
+#AREADATA
+Name Alien Fields~
+Builders Firehed~
+VNUMs 16500 16599
+Credits [30 99] Firehed Alien Fields~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#16500
+rusty key~
+a rusty key~
+A rusty old key lies on the ground.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 1 100 P
+#16501
+shiny platinum key~
+a shiny platinum key~
+A shiny platinum key is lying on the ground.~
+platinum~
+key S A
+0 0 0 0 0
+101 0 10000 P
+#16599
+shrimp ramen noodles~
+{%S{5h{%r{5i{%m{5p {%R{5a{%m{5e{%n {%N{5o{%o{5d{%l{5e{%s{0~
+A packet of Shrimp Ramen is here :)~
+ramen~
+pill 0 A
+110 'heal' 'heal' 'restore mana' 'refresh'
+101 0 1 P
+#0
+
+
+
+#ROOMS
+#16500
+Entrance to the Alien Fields~
+You see a line of corn pushed down going north, until way in the
+distance, there seems to be some sort of circle.  
+~
+0 0 0
+D0
+~
+~
+0 0 16501
+S
+#16501
+A corn-lined path~
+You are in a path, surrounded on either sides by tons and tons of corn. 
+You are pretty sure that the corn path branches in two directions up ahead,
+but you are not entirely sure.  
+~
+0 0 0
+D0
+~
+~
+0 0 16502
+D2
+~
+~
+0 0 16500
+S
+#16502
+A -| in the corn~
+The path continues north, but to the west, you can see what appear to be
+the beginnings of some sort of city.  You can hear a faint whirring from up
+ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 16503
+D2
+~
+~
+0 0 16501
+S
+#16503
+Getting close to the end of the path~
+You are now sure that the path splits up ahead, and you wonder if the
+whirring that you hear may be some form of communication.  You have the most
+bizarre feeling that you are in some sort of crop circle!  
+~
+0 0 0
+D0
+~
+~
+0 0 16504
+D2
+~
+~
+0 0 16502
+S
+#16504
+Before the Split~
+The whirring is getting louder, and now you are hearing some zapping
+sounds, which you think may be some sort of ray-gun!  You are starting to
+get the feeling that you don't want to be here anymore.  
+~
+0 0 0
+D0
+~
+~
+0 0 16505
+D2
+~
+~
+0 0 16503
+S
+#16505
+A 3-way junction in the path~
+The corn is solid in front of you, and to the East and West, you are
+hearing louder and louder whirring, and it looks like you see some sort of
+group of creatures to the sides as well.  
+~
+0 0 0
+D1
+~
+~
+0 0 16506
+D2
+~
+~
+0 0 16504
+D3
+~
+~
+0 0 16532
+S
+#16506
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16507
+D3
+~
+~
+0 0 16505
+S
+#16507
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16508
+D3
+~
+~
+0 0 16506
+S
+#16508
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16509
+D2
+~
+~
+0 0 16507
+S
+#16509
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16510
+D3
+~
+~
+0 0 16508
+S
+#16510
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16511
+D2
+~
+~
+0 0 16509
+S
+#16511
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16512
+D3
+~
+~
+0 0 16510
+S
+#16512
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16513
+D2
+~
+~
+0 0 16511
+S
+#16513
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16512
+D3
+~
+~
+0 0 16514
+S
+#16514
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16515
+D1
+~
+~
+0 0 16513
+S
+#16515
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16514
+D3
+~
+~
+0 0 16516
+S
+#16516
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16517
+D1
+~
+~
+0 0 16515
+S
+#16517
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16516
+D3
+~
+~
+0 0 16518
+S
+#16518
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16517
+D3
+~
+~
+0 0 16519
+S
+#16519
+Above a hole in the ground~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere! 
+There is also a large trapdoor in the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 16518
+D3
+~
+~
+0 0 16520
+D5
+~
+~
+4 16500 16533
+S
+#16520
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16519
+D3
+~
+~
+0 0 16521
+S
+#16521
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16520
+D2
+~
+~
+0 0 16522
+S
+#16522
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16521
+D3
+~
+~
+0 0 16523
+S
+#16523
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16522
+D2
+~
+~
+0 0 16524
+S
+#16524
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16523
+D3
+~
+~
+0 0 16525
+S
+#16525
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16524
+D2
+~
+~
+0 0 16526
+S
+#16526
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16525
+D2
+~
+~
+0 0 16527
+S
+#16527
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16526
+D1
+~
+~
+0 0 16528
+S
+#16528
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16529
+D3
+~
+~
+0 0 16527
+S
+#16529
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16528
+D1
+~
+~
+0 0 16530
+S
+#16530
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16531
+D3
+~
+~
+0 0 16529
+S
+#16531
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16530
+D1
+~
+~
+0 0 16532
+S
+#16532
+A parting in the corn~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16505
+D3
+~
+~
+0 0 16531
+S
+#16533
+In an underground path~
+You are clearly in an underground tunnel.  Light trickles in from above,
+but danger probably lies South.  The brave should venture onwards South, but
+if you are hurting, you should retreat back Up or stay where you are.  
+~
+0 4 0
+D2
+~
+~
+0 0 16534
+D4
+~
+~
+4 0 16519
+S
+#16534
+In an underground path~
+You are clearly in an underground tunnel.  Light trickles in from either
+side, but danger probably lies South.  The brave should venture onwards
+South, but if you are hurting, you should retreat back North or stay where
+you are.  
+~
+0 4 0
+D0
+~
+~
+0 0 16533
+D1
+~
+~
+0 0 16556
+D2
+~
+~
+0 0 16535
+S
+#16535
+In an underground path~
+You are clearly in an underground tunnel.  Light floods in from above,
+where danger probably lies.  The brave should venture onwards Up, but if you
+are hurting, you should retreat back North or stay where you are.  
+~
+0 4 0
+D0
+~
+~
+0 0 16534
+D4
+~
+~
+0 0 16536
+S
+#16536
+Above a hole in the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere! 
+You are standing above the exit of the tunnel to the inner circle.  
+~
+0 0 0
+D1
+~
+~
+0 0 16537
+D3
+~
+~
+0 0 16549
+D5
+~
+~
+0 0 16535
+S
+#16537
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16538
+D3
+~
+~
+0 0 16536
+S
+#16538
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16537
+D1
+~
+~
+0 0 16539
+S
+#16539
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16540
+D3
+~
+~
+0 0 16538
+S
+#16540
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16539
+D3
+~
+~
+0 0 16541
+S
+#16541
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16540
+D2
+~
+~
+0 0 16542
+S
+#16542
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16541
+D3
+~
+~
+0 0 16543
+S
+#16543
+Above a trapdoor in the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere! 
+You are standing above another trapdoor.  You feel that it is very close to
+the center of this circluar pattern in the cornfield.  
+~
+0 0 0
+D1
+~
+~
+0 0 16542
+D3
+~
+~
+0 0 16544
+D5
+~
+trapdoor~
+4 16501 16550
+S
+#16544
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16545
+D1
+~
+~
+0 0 16543
+S
+#16545
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D2
+~
+~
+0 0 16544
+D3
+~
+~
+0 0 16546
+S
+#16546
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16547
+D1
+~
+~
+0 0 16545
+S
+#16547
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16548
+D2
+~
+~
+0 0 16546
+S
+#16548
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D0
+~
+~
+0 0 16549
+D3
+~
+~
+0 0 16547
+S
+#16549
+In the inner circle~
+You are in a large field of corn.  It seems to have some sort of circular
+shape to it, although it is hard to tell for sure.  There doesn't seem to be
+anything particularly special, other than the ALIENS walking everywhere!  
+~
+0 0 0
+D1
+~
+~
+0 0 16536
+D2
+~
+~
+0 0 16548
+S
+#16550
+In an underground path~
+You are clearly in an underground tunnel.  Light floods in from above,
+where safety was.  The brave should venture onwards North, but if you are
+hurting, you should retreat back Up or stay where you are.  
+~
+0 0 0
+D0
+~
+~
+0 0 16551
+D4
+~
+~
+4 0 16543
+S
+#16551
+In an underground path~
+You are clearly in an underground tunnel.  A bit of light seems to come
+into the room from both the North and the South, although barely enough to
+give you an idea of where you are heading.  The brave should go North, and
+safety is back to the South.  
+~
+0 4 0
+D0
+~
+~
+0 0 16552
+D2
+~
+~
+0 0 16550
+S
+#16552
+In an underground path~
+You are clearly in an underground tunnel.  Light floods in from above,
+where the danger is.  The brave should venture onwards up, but if you are
+hurting, you should retreat South.  
+~
+0 4 0
+D2
+~
+~
+0 0 16551
+D4
+~
+~
+0 0 16553
+S
+#16553
+Above the entrance to the center of the circle~
+You have finally innermost ring of this circluar creation.  Below you is
+the tunnel that led you here, that can always lead you back to safety.  The
+corn is only cleared in one direction: North.  
+~
+0 0 0
+D0
+~
+~
+0 0 16554
+D5
+~
+~
+0 0 16552
+S
+#16554
+Near the center of the circle~
+You have finally innermost ring of this circluar creation.  However, it
+sounds like you are not the first to arrive there.  The largest alien looks
+like it is standing nearby.  
+~
+0 0 0
+D1
+~
+~
+0 0 16555
+D2
+~
+~
+0 0 16553
+S
+#16555
+The center of the circle~
+You have finally reached the center of this circluar creation.  However,
+you are not the first to arrive there.  The largest alien of them all is
+standing here.  
+~
+0 0 0
+D3
+~
+~
+0 0 16554
+S
+#16556
+~
+~
+0 0 0
+D3
+~
+~
+0 0 16534
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 16519 5 2
+D 0 16533 4 2
+D 0 16543 5 2
+D 0 16550 4 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

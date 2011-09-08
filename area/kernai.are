@@ -1,0 +1,2202 @@
+#AREADATA
+Name Kernai Island~
+Builders Grimace~
+VNUMs 9000 9099
+Credits [ 75+ ] Grimace Kernai Island~
+Security 9
+End
+
+
+
+#MOBILES
+#9000
+tridrone~
+the tridrone~
+A tridrone is here doing a menial task.
+~
+You see what appears to be a 3 sided pyramid with spidery arms and legs.
+~
+modron~
+ACG J 0 300 0
+16 0 3d20+80 1d1+99 2d5+3 pound
+4
+NQR BMNPQ HIK 0
+stand stand none 0
+H ABCGHIJK medium 0
+#9001
+quadrone~
+the quadrone~
+A quadrone is here watching for trespassers.
+~
+A cubic creature, with spiny arms and legs.
+~
+modron~
+AFGT DJ 0 300 0
+21 3 14d10+70 1d1+99 3d4+2 beating
+1
+CEKQR BMNPQ HIK 0
+stand stand none 0
+H ABCGHIJK medium 0
+#9002
+pentadrone~
+the pentadrone~
+The pentadrone is here policing the area.
+~
+A five-armed creature which resembles a starfish on thin stilt-like legs.
+~
+modron~
+ABFGT DJ 0 300 0
+27 3 15d12+110 1d1+99 4d4+3 slap
+-1
+CEFLNQR BMNPQR HIK 0
+stand stand none 0
+H ABCGHJKN medium 0
+#9003
+decaton~
+the decaton~
+A decaton is here overseeing the other modrons.
+~
+The decaton is a large, ten-tentacled sphere on stumpy legs.
+~
+modron~
+ABFGQT DJ 0 300 0
+34 4 25d10+70 17d8+50 4d5+3 pound
+-2
+ACEKNQR BMNPQR HIK 0
+stand stand none 0
+HM ABCGHJKN medium 0
+#9004
+nonaton~
+the nonaton~
+A nonaton is here preserving law and order.
+~
+A cylidrical modron with 9 tentacles and stubby legs.
+~
+modron~
+ABFGQT DJ H 300 0
+40 5 11d8+250 20d8+75 4d6+4 pound
+-3
+AEFNQR BMNPQR HIK G
+stand stand none 0
+HM ABCGHJKN large 0
+#9005
+octon~
+the octon~
+An octon is here governing his ward of responsilbility.
+~
+The octon has a collar at shoulder level with 8 tentacled arms growing out of
+it.
+~
+modron~
+ABFGQ DJ 0 300 0
+43 5 25d10+300 18d10+75 4d6+5 crush
+-4
+ACEHKQR BMNPQR HIK G
+stand stand none 0
+HM ABCGHJKN large 0
+#9006
+septon~
+the septon~
+A septon is here preserving order.
+~
+The septon appears as a human with a large bald head. It has a shoulder collar
+with 7 tentacles coming from it.
+~
+modron~
+ABFGQR DJ 0 300 0
+48 5 30d10+350 20d10+100 6d4+5 beating
+-5
+AFKOQR BMNPQR HIK 0
+stand stand none 0
+HM ABCGHIJKN medium 0
+#9007
+hexton~
+the hexton~
+A hexton is here watching over his armies.
+~
+A hexton appears as a humanoid with 6 arms: 2 large human arms with 6 fingers,
+and 4 tentacles below tipped with sharp claws.
+~
+modron~
+ABFGQT DFJ H 300 0
+52 7 35d20+300 20d10+75 4d8+6 slash
+-7
+ACEFHIKLNQR ABMNPQR CHIK 0
+stand stand none 0
+HM ABCGHIJKNP large 0
+#9008
+quinton~
+the quinton~
+A quinton is here keeping records.
+~
+Quintons look like tall, stocky humanoids with 4 flexible arms jutting from the
+shoulders.  A prehensile tail serves as the creature's 5th arm, and they have
+fan-like wings attached to their shoulders.
+~
+modron~
+ABFGQ DJ 0 300 0
+56 6 10d100+150 20d12+100 4d8+7 beating
+-7
+AKMOQR ABMNPQR HIK 0
+stand stand none 0
+HM ABCGHIJKNPQ large 0
+#9009
+tertian~
+the tertian~
+A tertian is here administering the law.
+~
+Tertians look very human, save for their 12 foot size, the horns jutting from
+the sides of their bald heads, and the long prehensile tail ending in a mace-
+like ball.
+~
+modron~
+ABFGQRT DJ 0 300 0
+66 12 1d1+999 20d20+50 8d6+12 pound
+-10
+CEFQR ABMNPQR CHIK 0
+stand stand none 0
+HM ABCGHIJKW huge 0
+#9010
+secundus~
+secundus~
+A Secundus, one of the Viceroys of Nirvana, is here.
+~
+The secundi is an incredibly thin, tall humanoids with long, narrow faces
+and deepset eyes. It radiates intense power.
+~
+modron~
+ABFGQRT DFJ H 0 0
+71 15 1d1+1599 40d20+50 7d8+15 punch
+-12
+EFHIKNQR ABHIKMNPQR CHIK 0
+stand stand none 0
+HM ABCGHIJK huge 0
+#9011
+Primus~
+Primus~
+Primus, ruler of the Plane of Nirvana, forms out of an energy pool.
+~
+Primus is a huge being who rises out of the energy pool and glares at you with
+violet eyes. His right hand is wreathed in darkness, his left in light, and
+he looks very displeased to see you.
+~
+modron~
+ABFGQRT DFJ H 0 0
+80 20 1d1+3999 1d1+3999 6d10+25 wrath
+-15
+AHQR ABHIKMNPQRS CHIK 0
+stand stand none 0
+HM ABCGHIJK giant 0
+#9012
+tall pirate~
+{8a {&t{7all {8pirate{0~
+{8A {&p{7irate {8towers over you and looks mean, but has more important things on his mind.{0
+~
+The pirate looks very tall and has a dark tan complection.  His black
+hair is greasy from the lack of showers, and he seems to have something on
+his mind.  
+~
+Human~
+ACG 0 0 -1000 0
+220 65 5d100+8000 10d10+200 5d7+215 none
+0
+CI 0 0 M
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#9013
+scroungy pirate~
+{8a {&s{7croungy {8pirate{0~
+{8A dirty looking {&p{7irate {8goes through the bushes looking for something.{0
+~
+The pirate looks very scroungy.  He is covered with dust from head to
+foot because of crawling on the ground in and out of the bushes.  He must be
+looking for something important!  
+~
+Human~
+A 0 0 -1000 0
+215 63 5d100+7900 3d3+200 5d7+200 none
+0
+CI 0 0 M
+stand stand male 3100
+AHMV ABCDEFGHIJK medium unknown
+#9014
+angry pirate~
+{8an {&a{7ngry {8pirate{0~
+{8A {&p{7irate {8storms around the island, ready for a fight.{0
+~
+This pirate looks extremely angry!  He mutters something about a sea
+creature and a key, and now he wants to take out his frustration on you!  
+~
+Human~
+ACFG 0 0 -1000 0
+225 66 9d100+8100 4d4+200 7d7+215 none
+0
+CIJ 0 0 M
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#9015
+short fat pirate~
+{8a {&s{7hort {8and {&f{7at {8pirate{0~
+{8You see a {&p{7irate {8waddling around, listening for noises.{0
+~
+The short and fat pirate has a bushy beard and has a big black hat on.  
+~
+Human~
+ACG 0 0 -1000 0
+220 65 9d100+8000 1d1+200 6d6+212 none
+0
+CI 0 0 M
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#9016
+pirate captain~
+{!C{8a{7p{&t{7a{8in {!B{8e{7l{&l{7a{8do{7n{0~
+{!C{8a{7p{&t{7a{8in {!B{8e{7l{&l{7a{8do{7n{8 stands here majestically.{0
+~
+Captain Belladon is a big pirate who is known throughout the regions of
+the Cirus Sea for his merchant ship and village raids.  He looks angry over
+a mishap that has happened recently.  
+~
+Human~
+ACFG 0 H -1000 0
+235 65 9d100+9000 2d2+100 8d8+215 none
+30
+CIJK 0 0 M
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#9017
+halfling slave~
+{8a {&h{7alfling {8slave{0~
+{8A {&h{7alfling {&s{7lave {8sits here in shackles.{0
+~
+The halfling slave has the mark of Captain Belladon on his hand, and he
+was told to stay here until the ship was ready.  The halfling looks hardened
+and mean from his slave existence.  
+~
+Halfling~
+ABG U 0 -1000 0
+210 50 9d100+7900 2d2+400 5d5+200 none
+0
+I 0 LQ S
+sit stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+#9018
+shady pirate~
+{8a {&s{7hady {8pirate{0~
+{8A mysterious {&p{7irate {8seems to glide through the room.{0
+~
+This shady pirate hardly looks human, yet he does wear pirate apparel. 
+You notice the red eyes of his face and you realize that he must be a member
+of the Dark Cult.  
+~
+Shadow~
+ACFG TU 0 -1000 0
+225 69 9d100+8300 3d3+200 7d7+215 none
+10
+CI 0 M NS
+stand stand male 4500
+AHMV ABCDEFGHIJK medium unknown
+#9019
+buccaneer~
+{#a b{3u{#c{3c{#a{3n{#e{3e{#r{0~
+{8A brave {#b{3u{#c{3c{#a{3n{#e{3e{#r {8fights off a tentacle!{0
+~
+This brave buccaneer is one of the few left on the ship who stayed to
+guard it, by order of Captain Belladon.  
+~
+Human~
+ABG 0 0 -1000 0
+226 70 9d100+8300 4d4+100 7d7+216 none
+15
+CI 0 0 M
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#9020
+buccaneer~
+{#a b{3u{#c{3c{#a{3n{#e{3e{#r{0~
+{8A worn out {#b{3u{#c{3c{#a{3n{#e{3e{#r{8 rests before he goes back to fighting the tentacles.{0
+~
+This buccaneer is one of the few left on the ship who stayed to guard it,
+by order of Captain Belladon.  He looks very worn out.  
+~
+Human~
+ABG 0 0 -1000 0
+226 70 9d100+8000 2d2+100 7d7+215 none
+17
+CI 0 0 M
+rest stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#9021
+tentacle~
+{^a t{6e{^n{6t{^a{6c{^l{6e{0~
+{8A massive {&g{7r{&e{7y {^t{6e{^n{6t{^a{6c{^l{6e{8 whips around!{0
+~
+The tentacle is really big, has suction cups on the underside, and tapers
+off at the end.  This isn't even the whole creature!  You wonder where the
+rest of it is lurking around...  
+~
+Blue Dragon~
+ABFG U 0 -1000 0
+235 80 9d100+9500 1d1+100 10d10+215 none
+25
+CDH R H J
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9022
+squid~
+{&t{7h{&e {^s{6q{^u{6i{^d{0~
+{&T{7h{&e {^s{6q{^u{6i{^d{8 has broken into the ship!{0
+~
+The squid is GIANT!  You light reflects off of its wet grey skin, and its
+tentacles start coming for you!  
+~
+Blue Dragon~
+ABFG U 0 -1000 0
+239 100 10d100+11000 1d1+100 10d10+200 none
+50
+CDH R H J
+stand stand none 10000
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#9000
+sword long the~
+THE long sword~
+THE long sword of Primus is here.~
+adamantite~
+weapon AGJK AN
+sword 5 6 slash EF
+77 400 8800 P
+A
+18 5
+A
+19 5
+E
+sword long the~
+This is an extremely long and heavy sword, with many magical runes inscribed
+on it.  It glows with the power of Primus, Lord of the Plane of Nirvana.
+~
+#9001
+moonstone moon stone white~
+a luminescent moonstone~
+A softly glowing white stone rests on the floor.~
+gem~
+warp_stone AT AO
+DE 0 0 0 0
+0 0 500 P
+E
+moonstone moon stone white~
+Looking into the smooth surface of this moonstone, you feel strangely at 
+peace and balance with the world around you.
+~
+#9002
+silver stone~
+a luminescent silver stone~
+A softly glowing silver stone rests on the floor.~
+gem~
+demon_stone AET AO
+B 0 0 0 0
+0 0 500 P
+#9011
+silver key~
+{&t{7h{&e {7s{&i{7l{&v{7e{&r {7k{&e{7y{0~
+{&T{7h{&e {7s{&i{7l{&v{7e{&r {7k{&e{7y{0 is here.~
+unknown~
+key P AO
+0 0 0 0 0
+1 0 500 P
+#9012
+match~
+{3a mat{1ch{0~
+{3A mat{1ch{0 sits here.~
+unknown~
+key P AO
+0 0 0 0 0
+1 0 20 P
+#9013
+chest~
+{3a {7c{&he{7s{3t{0~
+A large chest sits here in the room.~
+unknown~
+container 0 0
+999999 ABCD 9011 1000 2
+1 5 30 P
+#9014
+brass key~
+{#a {3b{#r{3a{#s{3s {#k{3e{#y{0~
+{#A {3b{#r{3a{#s{3s {#k{3e{#y {3l{#i{3e{#s {3h{#e{3r{#e{3.{0~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 5 P
+#9015
+lantern~
+{@a {2la{7nt{2er{@n{0~
+{@A {2lant{7ern {&is {7on t{2he wal{@l.{0~
+unknown~
+container 0 0
+99999 ABCD 9012 9999 2
+1 4 5 P
+#9016
+rupees~
+{!a {1p{!i{1l{!e {1o{!f {1r{!u{1p{!e{1e{!s{0~
+{!A {1p{!i{1l{!e {1o{!f {1r{!u{1p{!e{1e{!s{0 is on the floor.~
+unknown~
+money 0 A
+2500000 0 0 0 0
+1 1 0 P
+#9017
+buccaneer sword~
+{#a {3bu{#c{&caneer's sword{0~
+{#A {3sp{#e{&c{7ia{&l{#l{3y-{#m{&a{7de {&b{#u{3cc{#a{&n{7ee{&r'{#s {3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0~
+steel~
+weapon B AN
+sword 15 18 slash D
+75 1 54000 P
+A
+18 45
+A
+19 37
+#9018
+cutthroat dagger~
+{8a cu{7t{&throat dagger{0~
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0~
+unknown~
+weapon 0 AN
+dagger 15 17 pierce D
+75 1 45000 P
+A
+19 38
+A
+18 45
+#9019
+black boots~
+{7s{8om{7e {8bl{7a{8ck {7p{8ir{7a{8te {7b{8oo{7ts{0~
+{7S{8om{7e {8bl{7a{8ck {7p{8ir{7a{8te {7b{8oo{7t{8s s{7t{8an{7d {8on {7t{8he {7g{8ro{7u{8nd {7w{8it{7h{8ou{7t {8an {7o{8wn{7e{8r.{0~
+unknown~
+armor 0 AG
+30 0 0 0 0
+75 1 10000 P
+A
+19 25
+A
+13 100
+A
+18 25
+#9020
+long sleeves white shirt~
+{&a {7l{&o{7n{&g{7-{&s{7l{&e{7e{&v{7e{&d {7w{&h{7i{&t{7e {&s{7h{&i{7r{&t{0~
+{&A {7l{&o{7n{&g{7-{&s{7l{&e{7e{&v{7e{&d {7w{&h{7i{&t{7e {&s{7h{&i{7r{&t{0 is folded up here.~
+unknown~
+armor 0 AD
+25 0 0 0 0
+75 1 10222 P
+A
+13 150
+A
+20 -50
+#9021
+captain jacket~
+{8a ca{7p{&t{7a{8in'{7s {&j{7a{8cket{0~
+{8A {7b{&i{7g bl{8a{7ck {8ja{7c{&k{7e{8t {7w{&i{7t{8h s{7i{&l{7v{8er b{7ut{&t{7o{8ns l{7i{&e{7s {8he{7r{&e{7.{0~
+unknown~
+armor 0 AK
+32 0 0 0 0
+75 1 11000 P
+A
+13 200
+A
+12 100
+#9022
+black captain hat~
+{&a {7b{8lack {7ca{&pta{7in{8's h{7a{&t{0~
+{&A {7b{8lack {7ca{&pta{7in{8's h{7a{&t {7i{8s o{7n {&t{7he {&g{7r{8oun{7d{&.{0~
+unknown~
+armor 0 AE
+20 0 0 0 0
+75 1 10000 P
+A
+13 100
+A
+13 50
+A
+18 50
+#9023
+loose grey pants~
+{6so{^m{6e l{^o{6os{^e {6gr{^e{6y p{^a{6nt{^s{0~
+{^A {6p{^a{6ir {^o{6f l{^o{6os{^e {6gr{^e{6y p{^a{6nt{^s{0~
+unknown~
+armor 0 AF
+25 0 0 0 0
+75 1 10000 P
+A
+14 250
+A
+13 200
+A
+18 20
+A
+19 25
+#9024
+black white striped shirt~
+{&a {8b{&l{8a{&c{8k {&a{8n{&d{8 w{&h{8i{&t{8e {&s{8t{&r{8i{&p{8e{&d {8s{&h{8i{&r{8t{0~
+{&A {8b{&l{8a{&c{8k {&a{8n{&d{8 w{&h{8i{&t{8e {&s{8t{&r{8i{&p{8e{&d {8s{&h{8i{&r{8t {&i{8s {&i{8n {&a {8p{&i{8l{&e {8o{&n {8t{&h{8e {&g{8r{&o{8u{&n{8d{&.{0~
+unknown~
+armor 0 AD
+24 0 0 0 0
+75 1 10000 P
+A
+13 193
+#9025
+small pool water~
+{#a {3s{#m{4a{$l{4l {$p{4o{$o{$l o{4f {$w{#a{3t{#e{3r{0~
+{#T{3h{#e{4r{$e {4i{$s {4a {$s{4m{$a{4l{$l {4p{$o{4o{$l {4o{$f {4w{$a{4t{$e{4r {$h{#e{3r{#e.{0~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+1 3 3 P
+#9026
+gold stud~
+{#a {3g{#old st{3u{#d{0~
+{#A {3g{#old st{3u{#d{0 lies unused on the floor.~
+unknown~
+armor G AS
+30 0 0 0 0
+75 1 48000 P
+A
+18 10
+A
+12 600
+A
+13 600
+#9027
+shark tooth ankle bracelet~
+{3a {7s{8h{3a{8r{7k t{8o{3o{8t{7h {8an{3k{7l{8e br{3a{8ce{7l{8e{3t{0~
+{3A {7s{8h{3a{8r{7k t{8o{3o{8t{7h {8an{3k{7l{8e br{3a{8ce{7l{8e{3t{0 lies limp on the floor.~
+unknown~
+armor G AU
+5 0 0 0 0
+75 1 40000 P
+A
+18 60
+A
+13 150
+A
+20 -50
+#0
+
+
+
+#ROOMS
+#9000
+A Small Sandy Beach~
+You are on a small, sandy beach on Kernai Island.  The sand is light tan,
+and very soft to walk on.  The waters of the Cirus Sea come up the beach in
+small, rolling waves.  This appears to be the only edge of the island that
+isn't rocky.  You see a sandy path east of here.  
+~
+0 0 2
+D1
+~
+~
+0 0 9001
+D3
+~
+~
+0 0 9477
+S
+#9001
+A Sandy Path~
+You are on a soft, sandy path through a somewhat rocky part of the
+island.  The path leads north and south around a large rock on the east side
+of the path.  There is a small beach to the west.  
+~
+0 4 2
+D0
+~
+~
+0 0 9026
+D2
+~
+~
+0 0 9002
+D3
+~
+~
+0 0 9000
+S
+#9002
+A Sandy Path~
+You are on a soft, sandy path that goes through a rocky part of the
+island.  From here you can see a lone, sandy beach to the north on the
+mostly rocky coast of the island.  
+~
+0 0 2
+D0
+~
+~
+0 0 9001
+D1
+~
+~
+0 0 9003
+S
+#9003
+A Sandy Path~
+You are on a soft, sandy path next to a steep, rocky coast on the south
+part of the island and a large rock is on the north side of the path. 
+Looking far south over the Cirus Sea, you see land with great mountains
+looming on the horizon.  
+~
+0 0 2
+D1
+~
+~
+0 0 9004
+D3
+~
+~
+0 0 9002
+S
+#9004
+A Sandy Path~
+You are on a soft, sandy path on the southeast part of Kernai Island. 
+There is a mass of large rocks east of here that sticks out into the sea. 
+You see a tall wooden mast that is behind the rocks.  The path goes goes
+north and west through the rocky terrain.  
+~
+0 0 2
+D0
+~
+~
+0 0 9005
+D3
+~
+~
+0 0 9003
+S
+#9005
+A Sandy Path~
+You are on a soft, sandy path on the southeastern end of Kernai Island. 
+The sandy path goes south, while a more rocky path goes east, up the mass of
+rocks.  
+~
+0 0 2
+D1
+~
+~
+0 0 9006
+D2
+~
+~
+0 0 9004
+S
+#9006
+A Rocky Ledge~
+You are at a rocky ledge on top of the mass of rocks.  Looking around, a
+rocky path leads down the mass of rocks to the west, and you see a ship that
+has wrecked on the rocky shores of Kernai Island.  One of the masts rises up
+just below you, close enough to jump onto it.  The Cirus Sea is a bit rough
+on this part of the island.  
+~
+0 0 2
+D3
+~
+~
+0 0 9005
+D5
+~
+~
+0 0 9007
+S
+#9007
+Sliding Down a Mast~
+You are sliding down a wooden mast on a ship!  You see a rocky ledge,
+above you and out of reach.  The only way to go is down onto the ship's
+deck.  
+~
+0 8 0
+D5
+~
+~
+0 0 9008
+S
+#9008
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  The ship's tall mast
+rises above you, and holds the massive sails.  Down through the center of
+the ship you see many wooden crates.  
+~
+0 0 0
+D1
+~
+~
+0 0 9009
+D2
+~
+~
+0 0 9010
+D3
+~
+~
+0 0 9011
+S
+#9009
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  You can see the massive
+sails hanging down above you.  The east side of the ship is bare, because all
+the crates have been moved to the center of the deck.  You see nothing but open
+sea to the east.  
+~
+0 0 0
+D2
+~
+~
+0 0 9012
+D3
+~
+~
+0 0 9008
+S
+#9010
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  You see the mast of the
+ship to the north of you.  Around you, you see many crates piled into the
+center of the ship's deck.  
+~
+0 0 0
+D0
+~
+~
+0 0 9008
+D1
+~
+~
+0 0 9012
+D2
+~
+~
+0 0 9015
+D3
+~
+~
+0 0 9013
+S
+#9011
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  There are some steep
+wooden stairs here that go down into the hull of the ship.  Looking off the
+west side of the ship, you see all of the rocks that the ship is hung up on.
+~
+0 0 0
+D1
+~
+~
+0 0 9008
+D2
+~
+~
+0 0 9013
+D5
+~
+~
+0 0 9017
+S
+#9012
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  The east side of the
+ship is bare, because all the crates have been moved to the center of the
+deck.  You see nothing but open sea to the east.  
+~
+0 8 2
+E
+sign~
+The sign reads:
+                     WARNING
+Only those brave of heart and high of level should
+enter the Tower of Nirvana.
+~
+D0
+~
+~
+0 0 9009
+D2
+~
+~
+0 0 9016
+D3
+~
+~
+0 0 9010
+S
+#9013
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  You notice that all of
+the crates are all located in the center of the deck, rather than the sides.
+Over the west side of the ship you look down and see some rough water with
+many large rocks protruding from it.  
+~
+0 8 2
+E
+sign~
+The sign reads:
+                  WARNING!
+Only those brave of heart and high of level
+should attempt to enter the Tower of Nirvana.
+~
+D0
+~
+~
+0 0 9011
+D1
+~
+~
+0 0 9010
+D2
+~
+~
+0 0 9014
+S
+#9014
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  There are many crates
+east of you on the center of the deck, and the edge of the ship is to the
+west.  Looking over the edge you see wavy water, a little safer than what
+you can see farther north along the boat.  
+~
+0 8 2
+D0
+~
+~
+0 0 9013
+D1
+~
+~
+0 0 9015
+S
+#9015
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  Around you, you see
+many crates piled into the center of the ship's deck.  The crates have all
+sorts of writing, some foreign, some you recognize.  They all seem to be
+random things the pirates raided off of merchant ships.  
+~
+0 8 2
+D0
+~
+~
+0 0 9010
+D1
+~
+~
+0 0 9016
+D3
+~
+~
+0 0 9014
+S
+#9016
+Pirate Ship's Deck~
+You are on the deck of a good-sized pirate ship.  The east side of the
+ship is bare, because all the crates have been moved to the center of the
+deck.  You see nothing but open sea to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 9012
+D3
+~
+~
+0 0 9015
+S
+#9017
+A Steep Staircase~
+You are on a steep wooden staircase inside the pirate ship.  The steps
+are wet and slippery, so you grasp the rail.  The stairs go down into the
+dark underbelly of the ship, and there is a corridor to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 9019
+D4
+~
+~
+0 0 9011
+D5
+~
+~
+0 0 9018
+S
+#9018
+Storage Room~
+You are in the dark storage room of the ship.  It is very dark down here,
+and there is only a small bit of light coming down from above.  The floor is
+flooded with water that comes up a couple feet.  In the light you see a
+wooden crate floating in the water.  You also see the water splash up
+against the steps.  
+~
+0 8 0
+D2
+~
+~
+0 0 9082
+D4
+~
+~
+0 0 9017
+S
+#9019
+A Small Corridor~
+You are in a small corridor inside the pirate ship.  The wooden floor
+creaks as you walk on it, and you see a hole where a mouse probably lives. 
+There are two doors on each side of you.  Lanterns flicker from the walls
+and cast eerie shadows in the corridor.  
+~
+0 8 0
+D0
+~
+~
+0 0 9017
+D1
+~
+~
+1 0 9021
+D2
+~
+~
+0 0 9022
+D3
+~
+~
+1 0 9020
+S
+#9020
+A Small Cabin~
+You are inside a small cabin.  There is a green rug on the floor and bunk
+beds on the north and south walls.  On the west wall is a lantern lighting
+the room.  The door is to the east.  
+~
+0 8 0
+D1
+~
+~
+1 0 9019
+S
+#9021
+A Small Cabin~
+You are inside a small cabin.  There is a green rug on the floor and bunk
+beds on the north and south walls.  On the east wall is a lantern lighting
+the room.  The door is to the west.  You hear a bumping sound on the other
+side of the east wall.  
+~
+0 8 0
+D3
+~
+~
+1 0 9019
+S
+#9022
+A Small Corridor~
+You are in a small corridor inside the pirate ship.  The wooden floor
+creaks as you walk on it, and the lanterns give off a dim glow and cast
+shadows.  There is a door on the west and east walls, and the east is
+labeled -storage-. 
+~
+0 8 0
+D0
+~
+~
+0 0 9019
+D1
+~
+~
+4 9014 9024
+D2
+~
+~
+1 0 9025
+D3
+~
+~
+1 0 9023
+S
+#9023
+A Small Cabin~
+You are inside a small cabin.  There is a green rug on the floor and bunk
+beds on the north and south walls.  On the west wall is a lantern lighting
+the room.  The door is to the east.  
+~
+0 8 0
+D1
+~
+~
+1 0 9022
+S
+#9024
+A Storage Cabin~
+You are in the storage cabin, mostly empty of boxes because they were
+taken up to the deck.  The only thing of importance left is this big metal
+chest, too heavy to take upstairs.  You see small hole in the side of the
+room where someone must have jumped out.  
+~
+0 8 0
+D1
+~
+~
+0 0 9478
+D3
+~
+~
+4 9014 9022
+S
+#9025
+The Captain's Cabin~
+You are in the captain's cabin.  There is nothing left in here however,
+because it must have been taken above deck to be taken onto the island. 
+Dust marks are left where the furniture had been.  
+~
+0 8 0
+D0
+~
+~
+1 0 9022
+S
+#9026
+A Sandy Path~
+You are on a soft, sandy path through a somewhat rocky part of the
+island.  There are a few trees here and there, providing blotches of shade. 
+The path goes south and east.  
+~
+0 0 2
+D1
+~
+~
+0 0 9027
+D2
+~
+~
+0 0 9001
+S
+#9027
+Kernai Island~
+You are at the southern part of the jungle-like section of Kernai Island.
+The sand path and the dirt of the jungle merge here, and there are plenty of
+trees around that give shade.  To the south you see a great rocky mound, and
+west is the sandy path.  Going north leads into the northern part of the
+island, and east stays along the edge of the jungle.  
+~
+0 0 2
+D0
+~
+~
+0 0 9033
+D1
+~
+~
+0 0 9028
+D3
+~
+~
+0 0 9026
+S
+#9028
+Kernai Island~
+You are at the southern part of the jungle-like section of Kernai Island.
+There are plenty of trees around here making the area fairly shady.  You can
+go every direction here but south, because it is too rocky.  
+~
+0 0 2
+D0
+~
+~
+0 0 9032
+D1
+~
+~
+0 0 9029
+D3
+~
+~
+0 0 9027
+S
+#9029
+Kernai Island~
+You are on the eastern edge of Kernai Island.  The jungle spreads west of
+here, and the Cirus Sea is on the east, surrounding this island.  There is a
+rocky hill to the south, but not navigable from this side of it.  
+~
+0 0 2
+D0
+~
+~
+0 0 9030
+D3
+~
+~
+0 0 9028
+S
+#9030
+Kernai Island~
+You are on the eastern edge of Kernai Island.  The jungle spreads west of
+here, and there is a rocky outcrop that pokes out over the Cirus Sea.  The
+island's eastern edge is in a crescent shape to the north, where the water
+meets the rocky beach.  
+~
+0 0 2
+D1
+~
+~
+0 0 9031
+D2
+~
+~
+0 0 9029
+D3
+~
+~
+0 0 9032
+S
+#9031
+A Rocky Outcrop~
+You are on a rocky outcrop that juts out over the water of the Cirus Sea.
+You see the water below, splashing into the rocks.  Far to the north, you
+see Kernai Mountain rise out of the jungle, and to the south, next to the
+rocky hill, you see a ship caught on the rocky beach.  
+~
+0 0 2
+D3
+~
+~
+0 0 9030
+S
+#9032
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9034
+D1
+~
+~
+0 0 9030
+D2
+~
+~
+0 0 9028
+D3
+~
+~
+0 0 9033
+S
+#9033
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9035
+D1
+~
+~
+0 0 9032
+D2
+~
+~
+0 0 9027
+S
+#9034
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9039
+D2
+~
+~
+0 0 9032
+D3
+~
+~
+0 0 9035
+S
+#9035
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9038
+D1
+~
+~
+0 0 9034
+D2
+~
+~
+0 0 9033
+D3
+~
+~
+0 0 9036
+S
+#9036
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9037
+D1
+~
+~
+0 0 9035
+S
+#9037
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9044
+D1
+~
+~
+0 0 9038
+D2
+~
+~
+0 0 9036
+S
+#9038
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9043
+D1
+~
+~
+0 0 9039
+D2
+~
+~
+0 0 9035
+D3
+~
+~
+0 0 9037
+S
+#9039
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9042
+D1
+~
+~
+0 0 9040
+D2
+~
+~
+0 0 9034
+D3
+~
+~
+0 0 9038
+S
+#9040
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9041
+D3
+~
+~
+0 0 9039
+S
+#9041
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9048
+D2
+~
+~
+0 0 9040
+D3
+~
+~
+0 0 9042
+S
+#9042
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9047
+D1
+~
+~
+0 0 9041
+D2
+~
+~
+0 0 9039
+D3
+~
+~
+0 0 9043
+S
+#9043
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9046
+D1
+~
+~
+0 0 9042
+D2
+~
+~
+0 0 9038
+D3
+~
+~
+0 0 9044
+S
+#9044
+Kernai Island~
+You are in the jungle on Kernai Island.  The trees are tall and there are
+big bushes everywhere.  Sounds of birds and monkeys fill the atmosphere. 
+Every now and then you hear a scuffle amongst the bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 9045
+D1
+~
+~
+0 0 9043
+D2
+~
+~
+0 0 9037
+S
+#9045
+The Side of Kernai Mountain~
+You are on the north side of the island next to Kernai Mountain.  It is
+steep and rocky with dirt too, having lots of jungle plants growing on it. 
+The mountain is too steep to climb, so this seems to be as far north as you
+can go.  
+~
+0 0 2
+D1
+~
+~
+0 0 9046
+D2
+~
+~
+0 0 9044
+S
+#9046
+The Side of Kernai Mountain~
+You are on the north side of the island next to Kernai Mountain.  It is
+steep and rocky with dirt too, having lots of jungle plants growing on it. 
+The mountain is too steep to climb, so this seems to be as far north on the
+island as you can go.  
+~
+0 0 2
+D1
+~
+~
+0 0 9047
+D2
+~
+~
+0 0 9043
+D3
+~
+~
+0 0 9045
+S
+#9047
+The Side of Kernai Mountain~
+You are on the north side of the island next to Kernai Mountain.  It is
+steep and rocky with dirt too, having lots of jungle plants growing on it. 
+The mountain is too steep to climb, so this seems to be as far north on the
+island as you can go.  There are lots of vines growing on the side of the
+mountain here, and you see footprints that walk into them...  
+~
+0 0 2
+D0
+~
+vines~
+1 0 9049
+D1
+~
+~
+0 0 9048
+D2
+~
+~
+0 0 9042
+D3
+~
+~
+0 0 9046
+S
+#9048
+The Side of Kernai Mountain~
+You are on the north side of the island next to Kernai Mountain.  It is
+steep and rocky with dirt too, having lots of jungle plants growing on it. 
+The mountain is too steep to climb, so this seems to be as far north on the
+island as you can go.  
+~
+0 0 2
+D2
+~
+~
+0 0 9041
+D3
+~
+~
+0 0 9047
+S
+#9049
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  Several rays of light come in
+through the south through some vines.  
+~
+0 8 0
+D0
+~
+~
+0 0 9058
+D1
+~
+~
+0 0 9050
+D2
+~
+vines~
+1 0 9047
+S
+#9050
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes down here
+into darkness.  
+~
+0 8 0
+D3
+~
+~
+0 0 9049
+D5
+~
+~
+0 0 9051
+S
+#9051
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and up.
+~
+0 8 0
+D0
+~
+~
+0 0 9052
+D4
+~
+~
+0 0 9050
+S
+#9052
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes south and
+west.  
+~
+0 8 0
+D2
+~
+~
+0 0 9051
+D3
+~
+~
+0 0 9053
+S
+#9053
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes east and
+down.  
+~
+0 8 0
+D1
+~
+~
+0 0 9052
+D5
+~
+~
+0 0 9054
+S
+#9054
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes up and west. 
+~
+0 8 0
+D3
+~
+~
+0 0 9055
+D4
+~
+~
+0 0 9053
+S
+#9055
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes east and
+south.  
+~
+0 8 0
+D1
+~
+~
+0 0 9054
+D2
+~
+~
+0 0 9056
+S
+#9056
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+south, but there are several rocks lying scattered about here.  
+~
+0 8 0
+D0
+~
+~
+0 0 9055
+D2
+~
+~
+0 0 9057
+S
+#9057
+A Cave In~
+You are stuck in the dark underground passage!  You got hit by several
+large rocks and you are bruised and bleeding quite a bit.  
+There is a dead pirate here, fallen victim to the previous cave in.  He appears to be holding something.
+~
+0 33555468 0
+M 0 H -100
+S
+#9058
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage junctions off
+here, going south, west, and up.  
+~
+0 8 0
+D2
+~
+~
+0 0 9049
+D3
+~
+~
+0 0 9066
+D4
+~
+~
+0 0 9059
+S
+#9059
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes down and west
+here.  
+~
+0 8 0
+D3
+~
+~
+0 0 9060
+D5
+~
+~
+0 0 9058
+S
+#9060
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+east.  
+~
+0 8 0
+D0
+~
+~
+0 0 9061
+D1
+~
+~
+0 0 9059
+S
+#9061
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes up and south.
+~
+0 8 0
+D2
+~
+~
+0 0 9060
+D4
+~
+~
+0 0 9062
+S
+#9062
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes down and
+east.  
+~
+0 8 0
+D1
+~
+~
+0 0 9063
+D5
+~
+~
+0 0 9061
+S
+#9063
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  You feel a light wind from the
+south.  The passage goes west and south.  
+~
+0 8 0
+D2
+~
+~
+0 0 9064
+D3
+~
+~
+0 0 9062
+S
+#9064
+Windy Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  There is a lot of wind blowing
+through the passage here, and rays of light come through vines to the east. 
+~
+0 8 0
+D0
+~
+~
+0 0 9063
+D1
+~
+vines~
+1 0 9065
+S
+#9065
+{#D{3a{#n{3g{#l{3i{#n{3g {#f{3r{#o{3m {#a {@V{2i{@n{2e{0~
+You have fallen out of the mountain and you are now dangling with your
+foot caught in a vine!  As you sway helplessly in the breeze, you see the
+ocean far below, and the steep cliffs of the mountain to the west.  The only
+way is down.  
+~
+0 4 0
+D5
+~
+~
+0 0 9480
+S
+#9066
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes east and
+north.  There are pieces of the Captain's furniture here that he salvaged
+from the boat.  
+~
+0 8 0
+D0
+~
+~
+0 0 9067
+D1
+~
+~
+0 0 9058
+S
+#9067
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  You are at yet another
+junction in the underground passage.  It goes north, south, and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 9068
+D2
+~
+~
+0 0 9066
+D3
+~
+~
+0 0 9081
+S
+#9068
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 9069
+D2
+~
+~
+0 0 9067
+S
+#9069
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes west and
+south.  
+~
+0 8 0
+D2
+~
+~
+0 0 9068
+D3
+~
+~
+0 0 9070
+S
+#9070
+Windy Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  There is a strong breeze
+blowing through the passage here, and rays of light come in through vines to
+the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 9069
+D3
+~
+vines~
+1 0 9071
+D5
+~
+~
+0 0 9073
+S
+#9071
+A Rocky Ledge~
+You are on a small, flat, rocky ledge on the west side of the mountain. 
+You got here by falling out of the passage above.  The ledge sticks out from
+the cliff of the side of the mountain, and you see the water a long ways
+down.  Perhaps you can fly back up to the passage?  
+~
+0 0 0
+D4
+~
+~
+0 0 9072
+S
+#9072
+Next to a Viney Entrance~
+You are flying next to the vine covered entrance of the underground
+passage.  Below you is a small, rocky ledge you can land on.  
+~
+0 0 9
+D1
+~
+vines~
+1 0 9070
+D5
+~
+~
+0 0 9071
+S
+#9073
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes south and up.
+~
+0 8 0
+D2
+~
+~
+0 0 9074
+D4
+~
+~
+0 0 9070
+S
+#9074
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+east.  
+~
+0 8 0
+D0
+~
+~
+0 0 9073
+D1
+~
+~
+0 0 9075
+S
+#9075
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes south and
+west.  
+~
+0 8 0
+D2
+~
+~
+0 0 9076
+D3
+~
+~
+0 0 9074
+S
+#9076
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 9075
+D2
+~
+~
+0 0 9077
+S
+#9077
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 9076
+D3
+~
+~
+0 0 9078
+S
+#9078
+A Large Hole in the Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes north and
+east.  There is also a big hole in the ground here.  
+~
+0 8 0
+D0
+~
+~
+0 0 9080
+D1
+~
+~
+0 0 9077
+D5
+~
+~
+0 0 9079
+S
+#9079
+Falling in a Bottomless Hole~
+You             are                     falling           down        a        seemingly         endless                  hole.
+~
+0 12 0
+S
+#9080
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes up and south.
+~
+0 8 0
+D2
+~
+~
+0 0 9078
+S
+#9081
+Underground Passage~
+You are in a dark underground passage, with the the walls made of hard
+earth and the floors a mix of dirt and sand.  The passage goes east and
+down.  
+~
+0 8 0
+D1
+~
+~
+0 0 9067
+D5
+~
+~
+0 0 9080
+S
+#9082
+Storage Room~
+You are in the dark storage room of the ship.  It is very dark down here
+and flooded with cold water that is a couple feet deep.  Water splashes up
+onto you.  
+~
+0 0 0
+D0
+~
+~
+0 0 9018
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9019 1 1
+D 0 9019 3 1
+D 0 9020 1 1
+D 0 9021 3 1
+D 0 9022 1 2
+D 0 9022 2 1
+D 0 9022 3 1
+D 0 9023 1 1
+D 0 9024 3 2
+D 0 9025 0 1
+D 0 9047 0 1
+D 0 9049 2 1
+D 0 9064 1 1
+D 0 9070 3 1
+D 0 9072 1 1
+M 0 9020 3 9008 2
+E 0 9017 0 16
+E 0 9020 0 5
+E 0 9023 0 7
+M 0 9021 10 9009 1
+M 0 9019 8 9009 1
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+M 0 9020 3 9010 1
+E 0 9017 0 16
+E 0 9020 0 5
+E 0 9023 0 7
+M 0 9021 10 9011 1
+M 0 9019 8 9011 1
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+M 0 9021 10 9012 1
+M 0 9019 8 9012 2
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+M 0 9021 10 9013 1
+M 0 9019 8 9013 2
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+M 0 9021 10 9014 1
+M 0 9021 10 9015 1
+M 0 9019 8 9015 1
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+E 0 9027 0 25
+M 0 9021 10 9016 1
+M 0 9019 8 9016 1
+E 0 9020 0 5
+E 0 9017 0 16
+E 0 9023 0 7
+O 0 9012 0 9018
+O 0 9015 0 9020
+P 0 9014 1 9015 1
+O 0 9015 0 9021
+O 0 9015 0 9023
+O 0 9013 0 9024
+P 0 9016 1 9013 1
+M 0 9014 2 9029 1
+E 0 9024 0 5
+E 0 9023 0 7
+M 0 9014 2 9032 1
+E 0 9026 0 21
+E 0 9018 0 16
+E 0 9024 0 5
+E 0 9023 0 7
+M 0 9015 2 9036 1
+E 0 9018 0 16
+E 0 9024 0 5
+E 0 9023 0 7
+M 0 9012 2 9040 1
+E 0 9023 0 7
+E 0 9020 0 5
+M 0 9013 2 9042 1
+E 0 9023 0 7
+E 0 9018 0 16
+E 0 9027 0 25
+O 0 9025 0 9043
+M 0 9013 2 9044 1
+E 0 9023 0 7
+E 0 9024 0 5
+E 0 9019 0 8
+M 0 9012 2 9045 1
+E 0 9023 0 7
+E 0 9024 0 5
+E 0 9019 0 8
+E 0 9018 0 16
+M 0 9015 2 9048 1
+E 0 9019 0 8
+E 0 9023 0 7
+E 0 9018 0 16
+E 0 9024 0 5
+O 0 9011 0 9057
+M 0 9017 5 9060 1
+M 0 9018 2 9062 1
+E 0 9018 0 16
+E 0 9019 0 8
+M 0 9016 1 9066 1
+E 0 9022 0 6
+E 0 9021 0 12
+E 0 9020 0 5
+E 0 9019 0 8
+M 0 9017 5 9066 2
+M 0 9018 2 9069 1
+E 0 9026 0 21
+E 0 9018 0 16
+E 0 9019 0 8
+M 0 9017 5 9074 1
+M 0 9017 5 9078 1
+M 0 9022 1 9082 1
+M 0 9021 10 9082 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

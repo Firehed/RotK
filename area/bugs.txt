@@ -1,0 +1,23 @@
+
+
+[16200] Wardrof: Duran replies to you 'it says 'Not on that target.' but I can still attack them normally' maladictions
+[16244] Angral: test
+[16201] Srixen: bug
+[16200] Wardrof: wear all allows you to wield quivers
+[21830] Srixen: bug
+[16200] Srixen: I can't slist while sleeping
+[21804] Srixen: I can get restores by activating clan triggers through the clan channel, and I can get them for anyone. Might wanna fix that!
+[21830] Srixen: I just lost concentration on a spell that i'm at 100% with
+[21830] Srixen: three times in a row
+[ 3014] Duran: spy is broken and kills the mud
+[ 3014] Duran: a quiver is heavier than most bows and ballistas so I cant second them
+[20367] Angral: consider is still not true to the outcome of a battle.
+[16246] Anahnka: If you wield two weapons, then wield a 2 handed one instead of your primary, you keep the second weapon wielded
+[   59] Wardrof: list
+[16247] Srixen: the remove 150 items doesn't work
+[21817] Xyth: dirt kicking doesn't work
+[16249] Srixen: Your acid rain does -(X)- GODLY DAMAGE -(X)- to A Deer! [6m3106]
+[17085] Jandin: powerful healing potions don't work, says i don't have enough mana
+[ 3012] Jandin: identify scrolls don't seem to work, either
+[16221] Ephiny: list
+[ 3700] Wistom: read 21

@@ -1,0 +1,129 @@
+#AREADATA
+Name The Alien City~
+Builders Corum~
+VNUMs 18071 18170
+Credits [20 80] Corum   Alien City~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#18071
+binks quest pill~
+{4Bink's {2Quest {1Pill{7~
+{4Bink's {2Quest {1Pill{7 lays here.~
+unknown~
+token 0 A
+CDFI 0 0 0 0
+0 1 1000000000 P
+#18072
+quest token~
+{1Bink's {2 Token{7~
+{1Bink's {2 Token{7 lays here.~
+unknown~
+token 0 AP
+ABDG 0 0 0 0
+0 1 1000000000 P
+#18073
+binks gauntlets~
+{1Bink's Gauntlets{0~
+{1Bink's Gauntlets{7 lay here.{0~
+leather~
+armor AB AH
+-100 -100 -100 -100 0
+102 1 1000000000 P
+A
+14 10000
+A
+18 1000
+A
+19 1000
+A
+12 10000
+A
+13 10000
+#18074
+Corum Holy Spear~
+the {6D{^i{&v{&i{^n{6e {8S{1p{!e{8a{!r {&of {#C{3o{#r{3u{#m{2~
+The {6D{^i{&v{&i{^n{6e {8S{1p{!e{8a{!r {&of {#C{3o{#r{3u{#m{2 lies here.~
+Holy Spirits~
+weapon ABGIa AN
+staff 5000 5000 magic A
+101 1 2147483647 P
+#18120
+binks sword of distrustion~
+{4Bink's {*Sword {&of {!Destruction{0~
+{4Bink's {*Sword {&of {!Destruction{0 lays here.~
+Adamantite~
+weapon AB AN
+exotic 350 350 stab AE
+102 1 2147483647 P
+A
+17 500
+A
+18 1000
+A
+19 1000
+#0
+
+
+
+#ROOMS
+#18071
+Entrance to Alien City~
+There is something weird about this place.  A {bB{Bl{Bu{be {8F{7o{8g{x is
+flying in this strange city of darkness.  Little creature are crawling in
+this slum.  Darkness flee the light of your torch while you enter the city. 
+ 
+~
+0 8192 0
+D0
+~
+~
+0 0 18072
+M 500 H 500
+O corum~
+S
+#18072
+On the Galaxy boulevard.~
+The Blue Fog continue to heal every living creature in this city.  This
+Magical Cloud is coming from the building ahead.  You can see many stores on
+your left.  East you see a Gigantic Battle Arena...  The Fhoi Myore Arena!  
+~
+0 0 1
+D2
+~
+~
+0 0 18071
+M 500 H 500
+O Corum~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

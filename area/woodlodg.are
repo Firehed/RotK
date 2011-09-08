@@ -1,0 +1,1095 @@
+#AREADATA
+Name Woodcutter's Lodge~
+Builders Grimace~
+VNUMs 20755 20850
+Credits [60 85] Grimace Woodcutter's Lodge~
+Security 9
+End
+
+
+
+#MOBILES
+#20756
+inspector~
+a lumber inspector~
+A lumber inspector is here.
+~
+~
+Human~
+AB L 0 1000 0
+180 200 1d1+5000 1d1+100 7d12+30 none
+-23
+CEFIJKN 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#20759
+worker~
+a worker~
+A worker is here, sawing lumber.
+~
+~
+Human~
+AB 0 0 1000 0
+170 200 1d1+4500 1d1+100 7d12+30 none
+-23
+CFJKN 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#20762
+horse~
+a big horse~
+A big horse is here, resting from its last delivery.
+~
+This horse looks like it could go through a lot!  
+~
+bear~
+AB 0 0 1000 0
+190 200 1d1+8000 0d0+0 7d12+35 none
+0
+DEO 0 EI 0
+stand stand either 2
+AGV ACDEFJK medium unknown
+F par BHUV
+#20763
+stable man~
+the stable man~
+The stable man is here, keeping an eye on things.
+~
+~
+Human~
+AB 0 0 1000 0
+170 200 1d1+4900 1d1+100 7d12+29 none
+-23
+CEFIJKN 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#20769
+woodcutter break~
+a woodcutter~
+A woodcutter is on break here.
+~
+~
+Human~
+AG 0 0 1000 0
+184 200 1d1+5500 1d1+100 7d12+30 none
+-23
+CEFIJKN 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#20777
+woodcutter~
+a woodcutter~
+A Woodcutter is here, chopping down trees.
+~
+~
+Human~
+AG 0 0 1000 0
+187 200 1d1+6000 1d1+100 7d12+32 none
+-27
+CEFIJKNO 0 0 0
+stand stand male 650
+AHMV ABCDEFGHIJK medium unknown
+#20784
+great bear~
+a great bear~
+A great bear is standing on its hind legs!
+~
+~
+bear~
+AFG 0 0 -1000 0
+210 200 10d169+7000 1d1+100 7d12+40 none
+-31
+DEO 0 EI 0
+stand stand either 600
+AGV ABCDEFHJKUV medium unknown
+#0
+
+
+
+#OBJECTS
+#20756
+woodcutter axe~
+a woodcutter's axe~
+A strong woodcutter's axe is here.~
+unknown~
+weapon 0 AN
+axe 7 13 chop DF
+80 10 599999 P
+#20757
+toolbelt belt~
+a toolbelt~
+A woodcutter's toolbelt.~
+unknown~
+armor 0 AL
+35 35 35 35 0
+80 2 200000 P
+A
+18 15
+A
+4 2
+#20758
+brown leather gloves~
+a pair of {3brown leather gloves{0~
+A pair of {3brown leather gloves {0are here.~
+unknown~
+armor 0 AH
+40 40 40 40 0
+80 2 350000 P
+A
+18 8
+A
+19 7
+#0
+
+
+
+#ROOMS
+#20755
+Before a Lodge~
+You are before a large woodcutter's lodge.  It is made of great logs. 
+You hear saws and hammers inside, making you want to look in.  A path leads
+south.  There is a big doorway to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20756
+D2
+~
+~
+0 0 20514
+S
+#20756
+Inside a Lodge~
+You are inside a woodcutter's lodge.  The floor is dirt with lots of saw
+dust all over the place.  There are big stacks of freshly cut boards waiting
+to be taken out and shipped throughout the world.  You see a sign on the
+wall.  There is a big doorway in the south wall.  
+~
+0 524288 0
+E
+sign~
+New Thalos Lumber Company: We haul wood for You!  
+~
+D0
+~
+~
+0 0 20757
+D1
+~
+~
+0 0 20759
+D2
+~
+~
+0 0 20755
+S
+#20757
+Inside a Lodge~
+You are inside a woodcutter's lodge.  The floor is dirt with lots of saw
+dust all over the place.  There are big stacks of freshly cut boards waiting
+to be taken out and shipped throughout the world.  There are all kinds of
+loud noises in here.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20758
+D2
+~
+~
+0 0 20756
+S
+#20758
+Inside a Lodge~
+You are inside a woodcutter's lodge.  The floor is dirt with lots of saw
+dust all over the place.  There are big stacks of freshly cut boards waiting
+to be taken out and shipped throughout the world.  There is a large doorway
+that leads outside.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20760
+D2
+~
+~
+0 0 20759
+D3
+~
+~
+0 0 20757
+S
+#20759
+Inside a Lodge~
+You are inside a woodcutter's lodge.  The floor is dirt with lots of saw
+dust all over the place.  There are big stacks of freshly cut boards waiting
+to be taken out and shipped throughout the world.  There is a giant two-man
+saw hanging on the wall, waiting for the mother of all logs.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20758
+D3
+~
+~
+0 0 20756
+S
+#20760
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  The big doorway to the lodge is to the
+west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20765
+D1
+~
+~
+0 0 20761
+D3
+~
+~
+0 0 20758
+S
+#20761
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  To the south you see an open area.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20762
+D3
+~
+~
+0 0 20760
+S
+#20762
+An Open Area~
+You are in a large open area.  The wagon ruts start from the east and
+head up the path.  You can tell this area is used very often, because there
+isn't any grass growing on it.  You see some stables to the south and a
+bunch of wagons to the east.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20761
+D1
+~
+~
+0 0 20764
+D2
+~
+~
+0 0 20763
+S
+#20763
+The Stable~
+You are inside the stable at the woodcutters' place.  It is pretty big
+and it seems like it has been here for a while, judging by all of the
+cobwebs up in the rafters.  The wood used to make the stable is dark in
+color, and the sod on the ground is moist from a spilt over drinking trough.
+There are 10 horse stalls, four of which are in use, the others are out
+delivering lumber.  There is a door on the east wall.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20762
+D1
+~
+~
+1 0 20783
+S
+#20764
+Amongst the Wagons~
+You are with the wagons that haul the lumber.  They are all lined up on
+the east against a wooden fence.  They are medium sized wagons that only
+need one large horse to pull them.  The open area is to the west.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20762
+S
+#20765
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20766
+D2
+~
+~
+0 0 20760
+S
+#20766
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  To the east you see a woodcutter
+chopping at a tree.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20767
+D1
+~
+~
+0 0 20776
+D2
+~
+~
+0 0 20765
+S
+#20767
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  There are small cabins nearby.  
+~
+0 524288 0
+E
+north~
+You see a small cabin.  
+~
+D0
+~
+~
+1 0 20770
+D1
+~
+~
+0 0 20771
+D2
+~
+~
+0 0 20766
+D3
+~
+~
+0 0 20768
+S
+#20768
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  There are small cabins nearby.  
+~
+0 524288 0
+E
+north~
+You see a small cabin.  
+~
+D0
+~
+~
+1 0 20769
+D1
+~
+~
+0 0 20767
+S
+#20769
+A Small Cabin~
+You are inside a small cabin.  There are two bunk beds in here, one on
+each side of the small room, with a rug on the floor between them.  There
+are a couple candles on a shelf to light the room.  
+~
+0 524288 0
+D2
+~
+~
+1 0 20768
+S
+#20770
+A Small Cabin~
+You are inside a small cabin.  There are two bunk beds in here, one on
+each side of the small room, with a rug on the floor between them.  There
+are a couple candles on a shelf to light the room.  
+~
+0 524288 0
+D2
+~
+~
+1 0 20767
+S
+#20771
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  There are small cabins nearby.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20772
+D3
+~
+~
+0 0 20767
+S
+#20772
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  There are small cabins nearby.  
+~
+0 524288 0
+E
+north~
+You see a small cabin.  
+~
+D0
+~
+~
+1 0 20773
+D1
+~
+~
+0 0 20774
+D2
+~
+~
+0 0 20771
+S
+#20773
+A Small Cabin~
+You are inside a small cabin.  There are two bunk beds in here, one on
+each side of the small room, with a rug on the floor between them.  There
+are a couple candles on a shelf to light the room.  
+~
+0 524288 0
+D2
+~
+~
+1 0 20772
+S
+#20774
+A Wide Path~
+You are on a wide dirt path.  There are wagon ruts from the wood being
+hauled in the rain.  You can tell this path is used very often, because
+there isn't any grass growing on it.  There are small cabins nearby.  
+~
+0 524288 0
+E
+north~
+You see a small cabin.  
+~
+D0
+~
+~
+1 0 20775
+D3
+~
+~
+0 0 20772
+S
+#20775
+A Small Cabin~
+You are inside a small cabin.  There are two bunk beds in here, one on
+each side of the small room, with a rug on the floor between them.  There
+are a couple candles on a shelf to light the room.  
+~
+0 524288 0
+D2
+~
+~
+1 0 20774
+S
+#20776
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  You cannot go west because the woodcutter here just chopped down a
+huge tree and its blocking the path to the west!  
+~
+0 524288 0
+D1
+~
+~
+0 0 20777
+S
+#20777
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20778
+D3
+~
+~
+0 0 20776
+S
+#20778
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20777
+D1
+~
+~
+0 0 20779
+S
+#20779
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20784
+D2
+~
+~
+0 0 20780
+D3
+~
+~
+0 0 20778
+S
+#20780
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20779
+D2
+~
+~
+0 0 20781
+S
+#20781
+Path Behind the Wagons~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  There is a wooden fence on the west with a bunch of wagons on the
+other side.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20780
+D2
+~
+~
+0 0 20782
+S
+#20782
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  You see a building to the west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20781
+D3
+~
+~
+0 0 20783
+S
+#20783
+Beside the Stable~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The stable is on the west, with a back door leading inside.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20782
+D3
+~
+~
+1 0 20763
+S
+#20784
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20785
+D3
+~
+~
+0 0 20779
+S
+#20785
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20789
+D1
+~
+~
+0 0 20786
+D3
+~
+~
+0 0 20784
+S
+#20786
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20787
+D3
+~
+~
+0 0 20785
+S
+#20787
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20786
+D1
+~
+~
+0 0 20788
+S
+#20788
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20787
+S
+#20789
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20790
+D2
+~
+~
+0 0 20785
+S
+#20790
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20791
+D2
+~
+~
+0 0 20789
+S
+#20791
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20792
+D3
+~
+~
+0 0 20790
+S
+#20792
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20793
+D2
+~
+~
+0 0 20791
+S
+#20793
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20794
+D1
+~
+~
+0 0 20806
+D2
+~
+~
+0 0 20792
+S
+#20794
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20793
+D3
+~
+~
+0 0 20795
+S
+#20795
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20794
+D3
+~
+~
+0 0 20796
+S
+#20796
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20797
+D1
+~
+~
+0 0 20795
+S
+#20797
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20798
+D2
+~
+~
+0 0 20796
+S
+#20798
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20799
+D2
+~
+~
+0 0 20797
+S
+#20799
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20800
+D3
+~
+~
+0 0 20798
+S
+#20800
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20801
+D3
+~
+~
+0 0 20799
+S
+#20801
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20802
+D3
+~
+~
+0 0 20800
+S
+#20802
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20801
+D1
+~
+~
+0 0 20803
+S
+#20803
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20804
+D3
+~
+~
+0 0 20802
+S
+#20804
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20803
+D2
+~
+~
+0 0 20805
+S
+#20805
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20804
+D3
+~
+~
+0 0 20806
+S
+#20806
+Woodcutters' Path~
+You are on the woodcutters' path, a dirt path the width of a wagon with
+grass growing in the middle.  It goes through the forest where they cut down
+trees.  The farther you go, the bigger the trees get.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20805
+D3
+~
+~
+0 0 20793
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20763 1 1
+D 0 20767 0 1
+D 0 20768 0 1
+D 0 20769 2 1
+D 0 20770 2 1
+D 0 20772 0 1
+D 0 20773 2 1
+D 0 20774 0 1
+D 0 20775 2 1
+D 0 20783 3 1
+M 0 20756 1 20756 1
+M 0 20759 3 20757 1
+E 0 20757 0 13
+E 0 20758 0 9
+M 0 20759 3 20759 2
+E 0 20757 0 13
+E 0 20758 0 9
+M 0 20763 1 20763 1
+M 0 20762 4 20763 4
+M 0 20769 4 20769 1
+M 0 20769 4 20770 1
+M 0 20769 4 20773 1
+M 0 20769 4 20775 1
+M 0 20777 7 20776 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20777 7 20779 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20777 7 20780 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20777 7 20787 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20784 2 20788 1
+M 0 20777 7 20796 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20777 7 20801 1
+E 0 20756 0 16
+E 0 20758 0 9
+M 0 20784 2 20804 1
+M 0 20777 7 20805 1
+E 0 20756 0 16
+E 0 20758 0 9
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

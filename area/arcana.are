@@ -1,0 +1,464 @@
+#AREADATA
+Name Arcana Clanhall~
+Builders Valmar~
+VNUMs 851 870
+Credits [ CLAN] Valmar  Arcana~
+Security 1
+End
+
+
+
+#MOBILES
+#851
+shopkeeper~
+the Guard equipper~
+The Guard equipper is standing here.
+~
+A shirt, but rough looking man stands
+before you. He looks at you impatiently
+wanting you to hurry up and decide
+what it is you want.
+~
+Human~
+AB DFV EH 0 0
+100 15 10d10+10 0d0+0 10d10+10 none
+0
+A B B 0
+stand stand male 100000
+H 0 large unknown
+F for AMV
+F par ABCDEFGHIJK
+#852
+blacksmith~
+a blacksmith~
+A blacksmith is here, making your equipment.
+~
+~
+Human~
+AB DFV HPQ 0 0
+100 100 10d10+10 0d0+0 10d10+10 none
+0
+0 B B 0
+stand stand none 100000
+H 0 large unknown
+F for AMV
+F par ABCDEFGHIJK
+#853
+healer arcana~
+a healer~
+A healer is here, attending to your wounds.
+~
+A man of many talents stands before you,
+ready to cure you, or any disease in
+which affects your body.
+~
+Human~
+ABa DF EHP 0 0
+100 100 10d10+10 0d0+0 10d10+10 slash
+0
+A ABC AB 0
+stand stand male 1000
+H 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#854
+trainer~
+a physical trainer~
+Your physical trainer is here, waiting to teach you something new.
+~
+A rather large man with rather large
+arms is here, waiting to teach you
+what you want to know and learn.
+~
+Human~
+ABJKb DF CE 0 0
+100 10 10d10+10 0d0+0 0d0+0 slash
+0
+0 AB AB 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#855
+dummy~
+a dummy of haplo~
+A large dummy sits here, looking a lot like Haplo himself!
+~
+Here is your chance to show your leader
+what you are made of. You have the chance
+to pound the snot out of the one person who
+enjoys commanding you around all the time.
+Go get him!!
+~
+Human~
+AB 0 H 0 0
+1 0 100d100+100 0d0+0 0d0+0 none
+-100
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#851
+wooden chair~
+a wooden chair~
+A carved {rwooden{7 chair sits here behind a desk.~
+unknown~
+furniture AB 0
+1 1000 E 1000 1000
+0 10000 0 P
+#852
+elemental pill~
+a pill of {ge{Gl{We{Gm{ge{Gn{Wt{Ga{gl{7 protection~
+A small, multi-colored pill is here.~
+unknown~
+pill AB A
+104 'iceshield' 'fireshield' 'shockshield' 'sanctuary'
+15 1 2500 P
+#853
+shield pill~
+a pill of {rs{Rh{Wie{Rl{rd{Ri{Wn{Rg{7~
+A pill of many shields lies here on the ground.~
+unknown~
+pill AB A
+104 'glassshield' 'acidshield' 'watershield' 'holyshield'
+15 2 2500 P
+#854
+potion strength~
+a potion of {1st{7r{1eng{7t{1h{0~
+{7A small vial sits here on the ground{0~
+unknown~
+potion AB A
+104 'giant strength' 'bless' 'armor' 'haste'
+15 2 2500 P
+#855
+battle gear arcana~
+{1G{#u{3a{#r{1d {$B{4attl{$e{0 gear~
+A nice set of the Guards battle gear is here.~
+unknown~
+armor AB AK
+34 29 31 33 0
+25 0 2500 P
+A
+18 5
+A
+19 5
+A
+13 56
+A
+12 34
+#856
+potion heal~
+a {@po{&ti{@on {7of ultimate {#he{&a{#lin{&g{0~
+A potion of arcanian power sits here.~
+unknown~
+potion AB A
+100 'heal' 'heal' 'heal' 'heal'
+10 0 1500 P
+#857
+valdris~
+a {!h{1aw{!k-{!e{1tche{!d {4V{$a{8ldr{$i{4s{0~
+A long blade in the shape of hawk wings rests here on the ground.~
+unknown~
+weapon AB AN
+exotic 7 9 flame 0
+25 0 4000 P
+A
+18 5
+A
+19 5
+#858
+portal new thalos~
+a shimmering portal~
+A shimmering portal brings up the image of "New Thalos"~
+unknown~
+portal AB P
+0 0 0 9506 0
+1 0 0 P
+#859
+portal hell~
+a portal to Hell~
+A shimmering portal brings up the image of "Hell"~
+unknown~
+portal AB P
+0 0 0 10404 0
+0 0 0 P
+#860
+portal glacier~
+a shimmering portal~
+A shimmering portal brings up the image of "Glacier"~
+unknown~
+portal AB P
+0 0 0 450 0
+0 0 0 P
+#861
+training grounds portal~
+a shimmering portal~
+A shimmering portal brings up the image of "the Training Grounds"~
+unknown~
+portal AB P
+0 0 0 6154 0
+0 0 0 P
+#862
+drakyri isle portal~
+a shimmering portal~
+A shimmering portal brings up the image of "Drakyri Isle"~
+unknown~
+portal AB P
+0 0 0 11703 0
+0 0 0 P
+#863
+morphing mask~
+a {3m{#as{3k {0of {4m{$o{&rp{$h{4i{$n{&g{0~
+{7A mask lies here, changing faces in mood and appearance.{0~
+unknown~
+armor AB AR
+35 40 37 28 0
+50 2 5000 P
+A
+18 6
+A
+19 4
+A
+13 57
+A
+12 62
+#864
+coiled dragon tattoo arcana~
+a {bc{Bo{Wil{Be{bd{7 {gd{Gr{Wag{Go{gn{7 tattoo {Y({rA{Rr{Wca{Rn{ra{Y){7~
+Somehow, a tattoo lies here on the ground...weird..~
+unknown~
+armor ABM AM
+50 50 50 50 0
+75 0 5000 P
+A
+12 75
+A
+13 100
+A
+19 10
+A
+18 10
+#865
+arcana hero medal~
+a {3T{#a{3l{#a{3g{#r{3a{#t{3h{#i{3a{#n {1h{1e{!ro{1e{1s {7m{4e{$d{4a{7l{0~
+A medal of honor is here, humming softly.~
+unknown~
+armor ABGI AT
+50 50 50 50 0
+101 0 10000 P
+A
+18 25
+A
+19 25
+A
+12 100
+A
+13 100
+#866
+potion curative~
+a {@po{&ti{@on{7 of {$cu{&ra{$tiv{&e{$s{0~
+A potion of curatives lies here.~
+unknown~
+potion AB A
+101 'cure blindness' 'cure disease' 'cure poison' 'frenzy'
+15 0 2500 P
+#867
+katana~
+an {#a{3ncien{#t {4b{$l{4u{$e{4s{$t{4e{$e{4l {5k{5a{7ta{5n{5a{0~
+An old, shimmering katana lies here.~
+unknown~
+weapon ABM AN
+exotic 16 16 flame 0
+101 0 10000 P
+A
+18 40
+A
+19 40
+#868
+miniature dragon~
+a {ym{Yi{Wni{Ya{yt{Yu{Wr{Ye{7 {gd{Gr{Wag{Go{gn{7~
+A miniature dragon floats here above the ground~
+unknown~
+armor AB AQ
+30 30 30 30 0
+80 0 9500 P
+A
+12 100
+A
+13 125
+A
+17 50
+A
+19 15
+A
+18 20
+#869
+small ruby ring~
+a {8s{wm{Wa{wl{8l {Rr{ru{Rb{ry {Rr{ri{Rn{rg{7~
+A small ruby ring lies here on the floor~
+unknown~
+armor A AB
+200 200 200 200 0
+1 0 0 P
+A
+19 300
+A
+18 300
+#0
+
+
+
+#ROOMS
+#851
+{1A{!r{&c{&a{!n{1a {$Clanhall{x~
+{rR{RU{WL{RE{rS{7:
+ 
+1. {rDO NOT{7 under {rANY{7 circumstances kill people of your own clan.
+2. {rOBEY{7 your elders, any problems contact me.
+3. Remember to have fun, its only a game!
+ 
+~
+0 4 0
+D0
+~
+~
+0 0 856
+D2
+~
+~
+0 0 854
+D4
+~
+~
+0 0 62
+D5
+~
+~
+0 0 3382
+S
+#852
+Guard equipment room~
+You've arrived in the potions and pills section of the equipment
+corridor.  Back to the west is the supply room.  
+~
+0 1024 0
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 853
+D3
+~
+~
+0 0 17403
+S
+#853
+{7the {8b{*l{Wa{*c{8k{*s{Wm{*i{8t{*h{7~
+~
+0 1024 0
+D3
+~
+~
+0 0 852
+S
+#854
+the portal room~
+~
+0 8 0
+D0
+~
+~
+0 0 851
+S
+#855
+The healing room~
+~
+0 1024 0
+D2
+~
+~
+0 0 852
+S
+#856
+the {rt{Rr{Wai{Rn{ri{Rn{WG{7 grounds~
+~
+0 1024 0
+D0
+~
+~
+0 0 857
+D2
+~
+~
+0 0 851
+S
+#857
+the practice room~
+~
+0 0 0
+D2
+~
+~
+0 0 856
+S
+#859
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 851 1 852 1
+G 0 852 0
+G 0 853 0
+G 0 854 0
+G 0 856 0
+G 0 866 0
+M 0 852 1 853 1
+G 0 855 0
+G 0 857 0
+G 0 863 0
+G 0 868 0
+G 0 865 0
+G 0 867 0
+O 0 858 0 854
+O 0 859 0 854
+O 0 860 0 854
+O 0 861 0 854
+O 0 862 0 854
+M 0 853 1 855 1
+O 0 3055 0 855
+M 0 854 1 856 1
+M 0 855 1 857 1
+S
+
+
+
+#SHOPS
+851 26 0 0 0 0 100 100 0 23
+852 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,529 @@
+#AREADATA
+Name Alpha Female's Sanctuary~
+Builders Sleighty~
+VNUMs 891 899
+Credits [PRVT.] Slei.   Alpha Female's Sanctuary~
+Security 9
+End
+
+
+
+#MOBILES
+#891
+statue Trayco~
+a {^Statue of {#Tr{3ay{#co{0~
+A {^Statue{0 is built in memory of {#Tr{3ay{#co{0
+~
+A tall, stoutly built statue of Trayco stands before you.  His darkly
+tanned face is softened by his cool, sky blue eyes.  He carries himself with
+grace and an air of confidence.  One can see evidence that this man is well
+versed in the art of combat, yet he exudes no outwardly visible signs of
+hostility.  He possesses an innate wisdom which is evident.  He seems at
+peace with himself and his surroundings.  Even though he exudes an aura of
+peaceful balance, one would certainly be foolish to invoke his wrath.  
+~
+Human~
+ABJKab 0 CEHPR 1000 0
+250 1000 1d1+29999 1d1+29999 1d1+3499 wrath
+-250
+0 ABMQR 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#893
+Morbius Letharian~
+Morbius Letharian~
+A vampyric half-elf is is here organizing various potions.
+~
+Tattered black wool robes trimmed with a deep purple satin hang loosely
+from his ancient frame.  A tarnished silver pentagram hangs about his neck
+from a thin leather cord.  His friendly demeanor is inviting yet an uneasy
+feeling seems to surround him.  
+~
+Halfelf~
+AB DFL 0 0 0
+101 1500 1d1+14999 1d1+999 500d4+0 bite
+-50
+0 BLMQR 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#894
+Horrendous Hagar witchhunter~
+Horrendous Hagar~
+A tough-looking witchhunter is is here tending the bar.
+~
+Amber eyes draw your attention to this unusual creature.  The result of
+one night of drunken passion between human and orc barbarians, Horrendous is
+unusual indeed.  Shoulder-length black hair frames her pale grey face.  She
+was enslaved by humans at a young age, only to be set free years later by
+the Master of Legends.  Trayco taught her what he could and gained her
+loyalty.  Sworn by an oath to protect the balance in the world, Horrendous
+was once the greatest witchunter in all the lands.  Her battle scars are
+worn with much pride.  Upon the death of her mentor and friend, she retired,
+hanging her serrated battleaxe and mithril cutlass above the bar in this inn. 
+~
+Halforc~
+AB DFa 0 0 0
+101 1500 1d1+14999 1d1+999 500d4+0 slap
+-50
+0 ABLMQR CD P
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#891
+demon claw key~
+a demon claw key~
+A key made from the claw of a demon is here.~
+unknown~
+key HOYZ A
+0 0 0 0 0
+0 0 0 P
+#892
+simple stone bench~
+a comfortable spot on the old stone bench~
+A simple stone bench is here facing the statue.~
+unknown~
+furniture 0 0
+4 10000 EHK 10000 10000
+0 0 0 P
+#893
+beautiful marble fountain~
+a beautiful marble fountain~
+A beautiful marble fountain stands here.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+marble~
+The fountain is adorned with two intricately carved dragons with wings
+fully spread and mouths open, allowing fresh clean water to cascade into the
+pool below.  
+~
+E
+beautiful~
+The fountain is adorned with two intricately carved dragons with wings
+fully spread and mouths open, allowing fresh clean water to cascade into the
+pool below.  
+~
+E
+fountain~
+The fountain is adorned with two intricately carved dragons with wings
+fully spread and mouths open, allowing fresh clean water to cascade into the
+pool below.  
+~
+#894
+sturdy table~
+the sturdy table~
+A big sturdy table stands here.~
+unknown~
+furniture 0 0
+8 10000 D 10000 10000
+0 0 0 P
+E
+table~
+You see a heavy woode table big enough for a party of eight.  Etched into
+its surface are the initials "{#T{3R{#C{0".  
+~
+E
+sturdy~
+You see a heavy woode table big enough for a party of eight.  Etched into
+its surface are the initials "{#T{3R{#C{0".  
+~
+#895
+den rug~
+the den rug~
+The den rug is here, looking plush and cozy.~
+unknown~
+furniture 0 0
+2 10000 EHK 10000 10000
+0 0 0 P
+#897
+large wooden bucket~
+a large wooden bucket~
+A large wooden bucket rests on the table.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#898
+stone hearth~
+the stone hearth~
+A hearth carved from solid stone and fronted by an iron door stands here.~
+unknown~
+container 0 0
+10000 A 0 10000 0
+0 0 0 P
+#899
+big sleigh bed~
+the big sleigh bed~
+The big sleigh bed is here, looking soooooooooooooooo comfy.~
+unknown~
+furniture 0 0
+2 10000 EHK 10000 10000
+0 0 0 P
+E
+bed~
+You see a huge bed with delicate carvings of animals frolicking in the
+forest around the sides and on the headboard.  Most of the designs on the
+headboard are obsucured by four big, fluffy pillows, stacked two high for
+the bed's occupants.  An intricately-woven hand-stitched quilt covers the
+bed and you notice the bed is pefectly made.  
+~
+E
+sleigh~
+You see a huge bed with delicate carvings of animals frolicking in the
+forest around the sides and on the headboard.  Most of the designs on the
+headboard are obsucured by four big, fluffy pillows, stacked two high for
+the bed's occupants.  An intricately-woven hand-stitched quilt covers the
+bed and you notice the bed is pefectly made.  
+~
+E
+big~
+You see a huge bed with delicate carvings of animals frolicking in the
+forest around the sides and on the headboard.  Most of the designs on the
+headboard are obsucured by four big, fluffy pillows, stacked two high for
+the bed's occupants.  An intricately-woven hand-stitched quilt covers the
+bed and you notice the bed is pefectly made.  
+~
+#0
+
+
+
+#ROOMS
+#891
+Flower Gardens~
+As you step into the gardens, you realize that you've stepped through a
+magical portal into an ancient, unknown realm.  What appear to be meadows of
+wild flowers are actually very well-kept gardens of beautiful flowers of all
+sizes and colors.  A small cobblestone path leads to the south.  A blue
+portal shimmers to the west.  
+~
+0 0 0
+E
+north~
+To the west, you see rare butterflies fluttering through the gardens.  
+~
+E
+down~
+An old cobblestone path seems to end here.
+~
+E
+up~
+Whispy clouds hang lazily in the blue heavens above.
+~
+E
+east~
+To the east, you see small deer grazing in the meadows beyond the gardens.
+~
+D2
+To the south, you see a beautiful fountain and a large, majestic figure.
+~
+~
+0 0 892
+D3
+A magical oval made of a mysterious liquid glows to the west.  When
+touched waves undulate across its surface as your finger enters another
+realm.  It gives off a pleasant blue glow.  
+~
+~
+0 0 18217
+S
+#892
+Secret Garden~
+You are in a lush flower garden.  The intoxicating fragrances of the
+flowers combine here, acting to soothe your fears and woes.  An intricately
+carved marble fountain bubbles forth cool water from an underground spring. 
+A large statue stands here in tribute to the long passed warrior who founded
+this city.  A comfortable stone bench sits near the fountain and looks to be
+the perfect place to rest your weary bones.  The worn cobblestone path leads
+in all directions.  
+~
+0 1024 0
+E
+up~
+Bright rays of sunshine embrace the Secret Garden.
+~
+E
+down~
+A simple path of cobblestones leads in all directions.
+~
+D0
+To the north, you see nature at it's finest.
+~
+~
+0 0 891
+D1
+Angry shouts and roaring laughter can be heard coming from the east.  
+~
+~
+0 0 894
+D2
+A small garden full of strange herbs lies to the south.
+~
+~
+0 0 896
+D3
+To the west you see a sign which reads: Market of the Macabre,
+Morbius Letharian, Proprietor.
+~
+~
+0 0 893
+S
+#893
+Morbius' Market of the Macabre~
+Dimly lit and musty, Morbius' Market of the Macabre is just that.  Dried
+herbs, decorative vials, gems and ancient tomes are scattered about in
+unorganized organization.  Shrunken heads and preserved animals hang from
+the ceiling.  A glass-faced counter stands near the wall and is filled with
+bizarre and obscure items from around the world.  An inscription adorns the
+top of the counter.  
+~
+0 8 0
+E
+down~
+The uneven floorboards creak beneath the weight of your step.
+~
+E
+up~
+Ghastly expressions adorn the faces of the tiny heads dangling from
+leather cords about the room.  
+~
+E
+inscription~
+CLATU VERATA NICTO
+~
+D1
+To the east you see the Secret Garden.
+~
+~
+0 0 892
+S
+#894
+The Roaming Horse Inn~
+The aromas of fresh-baked breads and hearty stews, pies and meats greet
+you as you cross the threshold.  You hear people singing and laughing,
+shouting and fighting.  Rowdy patrons bump into you, spilling ale and
+whiskey on your cloak.  Criss-crossed above the bar hang a nasty-looking
+battleaxe and a brightly polished cutlass.  As you look around, you spot one
+open table.  
+~
+0 8 0
+E
+cutlass~
+Amazingly light weight for its size, this gleaming razor-sharp cutlass is
+the perfect compliment to any witchunter.  
+~
+E
+serrated~
+Four and a half feet in length, this weapon would take massive strength
+to wield.  Its three foot handle is bound by braided leather and its dual
+serrated blades have surely severed many heads.  
+~
+E
+battleaxe~
+Four and a half feet in length, this weapon would take massive strength
+to wield.  Its three foot handle is bound by braided leather and its dual
+serrated blades have surely severed many heads.  
+~
+E
+up~
+Seldom-used rooms fill the loft above.
+~
+E
+down~
+The floor is stained from the many drinks spilled here.
+~
+D2
+A drunken bum sleeps in the alley to the south.
+~
+~
+0 0 895
+D3
+The tranquility of the Secret Garden lies to the west.
+~
+~
+0 0 892
+S
+#895
+Darkened Alley~
+The alley is used for little more than a passageway to The Roaming Horse
+Inn.  Few linger here save for the occassional drunk who did not make it
+home.  Houses and a few shoppes can be seen to the south and east.  
+~
+0 0 0
+E
+up~
+Thick ropes and heavy banners obscure your view of the sky.
+~
+E
+down~
+One man did not make it safely home last night.
+~
+E
+east~
+Simple homes lie beyond various shoppes.
+~
+E
+south~
+Simple homes lie beyond various shoppes.
+~
+D0
+The Roaming Horse Inn lies ahead.
+~
+~
+0 0 894
+D3
+A small herb garden lies to the west.
+~
+~
+0 0 896
+S
+#896
+Herb Garden~
+This plot of land is used mainly by Morbius to grow his exotic herbs used
+to make the strange concoctions he sells.  One small corner of the garden is
+reserved for Aviela.  In this soil, she grows tender vegetables with which
+she prepares scrumptious dishes.  
+~
+0 0 0
+E
+up~
+Warm sunshine bathes the garden below.
+~
+E
+down~
+Several vegetables and exotic herbs are planted here.
+~
+E
+south~
+To the south, you see rolling meadows and hear the faint babbling of a
+stream.  
+~
+D0
+To the north, you see the Secret Garden.
+~
+~
+0 0 892
+D1
+There is a darkened alley to the east.
+~
+~
+0 0 895
+D3
+To the west, you see a modest dwelling.  On the door is carved the tree
+of life.  
+~
+~
+4 891 897
+S
+#897
+Cozy Den~
+Two large shelves are filled with books of murder mysteries, sci-fi thrillers,
+fantasy novels and the like.  Various flickering candles provide a warm, soft
+glow.  There is a noticeable lack of chairs of any kind, just simple pads to
+relax on.  A huge, comfy-looking rug fills the middle of the floor.
+~
+0 1544 0
+D1
+~
+~
+4 891 896
+D3
+Wonderful smells of various foods radiate from the west.
+~
+~
+0 0 898
+D4
+~
+~
+3 0 899
+S
+#898
+The Kitchen~
+As you enter the kitchen, your senses are filled with the succulent smell
+of meat and veggie pies that wafts from the hearth.  A small table with
+various cutting boards and dangerous-looking knives is against the far wall
+of the room.  Lazy plumes of smoke curl from the ancient oven.  
+~
+0 1544 0
+D1
+You see a warm, soft glow coming from the den.
+~
+~
+0 0 897
+S
+#899
+The Bedroom~
+~
+0 1544 0
+D5
+~
+~
+3 0 897
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 896 3 2
+D 0 897 1 2
+D 0 897 4 1
+D 0 899 5 1
+O 0 18013 0 891
+M 0 891 1 892 1
+E 0 18014 0 18
+E 0 18015 0 13
+E 0 18016 0 10
+E 0 18017 0 22
+E 0 18017 0 21
+E 0 18018 0 4
+E 0 18018 0 3
+O 0 893 0 892
+O 0 892 0 892
+M 0 893 1 893 1
+G 0 18010 0
+G 0 18011 0
+G 0 18009 0
+G 0 18012 0
+M 0 894 1 894 1
+G 0 3011 0
+G 0 3153 0
+G 0 17021 0
+G 0 3152 0
+G 0 3009 0
+G 0 9563 0
+G 0 9568 0
+G 0 648 0
+G 0 1403 0
+O 0 894 0 894
+O 0 895 0 897
+O 0 898 0 898
+P 0 3009 4 898 4
+P 0 1403 1 898 1
+O 0 897 0 898
+O 0 899 0 899
+S
+
+
+
+#SHOPS
+893 0 0 0 0 0 100 100 0 23
+894 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

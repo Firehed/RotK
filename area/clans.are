@@ -1,0 +1,190 @@
+#AREA
+ROT v1.2 format~
+clans.are~
+Clans~
+{ CLAN} RoT     Clan Rooms~
+20000 20999
+
+#MOBILES
+#20050
+clan guard~
+the clan guard~
+A clan guard is here.
+~
+A clan guard is here.
+~
+human~
+ABMNTV D D -750 0
+101 5 2d10+9500 60d9+1000 5d10+0 flame
+0 0 0 0
+CDEKLTU AB CI 0
+stand stand male 237
+0 0 large 0
+F res B
+D crumbles into dust.~
+#0
+
+#OBJECTS
+#20050
+guard claw~
+a guard claw~
+A guard claw lies here.~
+dragonscale~
+weapon AG AN
+exotic 6 24 none A
+94 10 2100 P
+A
+18 2
+A
+19 3
+#20051
+carved chest~
+the carved chest~
+A beautiful chest made from a single piece of mahogany is here.~
+oldstyle~
+container 0 0
+1000 A 0 100 5
+0 0 0 P
+#20052
+example sword~
+an example sword~
+An example sword lies here.~
+steel~
+weapon AGT AN
+sword 1 1 slash A
+1 10 0 P
+C example~
+#20053
+example dagger~
+an example dagger~
+An example dagger lies here.~
+steel~
+weapon AGT AN
+dagger 1 1 pierce E
+1 10 0 P
+C example~
+#20054
+example breastplate~
+an example breastplate~
+An example breastplate lies on the floor.~
+gold~
+armor AGT AD
+0 0 0 0 0
+1 10 0 P
+C example~
+A
+17 -8
+#20055
+example visor~
+an example visor~
+An example visor lies on the floor.~
+gold~
+armor AGT AR
+0 0 0 0 0
+1 10 0 P
+C example~
+A
+12 50
+#20056
+example arm plates~
+example arm plates~
+Some example arm plates lie on the floor.~
+steel~
+armor AGT AI
+0 0 0 0 0
+1 10 0 P
+C example~
+A
+18 10
+#20057
+example girth~
+an example girth~
+An example girth lies on the floor.~
+gold~
+armor AGT AL
+0 0 0 0 0
+1 10 0 P
+C example~
+A
+13 50
+#20058
+example leg plates~
+example leg plates~
+Some example leg plates lie on the floor.~
+gold~
+armor AGT AF
+0 0 0 0 0
+1 10 0 P
+C example~
+A
+19 10
+#20099
+pit donpit~
+the donation pit~
+A pit for sacrifices is in the center of the room.~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items to help other clan members.
+~
+#0
+
+#ROOMS
+#20050
+An Example Clan Room~
+This room is bare, except for a portal above you, and an exit below you.
+~
+0 DKT 0
+D4
+A golden portal hangs above you.
+~
+golden portal~
+0 -1 3011
+D5
+An Example Entrance room is below you.
+~
+~
+0 -1 20051
+C example~
+M 200 H 200
+S
+#20051
+An Example Entrance Room~
+This room is bare, except for the clan guard.
+~
+0 D 0
+D4
+An Example Clan Room is above you.
+~
+~
+0 -1 20050
+S
+#0
+
+#RESETS
+O 0 20051   1 20050 	 * the carved chest to the example clan room
+P 1 20052  -1 20051 4 	 *   example clan eq
+P 1 20053  -1 20051 4 	 *   example clan eq
+P 1 20054  -1 20051 2 	 *   example clan eq
+P 1 20055  -1 20051 2 	 *   example clan eq
+P 1 20056  -1 20051 2 	 *   example clan eq
+P 1 20057  -1 20051 2 	 *   example clan eq
+P 1 20058  -1 20051 2 	 *   example clan eq
+O 0 20099   1 20050 	 * the donation pit to the example clan room
+
+M 0 20050  1 20051  1 	 * the clan guard to the example clan entrance
+E 1 20050  -1    16 	 *   a guard claw
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 20050 spec_breath_fire	* the clan guard
+S
+
+#$
+

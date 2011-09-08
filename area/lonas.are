@@ -1,0 +1,1109 @@
+#AREADATA
+Name Lonas~
+Builders Grimace~
+VNUMs 20301 20350
+Credits [ ALL ] Grimace Lonas~
+Security 9
+End
+
+
+
+#MOBILES
+#20303
+dog~
+a dog~
+A cute little dog is running around.
+~
+The dog is pretty small with long brown hair.  
+~
+dog~
+AG 0 0 0 0
+10 0 5d10+100 0d0+0 5d6+10 none
+0
+H 0 0 0
+stand stand either 25
+AGV ACDEFHJKUV medium unknown
+#20309
+sculptor~
+the sculptor~
+The sculptor is a professional, doing many works of art.  He is hard at work.
+~
+The sculptor is a professional, doing many works of art.  He is hard at
+work.  
+~
+Human~
+ABC 0 0 300 0
+90 0 10d169+950 1d1+100 7d7+20 none
+-10
+EFIJKN 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#20310
+villager~
+a villager~
+A villager of Lonas is here.
+~
+The villager is an average human.  
+~
+Human~
+ACG 0 0 300 0
+80 0 10d169+900 1d1+100 7d7+18 none
+-10
+FJK 0 0 0
+stand stand either 250
+AHMV ABCDEFGHIJK medium unknown
+#20311
+shopkeeper~
+shopkeeper~
+The shopkeeper is here.
+~
+Don't mess with me.  
+~
+Human~
+AB 0 0 0 0
+70 0 10d169+1500 1d1+100 7d7+50 none
+-25
+CEFHIJKN A 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#20313
+mayor~
+the mayor~
+The mayor is here, greeting visitors.
+~
+The mayor is a descendant of the very first Mayor Lonas, having the same
+features as the stone statue outside.  He is very eager to expand his little
+village.  
+~
+Human~
+ABJb 0 0 500 0
+100 0 10d169+1500 1d1+100 7d7+25 none
+-13
+CEFIKLNQ A 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#20315
+dwarf travellor~
+a dwarven travellor~
+A strong dwarven travellor is resting here.
+~
+~
+Dwarf~
+AB J 0 300 0
+90 0 10d169+1200 1d1+300 5d10+25 none
+-23
+CEFIKN 0 LQ R
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#20316
+travellor~
+an elven travellor~
+An elven travellor is here having a good time.
+~
+~
+Elf~
+AB J 0 0 0
+80 0 10d169+900 1d3+300 7d7+19 none
+-15
+EFIKN 0 B Z
+stand stand either 200
+AHMV ABCDEFGHIJK medium unknown
+#20317
+innkeeper~
+the Innkeeper~
+The Innkeeper is here.
+~
+Don't mess with me.  
+~
+Human~
+AB 0 0 0 0
+75 0 10d169+1500 1d1+100 7d7+25 none
+-25
+BCEGHIJKN A 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#20332
+waitress~
+a waitress~
+The waitress goes from table to table, taking orders.
+~
+The waitress is very good looking, having that half-elf charm.  She has a
+special twinkle in her blue eyes.  
+~
+Halfelf~
+AB L 0 1000 0
+120 75 5d50+1000 4d5+100 4d7+25 none
+-4
+F A B M
+stand stand female 1743
+AHMV ABCDEFGHIJK medium unknown
+#20333
+tailor~
+the tailor~
+The store's tailor is here.
+~
+The tailor is tall and thin, standing behind the counter, while working
+on some new clothes.  
+~
+Halfelf~
+AB JL 0 1000 0
+150 79 6d84+2000 0d0+0 8d12+23 none
+-8
+FI A B Z
+stand stand male 3421
+AHMV ABCDEFGHIJK medium unknown
+#20334
+boat salesman~
+the boat salesman~
+The boat salesman offers you a deal.
+~
+The salesman wears a sailor's cap and has a big black beard.  
+~
+Human~
+AB 0 0 1000 0
+140 79 10d20+2000 2d4+200 9d12+30 none
+-10
+FIN A 0 IM
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#20335
+drunk~
+a drunken villager~
+A drunken villager is swaying back and forth.
+~
+This villager must have had too much ice wine...  
+~
+Human~
+ACG 0 0 1000 0
+89 25 5d10+800 1d1+100 3d7+10 none
+-2
+0 0 P M
+stand stand either 2320
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20302
+pork chops~
+some grilled pork chops~
+A plate of grilled pork chops is here.~
+unknown~
+food 0 AO
+20 45 0 0 0
+0 3 10 P
+#20306
+tonic~
+a tonic~
+A tonic is here.~
+unknown~
+potion 0 AO
+5 'cure critical' 'reserved' 'reserved' 'reserved'
+0 1 1000 P
+#20307
+ale~
+a mug of ale~
+A mug of ale is here.~
+unknown~
+drink 0 AO
+5 5 'ale' 0 0
+0 2 8 P
+#20315
+orange juice~
+a glass of orange juice~
+A glass of orange juice is here.~
+glass~
+drink 0 AO
+4 4 'orange juice' 0 0
+0 2 5 P
+#20316
+stool~
+a wooden stool~
+There are many wooden stools here to sit on.~
+wood~
+furniture 0 0
+10 10000 BEHK 110 110
+0 500 0 P
+#20317
+table~
+a table~
+There are large tables to sit at.~
+wood~
+furniture 0 0
+20 50000 BDGKN 110 110
+0 500 0 P
+#20318
+bed beds~
+a bed~
+There are a few beds here.~
+unknown~
+furniture 0 0
+6 50000 EHL 10000 10000
+0 500 0 P
+#20319
+key~
+a room key~
+The room key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 1 100 P
+#20321
+key~
+a room key~
+A room key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 1 100 P
+#20323
+key~
+a room key~
+A room key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 1 100 P
+#20330
+big mug beer~
+a big mug of beer~
+A big mug of beer rests here.~
+unknown~
+drink 0 AO
+3 3 'beer' 0 0
+1 1 48 P
+#20332
+grilled haddock~
+some delicious grilled haddock~
+A plate of delicious grilled haddock is here.~
+unknown~
+food 0 A
+30 15 0 0 0
+1 1 45 P
+#20333
+bowl broccoli soup~
+a bowl of broccoli soup~
+A steaming bowl of broccoli soup sits here.~
+unknown~
+food 0 A
+45 12 0 0 0
+1 1 40 P
+#20334
+loaf wheat bread~
+a loaf of wheat bread~
+A loaf of wheat bread is here, ready to be eaten.~
+unknown~
+food 0 A
+50 16 0 0 0
+1 1 50 P
+#20335
+ice wine~
+a glass of imported ice wine~
+A glass of imported ice wine is here.~
+unknown~
+drink 0 AO
+2 2 'icewine' 0 0
+1 1 55 P
+#20336
+silver buckled boots~
+a pair of {&sil{7ver {&buc{7kled{0 boots~
+A pair of {&sil{7ver {&buc{7kled{0 boots sit here.~
+leather~
+armor 0 AG
+40 30 45 40 0
+1 2 1000 P
+A
+2 2
+#20337
+blue feathered hat~
+a {$blue {#f{7e{&a{7t{#h{$ered {0hat~
+A {$blue {#f{7e{&a{7t{#h{$ered {0hat is on the ground.~
+velvet~
+armor 0 AE
+30 30 30 45 0
+1 1 995 P
+A
+3 2
+#20338
+blue velvet tunic~
+a {$b{4lue {$v{4elvet {$t{4unic{0~
+A {$b{4lue {$v{4elvet {$t{4unic{0 sits on the ground.~
+velvet~
+armor 0 AD
+50 35 50 40 0
+1 2 1025 P
+A
+5 2
+#20339
+blue velvet breeches~
+some {$b{4lue {$v{4elvet {$b{4reeches{0~
+Some {$b{4lue {$v{4elvet {$b{4reeches{0 lay neatly on the floor.~
+velvet~
+armor 0 AF
+40 20 45 40 0
+1 2 1000 P
+A
+4 2
+#20340
+black rogue doublet~
+a {7b{8lack {7r{8ogue's {7d{8oublet{0~
+A {7b{8lack {7r{8ogue's {7d{8oublet{0 lies here.~
+unknown~
+armor 0 AD
+50 45 50 45 0
+1 3 1100 P
+A
+1 2
+#20341
+green dutchess gown~
+the {@G{2reen {@D{2utchess {@G{2own{0~
+The {@G{2reen {@D{2utchess {@G{2own{0 lies neatly folded.~
+unknown~
+armor 0 AD
+50 50 50 50 0
+1 2 1500 P
+A
+12 50
+A
+13 50
+#20342
+black hooded cape~
+{8a {7l{8ong, {7b{8lack {7h{8ooded {7c{8ape{0~
+{8A {7l{8ong, {7b{8lack {7h{8ooded {7c{8ape{0 lies folded on the ground.~
+unknown~
+armor 0 AK
+50 45 50 55 0
+1 2 1500 P
+A
+12 50
+A
+24 5
+#20343
+pair leather shoes~
+{3a {#p{3air {#o{3f {#l{3eather {#s{3hoes{0~
+{3A {#p{3air {#o{3f {#l{3eather {#s{3hoes{0 sit on the ground.~
+unknown~
+armor 0 AG
+35 35 35 35 0
+1 2 995 P
+A
+2 1
+#20344
+raft~
+a small raft~
+A small raft is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+1 25 2500 P
+#20345
+canoe~
+a small canoe~
+A small canoe is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+1 10 3500 P
+#20346
+sailboat~
+a surpisingly light sailboat~
+A surpisingly light sailboat is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+1 4 5000 P
+#0
+
+
+
+#ROOMS
+#20301
+Village of Lonas~
+You are at the entrance to the village of Lonas in northwest Tansinia. 
+This is a small village with all of the houses and shops huddled in a circle
+around the grassy commons.  To the south, Lonas Road takes you out of the
+village.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20302
+D2
+~
+~
+0 0 20125
+S
+#20302
+Village Commons~
+You are in the village of Lonas in northwest Tansinia.  You are on the
+grassy village commons, surrounded by houses and shops.  There is a gravel
+path that goes through the commons to walk on.  East of here is a house.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20303
+D1
+~
+~
+0 0 20308
+D2
+~
+~
+0 0 20301
+D3
+~
+~
+0 0 20307
+S
+#20303
+Village Commons~
+You are in the village of Lonas in northwest Tansinia.  You are on the
+grassy village commons, surrounded by houses and shops.  There is a gravel
+path that goes through the commons to walk on.  There are houses north and
+east of here.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20310
+D1
+~
+~
+0 0 20309
+D2
+~
+~
+0 0 20302
+D3
+~
+~
+0 0 20304
+S
+#20304
+Village Square~
+You are in the village of Lonas in northwest Tansinia.  This is the
+village square, where a great stone statue stands.  The square is all gravel
+and looking north you can see the sea.  
+~
+0 524288 0
+E
+statue~
+This is a great statue of Lonas carved in stone.  He was the founder of
+the village, and his descendants have since been mayor.  
+~
+D0
+~
+~
+0 0 20324
+D1
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20307
+D3
+~
+~
+0 0 20305
+S
+#20305
+Village Commons~
+You are in the village of Lonas in northwest Tansinia.  You are on the
+grassy village commons, surrounded by houses and shops.  There is a gravel
+path that goes through the commons to walk on.  The mayor's residence, a
+large L-shaped house, is to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20312
+D1
+~
+~
+0 0 20304
+D2
+~
+~
+0 0 20306
+S
+#20306
+Village Commons~
+You are in the village of Lonas in northwest Tansinia.  You are on the
+grassy village commons, surrounded by houses and shops.  There is a gravel
+path that goes through the commons to walk on.  You see the large inn to the
+south and a shop to the west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20305
+D1
+~
+~
+0 0 20307
+D3
+~
+~
+0 0 20311
+S
+#20307
+Village Commons~
+You are in the village of Lonas in northwest Tansinia.  You are on the
+grassy village commons, surrounded by houses and shops.  There is a gravel
+path that goes through the commons to walk on.  The entrance to the inn is
+south.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20304
+D1
+~
+~
+0 0 20302
+D2
+~
+~
+0 0 20315
+D3
+~
+~
+0 0 20306
+S
+#20308
+A House~
+You are inside a nice house.  The floor is wooden and there are windows
+on every side of the house.  There is a round wooden table with a large rug
+underneath it.  There are flower pots on the window sills, and there is a
+large sink.  There is a stove with a pot of soup cooking on it.  
+~
+0 524296 0
+D3
+~
+~
+0 0 20302
+S
+#20309
+A House~
+You are inside a house where the village sculptor lives.  There is a
+worktable with all kinds of chisels and other sculpting tools on it.  The
+floor is covered with dust, and clumps of rock are in a pile, waiting to be
+chiseled.  
+~
+0 524296 0
+D3
+~
+~
+0 0 20303
+D5
+~
+~
+1 0 20334
+S
+#20310
+A House~
+You are inside a house.  It is somewhat dark in here, but the fireplace
+here gives the house a pleasant glow.  There are windows above the sink that
+look out at the sea and some windows that let you see the forest to the
+east.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20303
+S
+#20311
+Supply Shop~
+You are inside the Lonas supply shop.  The floor is made of tan, large
+square tiles.  There is a long counter that stretches from the north wall
+across the room to the south wall, preventing you from getting to the other
+side.  On the wall behind the counter are many shelves of items.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20306
+S
+#20312
+Mayor's Residence~
+You are inside the mayor's residence.  This place is very nice, large
+rugs cover the floor, many bookshelves full of novels and such, and a good
+view of the sea through the large windows.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20305
+D3
+~
+~
+0 0 20313
+S
+#20313
+Mayor's Residence~
+You are inside the mayor's residence.  This place is very nice, large
+rugs cover the floor, many bookshelves full of novels and such, and a good
+view of the sea through the large windows.  There is a couch and a few
+chairs and a large brick fireplace on the east wall.  This room is where
+people discuss issues with the mayor.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20312
+D2
+~
+~
+0 0 20314
+S
+#20314
+Mayor's Residence~
+You are inside the mayor's residence.  This place is very nice, large
+rugs cover the floor, many bookshelves full of novels and such, and a good
+view of the sea through the large windows.  The kitchen is in the southeast
+part of the room and the mayor's desk is on the west side.  
+~
+0 524296 0
+E
+desk~
+You see a large desk with papers neatly stacked on it.  
+~
+D0
+~
+~
+0 0 20313
+S
+#20315
+Lonas Inn~
+You are in the Lonas Inn.  There is a large wooden bar along the south
+wall with many wooden stools with it.  The floor is wooden, and the walls
+are a white stucco.  There are many tables in the room, able to accomodate
+many visitors.  There lots of lamps on the tables that light the inn.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20307
+D3
+~
+~
+0 0 20316
+S
+#20316
+Lonas Inn~
+You are in the Lonas Inn.  There is a large wooden bar along the south
+wall with many wooden stools with it.  The floor is wooden, and the walls
+are a white stucco.  There are many tables filled with people having a good
+time.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20315
+D3
+~
+~
+0 0 20317
+S
+#20317
+Lonas Inn~
+You are in the west end of the inn.  There is a desk here with a large
+sign in book to stay the night in one of the rooms upstairs.  You heard the
+rooms were nice for the price.  You see some stairs in the northwest corner
+of the room that lead upstairs.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20316
+D4
+~
+~
+0 0 20318
+S
+#20318
+A Narrow Hallway~
+You are in a narrow hallway in the upstairs part of the inn.  There are
+stairs that lead down into the main room of the inn.  The narrow hallway
+goes east, with doors to the three rooms on the south.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20320
+D2
+~
+~
+1 20319 20319
+D5
+~
+~
+0 0 20317
+S
+#20319
+A Small Room~
+You are in one of the small inn rooms.  There is a window on the south
+wall and a medium sized bed with a large fluffy pillow and thick quilts.  
+~
+0 525320 0
+D0
+~
+~
+1 20319 20318
+S
+#20320
+A Narrow Hallway~
+You are in a narrow hallway in the upstairs part of the inn.  The floor
+is wooden and the walls are white stucco.  There are a few candles lit along
+the walls.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20322
+D2
+~
+~
+1 20321 20321
+D3
+~
+~
+0 0 20318
+S
+#20321
+A Small Room~
+You are in one of the small inn rooms.  There is a window on the south
+wall and a medium sized bed with a large fluffy pillow and thick quilts.  
+~
+0 525320 0
+D0
+~
+~
+1 20321 20320
+S
+#20322
+A Narrow Hallway~
+You are at the end of a narrow hallway in the upstairs part of the inn. 
+The floor is wooden and the walls are white stucco.  There are a few candles
+lit along the walls.  
+~
+0 524296 0
+D2
+~
+~
+1 20323 20323
+D3
+~
+~
+0 0 20320
+S
+#20323
+A Small Room~
+You are in one of the small inn rooms.  There is a window on the south
+wall and a medium sized bed with a large fluffy pillow and thick quilts.  
+~
+0 525320 0
+D0
+~
+~
+1 20323 20322
+S
+#20324
+Gravel Road~
+You are on a gravel road through the village of Lonas.  There are small
+houses along the road that heads north to the sea.  You see the village
+square to the south, where a big statue is.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20325
+D2
+~
+~
+0 0 20304
+S
+#20325
+Gravel Road~
+You are on a gravel road through the village of Lonas.  There are small
+houses along the road that heads north to the sea.  You can see the sea a
+ways to the north, and to the east you see a castle.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20327
+D1
+~
+~
+0 0 20326
+D2
+~
+~
+0 0 20324
+S
+#20326
+Gravel Road~
+You are on a gravel road in the village of Lonas.  There is a castle to
+the east with a glass, pyramid roof, having beams of light come in and out
+of it.  You are able to see the sea, nearby to the north.  A pleasant breeze
+blows off of it.  
+There is a sign stuck in the ground.
+~
+0 524288 0
+E
+sign~
+{3This Castle belongs to {&C{7l{7a{8n {6Wi{8n{7ther{8o{6th{0
+~
+D1
+~
+~
+4 708 700
+D3
+~
+~
+0 0 20325
+S
+#20327
+Gravel Road~
+You are on a gravel road through the village of Lonas.  There are small
+houses along the road that heads to the sea.  You can the docks just north
+of here.  Seagulls fly in circles above you.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20328
+D2
+~
+~
+0 0 20325
+S
+#20328
+The Lonas Seaside~
+You are at the seaside in the village of Lonas.  Looking out over the
+beautiful sea, you wonder what lies beyond it.  There are docks to the
+north, and there are a few establishments around here.  There are many
+houses to the south along the gravel path that goes through Lonas.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20329
+D1
+~
+~
+0 0 20332
+D2
+~
+~
+0 0 20327
+D3
+~
+~
+0 0 20333
+S
+#20329
+The Docks~
+You are on the docks of Lonas.  Looking over the edge, the water is
+surprisingly clear, and you can see fish swimming around.  A nice breeze
+blows in from the sea.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20330
+D1
+~
+~
+0 0 20331
+D2
+~
+~
+0 0 20328
+D3
+~
+~
+0 0 9451
+S
+#20330
+The Docks~
+You are on the docks of Lonas.  Looking over the edge, the water is
+surprisingly clear, and you can see fish swimming around.  A nice breeze
+blows in from the sea.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20329
+D3
+~
+~
+0 0 9450
+S
+#20331
+The Docks~
+You are on the docks of Lonas.  Looking over the edge, the water is
+surprisingly clear, and you can see fish swimming around.  A nice breeze
+blows in from the sea.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20329
+S
+#20332
+The Horizon Bar & Grill~
+You are inside the Horizon bar and grill.  There are large bay windows on
+the walls so you can see the sea outside.  You smell fish grilling in the
+back and you see a waitress going from table to table.  
+~
+0 524296 0
+D3
+~
+~
+0 0 20328
+S
+#20333
+The Seaside Store~
+You are at the seaside store.  This store will meet all of your clothing
+needs.  There are racks of clothes all along the walls and there is a
+counter in the west end of the room.  There is a doorway to the east that
+leads outside.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20328
+S
+#20334
+An Outpost~
+You are in a secret Residence Outpost.  The room is very small, and not
+well-lit.  There are papers everywhere, due to a lack of storage space.  
+~
+0 524288 0
+D4
+~
+~
+1 0 20309
+S
+#0
+
+
+
+#SPECIALS
+M 20303 spec_dog_pee
+M 20315 spec_cast_cleric
+M 20316 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 20309 5 2
+D 0 20318 2 2
+D 0 20319 0 2
+D 0 20320 2 2
+D 0 20321 0 2
+D 0 20322 2 2
+D 0 20323 0 2
+D 0 20326 1 2
+D 0 20334 4 2
+M 0 20310 6 20301 1
+M 0 20310 6 20303 1
+M 0 20335 3 20304 1
+M 0 20303 2 20305 1
+M 0 20310 6 20306 1
+M 0 20303 2 20307 1
+M 0 20309 1 20309 1
+M 0 20310 6 20310 1
+M 0 20311 1 20311 1
+G 0 3086 0
+G 0 20306 0
+G 0 3031 0
+M 0 20310 6 20312 1
+M 0 20313 1 20313 1
+O 0 20316 0 20315
+O 0 20317 0 20315
+M 0 20315 1 20315 1
+M 0 20310 6 20315 1
+O 0 20316 0 20316
+O 0 20317 0 20316
+M 0 20316 1 20316 1
+M 0 20317 1 20317 1
+G 0 20315 0
+G 0 20307 0
+G 0 20302 0
+G 0 20319 0
+G 0 20321 0
+G 0 20323 0
+O 0 20318 0 20319
+M 0 20310 6 20320 1
+O 0 20318 0 20321
+O 0 20318 0 20323
+M 0 20335 3 20327 1
+M 0 20335 3 20330 1
+M 0 20334 1 20331 1
+G 0 20344 0
+G 0 20345 0
+G 0 20346 0
+M 0 20332 1 20332 1
+G 0 20332 0
+G 0 20333 0
+G 0 20334 0
+G 0 20330 0
+G 0 20335 0
+M 0 20333 1 20333 1
+G 0 20336 0
+G 0 20337 0
+G 0 20338 0
+G 0 20339 0
+G 0 20340 0
+G 0 20341 0
+G 0 20342 0
+G 0 20343 0
+S
+
+
+
+#SHOPS
+20311 0 0 0 0 0 80 120 0 23
+20317 0 0 0 0 0 100 100 0 23
+20332 0 17 19 0 0 120 80 0 23
+20333 0 9 1 15 33 120 80 0 23
+20334 0 0 0 0 0 120 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

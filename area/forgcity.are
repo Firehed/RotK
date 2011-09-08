@@ -1,0 +1,2260 @@
+#AREADATA
+Name Forgotten City~
+Builders Karu~
+VNUMs 20351 20450
+Credits [ 85+ ] Karu    Forgotten City~
+Security 9
+End
+
+
+
+#MOBILES
+#20351
+Forgotten guard~
+{DF{ror{Dgo{rtt{Den {bG{wu{ba{wr{bd{x~
+{DF{ror{Dgo{rtt{Den {bG{wu{ba{wr{bd{x is here, keeping eye on you.
+~
+Those guards are the elder warriors of this city.
+Because of their age, they are only guards now.
+Yet they are most skilled and can easily defeat you.
+~
+Human~
+ABFG CDFG 0 -1000 0
+200 40 1d1+7500 150d10+100 1d1+215 none
+0
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 20353 50~
+M GREET 20351 100~
+#20352
+Lost Citizen~
+{bL{ro{bs{rt {bC{ri{bt{ri{bz{re{bn{x~
+{bL{ro{bs{rt {bC{ri{bt{ri{bz{re{bn{x awaits you to guide him home.
+~
+Citizen of the Forgotten city, they never lose hope that one day they still
+can go and explore th world
+without fearing for their lives.
+~
+Human~
+ABG DV CD -1000 0
+175 35 1d1+7800 1d1+100 1d1+20 none
+18
+C H I D
+stand stand none 900
+AHM ABCDEFGHIJK medium mammal
+F for V
+#20353
+Lost Child~
+{bL{wo{bs{wt {bC{wh{bi{wl{bd{x~
+{bL{wo{bs{wt {bC{wh{bi{wl{bd{x is here, looking for his mommy.
+~
+Little children often get lost in huge city. Especially if the city is
+so strange and mysterious like this one. They prefear to walk on the
+streets than study in school because they don't belive in chances
+to get out from here and use their knowledge around the world.
+~
+Human~
+ABG DF CE -500 0
+175 35 1d1+5200 1d1+100 1d1+20 slap
+-12
+FK M I 0
+stand stand male 1320
+AHMV ABCDEFGHIJK medium flesh
+M GIVE 20354 banana~
+#20354
+Forgotten elder~
+{rF{Do{rr{Dg{ro{Dt{rt{De{rn E{Dl{rd{De{rr{x~
+{rF{Do{rr{Dg{ro{Dt{rt{De{rn E{Dl{rd{De{rr{x recalls his sweet childhood.
+~
+~
+Human~
+ABG V C -500 0
+175 30 1d1+9000 1d1+100 1d1+250 pierce
+-12
+K G 0 C
+stand stand male 1900
+AHMV ABCDEFGHIJK medium mammal
+#20355
+Lost Caravan~
+{BL{bo{Bs{bt {wC{ra{wr{ra{wv{ra{wn{x~
+{BL{bo{Bs{bt {wC{ra{wr{ra{wv{ra{wn{x offers you the goods he have.
+~
+~
+Human~
+ABGOc 0 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 20352 100~
+#20356
+old beggar~
+{bO{Bl{wd {yB{we{ygg{wa{yr{x~
+{bO{Bl{wd {yB{we{ygg{wa{yr{x is here reaching up to you.
+~
+~
+Elf~
+ABGOc CDEFGJTVZc CDEPQRS 0 0
+110 200 1d1+1 0d0+0 200d100+1 none
+-1000
+0 BDFGHINPRZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+F vul Z
+M SPEECH 20357 no~
+M SPEECH 20356 yes~
+M GREET 20355 500~
+M GIVE 20358 life~
+#20357
+jane~
+{YJane{x~
+{wGirl named {YJane{w walks with sad face.{x
+~
+~
+Human~
+ABGOc CDEFGJZ 0 0 0
+110 200 1d1+1 1d1+300 1d1+500 slap
+-300
+0 BDFGIJR 0 0
+stand stand female 12000
+AHMV ABCDEFGHIJK medium unknown
+M ACT 20362 smiles at you.~
+M ACT 20361 pokes you in the ribs.~
+M SPEECH 20359 beggar~
+M GIVE 20360 nartsiss~
+#0
+
+
+
+#OBJECTS
+#20351
+Lost leggings~
+{bL{wos{bt {rLe{wgg{rin{wgs{x~
+{bL{wos{bt {rLe{wgg{rin{wgs{x lies here.~
+unknown~
+armor INW AF
+120 120 100 90 0
+101 1 1000 P
+A
+19 35
+A
+18 35
+A
+13 200
+#20352
+lost hat~
+{bLost {RHat {Dof {cTaara{x~
+{bLost {RHat {Dof {cTaara{x lies here.~
+cotton~
+armor N AE
+45 45 45 45 0
+101 1 1200 P
+A
+2 3
+A
+13 35
+A
+14 35
+#20353
+Lost amulet~
+{bLo{Dst {DAmu{blet{x~
+{bLo{Dst {DAmu{blet{x lies here.~
+gold~
+armor ABI AC
+55 55 55 55 0
+100 2 3200 P
+A
+24 45
+A
+18 20
+A
+19 20
+#20354
+blue potion~
+{bBlue {rpotion{x~
+{bBlue {rpotion{x lies here~
+unknown~
+potion GV A
+150 'frenzy' 'sanctuary' 'haste' 'giant strength'
+100 1 1300 P
+#20355
+pill knowledge~
+{YPill {Dof {wKnowledge{x~
+{YPill {Dof {wKnowledge{x has been left here.~
+unknown~
+token N A
+CE 0 0 0 0
+1 1 0 P
+#20356
+life~
+{WPill {wof {YLife{x~
+{WPill {wof {YLife{x has been left here.~
+unknown~
+pill N AO
+110 'cure light' 'cure serious' 'cure critical' 'demonfire'
+105 1 0 P
+#20357
+nartsiss~
+{yFlower {wnamed {Y"Nartsiss"{x~
+{yFlower {wnamed {Y"Nartsiss"{x lies here.~
+magic~
+trash NP AO
+0 0 0 0 0
+1 0 0 P
+#20358
+huge pill~
+{cHuge {wpill{x~
+{cHuge {wpill{x lies here.~
+unknown~
+pill 0 AO
+110 'heal' 'heal' 'heal' 'heal'
+0 0 0 P
+#20359
+death~
+death~
+Death pill is here~
+unknown~
+pill N AO
+110 'demonfire' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#20351
+Small Path~
+The bath leads out from the forest, right in front of the
+walls of Forgotten City. The town what have been cut away
+from reality because ofthe anger of the gods. The city doesn't
+have any hope to come out fromthis pathetic situation.
+~
+0 524292 0
+D0
+~
+~
+0 0 20352
+D3
+~
+~
+0 0 6107
+S
+#20352
+Before the Gates~
+The bath leads out from the forest, right in front of the walls of
+Forgotten City.  The town what have been cut away from reality because ofthe
+anger of the gods.  The city what doesn't have any hope to come out fromthis
+pathetic situation.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20353
+D2
+~
+~
+0 0 20351
+S
+#20353
+The Gates of Forgotten City~
+Heavily guarded walls are surrounding the city from every side.  The only
+entrance to this city is this enormous gate made of steel.  These huge gates
+are rusty and covered with dry blood, as a sign of sorrow what lies on that
+city.  
+~
+0 525312 0
+D0
+~
+~
+0 0 20354
+D2
+~
+~
+0 0 20352
+S
+#20354
+Inside the City~
+The sound of the closing gates makes everybody realize that the only
+death can take you out from this city.  As they are throwing their dead to
+the streets, where chariot picks them up and takes outside of the city.  The
+wrath of Ares has doomed this city as his spirits kill every living being
+who walk out from the gates.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20355
+S
+#20355
+Inside the City~
+The sound of the closing gates makes everybody realize that the only
+death can take you out from this city.  As they are throwing their dead to
+the streets, where chariot picks them up and takes outside of the city.  The
+wrath of Ares has doomed this city as his spirits kill every living being
+who walk out from the gates.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20356
+D2
+~
+~
+0 0 20354
+S
+#20356
+Main Street~
+There is quite busy traffic at main street.  Everybody seems to be in
+hurry of reaching somewhere.  Better be careful, put the wallet in safe
+place if you don't want that these small dirty thieves will steal it.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20357
+D3
+~
+~
+0 0 20355
+S
+#20357
+Main Street~
+There is quite busy traffic at main street.  Everybody seems to be in
+hurry of reaching somewhere.  Better be careful, put the wallet in safe
+place if you don't want that these small dirty thieves will steal it.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20358
+D3
+~
+~
+0 0 20356
+S
+#20358
+Main Street~
+Both side of the street are huge houses, more like villas, covered with
+gold and steel.  All of them have guards infront of them, so there is no
+chance to peek inside these houses.  They must belong to the elders of this
+city, who come out only on the time of festivals or to the meetings.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20359
+D3
+~
+~
+0 0 20357
+S
+#20359
+Main Street~
+Both side of the street are huge houses, more like villas, covered with
+gold and steel.  All of them have guards infront of them, so there is no
+chance to peek inside these houses.  They must belong to the elders of this
+city, who come out only on the time of festivals or to the meetings.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20360
+D2
+~
+~
+0 0 20358
+S
+#20360
+End of the Main Street~
+The large street ends and continues only with a small dirty path to the
+west.  Citizens call it small china town because of the small and low houses
+what have been built there by the bore people who can't afford to live in
+normal houses.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20359
+D3
+~
+~
+0 0 20361
+S
+#20361
+Backyard~
+The narrow and mucky street with small houses and barracks.  Old men with
+raggedy clothes begs you to listen his story of his sad life.  It's not hard
+to figure that it's the district of the poor people.  The children of the
+criminals and thieves who have a bit more than low intellectual.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20360
+D2
+~
+~
+0 0 20362
+S
+#20362
+Backyard~
+The narrow and mucky street, with small houses and barracks.  Old men
+with raggedy clothes begs you to listen his story of his sad life.  It's not
+hard to figure that it's the district of the poor people.  The children of
+the criminals and thieves, who have a bit more than low intellectual.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20361
+D3
+~
+~
+0 0 20363
+S
+#20363
+Backyard~
+When you tried to walk through the yard infront of the bub, several
+drunken men started to follow.  Well now it's too late to find out that
+coming here was a bad idea.  Running would be the best idea, because they
+don't like the snobs like you.  No time to look back, just run for your
+life.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20362
+D3
+~
+~
+0 0 20364
+S
+#20364
+Around the corner~
+Finally you lost them, it must have be your lucky day.  Otherwise these
+barbarians would rob and kill everybody who stands on their way.  Because of
+the rush there is in the situation of running from someone you didn't
+realize that it's a blind alley.  Only way out seems to be small gate to the
+north.
+~
+0 524288 0
+D0
+~
+~
+0 0 20365
+D1
+~
+~
+0 0 20363
+S
+#20365
+The eastern avenue~
+The gate takes to the avenue what is edged with high trees.  This is the
+first time you hear some birds singing, even if it's black raven.  Even
+beggar with one eye and painful legs forgot his problems while he is
+listening the children laughing and singing because of the joy.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20366
+D2
+~
+~
+0 0 20364
+S
+#20366
+The eastern avenue~
+The gate takes to the avenue what is edged with high trees.  This is the
+first time you hear some birds singing, even if it's black raven.  Even
+beggar with one eye and painful legs forgot his problems while he is
+listening the children laughing and singing because of the joy.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20367
+D2
+~
+~
+0 0 20365
+S
+#20367
+The eastern avenue~
+The avenue with high trees and statues seems to be endless.  Because of
+all this beauty what is surrounding you, it seems to be impossible to not
+start thinking about staying here forever and the same feeling seems to
+control all the other people who are walking on the alley.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20368
+D3
+~
+~
+0 0 20366
+S
+#20368
+The eastern avenue~
+The avenue with high trees and statues seems to be endless.  Because of
+all this beauty what is surrounding you, it seems to be impossible to not
+start thinking about staying here forever and the same feeling seems to
+control all the other people who are walking on the alley.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20369
+D3
+~
+~
+0 0 20367
+S
+#20369
+End of the Eastern Avenue~
+While you were walking along the avenue, thinking and dreaming what there
+could be and what there may come, the avenue ends without you even realizing
+it.  Try to save these last views in your memory and get back in reality
+with a fact that there is no escape from this city.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20370
+D2
+~
+~
+0 0 20368
+S
+#20370
+End of the Eastern Avenue~
+While you were walking along the avenue, thinking and dreaming what there
+could be and what there may come, the avenue ends without you even realizing
+it.  Try to save these last views in your memory and get back in reality
+with a fact that there is no escape from this city.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20371
+D2
+~
+~
+0 0 20369
+S
+#20371
+The Eastern Side of City~
+The eastern side of city, decorated with lots of ornaments and statues.
+Here are many marks about high intelligent people and strong law and order.
+There is no trash on the streets, it's clean. Is it thanks for these guards
+on the street or is it just the best side of the town?
+~
+0 524288 0
+D0
+~
+~
+0 0 20372
+D3
+~
+~
+0 0 20370
+S
+#20372
+The Eastern Side of City~
+The eastern side of city, decorated with lots of ornaments and statues.
+Here are many marks about high intelligent people and strong law and order.
+There is no trash on the streets, it's clean. Is it thanks for these guards
+on the street or is it just the best side of the town?
+~
+0 524288 0
+D0
+~
+~
+0 0 20373
+D2
+~
+~
+0 0 20371
+S
+#20373
+The Eastern Side of City~
+There is no sign of any kind of disorder here.  Everybody is so calm and
+decent.  It is too good to be true.  You feel that spending a night here
+isn't a good idea.  There are definately some dark powers behind that calm
+and decent attitude of the citizens of this part of town.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20374
+D2
+~
+~
+0 0 20372
+D3
+~
+~
+0 0 20375
+S
+#20374
+Small Shop~
+Old man stands behind the desk and offers you the best weapons, shields
+and Other shiny armor what he has created in the hope that someday he will
+be able To sell them and ear some money.  He is the old blacksmith of this
+down.  Some dark potions hang on the wall and the eastern wall is covered
+with Strange items what has not been seen on earth before.  
+~
+0 787460 0
+D3
+~
+~
+0 0 20373
+S
+#20375
+The Eastern Side of City~
+At last!  There it is, the way what will lead out from this place.  Oh,
+that place is too mysterious.  You have been in many places but haven't seen
+anything like that ever before!  There are rumors that there are some old
+warehouses from north but there doesn't seem to be any road what could take
+you there!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20376
+D1
+~
+~
+0 0 20373
+S
+#20376
+The Eastern Side of City~
+At last!  There it is, the way what will lead out from this place.  Oh,
+that place is too mysterious.  You have been in many places but haven't seen
+anything like that ever before!  There are rumors that there are some old
+warehouses from north but there doesn't seem to be any road what could take
+you there!  Small path continues to the west.  
+~
+0 524288 0
+D0
+~
+~
+1 0 20377
+D2
+~
+~
+0 0 20375
+D3
+~
+~
+0 0 20383
+S
+#20377
+Old Warehouse~
+The old warehouse is dark and moist.  All walls, ceilings and floors are
+covered with spider's web.  Old and heavy weapons are heaped up in the
+corner.  Looks like nobody have not been here for ages.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20378
+D2
+~
+~
+1 0 20376
+S
+#20378
+Old Warehouse~
+The old warehouse is dark and moist.  All walls, ceilings and floors are
+covered with spider's web.  Old and heavy weapons are heaped up in the
+corner.  Looks like nobody have not been here for ages.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20377
+D3
+~
+~
+0 0 20379
+S
+#20379
+Old Warehouse~
+The old warehouse is dark and moist.  All walls, ceilings and floors are
+covered with spider's web.  Old and heavy weapons are heaped up in the
+corner.  Looks like nobody have not been here for ages.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20378
+D3
+~
+~
+0 0 20380
+S
+#20380
+Office of the Warehouseman~
+In the middle of the room there is huge desk and a big book on it.  In
+that book, there is everything marked in correct order.  To who and what
+have been given out and what has been returned.  Inside the wall there is
+awesome safe, definitely full of money but the lock of this safe is so
+rusted that even the strongest man could not open it!  
+~
+0 524288 0
+D1
+~
+~
+0 0 20379
+D2
+~
+~
+0 0 20381
+S
+#20381
+Office of the Warehouseman~
+In the middle of the room there is huge desk and a big book on it.  In
+that book, there is everything marked in correct order.  To who and what
+have been given out and what has been returned.  Inside the wall there is
+awesome safe, definitely full of money but the lock of this safe is so
+rusted that even the strongest man could not open it!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20380
+D1
+~
+~
+0 0 20382
+S
+#20382
+Old Warehouse~
+The old warehouse is dark and moist.  All walls, ceilings and floors are
+covered with spider's web.  Old and heavy weapons are heaped up in the
+orner.  Looks like nobody have not been here for ages.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20383
+D3
+~
+~
+0 0 20381
+S
+#20383
+Path of Law~
+While the thoughts about the money in the safe and about all these
+ancient weapons didn't gave you the peace of the mind, you accidentally
+turned to the small path.  There was a small sign what sees: "Always Law and
+Order!"  .  Can it be?  Can it really be possible that it's the path of law?
+Yes it is, the path along what all criminals will be taken to the final
+court because of their sins.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20376
+D3
+~
+~
+0 0 20384
+S
+#20384
+In front of the Courthouse~
+In front of the courthouse are two statues the Goddess of Law and Order
+and just next to the door there are two statues of half lion and half human,
+they are symbolizing the Guards of Justice.  Already then, when you are
+outside of this house, you know that if you enter there is no way back
+anymore!  
+~
+0 524288 0
+D1
+~
+~
+0 0 20383
+D3
+~
+~
+0 0 20385
+S
+#20385
+In front of the Courthouse~
+In front of the courthouse are two statues the Goddess of Law and Order
+and just next to the door there are two statues of half-lion and half human,
+they are symbolizing the Guards of Justice.  Already then, when you are
+outside of this house, you know that if you enter there is no way back
+anymore!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20386
+D1
+~
+~
+0 0 20384
+S
+#20386
+The Courthouse~
+The court is full of people and everybody are exited to see what will
+happen with the criminals.  You look around to see who is the criminal and
+how he look like but there isn't anybody who would look like a prisoner. 
+Before anybody could notice, two strong guards stand up to you for taking
+you away to the small room behind the hall.  The last word what game from
+the hall, what you pearly heard was guilty!  Oh god, you were the one who
+got charged on something.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20387
+D2
+~
+~
+0 0 20385
+S
+#20387
+The Prison Corridor~
+The corridor is cold and dark, little windows are so high under the
+ceiling that escaping is impossible!  The only sign of life here are the
+screams of the other prisoners, old, dirty, cruel and not quite much
+intellectual too.  There are big and massive cell doors both sides of the
+corridor.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20388
+D1
+~
+~
+0 0 20389
+D3
+~
+~
+0 0 20391
+S
+#20388
+The prison corridor~
+The corridor is cold and dark, little windows are so high under the
+ceiling that escaping is impossible!  The only sign of life here are the
+screams of the other prisoners, old, dirty, cruel and not quite much
+intellectual too.  There are big and massive cell doors both sides of the
+corridor.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20390
+D2
+~
+~
+0 0 20387
+S
+#20389
+The Prison Cell~
+In the corner of the prison cell is a mysterious skeleton, who's skeleton
+it could be, the last traveler who were brought here!  Does everybody, who
+has been brought in here, have the same destiny?  There must be some secret
+passage out from here otherwise you are cone!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20390
+D3
+~
+~
+0 0 20387
+S
+#20390
+The Prison Cell~
+In the corner of the prison cell is a mysterious skeleton, who's skeleton
+it could be, the last traveler who were brought here!  Does everybody, who
+has been brought in here, have the same destiny?  There must be some secret
+passage out from here otherwise you are cone!  
+~
+0 524288 0
+D2
+~
+~
+0 0 20389
+D3
+~
+~
+0 0 20388
+S
+#20391
+The Prison Cell~
+In the corner of the prison cell is a mysterious skeleton, who's skeleton
+it could be, the last traveler who were brought here!  Does everybody, who
+has been brought in here, have the same destiny?  There must be some secret
+passage out from here otherwise you are cone!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20392
+D1
+~
+~
+0 0 20387
+S
+#20392
+The Prison Cell~
+In the corner of the prison cell is a mysterious skeleton, who's skeleton
+it could be, the last traveler who were brought here!  Does everybody, who
+has been brought in here, have the same destiny?  There must be some secret
+passage out from here otherwise you are cone!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20393
+D2
+~
+~
+0 0 20391
+S
+#20393
+The Prison Cell~
+Thanks for the skeleton you got transferred to here, this cell is not
+much different from the last one but maybe here there is a chance to escape.
+So keep looking the open rocks and hidden holes in the corner!  After
+bushing the big rock in the wall it started to shatter and moving, the
+little way opened behind it!  Quick, use it before somebody else finds it!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20394
+D2
+~
+~
+0 0 20392
+S
+#20394
+The Prison Cell~
+Through the small hole you reached to the small cell, DO'H just another
+prison cell!  But wait, the door is not locked.  Go, run for your life and
+don't come back here anymore!  The Rusted door opened slowly and you step in
+the corridor, there is only one way to go, door to the east!  
+~
+0 524288 0
+D1
+~
+~
+0 0 20395
+D2
+~
+~
+0 0 20393
+S
+#20395
+The Living-room of the Prison Guards~
+Behind the strong wooden door, the living quarters of the guards can be
+found!  There are some swords on the table and war equipment on the bed. 
+No, better let these be as they are because moving these would make a noise
+but that is a last thing what would be use right now.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20396
+D3
+~
+~
+0 0 20394
+S
+#20396
+The Living-room of the Prison Guards~
+Behind the strong wooden door, the living quarters of the guards can be
+found!  There are some swords on the table and war equipment on the bed. 
+No, better let these be as they are because moving these would make a noise
+but that is a last thing what would be use right now.  I think that there is
+better to find out what is behind the door on the west.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20395
+D3
+~
+~
+1 0 20397
+S
+#20397
+The Office of the Governor~
+Governor office is full of some kind of scrolls and there are lots of
+diplomas on the walls.  Huge heap of papers are on the desk, on top of it is
+the arrestment order of yours, grab it and be cone.  Not everybody will get
+a second chance.
+~
+0 524288 0
+D0
+~
+~
+0 0 20398
+D1
+~
+~
+1 0 20396
+S
+#20398
+Long Path~
+Small path is taking through the small park to the long Northern Avenue.
+Many small but deep footsteps are inside the mud.  What could possibly have
+so small feet?  Something strange is going on here, total silent, not a one
+voice and not a single movement.  Well but north is the only way to move on
+because it can't be worse than a prison.
+~
+0 524288 0
+D0
+~
+~
+0 0 20399
+S
+#20399
+Long Path~
+Small path is taking through the small park to the long Northern Avenue.
+Many small but deep footsteps are inside the mud, coming behind the house
+and continuing to the north.  What could possibly have so small feet?
+Something strange is going on here, total silent, not a one voice and not a
+single movement.
+~
+0 524288 0
+D0
+~
+~
+0 0 20400
+D2
+~
+~
+0 0 20398
+S
+#20400
+Long Path~
+Still the same salience, something is definitely wrong here.  AND where
+are these small footsteps going?  All path is covered with them, strange,
+cause who would want to go to the fort, where everybody who enter, will be
+jailed.  And why here isn't any noise or why leafs on the trees aren't
+moving, not even a bit.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20401
+D2
+~
+~
+0 0 20399
+S
+#20401
+Long Path~
+Still the same salience, something is definitely wrong here. AND where
+are these small footsteps going? All path is covered with them, strange,
+cause who would want to go to the fort, where everybody who enter, will be
+jailed. And why here isn't any noise or why leafs on the trees aren't
+moving, not even a bit. There is a Northern Avenue to the north.
+~
+0 524288 0
+D0
+~
+~
+0 0 20402
+D3
+~
+~
+0 0 20400
+S
+#20402
+Northern Avenue~
+All other story, lots of small kids are running around schoolbooks in
+their hands.  Little birds are singing infront of the houses what children
+had been built for them.  Not far to the west is the schoolhouse.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20401
+D3
+~
+~
+0 0 20403
+S
+#20403
+In Front of the School~
+Infront of the schoolhouse is nice small park where little children are
+running and playing.  Already older students, those, who are teenagers, walk
+under the trees and usually in couples like they would be in love.  Some of
+the teachers are called them in after the bell rang but their laugh is too
+loud to hear it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20404
+D1
+~
+~
+0 0 20402
+D3
+~
+~
+0 0 20435
+S
+#20404
+The Library~
+"From where they have got that much books, and about what these books are
+talking about?"  Would be the very first thought what comes in head, when
+somebody enters here.  An old woman with a big smile comes closer, willing
+to help to find what ever you need!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20407
+D2
+~
+~
+0 0 20403
+D3
+~
+~
+0 0 20405
+S
+#20405
+The Library~
+All walls are filled with books, one is older than the other.  Books
+about the gods and adventures of ancient heroes.  An old woman with a big
+smile comes closer, willing to help to find what ever you need!  Why not
+look around in here for a bit?  Wisdom haven't ever hurt anybody, only made
+them smarter.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20406
+D1
+~
+~
+0 0 20404
+S
+#20406
+The Library~
+All walls are filled with books, one is older than the other.  Books
+about the gods and adventures of ancient heroes.  An old woman with a big
+smile comes closer, willing to help to find what ever you need!  Why not
+look around in here for a bit?  Wisdom haven't ever hurt anybody, only made
+them smarter.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20407
+D2
+~
+~
+0 0 20405
+S
+#20407
+The Library~
+All walls are filled with books, one is older than the other.  Books
+about the gods and adventures of ancient heroes.  An old woman with a big
+smile comes closer, willing to help to find what ever you need!  Small door
+to the north seems to be the entrance to the school.  Children are walking
+in and out from there.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20408
+D2
+~
+~
+0 0 20404
+D3
+~
+~
+0 0 20406
+S
+#20408
+The School~
+White walls are standing here like there weren't no yesterday.  Small
+pictures, drew by the children had been put on the wall.  Teacher is keeping
+an eye on the children who are resting or playing on the corridor between
+the lessons.  Few parents have been called to talk with principal.  Suppose
+that their sons are impish or have made mischief.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20409
+D1
+~
+~
+0 0 20412
+D2
+~
+~
+0 0 20407
+D3
+~
+~
+0 0 20410
+S
+#20409
+The School~
+White walls are standing here like there weren't no yesterday. Small
+pictures, drew by the children had been put on the wall. Teacher is keeping
+an eye on the children who are resting or playing on the corridor between
+the lessons. Few parents have been called to talk with principal. Suppose
+that their sons are impish or have made mischief. To the north there is a
+passage to the second floor.
+~
+0 524288 0
+D0
+~
+~
+0 0 20416
+D1
+~
+~
+0 0 20413
+D2
+~
+~
+0 0 20408
+D3
+~
+~
+0 0 20411
+S
+#20410
+English class~
+Teacher is writing huge letters on the blackboard.  English is the
+subject what has the highest priority.  This is the classroom, where all
+children learn their first letters and words.  Here is the first step of
+education.  Without this subject you can't go on with your life, read books,
+newspapers, magazines or speak with other peoples.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20408
+S
+#20411
+English class~
+Teacher is writing huge letters on the blackboard.  English is the
+subject what has the highest priority.  This is the classroom, where all
+children learn their first letters and words.  Here is the first step of
+education.  Without this subject you can't go on with your life, read books,
+newspapers, magazines or speak with other peoples.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20409
+D2
+~
+~
+0 0 20410
+S
+#20412
+Handiwork class~
+Teacher is teaching girls to knit and sew.  If the girl will grow up And
+get married one day then they need to know how to knit and sew.  Few of them
+may even become professional weavers, and they surely are Needed.  For a
+first task they have to knit a pair of socks.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20413
+D1
+~
+~
+0 0 20415
+D3
+~
+~
+0 0 20408
+S
+#20413
+Handiwork class~
+Teacher is teaching girls to knit and sew.  If the girl will grow up And
+get married one day then they need to know how to knit and sew.  Few of them
+may even become professional weavers, and they surely are Needed.  For a
+first task they have to knit a pair of socks.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20414
+D2
+~
+~
+0 0 20412
+D3
+~
+~
+0 0 20409
+S
+#20414
+Woodwork class~
+Old master is teaching young boys to understand the secrets of woodwork. 
+Carpenters and joiners will always find a job, because of the woodworms who
+are eating the houses and furniture.  Different kind of chisels and saws are
+on the table.  Few boys are looking hammers for hammer nails into the wood. 
+~
+0 524288 0
+D2
+~
+~
+0 0 20415
+D3
+~
+~
+0 0 20413
+S
+#20415
+Woodwork class~
+Old master is teaching young boys to understand the secrets of woodwork. 
+Carpenters and joiners will always find a job, because of the woodworms who
+are eating the houses and furniture.  Different kind of chisels and saws are
+on the table.  Few boys are looking hammers for hammer nails into the wood. 
+~
+0 524288 0
+D0
+~
+~
+0 0 20414
+D3
+~
+~
+0 0 20412
+S
+#20416
+Small corridor~
+Small corridor is taking to the dining-room and to the staircase, what
+leads to the second floor.  Several small wash-hand basins are in the
+corner.  Children have been instructed to wash their hands before they start
+to eat, because it helps to keep the city clean from diseases.  Health is
+one of the most important things in the city, which can't get medicines from
+outside.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20420
+D1
+~
+~
+0 0 20417
+D2
+~
+~
+0 0 20409
+S
+#20417
+Dining-room~
+Children are standing in line while teacher controls that are their Hands
+washed.  Those who have dirty hands will be send to wash their Hands and
+after that they have to go to the end of the line.  That is The price of lie
+and liars don't like to the others.  Fat cook shares the food to everybody,
+equal small portions will be carried to the table.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20418
+D3
+~
+~
+0 0 20416
+S
+#20418
+Dining-room~
+Children are standing in line while teacher controls that are their Hands
+washed.  Those who have dirty hands will be send to wash their Hands and
+after that they have to go to the end of the line.  That is The price of lie
+and liars don't like to the others.  Fat cook shares the food to everybody,
+equal small portions will be carried to the table.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20419
+D3
+~
+~
+0 0 20417
+S
+#20419
+Kitchen~
+Two cooks are sitting in front of the stove and cook a blueberry pie. 
+The third and the oldest, seems to make up tomorrow's menu.  Little kitchen
+boy is running around the kitchen and cleans up all garbage What he can
+find, because if he is doing good work, then one day he may become a cook's
+assistant.  Cook's wife is on the window what takes to the dining-room and
+shares the lunch.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20418
+S
+#20420
+Staircase~
+Small stairs are taking up to the second floor, there are classes to the
+advanced students and of course there is a gym for those who like to Train
+their body.  Young children are not allowed to the second floor, because it
+is dangerous in the chemistry and physics class and they may fall on the
+staircase.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20416
+D4
+~
+~
+0 0 20421
+S
+#20421
+Second floor~
+You came up from the stares and reached to the second floor of this
+school.  Here are some classrooms and gym where all children can train
+themselves.  On this floor there are already older students, they don't run
+around and scream.  They just walk slowly or sit behind the table and play
+cards!  Even if they know that it is not allowed in school.  But hey,
+otherwise it would be boring here.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20426
+D2
+~
+~
+0 0 20422
+D3
+~
+~
+0 0 20429
+D5
+~
+~
+0 0 20420
+S
+#20422
+Second floor~
+You came up from the stares and reached to the second floor of this
+school.  Here are some classrooms and gym where all children can train
+themselves.  On this floor there are already older students, they don't run
+around and scream.  They just walk slowly or sit behind the table and play
+cards!  Even if they know that it is not allowed in school.  But hey,
+otherwise it would be boring here.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20421
+D1
+~
+~
+0 0 20426
+D2
+~
+~
+0 0 20423
+D3
+~
+~
+0 0 20430
+S
+#20423
+Second floor~
+You came up from the stares and reached to the second floor of this
+school.  Here are some classrooms and gym where all children can train
+themselves.  On this floor there are already older students, they don't run
+around and scream.  They just walk slowly or sit behind the table and play
+cards!  Even if they know that it is not allowed in school.  But hey,
+otherwise it would be boring here.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20422
+D1
+~
+~
+0 0 20427
+D2
+~
+~
+0 0 20424
+D3
+~
+~
+0 0 20431
+S
+#20424
+Second floor~
+You came up from the stares and reached to the second floor of this
+school.  Here are some classrooms and gym where all children can train
+themselves.  On this floor there are already older students, they don't run
+around and scream.  They just walk slowly or sit behind the table and play
+cards!  Even if they know that it is not allowed in school.  But hey,
+otherwise it would be boring here.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20423
+D1
+~
+~
+0 0 20428
+S
+#20425
+Math class~
+Numbers, numbers and numbers, nothing else than numbers!  Why the hell
+they have to learn that much math if they even don't trade with any other
+cities so they could use some currency and banking skill.  An old man with
+white hears and huge classes is standing next to the blackboard and trying
+to explain the magic of these numbers.  
+~
+0 524292 0
+S
+#20426
+Math class~
+Numbers, numbers and numbers, nothing else than numbers!  Why the hell
+they have to learn that much math if they even don't trade with any other
+cities so they could use some currency and banking skill.  An old man with
+white hears and huge classes is standing next to the blackboard and trying
+to explain the magic of these numbers.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20422
+S
+#20427
+Chemistry class~
+All kind of bottles and pipes are filling the room.  There is some
+strange red water boiling in the container made of class.  Don't they afraid
+that it may explode?  Like you did in your cottage in the small island. 
+That was a huge boom yeah you still remember the smell what game from the
+explosion.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20428
+D3
+~
+~
+0 0 20423
+S
+#20428
+Chemistry class~
+All kind of bottles and pipes are filling the room.  There is some
+strange red water boiling in the container made of class.  Don't they afraid
+that it may explode?  Like you did in your cottage in the small island. 
+That was a huge boom yeah you still remember the smell what game from the
+explosion.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20427
+D3
+~
+~
+0 0 20424
+S
+#20429
+Physics class~
+This is the most important class in this school.  From here there comes
+all great warriors and leaders of this city, cause if you don't know the
+most important science then you don't know anything at all!  On the wall
+there is the picture on what there has been painted how the apple felled on
+the Newton's head.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20421
+D2
+~
+~
+0 0 20430
+S
+#20430
+Physics class~
+This is the most important class in this school.  From here there comes
+all great warriors and leaders of this city, cause if you don't know the
+most important science then you don't know anything at all!  On the wall
+there is the picture on what there has been painted how the apple felled on
+the Newton's head.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20429
+D1
+~
+~
+0 0 20422
+S
+#20431
+The Gym~
+Lots of boys are here, all interested of building their body with heavy
+bombs and machines.  The trainer is teaching them what kind of training
+should they do for getting the best shape!  It's a matter of honor if you
+have great muscles otherwise you don't have a touch in girls.  And the
+physical abilities are important in Olympic games 
+~
+0 524288 0
+D1
+~
+~
+0 0 20423
+D2
+~
+~
+0 0 20434
+D3
+~
+~
+0 0 20432
+S
+#20432
+The Gym~
+Lots of boys are here, all interested of building their body with heavy
+bombs and machines.  The trainer is teaching them what kind of training
+should they do for getting the best shape!  It's a matter of honor if you
+have great muscles otherwise you don't have a touch in girls.  And the
+physical abilities are important in Olympic games.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20431
+D2
+~
+~
+0 0 20433
+S
+#20433
+The Gym~
+Lots of boys are here, all interested of building their body with heavy
+bombs and machines.  The trainer is teaching them what kind of training
+should they do for getting the best shape!  It's a matter of honor if you
+have great muscles otherwise you don't have a touch in girls.  And the
+physical abilities are important in Olympic games.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20432
+D1
+~
+~
+0 0 20434
+S
+#20434
+The Gym~
+Lots of boys are here, all interested of building their body with heavy
+bombs and machines.  The trainer is teaching them what kind of training
+should they do for getting the best shape!  It's a matter of honor if you
+have great muscles otherwise you don't have a touch in girls.  And the
+physical abilities are important in Olympic games.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20431
+D3
+~
+~
+0 0 20433
+S
+#20435
+Northern Avenue~
+All other story, lots of small kids are running around schoolbooks in
+their hands.  Little birds are singing infront of the houses what children
+had been built for them.  Not far to the east is the schoolhouse.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20403
+D2
+~
+~
+0 0 20443
+D3
+~
+~
+0 0 20436
+S
+#20436
+The Hidden Wing~
+This is the hidden wing of city, this has been hidden away from the
+children, this is the part where all sailors and travelers spent their
+night, when this city weren't lost yet.  Here was many murders because of
+the rum what the travelers and sailors drunk when they had fun in the bar
+and got drunken.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20435
+D3
+~
+~
+0 0 20437
+S
+#20437
+The Hidden Wing~
+This is the hidden wing of city, this has been hidden away from the
+children, this is the part where all sailors and travelers spent their
+night, when this city weren't lost yet.  Here was many murders because of
+the rum what the travelers and sailors drunk when they had fun in the bar
+and got drunken.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20436
+D3
+~
+~
+0 0 20438
+S
+#20438
+The INN~
+Few small beds are next to the wall, a little dirty but still fine for
+having a rest and it does seems to be the smartest thing to do.  Running
+until the death would not be the solution if there are guards chasing you. 
+Door can be locked from inside with a big massive bolt on the door so nobody
+could come and disturb the nap of the travelers who come by.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20437
+D2
+~
+~
+0 0 20439
+S
+#20439
+The INN~
+Few small beds are next to the wall, a little dirty but still fine for
+having a rest and it does seems to be the smartest thing to do.  Running
+until the death would not be the solution if there are guards chasing you. 
+Door can be locked from inside with a big massive bolt on the door so nobody
+could come and disturb the nap of the travelers who come by.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20438
+D2
+~
+~
+0 0 20440
+S
+#20440
+The Hidden Street~
+The sun is already high up the sky.  There is something new this time. 
+Last night when you came here there wasn't posters on the house's wall and
+your face on it.  Now what, have they marked everybody who flee from jail as
+a traitor?  The best idea it to get away from here as fast as humankind can
+do.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20439
+D2
+~
+~
+0 0 20441
+S
+#20441
+The Hidden Street~
+The sun is already high up the sky.  There is something new this time. 
+Last night when you came here there wasn't posters on the house's wall and
+your face on it.  Now what, have they marked everybody who flee from jail as
+a traitor?  The best idea it to get away from here as fast as humankind can
+do.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20440
+D2
+~
+~
+0 0 20442
+S
+#20442
+The Hidden Street~
+The sun is already high up the sky.  There is something new this time. 
+Last night when you came here there wasn't posters on the house's wall and
+your face on it.  Now what, have they marked everybody who flee from jail as
+a traitor?  The best idea it to get away from here as fast as humankind can
+do.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20441
+D1
+~
+~
+0 0 20443
+S
+#20443
+Short Street~
+Few workers are trying to make this rode larger and
+better, so the northern part of city could be connected with the western
+avenue.  Hot sun is making this very unpleasant and difficult.  Think of it,
+hot Sun, hard work, no water and no time to rest, worse than captivity.
+Street continues to the south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20435
+D2
+~
+~
+0 0 20444
+S
+#20444
+Small Path~
+Few workers are trying to make this rode larger and better, so the
+northern part of city could be connected with the western avenue.  Hot sun
+is making this very unpleasant and difficult.  Think of it, hot Sun, hard
+work, no water and no time to rest, worse than captivity.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20443
+D2
+~
+~
+0 0 20445
+S
+#20445
+The Western Avenue~
+It sure is good to be in the middle of civilized people.  Smiling to each
+other and giving their greetings.  But they to seems to be different from
+the people from Northern Part of city.  They seems to be wealthy, is this
+the area, where everybody can say: "Well somebody got to be rich or what?"  
+~
+0 524288 0
+D0
+~
+~
+0 0 20444
+D3
+~
+~
+0 0 20446
+S
+#20446
+The Western Avenue~
+It sure is good to be in the middle of civilized people.  Smiling to
+each other and giving their greetings.  But they to seems to be different
+from the people from Northern Part of city.  They seems to be wealthy, is
+this the area, where everybody can say: "Well somebody got to be rich or
+what?"  
+~
+0 524288 0
+D1
+~
+~
+0 0 20445
+D2
+~
+~
+0 0 20447
+S
+#20447
+The Western side of City~
+High and beautiful houses are at both side of the street, what takes
+through this part of town.  There are huge and colorful commercials hanging
+above the doors of shops.  Many shops seems to have high and total security,
+are there a thieves in this part of town?  
+~
+0 524288 0
+D0
+~
+~
+0 0 20446
+D2
+~
+~
+0 0 20448
+S
+#20448
+The Western side of City~
+High and beautiful houses are at both side of the street, what takes
+through this part of town.  There are huge and colorful commercials hanging
+above the doors of shops.  Many shops seems to have high and total security,
+are there a thieves in this part of town?  
+~
+0 524288 0
+D0
+~
+~
+0 0 20447
+D2
+~
+~
+0 0 20449
+S
+#20449
+Small Path~
+Small path takes right from Western side of City to the gates.  Seems
+like it will all start again, misery, excitement, happiness, everything what
+anybody can find form this city.  Or maybe there is a way out from this
+cursed city of enchants warriors.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20448
+D1
+~
+~
+0 0 20353
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20376 0 1
+D 0 20377 2 1
+D 0 20396 3 1
+D 0 20397 1 1
+M 0 20356 1 20353 1
+G 0 20355 0
+G 0 20357 0
+M 0 20351 40 20354 2
+M 0 20351 40 20355 2
+E 0 20351 0 7
+M 0 20351 40 20357 1
+M 0 20351 40 20358 1
+M 0 20351 40 20358 1
+M 0 20351 40 20360 1
+E 0 20353 0 4
+M 0 20352 40 20360 1
+M 0 20352 40 20362 1
+E 0 20351 0 7
+M 0 20351 40 20362 1
+M 0 20351 40 20364 1
+M 0 20351 40 20364 1
+M 0 20353 40 20365 1
+M 0 20354 40 20367 1
+M 0 20351 40 20367 1
+M 0 20351 40 20368 1
+M 0 20351 40 20370 1
+M 0 20352 40 20372 1
+M 0 20351 40 20373 1
+M 0 20357 1 20373 1
+G 0 20356 0
+G 0 20358 0
+G 0 20359 0
+M 0 20355 1 20374 1
+G 0 20351 0
+G 0 20352 0
+G 0 20353 0
+G 0 20354 0
+M 0 20354 40 20375 1
+E 0 20351 0 7
+M 0 20351 40 20377 1
+M 0 20353 40 20377 1
+E 0 20352 0 6
+M 0 20352 40 20379 1
+M 0 20352 40 20381 1
+M 0 20351 40 20381 1
+E 0 20353 0 4
+M 0 20352 40 20383 1
+M 0 20351 40 20383 1
+M 0 20351 40 20385 1
+M 0 20352 40 20386 1
+M 0 20351 40 20387 1
+M 0 20351 40 20389 1
+M 0 20351 40 20391 1
+M 0 20351 40 20393 1
+M 0 20351 40 20395 1
+M 0 20352 40 20398 1
+M 0 20353 40 20402 1
+M 0 20352 40 20404 1
+M 0 20353 40 20406 1
+M 0 20353 40 20406 1
+M 0 20353 40 20407 1
+M 0 20353 40 20407 1
+M 0 20352 40 20409 1
+M 0 20353 40 20409 1
+M 0 20353 40 20411 1
+M 0 20351 40 20411 1
+M 0 20354 40 20414 1
+E 0 20352 0 6
+M 0 20353 40 20414 1
+M 0 20351 40 20414 1
+M 0 20351 40 20416 1
+E 0 20351 0 7
+M 0 20351 40 20418 1
+E 0 20351 0 7
+M 0 20352 40 20420 1
+M 0 20351 40 20420 1
+M 0 20353 40 20422 1
+M 0 20354 40 20422 1
+M 0 20354 40 20423 1
+M 0 20351 40 20423 1
+M 0 20352 40 20425 1
+M 0 20353 40 20425 1
+M 0 20352 40 20429 1
+M 0 20351 40 20429 1
+M 0 20354 40 20432 1
+M 0 20353 40 20432 1
+M 0 20353 40 20434 1
+M 0 20354 40 20434 1
+M 0 20353 40 20436 1
+E 0 20353 0 4
+M 0 20351 40 20438 1
+E 0 20351 0 7
+M 0 20352 40 20439 1
+E 0 20352 0 6
+M 0 20351 40 20439 1
+M 0 20353 40 20441 1
+M 0 20354 40 20441 1
+M 0 20354 40 20443 1
+M 0 20352 40 20443 1
+M 0 20352 40 20445 1
+M 0 20353 40 20447 1
+E 0 20352 0 6
+M 0 20352 40 20447 1
+M 0 20354 40 20449 1
+E 0 20353 0 4
+E 0 20352 0 6
+E 0 20351 0 7
+M 0 20353 40 20449 1
+M 0 20352 40 20449 1
+M 0 20351 40 20449 1
+S
+
+
+
+#SHOPS
+20355 0 9 9 9 10 75 125 1 24
+0
+
+
+
+#MOBPROGS
+#20351
+say {yWHO IS THERE?{x
+peer $n
+say {RHALT!!! YOU ARE STRANGER!!!{x
+~
+#20352
+smile $n
+say Well hello $n, Would you like to see my special offer?
+say Please, step in and have a look.
+~
+#20353
+say What is this, pathetic attempt to bribe me, Get lost MORON!!!
+say Hey everybody, look, here goes moron who thinks he can bribe us.
+~
+#20354
+eat banana
+say Thank you $n!
+say FOOL, you gave away all you had, BWAHAHHAA!
+~
+#20355
+say Greetings brave traveller!
+say Could you spare some time to hear me out?
+pause 1
+say say 'yes' if you do and 'no' if you don't.
+~
+#20356
+say Well, I am glad to hear that.
+say What I want you to do is to return me something.
+say In the city, there is a woman named Jane.
+say She has a gift for me but she can't get it out from town.
+say if you see her, then just say "beggar".
+say and she will give it to you.
+say return it and you will be rewarded in the way I can.
+~
+#20357
+say Ohh, well ok some other time then.
+sniff
+emote turns his back to you.
+say Go on, but stay away from guards.
+~
+#20358
+say Thank you brave $n.
+say You saved my life.
+say Without that pill I would have not lived much longer.
+say It is time for you to get rewarded.
+give knowledge $n
+say I'm afraied I have to ask another favor.
+drop nartsiss
+say Could you please take it to Jane as a sign of my thanks to her?
+say I am sure she has something for you if you would give her the flower.
+say Now it's time for me to get a new life.
+north
+eat life
+~
+#20359
+smile $n
+say Thank god he is still alive.
+say Quick, take this to him.
+give life $n
+drop life
+say Let the gods protect you.
+~
+#20360
+say Thank you $n!
+say That's so sweet of him.
+say Here, take this pill as a reward for your effords.
+drop huge
+smile $n
+south
+c demonfire jane
+eat death
+~
+#20361
+if ispc $n
+chuckle
+poke $n
+if isgood $n
+say yoyoyo it works man!
+say and stuff.
+slap $n
+shout MOMMY!!! $N is poking me.
+sob
+cry
+say why do ya have to be so mean :(
+say you son of a bitch mother fucker.
+y hey here is one jerk poking me all the time
+endif
+~
+#20362
+if ispc $n
+mob delay 2
+smile
+else
+spit $n
+endif
+break
+if isimmort $n
+bow $n
+else 
+say Get lost $N
+slap $n
+spit $n
+break
+endif
+~
+#0
+
+#$

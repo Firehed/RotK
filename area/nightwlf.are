@@ -1,0 +1,894 @@
+#AREADATA
+Name Night Wolves Clanhall~
+Builders Sleighty~
+VNUMs 831 850
+Credits [ CLAN] Slei.   Night Wolves Clanhall~
+Security 1
+End
+
+
+
+#MOBILES
+#834
+distiller~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' distiller~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' distiller eyes his apparatus.
+~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{^' distiller smiles back at you when he notices you
+looking at him.  
+~
+Human~
+AB 0 0 0 0
+0 0 9999d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 834 100~
+#836
+Hojo~
+Hojo~
+Hojo hojos you.
+~
+~
+Human~
+A 0 0 0 0
+0 0 1d1+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#837
+dummy~
+the dummy~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' dummy is here.
+~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{^' dummy is made from the highest grade of straw, and
+bears the scar of many battles.{0
+~
+Human~
+AB c 0 0 0
+0 -32768 1d1+32766 0d0+0 1d1+0 slap
+-3276
+DEFHIK ABCDQR 0 0
+stand stand none 0
+AHMV ABCGHI tiny straw
+F par DEFJK
+M GREET 837 100~
+#838
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' healer~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' healer~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' healer is here.
+~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{^' healer smiles back at you.{0
+~
+Human~
+ABJKZab 0 0 0 0
+200 0 1d1+999 1d1+99 20d5+10 slap
+-10
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 838 100~
+#842
+shoppie~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{$s{0 shoppie~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{$s{0 shoppie stands behind the counter.
+~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{$s{^ shoppie stands behind the counter. She has a very
+pleasant look.{0
+~
+Human~
+AB DF 0 0 0
+0 500 1d1+9999 1d1+99 500d10+0 slap
+-25
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 842 100~
+#0
+
+
+
+#OBJECTS
+#831
+fountain~
+a fountain~
+A beautiful fountain made of marble is here.~
+marble~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#832
+hunting list~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' hunting list~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' hunting list is posted on the wall. READ IT!!!~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+hunting~
+These people are to die as soon as possible, as many times as possible:
+Mephisto (Brotherhood)
+Zero (Brotherhood)
+Charell (Brotherhood)
+Raziel (Keepers of Fire)
+Keitaro (Keepers of Fire)
+Yinmuhuadao (Keepers of Fire)
+Menton (Mercenaries)
+Cinotuet (Mercenaries)
+Ralthor (Keepers of Fire)
+Wistom (Keepers of Fire)
+Silthanus (Keepers of Fire)
+Koland (Brotherhood)
+Katarn (Keepers of Fire)
+Bathusalor (unclanned)
+Drizzt (Brotherhood)
+Luniz (Keepers of Fire)
+Meselanas (Keepers of Fire)
+~
+E
+list~
+These people are to die as soon as possible, as many times as possible:
+Mephisto (Brotherhood)
+Zero (Brotherhood)
+Charell (Brotherhood)
+Raziel (Keepers of Fire)
+Keitaro (Keepers of Fire)
+Yinmuhuadao (Keepers of Fire)
+Menton (Mercenaries)
+Cinotuet (Mercenaries)
+Ralthor (Keepers of Fire)
+Wistom (Keepers of Fire)
+Silthanus (Keepers of Fire)
+Koland (Brotherhood)
+Katarn (Keepers of Fire)
+Bathusalor (unclanned)
+Drizzt (Brotherhood)
+Luniz (Keepers of Fire)
+Meselanas (Keepers of Fire)
+~
+#833
+never empty casket beer~
+a never empty casket of beer~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' never empty casket of beer is here.~
+wood~
+fountain 0 0
+-1 -1 'beer' 0 0
+0 0 0 P
+#834
+pantry~
+a pantry~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' pantry is here.~
+wood~
+container 0 0
+10000 0 0 10000 0
+0 0 0 P
+#835
+mushroom bread~
+a loaf of mushroom bread~
+A {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 specialty: mushroom bread.~
+ingredients~
+food 0 A
+48 24 0 0 0
+0 0 0 P
+#836
+absinthe vat~
+a vat of absinthe~
+A vat of absinthe rests in a corner of the room.~
+metal~
+fountain 0 0
+-1 -1 'absinthe' 0 0
+0 0 0 P
+#837
+spellup potion~
+a {*s{7p{*e{7l{*l{7u{*p {$p{4o{$t{4i{$o{4n{0~
+A spellup potion is here.~
+unknown~
+potion Y A
+150 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+25 0 500 P
+#838
+cospellup potion~
+a {*c{7o{*s{7p{*e{7l{*l{7u{*p {$p{4o{$t{4i{$o{4n{0~
+A cospellup potion is here.~
+unknown~
+potion Y A
+100 'holyshield' 'glassshield' 'acidshield' 'watershield'
+25 0 500 P
+#839
+cureall potion~
+a {*c{7u{*r{7e{*a{7l{*l {$p{4o{$t{4i{$o{4n{0~
+A cureall potion is here.~
+unknown~
+potion Y A
+150 'cure poison' 'cure disease' 'cure blindness' 'remove curse'
+25 0 500 P
+#840
+heal potion~
+a {*h{7e{*a{7l {$p{4o{$t{4i{$o{4n{0~
+A heal potion is here.~
+unknown~
+potion Y A
+0 'heal' 'heal' 'heal' 'heal'
+25 0 500 P
+#841
+wolf's eye~
+a {*w{7o{*l{7f{*'{7s {$e{4y{$e{0~
+A wolf's eye glows mysteriously here.~
+unknown~
+light Y A
+0 0 999 0 0
+50 0 1000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+A
+20 -50
+#842
+wolf-tooth bracelet~
+a {*w{7o{*l{7f{0-{*t{7o{*o{7t{*h {$b{4r{$a{4c{$e{4l{$e{4t{0~
+A wolf-tooth bracelet is on the floor.~
+unknown~
+armor Y AM
+50 50 50 50 0
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+wolf-tooth~
+The bracelet is made from wolf teeth linked by fine silk.
+~
+E
+bracelet~
+The bracelet is made from wolf teeth linked by fine silk.
+~
+#843
+altar~
+the altar to the {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0~
+The altar to the {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0 is here.~
+unknown~
+furniture A 0
+1000 10000 DGJ 10000 10000
+0 0 0 P
+#844
+wolf-tooth anklet~
+a {*w{7o{*l{7f{0-{*t{7o{*o{7t{*h {$a{4n{$k{4l{$e{4t{0~
+A bastard sword impales the ground.~
+unknown~
+armor Y AU
+50 50 50 50 0
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+bastard~
+This mean-looking bastard sword has a beautiful adamantite double-blade
+with etching, a carved guard and pommel, and an engraved hilt.  
+~
+E
+sword~
+This mean-looking bastard sword has a beautiful adamantite double-blade
+with etching, a carved guard and pommel, and an engraved hilt.  
+~
+E
+hilt~
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 has been carefully carved into the one and a half hand hilt.
+~
+E
+blade~
+The adamantite double-blade has a beautifully done etching of a wolf's
+head before a full moon.  
+~
+E
+guard~
+The guard has been carved into the heads of the {#A{3l{#p{3h{#a {^M{6a{^l{6e{0, {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0,
+{*P{7a{*c{7k {$L{4e{$a{4d{$e{4r{0, {@B{2e{@t{2a {^M{6a{^l{6e{0, {@B{2e{@t{2a {%F{5e{%m{5a{%l{5e{0, and {@B{2e{@t{2a {*T{7h{*i{7n{*g{0.
+~
+E
+pommel~
+The pommel has been sculpted into a ferocious, snarling wolf's head.  
+~
+E
+wolf-tooth~
+The anklet is made from wolf teeth linked by fine silk.
+~
+E
+anklet~
+The anklet is made from wolf teeth linked by fine silk.
+~
+#845
+wolf-tooth earring~
+a {*w{7o{*l{7f{0-{*t{7o{*o{7t{*h {$e{4a{$r{4r{$i{4n{$g{0~
+A wolf-tooth earring lies on the ground.~
+unknown~
+armor Y AS
+50 50 50 50 0
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+wolf-tooth~
+This earring is made from the canine of a wolf.  It seems to magically
+stay in the hole without a clasp of any kind.  
+~
+E
+earring~
+This earring is made from the canine of a wolf.  It seems to magically
+stay in the hole without a clasp of any kind.  
+~
+#846
+snarling wolf mask~
+a {*s{7n{*a{7r{*l{7i{*n{7g {$w{4o{$l{4f {$m{4a{$s{4k{0~
+A mask shaped after a snarling wolf hangs from a wall.~
+unknown~
+armor Y AR
+50 50 50 50 0
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+snarling~
+The mask of the snarling wolf is actually quite scary in how ferocious
+the image is.  But there is also a kindness evident in the eyes of the wolf.
+~
+E
+wolf~
+The mask of the snarling wolf is actually quite scary in how ferocious
+the image is.  But there is also a kindness evident in the eyes of the wolf.
+~
+E
+mask~
+The mask of the snarling wolf is actually quite scary in how ferocious
+the image is.  But there is also a kindness evident in the eyes of the wolf.
+~
+#847
+elegant longsword~
+an {*e{7l{*e{7g{*a{7n{*t {$l{4o{$n{4g{$s{4w{$o{4r{$d{0~
+An elegant longsword rests against the wall.~
+unknown~
+weapon BY AN
+sword 10 15 slash D
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+elegant~
+This elegant longsword is not only a beautifully crafted weapon, it is
+also a work of art.  There is delicate etching on the blade, engraving on
+the hilt, and the pommel and guard are magnificently sculpted.  
+~
+E
+longsword~
+This elegant longsword is not only a beautifully crafted weapon, it is
+also a work of art.  There is delicate etching on the blade, engraving on
+the hilt, and the pommel and guard are magnificently sculpted.  
+~
+E
+blade~
+The double-sided adamantite blade of the weapon has an exquisite etching
+of a wolf's head with a full moon in the backround.  
+~
+E
+pommel~
+The beautifully crafted pommel of the longsword is sculpted into the
+shape of the head of a wolf.  
+~
+E
+hilt~
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 was carefully carved into the hilt.
+~
+E
+guard~
+The guard of the elegant longsword was stupendously crafted in the shape
+of a snarling wolf with its back arched.  
+~
+#848
+unscathed shield~
+an {*u{7n{*s{7c{*a{7t{*h{7e{*d {$s{4h{$i{4e{$l{4d{0~
+An unscathed shield is here.~
+unknown~
+armor AY AJ
+50 50 50 50 0
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+unscathed~
+The virgin surface of the shield magically heals itself after any damage
+it receives.  There is the head of a wolf gazing at you in front of a full
+moon on the front.  
+~
+E
+shield~
+The virgin surface of the shield magically heals itself after any damage
+it receives.  There is the head of a wolf gazing at you in front of a full
+moon on the front.  
+~
+#849
+shiny stiletto~
+a {*s{7h{*i{7n{*y {$s{4t{$i{4l{$e{4t{$t{4o{0~
+A shiny stiletto is stuck in the ground.~
+unknown~
+weapon BY AN
+dagger 11 13 stab D
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+stiletto~
+The stiletto looks perfectly balanced for fighting.  The pommel quickly
+draws your attention away from the rest of the weapon.  Upon further
+examination, you notice some engraving on the blade and hilt.  
+~
+E
+shiny~
+The shiny blade has an etching of the head of a wolf gazing back at you
+with a full moon in the backround.  
+~
+E
+blade~
+The shiny blade has an etching of the head of a wolf gazing back at you
+with a full moon in the backround.  
+~
+E
+pommel~
+The pommel is beautifully carved in the shape of a wolf's head.  
+~
+E
+hilt~
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 is carved into the hilt.
+~
+#850
+box-of-many-things~
+a {*b{7o{*x{0-{$o{4f{0-{7m{*a{7n{*y{0-{$t{4h{$i{4n{$g{4s{0~
+This small gray cube looks as though it can barely hold anything.~
+unknown~
+container AY AQ
+750 A 0 50 50
+50 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+A
+20 -50
+E
+box-of-many-things~
+This small cube can hold a lot more than it appears to.
+~
+#0
+
+
+
+#ROOMS
+#831
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Clan Hall{0~
+There seems to be no end to the massive walls of the Clan Hall of the
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.  The ceiling appears to be miles above you, yet the Clan Hall
+feels cozy and small.  A huge tapestry hangs on the west wall.
+~
+0 1048 0
+E
+tapestry~
+The huge tapestry shows a wolf staring back at you, yellow eyes hostile
+and friendly at the same time, with a full moon in the backround.  
+~
+D0
+To the north you see the great dining hall of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.
+~
+~
+0 0 832
+D1
+To the east is the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' clan shop.
+~
+~
+0 0 842
+D2
+The ceiling slopes downward to the south, and the walls narrow.  
+~
+~
+0 0 835
+D3
+The secret door to Sleighty's Office is hidden behind the tapestry.  
+~
+~
+4 58 58
+D4
+A circular staircase leads up to the shrine of the {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0.
+~
+~
+0 0 843
+D5
+You see a portal to Market Square.
+~
+~
+0 0 3014
+S
+#832
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$ Dining Hall{0~
+The incredibly high ceilings continue from the Clan Hall to the Dining
+Hall.  If the Clan Hall is large, this room is gigantic.  
+~
+0 1048 0
+D2
+To the south you see the huge Clan Hall of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.
+~
+~
+0 0 831
+D3
+To the west you see the kitchen of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.
+~
+~
+0 0 833
+S
+#833
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Kitchen{0~
+Various kitchen aids and utensils are scattered about.  The ceiling
+slopes upward to the dining hall to the east.  
+~
+0 1048 0
+D1
+To the east you see the great dining hall of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.
+~
+~
+0 0 832
+D2
+To the south you see the door to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' distillery.
+~
+~
+1 0 834
+S
+#834
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Distillery{0~
+You are in the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$'{0 distillery. Various liquids are splattered
+about the walls.
+~
+0 1048 0
+D0
+To the north you see the door to the kitchen of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0.
+~
+~
+1 0 833
+S
+#835
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Tunnel{0~
+The ceiling and walls of this tunnel are a much more average size
+compared to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' Clan Hall, but they are still large.
+~
+0 1048 0
+D0
+The ceiling slopes upward and the walls open up to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$'{0 Clan
+Hall to the north.
+~
+~
+0 0 831
+D1
+To the east is the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' health room.
+~
+~
+0 0 838
+D2
+You see the door to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' field to the south.
+~
+~
+3 0 836
+D3
+You see the door to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' practice room to the west.
+~
+~
+1 0 837
+D4
+A ladder leads up to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' portal room.
+~
+~
+0 0 839
+S
+#836
+{*M{7e{*d{7i{*t{7a{*t{7i{*o{7n {$G{4r{$o{4v{$e{0~
+Rolling hills strech on as far as the eye can see.  These green fields
+look very peaceful, you want to lay down and relax for a while.  
+~
+0 1040 4
+D0
+You see the door to the main tunnel to the north.
+~
+~
+3 0 835
+S
+#837
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s' {$Practice Room{0~
+The walls of the room are covered in dents and scratches.  
+~
+0 24 0
+D1
+You see the door to the main tunnel to the east.  
+~
+~
+1 0 835
+S
+#838
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Health Room{0~
+You stand inside a very plain room with {&white{0 walls.  You notice that
+the room would be a perfect cube if there was a west wall.  
+~
+0 1048 0
+D3
+The main tunnel can be seen to the west.
+~
+~
+0 0 835
+S
+#839
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {$Portal Room{0~
+This room is dedicated to the portals that lead to different worlds.  Be
+warned, once through a portal, there is no returning through it.  
+To the north is the portal to Drakyri Isle.
+To the east is the portal to the Dragon Tower.
+To the south is the portal to Mega City One.
+To the west is the portal to the Dwarven Kingdom.
+Up is the portal to Renwood.
+~
+0 1048 0
+D0
+To the north is the portal to Drakyri Isle.
+~
+~
+0 0 11703
+D1
+To the east is the portal to the Dragon Tower.
+~
+~
+0 0 2201
+D2
+To the south is the portal to Mega City One.
+~
+~
+0 0 8001
+D3
+To the west is the portal to the Dwarven Kingdom.
+~
+~
+0 0 6500
+D4
+Up is the portal to Renwood.
+~
+~
+0 0 21800
+D5
+A ladder leads down to the main tunnel.
+~
+~
+0 0 835
+S
+#840
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 Pet Shop~
+~
+0 529432 0
+D5
+~
+~
+0 0 831
+O Sleighty~
+S
+#841
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 Pet Shop II~
+~
+0 525340 0
+O Sleighty~
+S
+#842
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$' Clan Shop{0~
+You stand in a cozy little room with a counter in the middle.
+~
+0 1048 0
+E
+sign~
+Coming soon!
+~
+D3
+To the west is the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' Clan Hall.
+~
+~
+0 0 831
+S
+#843
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$ Shrine{0~
+You stand in a rather small room with candles all over. The shrine is
+dedicated to the {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0 of the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0. There is a plaque on the
+wall behind the altar.
+~
+0 1032 0
+E
+plaque~
+This shrine is dedicated to Aviela, the {#A{3l{#p{3h{#a {%F{5e{%m{5a{%l{5e{0.
+~
+D2
+~
+~
+4 891 891
+D5
+A circular staircase leads down to the Clan Hall.
+~
+~
+0 0 831
+S
+#846
+~
+~
+0 4 0
+S
+#850
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s {0Final Room~
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+M 838 spec_cast_clan_adept
+S
+
+
+
+#RESETS
+D 0 831 3 2
+D 0 833 2 1
+D 0 834 0 1
+D 0 835 2 1
+D 0 835 3 1
+D 0 836 0 1
+D 0 837 1 1
+D 0 843 2 2
+O 0 831 0 831
+O 0 832 0 831
+O 0 834 0 833
+P 0 835 20 834 20
+O 0 836 0 834
+O 0 833 0 834
+M 0 834 1 834 1
+M 0 837 1 837 1
+M 0 838 1 838 1
+M 0 58 1 841 1
+E 0 58 0 17
+M 0 842 1 842 1
+G 0 847 0
+G 0 849 0
+G 0 848 0
+G 0 850 0
+G 0 844 0
+G 0 842 0
+G 0 845 0
+G 0 846 0
+G 0 841 0
+G 0 839 0
+G 0 840 0
+G 0 838 0
+G 0 837 0
+O 0 843 0 843
+S
+
+
+
+#SHOPS
+842 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#834
+bow $n
+say Welcome fellow Wolf.
+say Care to sample my goods?
+wink $n
+~
+#837
+bow $n
+say Welcome fellow Wolf.
+say Care for a duel?
+~
+#838
+curtsey $n
+say Welcome fellow Wolf.
+say How may I be of assistance?
+~
+#842
+curtsey $n
+say Welcome fellow Wolf.
+say What is it you seek?
+~
+#843
+tell $n Thank you, come again!
+~
+#0
+
+#$

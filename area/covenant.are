@@ -1,0 +1,296 @@
+#AREADATA
+Name Covenant Clan Hall~
+Builders Talon~
+VNUMs 22610 22619
+Credits [ CLAN] Talon   Covenant of Pain Clanhall~
+Security 1
+End
+
+
+
+#MOBILES
+#22610
+shop keeper~
+The shopkeeper of {1Pa{8in{0~
+The shopkeeper of {1Pa{8in{0 stand here waiting to help you.
+~
+A short, stalky, bald man stands before quivering as he fumbles through the assorted stock. 
+~
+Human~
+AB 0 0 0 0
+0 0 30d3+50 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22611
+trainer~
+the trainer of {1Pa{8in{0~
+The trainer of {1Pa{8in{0 stands here willing to show you the ropes.
+~
+A large, menacing figure, standing around 7 feet in height..and just about as wide.
+He stands here ready to spring into a brutal attack, his scars from his days in action displayed with pride.
+~
+Human~
+ABJKb 0 0 0 0
+25 0 30d3+50 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#22610
+pool of restoration~
+a glowing pool of restoration~
+A glowing pool of restoration sits in here in the corner.~
+unknown~
+furniture 0 0
+100 100 FIL 20000 20000
+1 0 0 P
+#22611
+heal healing ~
+a healing potion of {1Pa{8in{0~
+A healing potion of {1Pa{8in{0 lies here.~
+unknown~
+potion 0 A
+100 'heal' 'heal' 'heal' 'heal'
+25 0 500 P
+#22612
+spellup~
+the spellup of {1Pa{8in{0~
+The spellup of {1Pa{8in{0 lies here~
+unknown~
+potion 0 A
+100 'sanctuary' 'shockshield' 'acidshield' 'armor'
+0 0 500 P
+#22613
+bracer bloodmail~
+bracer made of {1bloodmail{0~
+Bracer made of {1bloodmail{0 lies here~
+unknown~
+armor 0 AM
+25 0 0 0 0
+25 0 1000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+18 10
+A
+19 10
+#22614
+black neck guard~
+a blackened metal neckguard~
+A blackened metal neckguard lies here~
+unknown~
+armor 0 AC
+25 0 0 0 0
+25 0 1000 P
+A
+20 -25
+A
+14 100
+A
+12 100
+A
+13 100
+A
+18 10
+A
+19 10
+#22615
+shiny dagger~
+a small shiny dagger~
+A small shiny dagger lies here~
+unknown~
+weapon 0 AN
+dagger 10 12 thrust CH
+25 0 1000 P
+#22616
+blood red flare~
+{1a blood red flare{0~
+{1A flare that emits blood red light lies here.{0~
+unknown~
+light 0 A
+0 0 999 0 0
+25 0 1000 P
+A
+19 10
+A
+18 10
+A
+13 100
+A
+12 100
+A
+14 100
+#22617
+cospellup co~
+a cospellup of {1Pa{8in{0~
+A cospellup of {1Pa{8in{0 lies here~
+unknown~
+potion 0 A
+100 'giant strength' 'holyshield' 'watershield' 'glassshield'
+25 0 500 P
+#22618
+specialty~
+{1Pa{8in{0's specialty~
+{1Pa{8in{0's specialty lies here.~
+unknown~
+potion 0 A
+100 'frenzy' 'haste' 'armor' 'heroes feast'
+25 0 500 P
+#22619
+sigil pain~
+the sigil of {1Pa{8in{0~
+The sigil of {1Pa{8in{0 lies here~
+unknown~
+armor 0 AT
+40 0 0 0 0
+25 0 3500 P
+A
+3 2
+A
+4 2
+A
+13 250
+A
+12 50
+A
+5 3
+A
+19 20
+A
+18 20
+#0
+
+
+
+#ROOMS
+#22610
+Recalling Chamber~
+This room acts as a refuge to those who've just been worn by heavy battle.
+~
+0 4 0
+D0
+~
+~
+0 0 22611
+S
+#22611
+main chamber ~
+This is a room of deep thought, it is where bringers of {1Pa{8in{0 come to plan brutal attacks.
+~
+0 4 0
+D0
+~
+~
+0 0 22614
+D1
+~
+~
+0 0 22615
+D2
+~
+~
+0 0 22610
+D4
+~
+~
+0 0 22613
+D5
+~
+~
+0 0 22612
+S
+#22612
+Lair of {1Pa{8in{0~
+This is where the {1Mas{8ter {!o{*f {1Pa{8in{0 tends to lurk.
+~
+0 0 0
+D4
+~
+~
+0 0 22611
+S
+#22613
+Battle Preparation~
+This is where the rigorous and somewhat frustrating training and practicing takes place.
+~
+0 0 0
+D5
+~
+~
+0 0 22611
+S
+#22614
+Gateway to Hell~
+These are the final footsteps you take before you are sent back out into the killing grounds and battle fields of this realm...Good {1Lu{8ck{0.
+~
+0 0 0
+D2
+~
+~
+0 0 22611
+D5
+~
+~
+0 0 3014
+S
+#22615
+{1Sh{8op{0~
+This is a room of great importance, this is the room where your main implements of {1Pa{8in{0 are purchased.
+~
+0 0 0
+D3
+~
+~
+0 0 22611
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 22610 0 22611
+M 0 22611 1 22613 1
+M 0 22610 1 22615 1
+G 0 22611 0
+G 0 22612 0
+G 0 22613 0
+G 0 22614 0
+G 0 22615 0
+G 0 22616 0
+G 0 22617 0
+G 0 22618 0
+G 0 22619 0
+S
+
+
+
+#SHOPS
+22610 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

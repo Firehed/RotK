@@ -1,0 +1,211 @@
+#AREADATA
+Name New area~
+Builders None~
+VNUMs 22000 22050
+Credits [ IMM ] NewBlds New Builder Testing~
+Security 0
+End
+
+
+
+#MOBILES
+#22000
+woman~
+Tanus' woman~
+Tanus' woman is here.
+~
+~
+Human~
+A FJc 0 -1000 0
+50 100 255d2+10 1000d2+20 316d2+1 none
+0
+D 0 BE HK
+stand stand female 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#22002
+reaper~
+Reaper~
+The horned reaper is standing here.
+~
+~
+Shadow~
+A TU H -1000 0
+69 0 1000d2+0 1000d2+50 1000d2+0 none
+0
+0 0 M NS
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#22050
+taita~
+Taita~
+Taita, the gold changer is here to take your gold.
+~
+~
+Human~
+AB 0 H 500 0
+101 316 500d4+100 260d5+0 150d2+10 none
+0
+0 0 0 0
+stand stand none 5000000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#22000
+Lanata~
+lanata~
+The great longbow of {!Tanus {@lanata is lying here.~
+unknown~
+weapon 0 AN
+exotic 100 100 pierce D
+102 0 66600 P
+#22001
+cody~
+codys wrath~
+The wrath of cody is lying here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+102 0 1 P
+#22049
+mat~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#22050
+lanata~
+{&L{*an{7at{&a{x~
+The {^lo{6ng {#b{3o{#w of {!T{1a{!n{1u{!s {@, the great {&L{*an{7at{&a {@is lying here{x~
+unknown~
+weapon 0 AN
+exotic 1000 1000 none 0
+102 0 66600 P
+A
+13 3000
+A
+18 5000
+A
+18 5000
+A
+18 5000
+#0
+
+
+
+#ROOMS
+#22000
+test~
+You enter a room with white walls and a crude painting that shows tanus' lack for art
+~
+0 0 0
+D0
+~
+~
+0 0 22001
+S
+#22001
+newbie builders area~
+Theres nothing in this room.
+
+~
+0 0 0
+D1
+~
+~
+0 0 22002
+D2
+~
+~
+0 0 22000
+S
+#22002
+testing more~
+You enter a circle room, you see a hallway leading south
+~
+0 0 0
+D2
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22001
+S
+#22003
+newbie badness~
+You are standing on top of a large hole in the ground
+~
+0 0 0
+D0
+~
+~
+0 0 22002
+D5
+~
+~
+0 0 22004
+S
+#22004
+{WGlass Fields{~
+A smooth marble walkway winds through the great maze of glass columns,
+drifting off out of sight.  The yard thick glass columns refract light into
+a brilliant spectrum of colors across the vast expanse of the area.  Crystal
+clear water fills the gaps between walkways and columns, and the spectrums
+bounce off the water back into the columns, creating a blinding rainbow
+light.  
+~
+0 4 0
+D0
+~
+~
+0 0 22005
+S
+#22005
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22004
+S
+#22050
+NYSKEL'S HOUSE~
+NYSKEL ALL THE WAY!!!!
+~
+0 32768 0
+D5
+~
+~
+0 0 22052
+O nyskel~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

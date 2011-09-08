@@ -1,0 +1,269 @@
+#AREADATA
+Name Morgue~
+Builders None~
+VNUMs 30200 30299
+Credits [ ALL ] Lestat  The Morgue~
+Security 9
+End
+
+
+
+#MOBILES
+#30200
+blacksmith~
+an old blacksmith~
+An old blacksmith is here, long forgotten.
+~
+~
+Human~
+AB 0 F 0 0
+110 0 1d1+29999 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 30201 help~
+M GREET 30200 100~
+M GIVE 30202 30203~
+#30202
+hermit~
+old hermit~
+An old hermit is here, waiting for his death.
+~
+~
+Human~
+AB 0 F 0 0
+0 10000 1d1+29999 0d0+0 1d1+29999 none
+0
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 30206 9603~
+M GREET 30205 100~
+#30203
+ruby dragon~
+{1R{!u{1b{!y {1D{!r{1a{!g{1o{!n{x~
+The {1R{!u{1b{!y {1D{!r{1a{!g{1o{!n{x is here!
+~
+~
+Red Dragon~
+ABF J F 0 0
+115 100 1d1+29999 0d0+0 1d1+29999 none
+0
+0 AH CD R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res I
+M HPCNT 30207 50~
+M HPCNT 30207 30~
+M HPCNT 30207 10~
+M HPCNT 30207 1~
+#30204
+iraqi dude~
+Iraqi Dude~
+An Iraqi dude is here, kill em like Bush would!
+~
+~
+Human~
+A 0 0 0 0
+1 0 1d1+100 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#30201
+coffin~
+a coffin~
+A coffin is here, holding the remains of those who failed.~
+wood~
+portal 0 0
+99999 0 0 16300 0
+101 1 1 P
+E
+coffin~
+The coffin is rather rustic and dark.  
+~
+#30202
+cookie christmas~
+a {2Green{@ christmas cookie~
+A green christmas cookie is here~
+unknown~
+token 0 A
+0 0 0 0 0
+1 0 0 P
+#30203
+ruby~
+a {1R{!u{1b{!y{x~
+The last piece to imbue items is here, a ruby!~
+ruby~
+gem 0 A
+0 0 0 0 0
+1 0 0 P
+#30204
+weapon mass destruction~
+a weapon of mass destruction~
+A weapon of mass desctruction is here, waiting for you to disarm it.~
+unknown~
+token 0 A
+BEF 0 0 0 0
+1 0 0 P
+#30205
+weapons bag~
+weapons bag~
+Weapons bag is here~
+unknown~
+container 0 A
+10000 0 0 100000 50
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#30200
+Old Blacksmith~
+Entering the old blacksmith there is a sudden dusty smell.  In the corner
+an old blacksmith is working on projects that he has never finished. 
+Looking closer at the room there are many wands on the wall, but that is
+puzzling, because this is a blacksmith.  Maybe if you would try to talk to
+the blacksmith he would let you in on why there are wands here.  
+~
+0 1024 0
+D2
+~
+~
+0 0 30201
+S
+#30201
+The Morgue~
+You are standing in the city morgue. It stinks like death in here and
+all areound you are corpses of the people who got killed in battle. The
+walls are an off white and the floor is covered with blood. As you get
+everything from your corpse you realize that your floating object is
+in the place where you got killed.
+~
+0 0 0
+D0
+~
+~
+0 0 30200
+D4
+~
+~
+0 0 3014
+S
+#30202
+Under the Gladiator Arena~
+You are now under the gladiator arena, how did you get here, the floor is
+suppost to be solid...  
+~
+0 1024 0
+D4
+~
+~
+4 0 17500
+S
+#30203
+Dragon's Lair~
+The Dragon that has the magical ruby lives here!
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 30202 4 2
+M 0 30200 1 30200 1
+O 0 30201 0 30201
+M 0 30202 1 30202 1
+M 0 30203 1 30203 1
+G 0 30203 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#30200
+say Well hello there, $n!
+say I don't see many people now, I have been forgotten by most, but if you were to
+say HELP me, I would reward you!
+wink $n
+~
+#30201
+say I'm glad you are going to help me, $n.
+say I have wands here because I imbue my works with magical proporties. But, I seem
+say to be missing one of the key parts, could you ask my friend the wizard if he knows
+say what to do?
+hug $n
+say Oh, I almost forgot, make sure you tell him the blacksmith sent you!
+~
+#30202
+say I cannot belive you found the ruby!
+say I will imbue an item for you with part of the rubies power!
+mob cast 'random ring'
+give sword $n
+give glove $n
+give sleeve $n
+give boot $n
+give ring $n
+give amulet $n
+give armor $n
+wink $n
+mob purge ruby
+~
+#30203
+say Hello there, $n.
+~
+#30204
+say Oh, you know the blacksmith?
+say Yes, he is a good friend of mine, I have heard that he is looking to imbue
+say regular items with magical proporties. He will need a ruby to do that
+say I only know of one ruby, held by a dragon who lives under the arena.
+say Here, I'll give you a key to get down there.
+give key $n
+say I've got to get going though!
+mob purge self
+~
+#30205
+say Well hello $n, you must be a friend of the blacksmith!
+wink $n
+say The door to the dragon has been bolted shut, but
+say I have magic that can transfer you to there, if you give me
+say the key that got you here, I will transfer you at no charge.
+smile $n
+~
+#30206
+say Here we go!
+mob transfer $n 30203
+
+close up
+lock up
+mob purge key
+~
+#30207
+say Your not going to stop me!
+mob cast ultima
+mob cast heal
+~
+#0
+
+#$

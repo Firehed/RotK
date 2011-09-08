@@ -1,0 +1,2634 @@
+#AREADATA
+Name Sacrifice~
+Builders Grimace~
+VNUMs 13500 13699
+Credits [ HERO] Grimace Sacrifice~
+Security 9
+End
+
+
+
+#MOBILES
+#13500
+bert~
+Bert~
+Bert stands here, selling boats.
+~
+Bert stands almost 7 feet tall, with a girth resembling that
+of a house.  The scars on his face and arms tell you that he's
+seen his fair share of combat.
+~
+Human~
+ABTV 0 0 900 0
+46 10 1d1+999 1d1+99 1d8+32 beating
+-15
+CEI ABCD 0 0
+stand stand male 1300
+AHMV ABCDEFGHIJK large 0
+#13501
+sea serpent~
+the sea serpent~
+A huge green sea serpent stares at you hungrily.
+~
+The sea serpent resembles a cross between a dragon and a snake.
+~
+dragon~
+AFMN DJTb 0 -1000 0
+32 0 3d9+333 16d9+100 2d8+5 acbite
+-4
+EFNU R ABEHIK FI
+stand stand either 5000
+AHZ ACDEFGHIJKPQUVX huge 0
+#13517
+lava monster~
+a lava monster~
+A lava monster jumps out of the pool and attacks you!
+~
+~
+Human~
+ABF DFJe D -300 0
+80 0 6d12+1500 15d9+500 7d12+40 none
+-32
+EFMNO 0 0 0
+stand stand none 1000
+DS 0 medium lava
+F for AHMV
+F par ABCDEFGHIJK
+#13544
+A Red Dragon~
+A Red Dragon~
+A Red Dragon is here.
+~
+~
+Human~
+AB 0 DNO 0 0
+90 0 6d12+3000 15d9+250 4d6+26 none
+-14
+FKMN 0 0 0
+stand stand none 2000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#13549
+A Giant Fire Worm~
+A Giant Fire Worm~
+A Giant Fire Worm is here ready to fight!
+~
+~
+Human~
+AFG e D -425 0
+80 0 6d12+1700 15d9+100 4d6+25 none
+-11
+0 H 0 I
+stand stand none 700
+HMRV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#13561
+lava monster~
+a lava monster~
+A big lava monster is spewing lava at you!
+~
+~
+Human~
+AFG 0 D -400 0
+80 0 10d169+1700 1d1+270 8d16+40 none
+-28
+EFKMN 0 0 0
+stand stand none 600
+ADHMV ABCDEFGHIJK medium lava
+#13579
+Horned Beast~
+A Horned Beast~
+A Horned Beast charges at you!
+~
+~
+Human~
+AFG 0 0 -589 0
+78 0 6d12+1500 15d9+100 4d6+35 none
+-15
+CEFIJKN 0 0 0
+stand stand none 500
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#13585
+Fire Spirit~
+A Fire Spirit~
+A Fire Spirit spits fire at you!
+~
+~
+Human~
+AFG 0 D 0 0
+82 0 6d12+1600 15d9+200 4d6+25 none
+-20
+0 H 0 I
+stand stand none 700
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#13587
+Fire Spirit~
+A Fire Spirit~
+A Fire Spirit spits fire at you!
+~
+~
+Human~
+AFG 0 D -500 0
+82 0 6d12+1600 15d9+200 4d6+25 none
+-20
+CDFIJKN H 0 I
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#13590
+Fire Spirit~
+A Fire Spirit~
+A Fire Spirit spits fire at you!
+~
+~
+Human~
+AFG 0 D 0 0
+82 0 6d12+1600 15d9+200 4d6+25 none
+-20
+0 H 0 I
+stand stand none 700
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#13592
+Fire Spirit~
+A Fire Spirit~
+A Fire Spirit spits fire at you!
+~
+~
+Human~
+AFG 0 D 0 0
+101 0 6d12+1600 15d9+200 4d6+25 none
+-20
+0 H 0 I
+stand stand none 700
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#13593
+Volcano Master~
+the volcano master~
+The Volcano Master is here, ready to destroy you!
+~
+~
+Human~
+AB 0 DEHO -800 0
+90 0 12d170+4000 1d1+500 15d20+50 none
+-23
+CDEFHIJKMNO H 0 I
+stand stand none 10000
+DS 0 medium magma
+F for AHMV
+F par ABCDEFGHIJK
+#13617
+A Shadow~
+a Shadow~
+A Shadow glides through the room.
+~
+~
+Human~
+ACFG P 0 -700 0
+80 0 6d12+1500 15d9+100 4d6+19 none
+-16
+IKN 0 0 N
+stand stand none 700
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#13500
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive.
+~
+#13501
+canoe~
+a canoe~
+A canoe has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 320 900 G
+E
+canoe~
+The canoe is fairly light.
+~
+#13502
+compass~
+a navigater's compass~
+A navigater's compass has been left here.
+~
+metal~
+light A A
+0 0 999 0 0
+0 5 100 P
+E
+compass~
+Some letters have been scratched into the back.
+                WSES
+                WSWS
+~
+#13544
+dragon scale dragonscale shield~
+a {!R{1ed {!D{1ragonscale {!S{1hield{0~
+A {!R{1ed {!D{1ragonscale {!S{1hield{0 sits on the ground.~
+unknown~
+armor 0 AJ
+69 65 66 65 0
+101 5 40899 P
+A
+20 -50
+A
+17 50
+#13579
+horn~
+a glowing horn~
+A glowing horn lies unused.~
+unknown~
+light G A
+0 0 999 0 0
+101 2 235433 P
+A
+12 50
+A
+12 350
+#13588
+fiery mace~
+a Fiery Mace~
+A Fiery Mace lies here.~
+steel~
+weapon AB AN
+mace 15 15 pound A
+90 20 700000 P
+A
+18 30
+A
+19 30
+#13593
+fire boots~
+a pair of Fire Boots~
+A pair of Fire Boots are excellent defense.~
+hardened lava~
+armor Y AG
+150 150 150 100 0
+80 30 90000 P
+F
+R 0 0 H
+A
+23 -25
+A
+17 30
+#0
+
+
+
+#ROOMS
+#13500
+Waterfall Pool~
+You are floating on the calm waters of a large pool just below
+a large waterfall.  A river runs off to the east, while the plains
+are to the south.
+~
+0 0 7
+D1
+You see a river winding through a forest.
+~
+~
+0 -1 13501
+D2
+You see a small dock.
+~
+~
+0 -1 13619
+S
+#13501
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you eastward.  The banks to the north and south are choked with
+a thick growth of trees, and do not seem to provide anyplace to land.
+The river flows off to the east as far as the eye can see, and to the
+west to a large waterfall.
+~
+0 0 7
+D1
+You see a river winding through a forest.
+~
+~
+0 -1 13502
+D3
+You see a large waterfall.
+~
+~
+0 -1 13500
+S
+#13502
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you eastward.  The south bank is choked with a thick growth of
+trees, and does not seem to provide any place to land.  On the north bank,
+you can make out a small trail leading up the side of a mountain.  The river
+flows off to the west as far as the eye can see, and to the east the river
+takes a sharp turn north.  
+~
+0 0 7
+D0
+You see a small trail.
+~
+~
+0 -1 13513
+D1
+You see a bend in the river.
+~
+~
+0 -1 13503
+D3
+You see a river winding through a forest.
+~
+~
+0 -1 13501
+S
+#13503
+A bend in the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The banks to the east and south are choked with
+a thick growth of trees, and do not seem to provide anyplace to land.
+The river flows off to the north and west as far as the eye can see.
+~
+0 0 7
+D0
+You see a river winding through a forest.
+~
+~
+0 -1 13504
+D3
+You see a river winding through a forest.
+~
+~
+0 -1 13502
+S
+#13504
+On the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The east bank is choked with a thick growth of
+trees, and does not seem to provide anyplace to land.  He west bank is a
+jagged cliff rising thousands of feet straight up.  There is a thin visible
+path up into the forested areas in the base of the peaks.  To the north and
+south, the river takes sharp turns to the west.  
+~
+0 0 7
+D0
+You see a bend in the river.
+~
+~
+0 -1 13505
+D2
+You see a bend in the river.
+~
+~
+0 -1 13503
+D3
+~
+~
+0 0 22640
+S
+#13505
+A bend in the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you westward.  The banks to the east and north are choked with
+a thick growth of trees, and do not seem to provide anyplace to land.
+The river flows off to the south as far as the eye can see.  To the west
+you see yet another bend in the river.
+~
+0 0 7
+D2
+You see a river winding through a forest.
+~
+~
+0 -1 13504
+D3
+You see a bend in the river.
+~
+~
+0 -1 13506
+S
+#13506
+A bend in the River~
+You are floating along a river.  The current here is weak but is slowly
+carrying you northward.  The west bank is choked with a thick growth of
+trees, and does not seem to provide any place to land.  On the south bank,
+you can make out a small trail leading up the side of a mountain.  The river
+flows north into a small bay, and to the est the river takes a turn south.  
+~
+0 0 7
+D0
+You see a small bay.
+~
+~
+0 -1 13507
+D1
+You see a bend in the river.
+~
+~
+0 -1 13505
+D2
+You see a small trail.
+~
+~
+0 -1 13508
+S
+#13507
+A small Bay~
+You are floating in a small bay.  The edges of the bay to the east and
+west are formed by a thick tangle of trees and brush.  To the south
+is the mouth of a large river.  To the north is the endless expanse
+of the northern sea.  Many adventurers have braved the northern sea,
+most of them never to be heard from again.
+~
+0 0 7
+D0
+You see the northern sea.
+~
+~
+0 -1 13596
+D2
+You see the mouth of the river.
+~
+~
+0 -1 13506
+S
+#13508
+A small Path~
+You are on a small dirt path that heads south through the field
+surrounding the base of the volcano.  North is the river that empties into a
+bay.  
+~
+0 65536 2
+D0
+~
+~
+0 -1 13506
+D2
+~
+~
+0 -1 13509
+S
+#13509
+End of the Path~
+You are on a dirt path in a field at the base of a great volcano. 
+Looking up you see the smoke coming out of the top.  The dirt path leads
+north.  
+~
+0 0 2
+D0
+~
+~
+0 -1 13508
+D4
+~
+~
+0 -1 13510
+S
+#13510
+Side of the Volcano~
+You begin to wonder if climbing this volcano was a smart idea, being
+afraid of heights you know.  Just don't look down.  As you look upward, you
+can see the smoke blowing off the top of the volcano.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13511
+D5
+~
+~
+0 -1 13509
+S
+#13511
+Side of the Volcano~
+You're just below the top of of the volcano.  Looking north you see some
+water and below you see...  Well, far, far below you see a tiny path.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13512
+D5
+~
+~
+0 -1 13510
+S
+#13512
+Top of the Volcano~
+You are at the top of the volcano.  Looking south you see smoke rising
+out of the big hollow center and it glows red.  Looking north you can see
+water, and if you travel north, you will head down the volcano.  
+~
+0 0 0
+D2
+~
+~
+0 -1 13524
+D5
+~
+~
+0 -1 13511
+S
+#13513
+A small Path~
+You are on a small dirt path heading north and south through a grassy
+field.  To the south is the river, and north you can see what looks to be a
+volcano!  
+~
+0 65536 2
+D0
+~
+~
+0 -1 13514
+D2
+~
+~
+0 -1 13502
+S
+#13514
+End of a small Path~
+You are at the foot of a massive volcano, and you can see smoke rising
+out of the top!  The small dirt path leads south towards the river.  
+~
+0 0 2
+D2
+~
+~
+0 -1 13513
+D4
+~
+~
+0 -1 13515
+S
+#13515
+Side of the Volcano~
+You are currently climbing up the side of the volcano, and it's getting
+steeper as you go.  You notice a small cave in the side of the volcano, and
+looking down you see the dirt path.  
+~
+0 0 5
+D0
+~
+~
+0 -1 13516
+D4
+~
+~
+0 -1 13518
+D5
+~
+~
+0 -1 13514
+S
+#13516
+A small Cave~
+Wow it's hot in here...  You feel immense heat comming from the west and
+it makes you feel uneasy about what lies ahead.  To the south leads out into
+the open.  
+~
+0 4 0
+D2
+~
+~
+0 -1 13515
+D3
+~
+~
+0 -1 13517
+S
+#13517
+A Lair~
+You see a great pit of lava in the center of the lair with an awesome
+amount of heat pouring out of it.  As you peer into the pit, a huge blob of
+lava climbs out and begins to fight you!  
+~
+0 9 0
+D1
+~
+~
+0 -1 13516
+S
+#13518
+Side of the Volcano~
+You are climbing the great volcano, and above you see the top of the
+volcano with flat ground.  Looking down, you can make out a tiny river and a
+small cave, but you soon feel sick and return to climbing.  
+~
+0 0 5
+D4
+~
+~
+0 -1 13519
+D5
+~
+~
+0 -1 13515
+S
+#13519
+Top of the Volcano~
+You are now at the top of the volcano.  Looking south, you can see tiny
+little towns and forests.  Looking north you see lots of smoke rising out of
+the volcano.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13520
+D5
+~
+~
+0 -1 13518
+S
+#13520
+South rim of the Volcano~
+You are on the rim of the volcano, and if you go north, you will fall
+inside of it, so be careful!  You feel lots of heat rising from the volcano.
+~
+0 0 0
+D0
+~
+~
+0 -1 13530
+D1
+~
+~
+0 -1 13527
+D2
+~
+~
+0 -1 13519
+D3
+~
+~
+0 -1 13521
+S
+#13521
+Southwest rim of the Volcano~
+You are on the rim of the volcano and you feel lots of heat rising from
+it.  You try to look off into the horizon, but the volcano smoke has made a
+thick haze around the rim.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13522
+D1
+~
+~
+0 -1 13520
+S
+#13522
+West rim of the Volcano~
+You are on the rim of the volcano, and if you go east, you will fall in,
+so be careful!  You feel lots of heat rising from the volcano.  
+~
+0 4 0
+D0
+~
+~
+0 -1 13523
+D1
+~
+~
+0 -1 13530
+D2
+~
+~
+0 -1 13521
+D5
+~
+~
+0 -1 13528
+S
+#13523
+Northwest rim of the Volcano~
+You are on the rim of the volcano and you feel lots of heat rising from
+it.  You try to look off into the horizon, but the volcano smoke has made a
+thick haze around the rim.  
+~
+0 0 0
+D1
+~
+~
+0 -1 13524
+D2
+~
+~
+0 -1 13522
+S
+#13524
+North rim of the Volcano~
+You are on the rim of the volcano, and if you go south, you will fall in,
+so be careful!  You feel lots of heat rising from the volcano.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13512
+D1
+~
+~
+0 -1 13525
+D2
+~
+~
+0 -1 13530
+D3
+~
+~
+0 -1 13523
+S
+#13525
+Northeast rim of the Volcano~
+You are on the rim of the volcano and you feel lots of heat rising from
+it.  You try to look off into the horizon, but the volcano smoke has made a
+thick haze around the rim.  
+~
+0 0 0
+D2
+~
+~
+0 0 13526
+D3
+~
+~
+0 -1 13524
+S
+#13526
+East rim of the Volcano~
+You are on the rim of the volcano, and if you go west, you will fall in,
+so be careful!  You feel lots of heat rising from the volcano.  
+~
+0 4 0
+D0
+~
+~
+0 0 13525
+D2
+~
+~
+0 0 13527
+D3
+~
+~
+0 -1 13530
+D5
+~
+~
+0 -1 13529
+S
+#13527
+Southeast rim of the Volcano~
+You are on the rim of the volcano and you feel lots of heat rising from
+it.  You try to look off into the horizon, but the volcano smoke has made a
+thick haze around the rim.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13526
+D3
+~
+~
+0 -1 13520
+S
+#13528
+A small ledge in the Volcano~
+You are on a small rocky ledge inside the volcano.  There seems to be
+plenty of things you can hold on to so you can climb back up to the rim. 
+You see a small island to the east that you could jump onto.  
+~
+0 4 0
+D1
+~
+~
+0 -1 13530
+D3
+~
+~
+0 -1 13611
+D4
+~
+~
+0 -1 13522
+S
+#13529
+A small ledge in the Volcano~
+You are on a small rocky ledge inside the volcano.  There seems to be
+plenty of things you can hold on to so you can climb back up to the rim. 
+You see a small island to the west that you could jump onto.  
+~
+0 0 0
+D1
+~
+~
+0 -1 13531
+D3
+~
+~
+0 -1 13530
+D4
+~
+~
+0 -1 13526
+S
+#13530
+A small Island~
+You are on a small island inside the volcano, and the only way you can go
+is north or south.  You wonder how long you will be able to stand this
+immense heat.  
+~
+0 0 10
+D0
+~
+~
+0 -1 13566
+D2
+~
+~
+0 -1 13565
+S
+#13531
+A Small Tunnel~
+You are in a small, rocky tunnel.  Unlike the bigger caverns, you can see
+in here, because of the cracks in the floor that let the lava below glow
+though.  You wonder how safe this tunnel is from collapsing...  
+~
+0 9 0
+D1
+~
+~
+0 -1 13532
+D3
+~
+~
+0 -1 13529
+S
+#13532
+An Intersection of Tunnels~
+You are in an intersection of tunnels.  You can feel warm water dripping
+off of the ceiling and onto your head, and when you move out of the way, you
+hear the echo it makes when it hits the rocks below.  Looking to the west
+you can see a small glowing tunnel.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13572
+D1
+~
+~
+0 -1 13533
+D3
+~
+~
+0 -1 13531
+D5
+~
+~
+0 -1 13536
+S
+#13533
+A Dead End Tunnel~
+You are in a very dark tunnel.  As you feel your way around, you find
+that you are in a dead end tunnel and are only able to exit west.  
+~
+0 9 0
+D3
+~
+~
+0 -1 13532
+S
+#13534
+A Small Tunnel~
+You are in a small, rocky tunnel.  Unlike the bigger caverns, you can see
+in here, because of the cracks in the floor that let the lava below glow
+though.  You wonder how safe this tunnel is from collapsing...  
+~
+0 13 0
+D1
+~
+~
+0 -1 13535
+D2
+~
+~
+0 -1 13614
+S
+#13535
+A Small Tunnel~
+You are in a small, rocky tunnel.  Unlike the bigger caverns, you can see
+in here, because of the cracks in the floor that let the lava below glow
+though.  You wonder how safe this tunnel is from collapsing...  
+~
+0 9 0
+D1
+~
+~
+0 -1 13536
+D3
+~
+~
+0 -1 13534
+S
+#13536
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  You bump into a pile of rocks and notice that you
+can climb them up to a higher level.  You notice that the rocks feel slimy
+and wet from warm water dripping from above.  
+~
+0 9 0
+D1
+~
+~
+0 -1 13541
+D2
+~
+~
+0 -1 13537
+D3
+~
+~
+0 -1 13535
+D4
+~
+~
+0 -1 13532
+S
+#13537
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you see a
+strange glow coming from the west south and east.  North of here is dark.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13536
+D1
+~
+~
+0 -1 13538
+D2
+~
+~
+0 -1 13539
+D3
+~
+~
+0 -1 13540
+S
+#13538
+A Rocky Cavern~
+You are in a smaller cave with a pool of lava in the center, causing the
+room to glow.  A bunch of stones circle around the pool.  
+~
+0 9 0
+D3
+~
+~
+0 -1 13537
+S
+#13539
+A Rocky Cavern~
+You are in a smaller cave with a pool of lava in the center, causing the
+room to glow.  A bunch of stones circle around the pool.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13537
+S
+#13540
+A Rocky Cavern~
+You are in a smaller cave with a pool of lava in the center, causing the
+room to glow.  A bunch of stones circle around the pool.  
+~
+0 9 0
+D1
+~
+~
+0 -1 13537
+S
+#13541
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  You hear a howl of wind off in the distance.  
+~
+0 8 0
+D1
+~
+~
+0 -1 13542
+D2
+~
+~
+0 -1 13543
+D3
+~
+~
+0 -1 13536
+S
+#13542
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  There is a small crack in the ground where you
+can see lava flowing beneath.  
+~
+0 8 0
+D2
+~
+~
+0 -1 13544
+D3
+~
+~
+0 -1 13541
+S
+#13543
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  A small rock falls from the ceiling and lands on
+your foot.  Ouch!  
+~
+0 8 0
+D0
+~
+~
+0 -1 13541
+D1
+~
+~
+0 -1 13544
+D2
+~
+~
+0 -1 13545
+S
+#13544
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  You hear a loud thump and your heart starts to
+race.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13542
+D2
+~
+~
+0 -1 13546
+D3
+~
+~
+0 -1 13543
+S
+#13545
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  However, you do notice a small crevice in the
+ground.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13543
+D1
+~
+~
+0 -1 13546
+D5
+~
+~
+0 -1 13547
+S
+#13546
+A Rocky Cavern~
+You are in a big, dark, rocky cavern.  As you look around, you can't
+really make anything out.  You do see some fire worms crawling on the rocks.
+~
+0 8 0
+D0
+~
+~
+0 -1 13544
+D3
+~
+~
+0 -1 13545
+S
+#13547
+In the Crevice~
+You are in a fairly narrow shale crevice with little rocks to hold on to.
+Above and below are caverns and you're right between them.  On the east side
+of the crevice there is a small cubby hole that you could fit into.  
+~
+0 9 0
+D1
+~
+~
+0 -1 13548
+D4
+~
+~
+0 -1 13545
+D5
+~
+~
+0 -1 13549
+S
+#13548
+A Small Cubby Hole~
+You are in a small cubby hole.  The ground in here is a dark redish dirt.
+On the ceiling you see a little fire worm crawling around giving off a red
+glow.  
+~
+0 9 0
+D3
+~
+~
+0 -1 13547
+S
+#13549
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  Above is a crevice that you are able to climb up into.  You
+see an elf skull molded into the floor here.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13558
+D1
+~
+~
+0 -1 13552
+D2
+~
+~
+0 -1 13550
+D4
+~
+~
+0 -1 13547
+S
+#13550
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  On the southern wall you see the engraven words 'Roland was
+here.  ' 
+~
+0 9 0
+D0
+~
+~
+0 -1 13549
+D1
+~
+~
+0 -1 13551
+S
+#13551
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13552
+D3
+~
+~
+0 -1 13550
+S
+#13552
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  To the east you see a small corridor leading to another
+section of the caverns.  
+~
+0 9 0
+D1
+~
+~
+0 -1 13553
+D2
+~
+~
+0 -1 13551
+D3
+~
+~
+0 -1 13549
+S
+#13553
+In the Corridor~
+You are in a narrow corridor of the caverns.  They have an interesting
+red glow.  The walls in here are made of solid rock, and the floor is shale.
+~
+0 9 0
+D2
+~
+~
+0 -1 13554
+D3
+~
+~
+0 -1 13552
+S
+#13554
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13553
+D1
+~
+~
+0 -1 13555
+D2
+~
+~
+0 -1 13557
+S
+#13555
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  
+~
+0 8 0
+D2
+~
+~
+0 -1 13556
+D3
+~
+~
+0 -1 13554
+S
+#13556
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  You see a holy mark upon the ground, indicating great
+protection from evil.  You see a tablet on that ground that says 'I, Roland,
+the great Elven Cleric, have finally made it to the depths of this great
+volcano.  Let this tablet be a mark of great achievement for the Elven race.
+' 
+~
+0 1036 0
+D0
+~
+~
+0 -1 13555
+D3
+~
+~
+0 -1 13557
+S
+#13557
+Inside the Caverns~
+You are in the depths of the volcano caverns.  The caverns have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13554
+D1
+~
+~
+0 -1 13556
+S
+#13558
+Bank of a Lava River~
+You are at the banks of the lava river.  The caverns you are in have an
+interesting red glow.  The walls in here are made of solid rock, and the
+floor is shale.  
+~
+0 8 0
+D2
+~
+~
+0 -1 13549
+D3
+~
+~
+0 -1 13559
+S
+#13559
+On a Lava River~
+You are riding along on the lava river, thinking to yourself, 'Is this really
+a good idea?  ' The walls around you are made of a redish dirt.  To the east
+you see the bank of the lava river.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13562
+D1
+~
+~
+0 -1 13558
+D2
+~
+~
+0 -1 13560
+S
+#13560
+On a Lava River~
+You are riding along on the lava river, thinking to yourself, 'Is this
+really a good idea?  ' The walls around you are made of a redish dirt.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13559
+D2
+~
+~
+0 -1 13561
+S
+#13561
+On a Lava River~
+This seems to be the start of the lava river, where it comes out of the
+ground below.  You wonder how much lava is down there...  
+~
+0 0 9
+D0
+~
+~
+0 -1 13560
+S
+#13562
+Bend in a Lava River~
+You are riding along on the lava river, thinking to yourself, 'Is this
+really a good idea?  ' The walls around you are made of a redish dirt.  You
+see something moving around moving around in the lava...  As you look
+closer, you notice it is the helmet of an unlucky adventurer.  
+~
+0 0 9
+D2
+~
+~
+0 -1 13559
+D3
+~
+~
+0 -1 13563
+S
+#13563
+Bend in a Lava River~
+You are riding along on the lava river, trying to avoid bumping into the
+walls which would hurt quite a bit...  The walls around you are made of a
+redish dirt.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13564
+D1
+~
+~
+0 -1 13562
+S
+#13564
+On a Lava River~
+You are riding along on the lava river, thinking to yourself, 'Is this
+really a good idea?  ' The walls around you are made of a redish dirt.  The
+river seems to get pretty curvey to the south.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13565
+D2
+~
+~
+0 -1 13563
+S
+#13565
+Inside the Volcano~
+You are on what seems to be dried lava, and smoke is rising out of the
+tiny cracks.  To the south you see a river of lava.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13566
+D2
+~
+~
+0 -1 13564
+S
+#13566
+Inside the Volcano~
+You are on what seems to be dried lava, and smoke is rising out of the
+tiny cracks.  To the south you see a river of lava.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13567
+D2
+~
+~
+0 -1 13565
+S
+#13567
+On a Lava River~
+You are riding along on the lava river, thinking to yourself, 'Is this
+really a good idea?  ' The walls around you are made of a redish dirt.  The
+river appears to bend to the east ahead.  Above you, you can see some ledges
+that you would like to get up to.  
+~
+0 0 9
+D0
+~
+~
+0 -1 13568
+D2
+~
+~
+0 -1 13566
+S
+#13568
+Bend in the Lava River~
+You are riding along on the lava river.  The north and west walls are
+covered with stained red jagged rocks.  So, you had better be extra cautious
+so you don't add to the stains.  
+~
+0 0 9
+D1
+~
+~
+0 -1 13569
+D2
+~
+~
+0 -1 13567
+S
+#13569
+On a Lava River~
+You are riding along on the lave river.  You wonder where it goes to, so
+you keep following it.  Ahead you see the river bends and there is also some
+hallway.  
+~
+0 0 9
+D1
+~
+~
+0 -1 13570
+D3
+~
+~
+0 -1 13568
+S
+#13570
+Bend in the Lava River~
+You are riding along on the lava river, thinking to yourself,'Is this
+really a good idea?' The walls around you are made of a redish dirt.  The
+river bends north and west and a hallway is to the east.  
+~
+0 0 0
+D0
+~
+~
+0 -1 13571
+D1
+~
+~
+0 -1 13582
+D3
+~
+~
+0 -1 13569
+S
+#13571
+On a Lava River~
+You are at the end of the lava river...  From here it only sinks into the
+ground, where the ashes and remains of those who perished are now entombed. 
+The walls around you are made of a redish dirt.  
+~
+0 0 9
+D2
+~
+~
+0 -1 13570
+S
+#13572
+A Winding Tunnel~
+The tunnel is dark and the floor is very rocky.  To the south you are
+able to make out an intersection, and you can here something dripping.  
+~
+0 9 0
+D2
+~
+~
+0 -1 13532
+D3
+~
+~
+0 -1 13573
+S
+#13573
+A Winding Tunnel~
+The tunnel is dark and the floor is very rocky.  As you try to stumble
+through the tunnel, you hear strange echoes coming from the east.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13581
+D1
+~
+~
+0 -1 13572
+S
+#13574
+A Dead End Tunnel~
+You are in a very dark tunnel.  As you feel your way around, you find
+that you are in a dead end tunnel and are only able to exit south.  
+~
+0 65545 0
+D2
+~
+~
+0 -1 13611
+S
+#13575
+A Small Tunnel~
+You are in a small, rocky tunnel.  Unlike the bigger caverns, you can see
+in here, because of the cracks in the floor that let the lava below glow
+though.  You wonder how safe this tunnel is from collapsing...  
+~
+0 9 0
+D0
+~
+~
+0 -1 13576
+D2
+~
+~
+0 -1 13612
+S
+#13576
+A Small Cavern~
+You are in a small cavern.  There are a bunch of glowing red rocks about
+the cavern.  You go to pick one up, but as you get close, you realize they
+are extremely hot.  Because of the rocks, the room glows red.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13577
+D1
+~
+~
+0 -1 13579
+D2
+~
+~
+0 -1 13575
+S
+#13577
+A Small Cavern~
+You are in a small cavern.  There are a bunch of glowing red rocks about
+the cavern.  You go to pick one up, but as you get close, you realize they
+are extremely hot.  Because of the rocks, the room glows red.  
+~
+0 8 0
+D1
+~
+~
+0 -1 13578
+D2
+~
+~
+0 -1 13576
+S
+#13578
+A Small Cavern~
+You are in a small cavern.  There are a bunch of glowing red rocks about
+the cavern.  You go to pick one up, but as you get close, you realize they
+are extremely hot.  Because of the rocks, the room glows red.  
+~
+0 8 0
+D1
+~
+~
+0 -1 13580
+D2
+~
+~
+0 -1 13579
+D3
+~
+~
+0 -1 13577
+S
+#13579
+A Small Cavern~
+You are in a small cavern.  There are a bunch of glowing red rocks about
+the cavern.  You go to pick one up, but as you get close, you realize they
+are extremely hot.  Because of the rocks, the room glows red.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13578
+D3
+~
+~
+0 -1 13576
+S
+#13580
+On a Ledge~
+You are on a rocky ledge inside the volcano.  You can continue to walk
+along this ledge or jump to the lava river below.  
+~
+0 12 0
+D2
+~
+~
+0 -1 13581
+D3
+~
+~
+0 -1 13578
+D5
+~
+~
+0 -1 13568
+S
+#13581
+On a Ledge~
+You are on a rocky ledge inside the volcano.  You can continue to walk
+along this ledge or jump to the lava river below.  
+~
+0 8 0
+E
+east~
+~
+D0
+~
+~
+0 -1 13580
+D2
+~
+~
+0 -1 13573
+D5
+~
+~
+0 -1 13567
+S
+#13582
+Southern End of Hallway~
+You are in a very strange hallway.  The floor is made of big slabs of
+stone floating on lava which bubbles between the cracks, causing your boots
+to scuff.  The walls are rocky with streams of lava coming down them,
+causing you to walk in the center of the hall.  To the west you see the lava
+river and north the hallway continues.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13583
+D3
+~
+~
+0 -1 13570
+S
+#13583
+Northern End of Hallway~
+You are in the northern part of the hallway.  The floor is made of big
+slabs of stone floating on lava which bubbles between the cracks.  The walls
+are rocky with streams of lava coming down them, causing you to walk in the
+center of the hall.  You even notice drips of lava falling from the ceiling,
+so you have to dodge them.  South is still the hallway and north is a large
+room.  A clear glass door separates you from the large room to the north .  
+~
+0 9 0
+D0
+~
+~
+1 -1 13584
+D2
+~
+~
+0 -1 13582
+S
+#13584
+A Fiery Room~
+You are in a huge room, filled with flames.  The floor is made of big
+slabs of stone loosely floating on the lava.  You get burned while jumping
+from slab to slab and your armor gets scorched.  This room has got to be the
+hottest in the volcano, because you leave rubber footprints on the rock
+slabs.  There is a clear door that separates this large room from the
+hallway to the south.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13593
+D1
+~
+~
+0 -1 13592
+D2
+~
+~
+1 -1 13583
+D3
+~
+~
+0 -1 13585
+S
+#13585
+A Fiery Room~
+You are in the southwest corner of the huge flame filled room.  The floor
+is made of big slabs of stone loosely floating on the lava.  You get burned
+while jumping from slab to slab and your armor gets scorched.  This room has
+got to be the hottest in the volcano, because you leave rubber footprints on
+the rock slabs.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13586
+D1
+~
+~
+0 -1 13584
+S
+#13586
+A Fiery Room~
+You are in a huge room, filled with flames.  The floor is made of big
+slabs of stone loosely floating on the lava.  You get burned while jumping
+from slab to slab and your armor gets scorched.  This room has got to be the
+hottest in the volcano, because you leave rubber footprints on the rock
+slabs.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13587
+D1
+~
+~
+0 -1 13593
+D2
+~
+~
+0 -1 13585
+S
+#13587
+A Fiery Room~
+You are in the northwest corner of the huge flame filled room.  The floor
+is made of big slabs of stone loosely floating on the lava.  You get burned
+while jumping from slab to slab and your armor gets scorched.  To the north
+you see a big pile of burning bones.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13588
+D1
+~
+~
+0 -1 13589
+D2
+~
+~
+0 -1 13586
+S
+#13588
+A Burning Pile of Bones~
+You are standing on a large pile of flaming bones and other remains of
+the volcano's victims.  You see all sorts of skulls from the different races
+of adventurers who didn't make it out.  You'd better watch out so that you
+don't join them.  
+~
+0 9 0
+D2
+~
+~
+0 -1 13587
+S
+#13589
+A Fiery Room~
+You are in the northern end of the huge flame filled room.  The floor is
+made of big slabs of stone loosely floating on the lava.  You get burned
+while jumping from slab to slab and your armor gets scorched.  This room has
+got to be the hottest in the volcano, because you leave rubber footprints on
+the rock slabs.  
+~
+0 8 0
+D1
+~
+~
+0 -1 13590
+D2
+~
+~
+0 -1 13593
+D3
+~
+~
+0 -1 13587
+S
+#13590
+A Fiery Room~
+You are in the northeast corner of the huge flame filled room.  The floor
+is made of big slabs of stone loosely floating on the lava.  You get burned
+while jumping from slab to slab and your armor gets scorched.  This room has
+got to be the hottest in the volcano, because you leave rubber footprints on
+the rock slabs.  
+~
+0 8 0
+D2
+~
+~
+0 -1 13591
+D3
+~
+~
+0 -1 13589
+S
+#13591
+A Fiery Room~
+You are in a huge room, filled with flames.  The floor is made of big
+slabs of stone loosely floating on the lava.  You get burned while jumping
+from slab to slab and your armor gets scorched.  This room has got to be the
+hottest in the volcano, because you leave rubber footprints on the rock
+slabs.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13590
+D2
+~
+~
+0 -1 13592
+D3
+~
+~
+0 -1 13593
+S
+#13592
+A Fiery Room~
+You are in a huge room, filled with flames.  The floor is made of big
+slabs of stone loosely floating on the lava.  You get burned while jumping
+from slab to slab and your armor gets scorched.  This room has got to be the
+hottest in the volcano, because you leave rubber footprints on the rock
+slabs.  You notice someone's melted shoes lying on a rock slab.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13591
+D3
+~
+~
+0 -1 13584
+S
+#13593
+Center of the Fiery Room~
+You are in the center of the huge flame filled room.  You are on one
+great, round slab.  On the edges of the slab are huge round rocks glowing
+red.  There is a rocky mound that serves as a ladder to get up into the
+crevice in the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 -1 13589
+D1
+~
+~
+0 -1 13591
+D2
+~
+~
+0 -1 13584
+D3
+~
+~
+0 -1 13586
+D4
+~
+~
+0 -1 13594
+S
+#13594
+A Small Crevice in the Rock~
+You are in a small crevice above the huge fiery room.  This room is much
+cooler and you feel relief.  The crevice is damp and you hear water
+dripping.  You feel a cool breeze coming from the north.  
+~
+0 13 0
+D0
+~
+~
+0 -1 13595
+D5
+~
+~
+0 -1 13593
+S
+#13595
+A Small Crevice in the Rock~
+You are in a small crevice that is cool and damp with dripping noises
+around you.  There is a flood of light and a cool breeze coming in from the
+north.  
+~
+0 0 10
+D0
+~
+~
+0 -1 13510
+D2
+~
+~
+0 -1 13594
+S
+#13596
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+You seem to have gotten turned around, and wish you had a compass about
+now.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13606
+D1
+Just more water.
+~
+~
+0 -1 13599
+D2
+Just more water.
+~
+~
+0 -1 13609
+D3
+Just more water.
+~
+~
+0 -1 13598
+S
+#13597
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13605
+D1
+Just more water.
+~
+~
+0 -1 13600
+D2
+Just more water.
+~
+~
+0 -1 13605
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13598
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13604
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13608
+D3
+Just more water.
+~
+~
+0 -1 13606
+S
+#13599
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13600
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13599
+D3
+Just more water.
+~
+~
+0 -1 13599
+S
+#13600
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13599
+D1
+Just more water.
+~
+~
+0 -1 13597
+D2
+Just more water.
+~
+~
+0 -1 13606
+D3
+Just more water.
+~
+~
+0 -1 13605
+S
+#13601
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13610
+D1
+Just more water.
+~
+~
+0 -1 13602
+D2
+Just more water.
+~
+~
+0 -1 13607
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13602
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13601
+D1
+Just more water.
+~
+~
+0 -1 13606
+D2
+Just more water.
+~
+~
+0 -1 13604
+D3
+Just more water.
+~
+~
+0 -1 13608
+S
+#13603
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+Wait...Is that land to the south?
+~
+0 8196 7
+D0
+Just more water.
+~
+~
+0 -1 13604
+D1
+Just more water.
+~
+~
+0 -1 13608
+D2
+You can barely make out a small bay.
+~
+~
+0 -1 13507
+D3
+Just more water.
+~
+~
+0 -1 13604
+S
+#13604
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13602
+D1
+Just more water.
+~
+~
+0 -1 13598
+D2
+Just more water.
+~
+~
+0 -1 13603
+D3
+Just more water.
+~
+~
+0 -1 13603
+S
+#13605
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13597
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Just more water.
+~
+~
+0 -1 13597
+D3
+Just more water.
+~
+~
+0 -1 13600
+S
+#13606
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13600
+D1
+Just more water.
+~
+~
+0 -1 13596
+D2
+Just more water.
+~
+~
+0 -1 13602
+D3
+Just more water.
+~
+~
+0 -1 13598
+S
+#13607
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13605
+D1
+Just more water.
+~
+~
+0 -1 13601
+D2
+Just more water.
+~
+~
+0 -1 13610
+D3
+Just more water.
+~
+~
+0 -1 13609
+S
+#13608
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13598
+D1
+Just more water.
+~
+~
+0 -1 13610
+D2
+Just more water.
+~
+~
+0 -1 13602
+D3
+Just more water.
+~
+~
+0 -1 13603
+S
+#13609
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+~
+0 8192 7
+D0
+Just more water.
+~
+~
+0 -1 13597
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Just more water.
+~
+~
+0 -1 13596
+D3
+Just more water.
+~
+~
+0 -1 13601
+S
+#13610
+Lost at Sea~
+Looking around, you see nothing but water as far as the eye can see.
+Wait...Is that an island to the south?
+~
+0 8196 7
+D0
+Just more water.
+~
+~
+0 -1 13601
+D1
+Just more water.
+~
+~
+0 -1 13607
+D2
+Land is visible to the south.
+~
+~
+0 -1 11700
+D3
+Just more water.
+~
+~
+0 -1 13608
+S
+#13611
+An Intersection of Tunnels~
+You are in an intersection of tunnels.  Looking to the north, you don't
+see much because it is too dark to see anything.  To the west you see
+another intersection and to the east is a bright room.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13574
+D1
+~
+~
+0 -1 13528
+D3
+~
+~
+0 -1 13612
+S
+#13612
+An Intersection of Tunnels~
+You are in an intersection of tunnels.  To the north is a glowing cave
+and south is a small tunnel.  You see a flood of light from the east.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13575
+D1
+~
+~
+0 -1 13611
+D2
+~
+~
+0 -1 13613
+S
+#13613
+A Small Tunnel~
+You are in a small, rocky tunnel.  Unlike the bigger caverns, you can see
+in here, because of the cracks in the floor that let the lava below glow
+though.  You wonder how safe this tunnel is from collapsing...  
+~
+0 13 0
+D0
+~
+~
+0 -1 13612
+D1
+~
+~
+0 -1 13614
+S
+#13614
+A Pitch Black Cavern~
+You are in a pitch black cavern, and you can't see anything!  You wonder
+who...  Or what you will bump into next.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13534
+D1
+~
+~
+0 -1 13615
+D2
+~
+~
+0 -1 13616
+D3
+~
+~
+0 -1 13613
+S
+#13615
+A Pitch Black Cavern~
+You are in a pitch black cavern, and you can't see anything!  You wonder
+who...  Or what you will bump into next.  
+~
+0 9 0
+D2
+~
+~
+0 -1 13617
+D3
+~
+~
+0 -1 13614
+S
+#13616
+A Pitch Black Cavern~
+You are in a pitch black cavern, and you can't see anything!  You wonder
+who...  Or what you will bump into next.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13614
+D1
+~
+~
+0 -1 13617
+S
+#13617
+A Pitch Black Cavern~
+You are in a pitch black cavern, and you can't see anything!  You wonder
+who...  Or what you will bump into next.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13615
+D2
+~
+~
+0 -1 13618
+D3
+~
+~
+0 -1 13616
+S
+#13618
+A Pitch Black Cavern~
+You are in a pitch black cavern, and you can't see anything!  You wonder
+who...  Or what you will bump into next.  
+~
+0 9 0
+D0
+~
+~
+0 -1 13617
+S
+#13619
+A small Dock~
+You are standing on a small dock extending out into a large pool of water.
+A huge waterfall to your west sprays you with a cool mist.  A small shack
+is here with a sign that reads "{BBert's Boats{x".
+         A sign is nailed to a post at the edge of the dock.
+         Below the sign, a brass plaque glints in the light.
+~
+0 9 0
+E
+sign~
+The sign reads:
+               NO FISHING
+~
+E
+brass plaque~
++-------------------+
+| +---------------+ |
+| | SACRIFICE.ARE | |
+| |      by       | |
+| |   Vengeance   | |
+| +---------------+ |
++--Realms-Of-Thoth--+
+~
+D0
+You see a large pool below a waterfall.
+~
+~
+0 -1 13500
+D2
+You see the northern plains.~
+~
+0 -1 326
+S
+#0
+
+
+
+#SPECIALS
+M 13501 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 13583 0 1
+D 0 13584 2 1
+M 0 13517 1 13517 1
+M 0 13544 1 13544 1
+G 0 13544 0
+M 0 13549 3 13549 3
+M 0 13561 10 13561 10
+M 0 13579 1 13579 1
+G 0 13579 0
+M 0 13585 1 13585 1
+M 0 13587 1 13587 1
+O 0 13588 0 13588
+M 0 13590 1 13590 1
+M 0 13592 1 13592 1
+M 0 13593 1 13593 1
+E 0 13593 0 8
+M 0 13501 2 13600 1
+M 0 13501 2 13607 1
+M 0 13617 3 13617 3
+M 0 13500 1 13619 1
+G 0 13500 0
+G 0 13501 0
+G 0 13502 0
+S
+
+
+
+#SHOPS
+13500 1 22 0 0 0 120 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

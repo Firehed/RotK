@@ -1,0 +1,592 @@
+#AREADATA
+Name Brotherhood~
+Builders Wardrof~
+VNUMs 16200 16219
+Credits [ CLAN] Wardrof Brotherhood~
+Security 3
+End
+
+
+
+#MOBILES
+#16200
+Tian~
+Tian~
+Tian is here, ready to take your money.
+~
+~
+Human~
+AB 0 0 0 0
+105 0 50d50+16505 0d0+0 0d0+0 none
+100
+0 0 0 0
+stand stand none 999999999
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16201
+Mordeth~
+Mordeth~
+Mordeth Stands here.
+~
+~
+Human~
+ABJKb 0 0 0 0
+0 0 1000d1000+1000 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16202
+demon~
+Demon~
+The Demon is here, ready to be attacked.
+~
+~
+Human~
+AB 0 0 0 0
+100 0 100d100+100 100d100+100 1d1+1 none
+-10
+EFK ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16203
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16208
+healer~
+The healer~
+The Healer is here, offering you spells.
+~
+~
+Human~
+ABXZa 0 0 0 0
+10000 0 1d1+3000 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16200
+sword~
+{1A {7S{&h{7i{&m{7e{&r{7in{&g {1Sword of the Bro{8th{7er{8ho{1od{@~
+A sword of the Brotherhood lies here.~
+silver~
+weapon A AN
+sword 10 15 cleave BDE
+35 7 1000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+#16201
+necklace~
+{@The {#Golden Necklace{@ of the {1Bro{8th{7er{8ho{1od{@~
+A necklace inscribed with "Brotherhood" lies here.~
+gold~
+jewelry T AC
+0 0 0 0 0
+35 5 1000 P
+A
+20 -25
+A
+19 10
+A
+13 75
+A
+18 10
+A
+17 15
+A
+13 25
+A
+12 100
+A
+14 100
+#16202
+speed potion~
+{#Speed Potion{0~
+A {#Speed Potion{@ is here.{0~
+glass~
+potion 0 A
+150 'shield' 'armor' 'haste' 'giant strength'
+35 5 500 P
+#16203
+pool~
+{4P{$o{4o{$l {@of the {1Bro{8th{7er{8ho{1od{@~
+{4P{$o{4o{$l {@of the {1Bro{8th{7er{8ho{1od{@ is here~
+unknown~
+furniture 0 0
+50 50000 CFIL 80000 80000
+1 0 0 P
+#16204
+spring~
+a Spring~
+A {#M{$a{%g{^i{#c{!a{^l {@spring.~
+marble~
+fountain 0 0
+-1 -1 'water' 0 0
+1 0 0 P
+#16205
+potion spellup~
+{1Bro{8th{7er{8ho{1od{@ Spellup Potion{0~
+{1Bro{8th{7er{8ho{1od{@ Spellup Potion is here{0~
+glass~
+potion 0 A
+150 'sanctuary' 'shockshield' 'fireshield' 'iceshield'
+35 1 500 P
+#16206
+healing pill~
+brotherhood healing pill~
+A healing pill lies here.~
+unknown~
+pill 0 A
+1 'heal' 'heal' 'heal' 'heal'
+35 1 500 P
+#16207
+potion health~
+{6Potion of Good Health{0~
+{@A Potion of Good Health lies here{0~
+glass~
+potion A A
+150 'cure disease' 'cure poison' 'cure blindness' ''
+35 1 500 P
+#16208
+wand wonderful~
+{5A {6Wo{^nder{%ful {#WAND{0~
+A wand is here, dont use it!~
+oldstyle~
+wand 0 AO
+110 999 999 'quest pill' 0
+110 0 0 P
+#16209
+feather brother~
+{1Fe{7a{&t{7h{1er {@of the {1Bro{8th{7er{7ho{1od{x~
+A feather of the brotherhood is here, floating to the ground.~
+unknown~
+armor 0 AT
+40 5 5 5 0
+35 0 3500 P
+A
+18 20
+A
+19 20
+A
+5 3
+A
+3 3
+A
+4 2
+A
+13 250
+A
+12 50
+#16210
+sleeves~
+{1Sl{8e{7e{8v{1es {xof the {1Bro{8th{7er{8ho{1od{x~
+The sleeves of the brotherhood are here.~
+cloth~
+armor 0 AI
+50 50 50 50 0
+35 1 1000 P
+A
+20 -25
+A
+19 10
+A
+18 10
+A
+14 100
+A
+12 100
+A
+13 100
+#16211
+spellup heal pk~
+{1P{3K {1P{3o{1t{3i{3o{1n{0~
+The brotherhood's pk potion is here~
+unknown~
+potion 0 A
+200 'demi' 'demi' 'demi' 'golem'
+35 0 500 P
+#16212
+earring~
+{1Ea{7r{&r{7i{1ng{@~
+An earring is here~
+unknown~
+armor 0 AS
+50 50 50 50 0
+35 0 1000 P
+A
+20 -25
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+#16213
+ring~
+{1R{7in{1g{x~
+Brotherhood's ring is here.~
+unknown~
+armor 0 AB
+50 50 50 50 0
+35 0 1000 P
+A
+19 10
+A
+18 10
+A
+20 -25
+A
+12 100
+A
+13 100
+#16214
+bracer~
+{1B{7r{&ac{7e{1r{x~
+A bracer of the brotherhood is here.~
+unknown~
+armor 0 AM
+50 50 50 50 0
+35 0 1000 P
+A
+13 100
+A
+12 100
+A
+20 -25
+A
+18 10
+A
+19 10
+#16215
+anklet~
+{1A{7n{&kl{7e{1t{x~
+Brotherhood anklets are here.~
+unknown~
+armor 0 AU
+50 50 50 50 0
+35 0 1000 P
+A
+20 -25
+A
+19 10
+A
+18 10
+A
+14 100
+A
+12 100
+A
+13 100
+#16216
+dagger brother~
+dagger etched with 'brother'~
+A short dagger etched with 'brother' lies here.~
+unknown~
+weapon 0 AN
+dagger 10 12 slash E
+50 0 1000 P
+A
+19 10
+A
+18 10
+A
+13 100
+A
+12 100
+#16217
+cospellup potion~
+a cospellup potion~
+A cospellup potion is here~
+unknown~
+potion 0 A
+101 'acidshield' 'holyshield' 'glassshield' 'watershield'
+35 0 1000 P
+#0
+
+
+
+#ROOMS
+#16200
+Sanctuary of the Brotherhood~
+Upon entering the hall of the Brotherhood there is one thing that sticks
+out among the others.  A floating sign, unattached from the walls or the
+floor.  The ceiling raises 50ft off the ground and has a dark blue glow. 
+This reminds everybody that the Brotherhood's ultimate goal is to stomp out
+the evil in the realm.  We will do anything that we can to convert everyone
+to follow the path of good.  
+~
+0 1028 0
+E
+sign~
+This floating sign is the key to the etchings on the walls.
+look rules. This will tell you the rules of the Brotherhood.
+look trusted. This will tell you the rules of the trusted.
+look untrustworthy. This will tell you the rules of the untrustworthy.
+~
+D2
+~
+~
+0 0 16201
+D5
+~
+~
+0 0 3014
+S
+#16201
+The Southern Hallway~
+You stand in the southern hallway.  Down there is the portal room.  To the west
+is a shope where you can buy many great items.  To the east there is a
+trainer, that will help you train your skills.  
+~
+0 0 0
+D0
+~
+~
+0 0 16200
+D1
+~
+~
+0 0 16203
+D2
+~
+~
+0 0 16209
+D3
+~
+~
+0 0 16202
+D5
+~
+~
+0 0 16208
+S
+#16202
+The Shoppe~
+You stand in the shoppe of The Brotherhood.  There are swords and potions
+that great heros need to stay alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 16201
+S
+#16203
+Training Room~
+You are in the Training room of the brotherhood.  You can TRAIN PRAC or
+GAIN here.  Please use all three commands for they are very useful!  
+~
+0 0 0
+D3
+~
+~
+0 0 16201
+S
+#16204
+Hall of the Brothers~
+This is the hall for the regulars of the brotherhood, the brothers. 
+There is nothing fancy here.  
+~
+0 0 0
+D4
+~
+~
+0 0 16205
+S
+#16205
+Hall of SETH~
+This is the hall of the SETH.  He is my 3rd in command.  He takes orders
+from me and my KANE 
+~
+0 0 0
+D4
+~
+~
+0 0 16206
+D5
+~
+~
+0 0 16204
+S
+#16206
+Hall of Tanus~
+This is the hall of Tanus.  Bow before me, and listen to me.  If you heed
+these words you shall fare nicely.  If you choose to disobey me I shall
+smite thee!  
+~
+0 0 0
+D4
+~
+~
+0 0 16207
+D5
+~
+~
+0 0 16205
+S
+#16207
+God's hall~
+You are on holy ground.  Your god, wardrof, lives here.  You will listen
+to him nomatter who you are, even if you are not in my clan you will listen
+to me!  
+~
+0 0 0
+D5
+~
+~
+0 0 16206
+S
+#16208
+Room of Many Portals~
+North is to Island on Cirus sea
+East is to the Training grounds
+West is to the glacier
+South is to hell
+Up is to Norsid Lands
+Down is to Renwood
+~
+0 4 0
+D0
+~
+~
+0 0 9000
+D1
+~
+~
+0 0 16241
+D2
+~
+~
+0 0 3472
+D3
+~
+~
+0 0 450
+D4
+~
+~
+0 0 21850
+D5
+~
+~
+0 0 21800
+S
+#16209
+Test Dummies~
+Type "K Demon" to attack the dummies.  
+~
+0 0 0
+D0
+~
+~
+0 0 16201
+S
+#16216
+Start of death~
+~
+0 9216 0
+D1
+~
+~
+0 0 16218
+S
+#16217
+Start of Death~
+~
+0 9216 0
+D1
+~
+~
+0 0 16218
+S
+#16218
+The Arena~
+~
+0 8196 0
+S
+#16219
+Stantel's Office~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 16208 1 16200 1
+O 0 16203 0 16200
+O 0 16204 0 16200
+M 0 16200 1 16202 1
+G 0 16211 0
+G 0 16200 0
+G 0 16201 0
+G 0 16205 0
+G 0 16202 0
+G 0 16206 0
+G 0 16207 0
+G 0 16210 0
+G 0 16212 0
+G 0 16213 0
+G 0 16214 0
+G 0 16215 0
+G 0 16216 0
+G 0 16217 0
+M 0 16201 1 16203 1
+M 0 16202 4 16209 4
+M 0 16202 4 16209 4
+M 0 16202 4 16209 4
+M 0 16202 4 16209 4
+S
+
+
+
+#SHOPS
+16200 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

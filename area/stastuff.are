@@ -1,0 +1,251 @@
+#AREADATA
+Name stantel's stuff~
+Builders Stantel~
+VNUMs 400 449
+Credits [ IMM ] Stantel Stantel's Stuff~
+Security 9
+End
+
+
+
+#MOBILES
+#407
+nurse~
+Nurse~
+A nurse stands here, holding your "tool"
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium flesh
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#400
+dark rose~
+the {8Dark {!Rose{0~
+There isn't one!!!~
+unknown~
+weapon 0 AN
+dagger 666666666 666666666 slice 0
+109 25 0 P
+#401
+wizslap gloves stantel~
+the ol' wizslapin' gloves~
+You wish you knew~
+unknown~
+armor 0 AH
+-800 -800 -800 -800 0
+109 0 0 P
+#402
+portal~
+a portal~
+A portal~
+unknown~
+portal 0 0
+0 0 0 99 0
+0 0 0 P
+#403
+wand final blessing~
+wand of Final Blessing~
+Something you should not touch is here~
+Stantelium~
+wand 0 AO
+110 999 999 'final blessing' 0
+109 0 0 P
+#404
+potion dark rose type one~
+the potion of the {8Dark {7Rose{0 type one~
+If you want to know, then I won't tell you~
+stantelium~
+potion 0 A
+110 'cancellation' 'final blessing' 'holy word' 'sanctuary'
+1 0 0 P
+#405
+pill Dark Rose type one~
+pill of the {8Dark {7Rose{0 type one~
+Take me!!!!~
+Stantelium~
+pill 0 A
+110 'haste' 'shield' 'stone skin' 'faerie fog'
+0 0 0 P
+#406
+shield dark rose~
+the shield of the {8Dark {7Rose{0~
+A shield you will never get lies here~
+Stantelium~
+armor 0 AJ
+200 200 200 200 0
+101 0 0 P
+F
+S 0 0 Q
+F
+S 0 0 S
+F
+S 0 0 R
+F
+S 0 0 E
+F
+S 0 0 C
+F
+S 0 0 D
+F
+S 0 0 P
+#407
+the Dark Rose~
+the {8Dark {&Rose{0~
+This rose pulsates with power~
+stantelium~
+armor 0 AO
+40 40 40 40 0
+0 -50 0 P
+#0
+
+
+
+#ROOMS
+#400
+animal testing area~
+This is the area Stantel uses to torture...  Er test on mobs.  Blood
+covers the walls.  It's quite a pleasent sight.  
+~
+0 0 0
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 404
+D4
+~
+~
+0 0 406
+D5
+~
+~
+0 0 405
+S
+#401
+weapons testing area~
+This is where Stantel tests out his weapons to see if they kill too slowly 
+~
+0 0 0
+D2
+~
+~
+0 0 400
+S
+#402
+armor testing area~
+This is where Stan's invincible armor is tested 
+~
+0 0 0
+D0
+~
+~
+0 0 400
+S
+#403
+Portal testing room~
+this is where stantel makes his portals to usless places
+~
+0 0 0
+D3
+~
+~
+0 0 400
+S
+#404
+furniture testing area~
+This is where stan's bum guy furniture is made 
+~
+0 0 0
+D1
+~
+~
+0 0 400
+S
+#405
+Culinary testing area~
+This is where stan tests his food and drink for quality.  This is also
+where food and drink containers are tested.  
+~
+0 0 0
+D4
+~
+~
+0 0 400
+S
+#406
+Other testing area~
+This is where all stan's other crap are teste.  Such things as
+containers, spell stones and others are all tested here.  
+d
+~
+0 0 0
+D4
+~
+~
+0 0 407
+D5
+~
+~
+0 0 400
+S
+#407
+Operating Room~
+This is the room Stantel does his famous sex changes in.  Blood paints
+the walls, and rusty tools sit in a tray by a blood stained operating table.
+~
+0 0 0
+D5
+~
+~
+0 0 406
+S
+#415
+oops~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

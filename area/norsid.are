@@ -1,0 +1,1494 @@
+#AREADATA
+Name Norsid Lands~
+Builders Grimace~
+VNUMs 21850 21949
+Credits [ 85+ ] Grimace Norsid Lands~
+Security 9
+End
+
+
+
+#MOBILES
+#21850
+animated corpse~
+an animated corpse~
+An animated Norsid corpse walks towards you.
+~
+One of the Norsid summoners was very unfortunate to have died during a
+summoning and become undead.  
+~
+Heucuva~
+ACFG Z 0 -1000 0
+210 55 5d100+7700 10d10+400 3d5+215 none
+-25
+CINU LQ DM NSY
+stand stand either 3000
+AHMV ABCGHIJK medium unknown
+F imm M
+#21851
+spawn~
+a spawn of Shrawk~
+A spawn of Shrawk feeds on a corpse.
+~
+The spawn is a much smaller version of Shrawk, but still one nasty
+creature.  
+~
+Heucuva~
+ABCFG Z 0 -1000 0
+220 65 5d100+8000 10d10+400 5d7+215 none
+-27
+CINU LMQ D NSY
+stand stand either 3500
+AHMV ABCGHIJK medium unknown
+#21852
+shrawk~
+Shrawk~
+Shrawk is here, creating more spawns.
+~
+You see Shrawk, a great, big, undescribable ugly monster that was
+summoned here by the Norsids in an attempt to destroy him.  
+~
+Heucuva~
+ABCFG Z 0 -1000 0
+240 85 7d100+11000 20d20+500 7d9+230 none
+-32
+CDEIKMOR ALMQ D NSY
+stand stand none 5000
+AHMV ABCGHIJK medium unknown
+#21853
+norsid chanter~
+a Norsid chanter~
+A Norsid chanter meditates here.
+~
+The Norsid chanter wears a brown hooded cloak and has a big wooden staff.  
+~
+Yellow Dragon~
+ABCG V 0 0 0
+200 50 5d100+7500 10d10+300 2d5+145 none
+-20
+U J R I
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+#21854
+wandering vagabond~
+a wandering vagabond~
+A vagabond wanders here.
+~
+The vagabond is very rugged looking, fitting in well with the terrain.  
+~
+Human~
+ACG 0 0 -1000 0
+190 45 2d100+7000 1d1+100 2d5+200 none
+-21
+CEIN 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#21855
+gypsy man~
+a gypsy man~
+A gypsy man dances around.
+~
+The gypsy man is dressed in rags.  
+~
+Halfelf~
+ACG L 0 -1000 0
+185 50 2d100+6900 1d1+100 3d5+195 none
+-19
+N 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#21856
+gypsy woman~
+a gypsy woman~
+A gypsy woman sings and claps her hands.
+~
+The gypsy woman is dressed in rags.  
+~
+Halfelf~
+ACG L 0 -1000 0
+185 45 2d100+6900 1d1+100 2d5+195 slap
+-19
+I 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#21857
+gypsy elder~
+a gypsy elder~
+A gypsy elder stands and watches.
+~
+The gyspy elder looks very wise.  
+~
+Halfelf~
+ACG L 0 -1000 0
+195 55 3d100+7000 10d10+500 3d6+195 none
+-22
+BCIR A 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#21850
+wooden staff~
+a wooden staff~
+A wooden staff is on the ground.~
+unknown~
+weapon B AN
+staff 12 14 pound F
+90 4 1200 P
+#21851
+brown hooded cloak~
+a brown hooded cloak~
+A lump of brown cloth is on the ground.~
+unknown~
+armor 0 AK
+50 50 50 50 0
+90 2 1211 P
+A
+12 150
+#21852
+flute~
+a flute~
+A gypsy-made flute is on the ground.~
+unknown~
+trash B AO
+0 0 0 0 0
+1 1 2300 P
+#21854
+tambourine~
+a tambourine~
+A gypsy tambourine is on the ground.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 3422 P
+#21855
+stolen money~
+a pile of stolen money~
+A pile of stolen money has fallen here.~
+unknown~
+money 0 A
+10000 0 0 0 0
+1 1 1 P
+#21856
+large trunk~
+a large trunk~
+A large trunk is here.~
+unknown~
+container 0 0
+100 AC 0 100 5
+1 1 23 P
+#0
+
+
+
+#ROOMS
+#21850
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21851
+D2
+~
+~
+0 0 4036
+S
+#21851
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 21850
+D3
+~
+~
+0 0 21852
+S
+#21852
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21851
+D3
+~
+~
+0 0 21853
+S
+#21853
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21854
+D1
+~
+~
+0 0 21852
+S
+#21854
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  You
+see ashes left over from an old fire.  
+~
+0 0 0
+D0
+~
+~
+0 0 21855
+D2
+~
+~
+0 0 21853
+S
+#21855
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21871
+D1
+~
+~
+0 0 21856
+D2
+~
+~
+0 0 21854
+S
+#21856
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21857
+D3
+~
+~
+0 0 21855
+S
+#21857
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 21858
+D3
+~
+~
+0 0 21856
+S
+#21858
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21857
+D1
+~
+~
+0 0 21859
+S
+#21859
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21860
+D3
+~
+~
+0 0 21858
+S
+#21860
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 21861
+D3
+~
+~
+0 0 21859
+S
+#21861
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21860
+D2
+~
+~
+0 0 21862
+S
+#21862
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21861
+D1
+~
+~
+0 0 21863
+S
+#21863
+End of Rocky Path~
+You are at the end of a rocky path.  Walls of rock are on the north,
+east, and south sides of you.  You are able to go west on the rocky path. 
+There is an animal hide flap on the eastern wall.  
+~
+0 0 0
+D1
+~
+flap~
+1 0 21864
+D3
+~
+~
+0 0 21862
+S
+#21864
+A Short Tunnel~
+You are in a short tunnel.  It is dry and dusty, but shelters you from
+the wind outside.  There is a flap on the west wall, and an opening to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21865
+D3
+~
+flap~
+1 0 21863
+S
+#21865
+A Small Field~
+You are outside of a small tunnel.  Around this small field is a steep
+rocky cliff that keeps the wind away.  You see a small stream that flows
+through the field making it green.  There are some wagons with gypsies
+around them.  
+~
+0 0 0
+D0
+~
+~
+0 0 21866
+D1
+~
+~
+0 0 21868
+D3
+~
+~
+0 0 21864
+S
+#21866
+A Small Field~
+Around this small field is a steep rocky cliff that keeps the wind away. 
+You see a small stream that flows through the field making it green.  There
+is a large gypsy wagon here.  
+~
+0 0 0
+D1
+~
+~
+0 0 21867
+D2
+~
+~
+0 0 21865
+D4
+~
+~
+0 0 21869
+S
+#21867
+A Small Field~
+Around this small field is a steep rocky cliff that keeps the wind away. 
+You see a small stream that flows through the field making it green.  There
+is a large gypsy wagon here.  
+~
+0 0 0
+D2
+~
+~
+0 0 21868
+D3
+~
+~
+0 0 21866
+D4
+~
+~
+0 0 21870
+S
+#21868
+A Small Field~
+Around this small field is a steep rocky cliff that keeps the wind away. 
+You see a small stream that flows through the field making it green.  There
+are gypsies here singing and dancing!  
+~
+0 0 0
+D0
+~
+~
+0 0 21867
+D3
+~
+~
+0 0 21865
+S
+#21869
+Inside a Gypsy Wagon~
+You are inside a large gypsy wagon.  There are all kinds of things in
+here.  You see a bunch of trunks all over.  Strange gypsy clothes hang from
+a hook.  There are compact bunk beds in here too.  
+~
+0 0 0
+D5
+~
+~
+0 0 21866
+S
+#21870
+Inside a Gypsy Wagon~
+You are inside a large gypsy wagon.  There are all kinds of things in
+here.  You see a bunch of trunks all over the place.  Strange gypsy clothes
+hang from a hook.  There are compact bunk beds in here too.  
+~
+0 0 0
+D5
+~
+~
+0 0 21867
+S
+#21871
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21872
+D2
+~
+~
+0 0 21855
+S
+#21872
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  You
+see a hawk flying high above you.  
+~
+0 0 0
+D2
+~
+~
+0 0 21871
+D3
+~
+~
+0 0 21873
+S
+#21873
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  Some
+rocks have crumbled off of the wall here.  
+~
+0 0 0
+D1
+~
+~
+0 0 21872
+D3
+~
+~
+0 0 21874
+S
+#21874
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21873
+D2
+~
+~
+0 0 21875
+S
+#21875
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21874
+D3
+~
+~
+0 0 21876
+S
+#21876
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21875
+D3
+~
+~
+0 0 21877
+S
+#21877
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21878
+D1
+~
+~
+0 0 21876
+S
+#21878
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21879
+D2
+~
+~
+0 0 21877
+S
+#21879
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21880
+D2
+~
+~
+0 0 21878
+S
+#21880
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 21879
+D3
+~
+~
+0 0 21881
+S
+#21881
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21910
+D1
+~
+~
+0 0 21880
+D3
+~
+~
+0 0 21882
+S
+#21882
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21881
+D3
+~
+~
+0 0 21883
+S
+#21883
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21882
+D2
+~
+~
+0 0 21884
+S
+#21884
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21883
+D2
+~
+~
+0 0 21885
+S
+#21885
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  The trail leads up a rocky hill to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21884
+D3
+~
+~
+0 0 21886
+S
+#21886
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  The
+path travels up this stoney hillside.  
+~
+0 0 0
+D1
+~
+~
+0 0 21885
+D4
+~
+~
+0 0 21887
+S
+#21887
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  The
+path travels up this stoney hillside.  
+~
+0 0 0
+D3
+~
+~
+0 0 21888
+D5
+~
+~
+0 0 21886
+S
+#21888
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  The
+path travels up this stoney hillside.  
+~
+0 0 0
+D1
+~
+~
+0 0 21887
+D4
+~
+~
+0 0 21889
+S
+#21889
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  The
+path travels up this stoney hillside.  
+~
+0 0 0
+D3
+~
+~
+0 0 21890
+D5
+~
+~
+0 0 21888
+S
+#21890
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  The
+path travels up this stoney hillside.  
+~
+0 0 0
+D1
+~
+~
+0 0 21889
+D4
+~
+~
+0 0 21891
+S
+#21891
+Rocky Path's End~
+You are at the end of a rocky path in the Norsid Lands.  It is at the top
+of a rocky hill, and you see a vast, rocky wasteland around you.  To the
+north you see strange pillars of rock.  
+~
+0 0 0
+D0
+~
+~
+0 0 21892
+D5
+~
+~
+0 0 21890
+S
+#21892
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 21896
+D1
+~
+~
+0 0 21893
+D2
+~
+~
+0 0 21891
+D3
+~
+~
+0 0 21894
+S
+#21893
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 21897
+D3
+~
+~
+0 0 21892
+S
+#21894
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 21895
+D1
+~
+~
+0 0 21892
+S
+#21895
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 21900
+D1
+~
+~
+0 0 21896
+D2
+~
+~
+0 0 21894
+S
+#21896
+Ancient Norsid Grounds~
+You are in the center of the ancient Norsid grounds, where a great big
+pillar stands.  Other smaller pillars surround the rest of the grounds in a
+large circle.  There is a strange symbol used by the ancient Norsids on the
+ground.  
+~
+0 0 0
+E
+symbol~
+This symbol was used by the Norsids to do many things, such as summoning
+and raising the dead.  
+~
+D0
+~
+~
+0 0 21899
+D1
+~
+~
+0 0 21897
+D2
+~
+~
+0 0 21892
+D3
+~
+~
+0 0 21895
+D5
+~
+~
+1 0 21901
+S
+#21897
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 21898
+D2
+~
+~
+0 0 21893
+D3
+~
+~
+0 0 21896
+S
+#21898
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  Looking to the northeast, you catch a glimpse of
+water far, far away.  
+~
+0 0 0
+D2
+~
+~
+0 0 21897
+D3
+~
+~
+0 0 21899
+S
+#21899
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D1
+~
+~
+0 0 21898
+D2
+~
+~
+0 0 21896
+D3
+~
+~
+0 0 21900
+S
+#21900
+Ancient Norsid Grounds~
+You are at the ancient Norsid grounds on a rocky hilltop.  Around the
+edge of the grounds is a circle of stone pillars, with a great big pillar in
+the center of the grounds.  
+~
+0 0 0
+D1
+~
+~
+0 0 21899
+D2
+~
+~
+0 0 21895
+S
+#21901
+Dark Narrow Staircase~
+You are on a dark narrow staircase, leading down into the depths of who
+knows what.  
+~
+0 9 0
+D4
+~
+~
+1 0 21896
+D5
+~
+~
+0 0 21902
+S
+#21902
+Dark Narrow Staircase~
+You are on a dark narrow staircase, leading down into the depths of who
+knows what.  
+~
+0 9 0
+D4
+~
+~
+0 0 21901
+D5
+~
+~
+0 0 21903
+S
+#21903
+Dark Narrow Staircase~
+You are on a dark narrow staircase, leading down into the depths of who
+knows what.  The stone steps are a bit damp from the moisture in the ground.
+~
+0 9 0
+D4
+~
+~
+0 0 21902
+D5
+~
+~
+0 0 21904
+S
+#21904
+Dark Narrow Staircase~
+You are on a dark narrow staircase, leading down into the depths of who
+knows what.  The stone steps are a bit damp from the moisture in the ground.
+~
+0 9 0
+D4
+~
+~
+0 0 21903
+D5
+~
+~
+0 0 21905
+S
+#21905
+Dark Narrow Staircase~
+You are on a dark narrow staircase, leading down into the depths of who
+knows what.  The stone steps are a bit damp from the moisture in the ground.
+You see {4dark blue flames{0 at the bottom of the stairs.  
+~
+0 9 0
+D4
+~
+~
+0 0 21904
+D5
+~
+~
+0 0 21906
+S
+#21906
+Blue Flame Pathway~
+You are at the bottom of a dark narrow staircase on a path lined with
+{4dark blue flames{0.  You see some strange twilight north of here on the
+back wall.  A chill rolls down your spine.  
+~
+0 9 0
+D0
+~
+~
+0 0 21907
+D4
+~
+~
+0 0 21905
+S
+#21907
+Blue Flame Pathway~
+You are on a path lined with {4dark blue flames{0.  You see some strange
+twilight north of here on the back wall.  You sense something very wrong,
+but you do not know what it is.  
+~
+0 9 0
+D0
+~
+~
+0 0 21908
+D2
+~
+~
+0 0 21906
+S
+#21908
+Blue Flame Circle~
+You are able to see a little better here because of the {4blue flames{0
+encircling you.  There is a giant Norsid summoning symbol on the floor, and
+scattered around it are the old corpses of the Norsid summoners.  It looks
+like they summoned something more than they could handle.  
+~
+0 8 0
+D0
+~
+~
+0 0 21909
+D2
+~
+~
+0 0 21907
+S
+#21909
+By the Back Wall~
+You are by the back wall with a great silvery charm hanging on it, used
+to help the Norsids in their practices.  You see blood covering the floor.  
+~
+0 8 0
+D2
+~
+~
+0 0 21908
+S
+#21910
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21911
+D2
+~
+~
+0 0 21881
+S
+#21911
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21912
+D2
+~
+~
+0 0 21910
+S
+#21912
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21913
+D2
+~
+~
+0 0 21911
+S
+#21913
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21914
+D3
+~
+~
+0 0 21912
+S
+#21914
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 21915
+D3
+~
+~
+0 0 21913
+S
+#21915
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21914
+D1
+~
+~
+0 0 21916
+S
+#21916
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 21917
+D3
+~
+~
+0 0 21915
+S
+#21917
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21918
+D3
+~
+~
+0 0 21916
+S
+#21918
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21919
+D2
+~
+~
+0 0 21917
+S
+#21919
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 21920
+D2
+~
+~
+0 0 21918
+S
+#21920
+Rocky Path~
+You are on a rocky path through the area called the Norsid Lands.  There
+are verticle walls of rock along the path, prohibiting you from straying
+from the path.  Small patches of grass grow on the sides of the path.  You
+see a stoney beach to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21921
+D2
+~
+~
+0 0 21919
+S
+#21921
+A Stoney Beach~
+You are on a stoney beach on the edge of the Norsid Lands.  There is an
+old rickety dock east of you and an old shack is to the south at the water's
+edge.  
+~
+0 0 0
+D1
+~
+~
+0 0 21923
+D2
+~
+~
+1 0 21922
+D3
+~
+~
+0 0 21920
+S
+#21922
+The Old Shack~
+You are in a very old shack, unused for many years.  There isn't much in
+here, except for some rusty rubble here and there and some spider webs.  The
+exit is to the north.  
+~
+0 8193 0
+D0
+~
+~
+1 0 21921
+S
+#21923
+Old Rickety Dock~
+You are on the old rickety dock on the stoney beach.  Looking west you
+see nothing but the barren Norsid Lands, a very rocky terrain.  There is a
+small shack on the beach, and looking east you see nothing but the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 9470
+D1
+~
+~
+0 0 9471
+D2
+~
+~
+0 0 9474
+D3
+~
+~
+0 0 21921
+S
+#0
+
+
+
+#SPECIALS
+M 21850 spec_cast_undead
+M 21851 spec_cast_undead
+M 21852 spec_cast_undead
+M 21853 spec_cast_mage
+M 21857 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 21863 1 1
+D 0 21864 3 1
+D 0 21896 5 1
+D 0 21901 4 1
+D 0 21921 2 1
+D 0 21922 0 1
+M 0 21854 5 21855 1
+M 0 21856 4 21865 2
+M 0 21855 4 21865 1
+M 0 21855 4 21866 2
+E 0 21854 0 17
+M 0 21856 4 21867 2
+M 0 21857 2 21868 2
+M 0 21855 4 21868 1
+O 0 21856 0 21869
+P 0 21852 1 21856 1
+O 0 21856 0 21870
+P 0 21855 1 21856 1
+M 0 21854 5 21877 1
+M 0 21854 5 21881 1
+M 0 21854 5 21886 1
+M 0 21853 7 21893 1
+E 0 21850 0 16
+E 0 21851 0 12
+M 0 21853 7 21894 1
+E 0 21850 0 16
+E 0 21851 0 12
+M 0 21853 7 21896 3
+E 0 21850 0 16
+E 0 21851 0 12
+M 0 21853 7 21898 1
+E 0 21850 0 16
+E 0 21851 0 12
+M 0 21853 7 21900 1
+E 0 21850 0 16
+E 0 21851 0 12
+M 0 21850 8 21904 2
+M 0 21850 8 21905 2
+M 0 21850 8 21906 2
+M 0 21850 8 21907 2
+M 0 21851 7 21908 4
+M 0 21852 1 21909 1
+M 0 21851 7 21909 3
+M 0 21854 5 21916 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

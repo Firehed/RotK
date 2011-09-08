@@ -1,0 +1,2898 @@
+#AREADATA
+Name Poway~
+Builders Grimace~
+VNUMs 21400 21499
+Credits [ ALL ] Grimace Poway~
+Security 9
+End
+
+
+
+#MOBILES
+#21402
+shopkeeper~
+the shopkeeper~
+A shopkeeper is here.
+~
+This shopkeeper works for Mr.  Nally 
+~
+Human~
+AB 0 0 1000 0
+50 200 10d169+10000 1d1+100 10d15+100 none
+-40
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21403
+old man~
+the old man~
+The old man waits patiently.
+~
+You see an old man, waiting here for his wife to come back with the
+potatoes.  
+~
+Halfelf~
+AB L 0 1000 0
+100 0 5d5+600 10d20+200 3d5+7 none
+-10
+0 0 0 D
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#21404
+halfelf half elf~
+a halfelf~
+A halfelf walks around the town.
+~
+The halfelf looks very happy, living in such a nice town.  
+~
+Halfelf~
+AG L 0 1000 0
+100 25 10d20+600 2d2+100 3d6+9 none
+-10
+F 0 0 0
+stand stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+#21405
+delivery boy~
+a delivery boy~
+A delivery boy is pulling his cart along.
+~
+The delivery boy goes all over town carrying supplies to the merchants.  
+~
+Halfelf~
+AG L 0 1000 0
+90 15 5d5+500 1d5+100 3d4+8 none
+-4
+0 0 0 M
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#21406
+noble~
+a noble~
+A noble stands here, looking important.
+~
+The noble is dressed in all kinds of expensive clothing, and only the
+best.  
+~
+Human~
+AG 0 0 1000 0
+110 23 6d10+800 1d1+100 4d6+8 none
+-9
+0 0 A P
+stand stand either 3000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21406 100~
+#21407
+puppet~
+a puppet~
+A puppet is fighting the others.
+~
+What an ugly little puppet...  
+~
+doll~
+AB 0 0 -1000 0
+50 5 5d5+200 1d1+100 2d2+2 none
+0
+0 ILMNPQR ES GHJKO
+stand stand none 10
+EJMc ABCGHK medium unknown
+#21408
+puppet princess~
+a puppet princess~
+A puppet princess hides behind her guard.
+~
+What a pretty little puppet...  
+~
+doll~
+AB 0 0 1000 0
+69 5 5d5+250 1d1+100 2d1+1 none
+0
+0 ILMNPQR ES GHJKO
+stand stand female 25
+EJMc ABCGHK medium unknown
+M GREET 21408 100~
+#21409
+puppet~
+a puppet~
+A puppet is fighting the evil puppets.
+~
+Not ugly, yet not pretty...  
+~
+doll~
+AB 0 0 1000 0
+60 5 5d5+200 1d1+100 2d2+2 none
+0
+0 ILMNPQR ES GHJKO
+stand stand none 10
+EJMc ABCGHK medium unknown
+#21410
+child~
+a child~
+A child sits and watches the show.
+~
+The human child is very entertained!  
+~
+Human~
+AB 0 0 1000 0
+65 7 5d5+250 1d1+100 1d1+3 none
+2
+F 0 0 0
+stand stand either 250
+AHMV ABCDEFGHIJK medium unknown
+#21411
+draconian~
+a Draconian~
+A Draconian stares you down.
+~
+As the Draconian stares at you, you see that he knows a thing or two
+about magic.  
+~
+Draconian~
+AG T 0 -1000 0
+100 25 9d9+700 5d9+500 4d5+5 none
+-5
+EFK LQ HI FGJ
+stand stand none 7500
+AHMV ABCDEFGHIJKPQ medium unknown
+#21412
+hobbit~
+a hobbit~
+A hobbit strolls around, bargain hunting.
+~
+The hobbit is only a little over three feet tall, but doesn't seem to
+have any trouble getting through the busy market crowds.  
+~
+Halfling~
+AG U 0 1000 0
+86 7 5d5+250 3d3+100 2d2+5 none
+-3
+F 0 LQ S
+stand stand either 1000
+AHMV ABCDEFGHIJK medium unknown
+#21413
+mime~
+a mime~
+A mime entertains a small crowd.
+~
+The mime doesn't say a word.  
+~
+Human~
+AB 0 0 1000 0
+100 25 5d5+700 1d1+100 3d3+7 none
+-6
+FI 0 0 M
+stand stand none 3200
+AHMV ABCDEFGHIJK medium unknown
+#21414
+juggler~
+a juggler~
+A juggler is juggling all sorts of things.
+~
+The juggler has been juggling all his life.  He can do flips and bounce
+around while still juggling!  
+~
+Human~
+AB 0 0 1000 0
+100 15 6d5+700 1d1+100 3d5+7 none
+-4
+FI 0 0 M
+stand stand either 4000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21414 100~
+#21415
+innkeeper~
+the innkeeper~
+The innkeeper is here.
+~
+~
+Human~
+AB 0 0 500 0
+50 200 10d169+9000 1d1+100 10d50+150 none
+-40
+0 0 0 0
+stand stand either 1
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21415 100~
+#21416
+singer~
+a singer~
+A beautiful singer has a big crowd around her.
+~
+The singer appears to be a halfelf.  She has a very sweet singing voice.  
+~
+Halfelf~
+AB L 0 1000 0
+100 25 5d5+700 5d5+100 3d5+6 none
+-4
+F 0 0 M
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 21416 sing~
+#21417
+gnome~
+a gnome~
+A little gnome rests in the shade.
+~
+The little gnome wears a little rad cap on its head.  
+~
+Gnome~
+AB J 0 1000 0
+100 25 5d5+650 1d2+100 3d3+5 none
+-4
+EFI 0 P R
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21417 100~
+#21418
+orange cat~
+an orange cat~
+An orange cat walks around you.
+~
+The orange cat seems to be a stray.  
+~
+cat~
+AG Z 0 1000 0
+25 2 5d5+50 1d1+100 1d1+2 none
+2
+FH 0 0 0
+stand stand either 15
+AGV ACDEFHJKQUV medium unknown
+#21419
+tansinian knight~
+the Tansinian Knight~
+A Tansinian Knight stands here, keeping watch over the market.
+~
+The Tansinian Knight was sent here from the castle to keep watch because
+he is one of the strongest knights around.  
+~
+Human~
+AB 0 HR 1000 0
+260 300 10d169+25000 10d10+500 40d20+60 none
+-48
+CEFIJKN A BDN M
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21421
+banker~
+the banker~
+The banker is here, ready to do business.
+~
+It would be unwise to attack the banker.  
+~
+Human~
+ABe DF H 0 0
+101 250 10d159+23333 1d1+10000 10d100+133 none
+-50
+CEFGHIKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 21423 61362~
+M SPEECH 21422 unlock~
+M SPEECH 21422 password~
+M SPEECH 21422 door~
+M SPEECH 21422 open~
+M GREET 21421 100~
+#21422
+jergin~
+Jergin~
+Jergin sits here, reading the latest news as he waits for someone to do a quest.
+~
+Jergin's job was assigned by the King of Tansinia to give out quests to
+the residents of Poway.  
+~
+Human~
+AB 0 0 0 0
+101 5 10d10+15000 1d1+100 5d5+50 none
+-10
+0 A 0 0
+stand stand male 4444
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21424 100~
+#21437
+blind woman~
+a blind woman~
+A blind woman is lost here!
+~
+The blind woman looks very confused.  
+~
+Human~
+A A 0 -1000 0
+90 25 10d50+500 1d1+100 4d8+25 none
+-15
+HI PS 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#21440
+stable boy~
+the stable boy~
+The stable boy is watering the horses.
+~
+~
+Human~
+AB 0 0 1000 0
+50 25 10d34+430 1d1+100 6d11+25 none
+-14
+0 ACDQ 0 0
+stand stand male 150
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21440 100~
+M BRIBE 21441 50000~
+#21445
+higrath~
+Higrath~
+Higrath the Dwarf is selling fine armor.
+~
+Higrath is short, stalky, and has a great, black beard.  
+~
+Dwarf~
+AB J 0 1000 0
+100 45 8d29+1000 1d1+100 9d19+25 none
+-34
+0 A LQ R
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21450
+knight~
+the knight~
+An old retired knight stands under the canopy.
+~
+The knight had been one of Tansinia's best, having gone into battle with
+orcs, goblins, and the enemies overseas.  
+~
+Human~
+AB 0 0 1000 0
+100 45 8d29+1000 1d1+100 9d19+25 none
+-31
+0 A 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21459
+magician~
+the magician~
+The magician does hand gestures and makes objects appear!
+~
+The magician is wearing a long, black, hooded cape.  
+~
+Gnome~
+AB J 0 1000 0
+100 45 8d29+1000 5d25+500 9d19+25 none
+-28
+0 A P R
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21462
+produce salesman~
+the produce salesman~
+The produce salesman is rinsing off some cabbage.
+~
+The produce salesman is hard at work, getting the produce ready.  
+~
+Halfling~
+AB U 0 1000 0
+100 45 8d29+1000 1d1+100 9d19+25 none
+-30
+0 A LQ S
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#21463
+butcher~
+the butcher~
+The butcher stands behind the counter.
+~
+The butcher is hacking away at the meat!  He's really big and scary.  
+~
+Human~
+AB 0 0 1000 0
+100 45 8d29+1000 1d1+100 9d19+25 none
+-30
+0 A 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21465
+walder~
+Walder~
+Walder is selling furniture here.
+~
+~
+Halfelf~
+AB L 0 1000 0
+100 45 8d29+1000 5d10+100 9d19+25 none
+-25
+0 A 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21468
+merchant~
+the merchant~
+The shop's merchant is dusting off his wares.
+~
+The elven merchant is tall and thin, and has long blond hair.  
+~
+Elf~
+AB J 0 1000 0
+100 50 8d29+1000 5d10+100 5d19+25 none
+-17
+FI A B Z
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#21469
+jeweler~
+the jeweler~
+The jeweler polishes his inventory.
+~
+The jeweler is a halfling, so short that he stands on a stool to reach
+the countertop.  
+~
+Halfling~
+AB U 0 1000 0
+100 50 8d29+1000 5d10+100 9d19+25 none
+-23
+FI A LQ S
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#21470
+excited merchant~
+an excited merchant~
+An excited merchant is here, ready to sell some clothes!
+~
+The merchant is overly excited...  Maybe you should just buy something so
+he'll calm down?  
+~
+Human~
+AB 0 0 1000 0
+100 50 8d29+1000 5d10+200 9d19+25 none
+-25
+FI A 0 0
+stand stand either 10000
+AHMV ABCDEFGHIJK medium unknown
+#21471
+librarian~
+the librarian~
+The librarian puts some books in order.
+~
+I will help you GAIN more spells and skills.  
+~
+Elf~
+ABb J 0 0 0
+101 500 100d134+9000 1d1+100 10d10+100 none
+-39
+0 A B Z
+stand stand female 4000
+AHMV ABCDEFGHIJK medium unknown
+#21472
+tansinian knight~
+the Tansinian Knight~
+A Tansinian Knight assists people in their training.
+~
+The Tansinian Knight's duty is to help train the people of Tansinia
+incase of an invasion of Orcs or some other adversary of the country.  
+~
+Human~
+ABJK 0 0 0 0
+0 250 10d169+19000 1d1+100 15d20+50 none
+-48
+CEFIK AB D 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#21473
+nurse~
+{&a nurse{0~
+A young nurse walks around, checking her patients.
+~
+{&The nurse wears a white uniform and a little white hat with a {!red{& cross on it.{0
+~
+Human~
+ABa 0 0 0 0
+100 500 50d50+20000 100d100+1000 100d100+1000 none
+-50
+0 A 0 0
+stand stand female 5
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#21474
+Pfunkle~
+Pfunkle~
+Pfunkle is here.
+~
+~
+Human~
+AB 0 0 0 0
+5 0 4d4+135 2d2+33 3d3+4 none
+-2
+0 0 0 0
+stand stand none 5
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 21474 hi~
+#21475
+mr h~
+Mr. H~
+Mr. H is here.
+~
+Mr.  H looks like a common, ordinary Poway citizen, yet he is actually
+the head of the Residence Spy Network.  Ask him for a list of jobs.  
+~
+Goblin~
+AB J 0 0 0
+50 50 10d169+10000 3d3+100 10d25+350 none
+-41
+0 0 P NSXY
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 21400 jobs~
+M SPEECH 21400 list~
+#21476
+stable boy~
+a stable boy~
+A stable boy keeps the stall tidy.
+~
+~
+Human~
+AB 0 0 0 0
+100 333 2d3+333 2d3+333 3d3+333 none
+-33
+0 ACD 0 0
+stand stand male 333
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21476 100~
+#0
+
+
+
+#OBJECTS
+#21401
+sack~
+a brown bag~
+You see a brown bag on the ground.~
+unknown~
+container 0 AO
+35 0 0 12 50
+1 1 750 P
+#21402
+pitcher~
+a pitcher~
+You see a pitcher sitting here.~
+clay~
+drink 0 AO
+128 128 'water' 0 0
+1 1 500 P
+#21403
+cart~
+a wooden cart~
+A wooden cart sits here.~
+unknown~
+container 0 A
+500 0 0 25 3
+1 30 234 P
+#21405
+mini broadsword~
+a mini broadsword~
+A mini broadsword lies here.~
+unknown~
+weapon 0 AN
+dagger 2 2 stab 0
+1 1 25 P
+#21406
+lolly pop~
+{&a lolly {!pop{0~
+{&A lolly {!pop{0 lies in the dirt.~
+unknown~
+food 0 A
+1 1 0 0 0
+1 1 25 P
+#21407
+draconian sword~
+{^a D{6raconian {^s{6word{0~
+{^A D{6raconian {^s{6word{0 glows on the ground.~
+unknown~
+weapon A AN
+sword 7 8 slice 0
+18 5 5433 P
+#21408
+cloth sack~
+a small cloth sack~
+A small cloth sack lies on the ground.~
+cloth~
+container 0 AO
+5 A 0 5 25
+1 1 50 P
+#21409
+little red cap~
+a little red cap~
+A little red cap sits on the ground.~
+cloth~
+armor 0 AE
+7 7 7 5 0
+0 1 75 P
+A
+4 3
+#21410
+golden breastplate~
+{#A G{3o{#l{3d{#e{3n {#B{3r{#e{3a{#s{3t{#p{3l{#a{3t{#e{0~
+{#A G{3o{#l{3d{#e{3n {#B{3r{#e{3a{#s{3t{#p{3l{#a{3t{#e{0 lies on the ground.~
+unknown~
+armor 0 AD
+150 150 150 150 0
+90 8 760000 P
+F
+R 0 0 C
+A
+19 40
+A
+18 45
+A
+12 250
+A
+13 300
+#21411
+steak~
+{!a bi{&g {!steak{0~
+{!A big {!j{&u{!icy {!steak{0~
+unknown~
+food 0 AR
+24 20 0 0 0
+1 1 35 P
+#21412
+guppy~
+{#a g{3uppy{0~
+{#A g{3uppy{0 lies on the ground.~
+unknown~
+food 0 A
+24 5 0 0 0
+1 1 15 P
+#21413
+sausage~
+{3so{8me {3sa{8us{3age{0~
+{3So{8me {3sa{8us{3age{0 is on the ground.~
+unknown~
+food 0 A
+24 15 0 0 0
+1 1 25 P
+#21414
+swordfish~
+{^a s{6word{^fish{0~
+{^A s{6word{^fish{0 lies here.~
+unknown~
+food 0 A
+24 19 0 0 0
+1 1 29 P
+#21415
+key~
+a room key~
+The room key is here.~
+brass~
+key 0 AO
+0 0 0 0 0
+0 1 100 P
+#21416
+beef jerky~
+{3s{1o{3m{1e {3b{1e{3e{1f {3j{1e{3r{1k{3y{0~
+{3S{1o{3m{1e {3b{1e{3e{1f {3j{1e{3r{1k{3y{0 is on the ground.~
+unknown~
+food 0 A
+72 20 0 0 0
+1 1 32 P
+#21417
+cabbage~
+{%a c{5a{%b{5b{%a{5g{%e{0~
+{%A c{5a{%b{5b{%a{5g{%e{0 rolls on the ground.~
+unknown~
+food 0 A
+48 12 0 0 0
+1 1 10 P
+#21418
+head lettuce~
+{@a h{2e{@a{2d {@o{2f {@l{2e{@t{2t{@u{2c{@e{0~
+{@A h{2e{@a{2d {@o{2f {@l{2e{@t{2t{@u{2c{@e{0 is on the ground.~
+unknown~
+food 0 A
+48 12 0 0 0
+1 1 10 P
+#21419
+red tomato~
+{!a {!red {@t{1om{!ato{0~
+A voluptuous {!red {@t{1om{!ato{0 sits on the ground.~
+unknown~
+food 0 A
+48 13 0 0 0
+1 1 10 P
+#21420
+carrot~
+{3a carr{@ot{0~
+A long orange {3carr{@ot{0 lies on the ground.~
+unknown~
+food 0 A
+48 11 0 0 0
+1 1 10 P
+#21421
+key~
+a key~
+A key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 1 1000 P
+#21422
+crystal ball~
+{7a {^c{&rystal {^b{&all{0~
+A mysterious {^c{&rystal {^b{&all{0 lies here.~
+unknown~
+jewelry 0 AO
+0 0 0 0 0
+5 2 4300 P
+F
+V 0 0 C
+#21423
+tansinian finger trap~
+{^a Tan{6sin{^ian {!fin{1ger t{!rap{0~
+{^A Tan{6sin{^ian {!fin{1ger t{!rap{0 lies forgotten on the ground.~
+unknown~
+armor M AB
+1 1 1 1 0
+5 1 4102 P
+#21424
+orc ear~
+{@a{8n {@o{8r{@c'{8s {@e{8a{@r{0~
+{@A{8n {@o{8r{@c'{8s {@e{8a{@r{0 lies in the {3dirt.{0~
+unknown~
+food 0 A
+24 1 0 A 0
+5 1 4907 P
+#21425
+cinkar ringe~
+{!T{#h{!e {!C{#i{!n{#ka{!r {!R{#i{!n{#g{!e{0~
+{!T{#h{!e {!C{#i{!n{#ka{!r {!R{#i{!n{#g{!e{0 perplexes you as you look at it on the ground.~
+unknown~
+gem 0 AO
+0 0 0 0 0
+5 2 5323 P
+A
+12 50
+E
+ringe~
+The Cinkar Ringe is so beautiful and so perfect, it perplexes your mind.  
+~
+#21426
+wicker chair~
+{3a {#w{3i{#c{3k{#e{3r {#c{3h{#a{3i{#r{0~
+{3A {#w{3i{#c{3k{#e{3r {#c{3h{#a{3i{#r{0 is here.~
+unknown~
+furniture 0 A
+1 999999 EHK 50 50
+1 4 2321 P
+#21427
+stone bench~
+{8a {7s{8tone {7b{8ench{0~
+{8A {7b{8ig {7s{8tone {7b{8ench{0 is here.~
+unknown~
+furniture 0 A
+4 999999 EHK 120 120
+1 250 6923 P
+#21429
+royal bed~
+{&a {#r{!oyal {#b{$ed{0~
+{&A {#r{!oyal {#b{$ed{0 is here.~
+unknown~
+furniture 0 A
+2 999999 EHK 1500 1500
+1 100 5000000 P
+#21430
+chain whip~
+{7a {8c{7h{8a{7i{8n {7w{8h{7i{8p{0~
+{7A {8c{7h{8a{7i{8n {7w{8h{7i{8p{0 lies coiled on the ground.~
+iron~
+weapon 0 AN
+whip 3 6 whip 0
+15 3 800 P
+#21431
+ivory dirk~
+{&an ivory {0handled dirk~
+Short {&An ivory {0handled dirk is on the ground.~
+iron~
+weapon 0 AN
+dagger 4 5 stab 0
+15 2 850 P
+#21432
+crinkled paper~
+a crinkled piece of paper~
+There is an old piece of crinkled up paper laying here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 1 1 P
+#21433
+middle axe~
+{7a {8mi{3dd{8le ax{7e{0~
+{7A {8mi{3dd{8le ax{7e{0 is on the ground.~
+iron~
+weapon 0 AN
+axe 4 6 chop 0
+15 4 1121 P
+#21434
+steel sword~
+{1a s{3t{7eel sword{0~
+{1A s{3t{7eel sword{0 is on the ground.~
+steel~
+weapon 0 AN
+sword 7 8 slash 0
+15 4 11002 P
+#21435
+iron sword~
+{@an {3i{8ron sword{0~
+{@An {3i{8ron sword{0 is on the ground.~
+iron~
+weapon 0 AN
+sword 3 8 slash 0
+15 3 1023 P
+#21436
+dwarven helm~
+{7a {3dwar{7ve{3n hel{7m{0~
+{7A {3dwar{7ve{3n hel{7m{0 is on the ground~
+unknown~
+armor S AE
+13 15 14 10 0
+5 3 2320 P
+A
+18 5
+A
+5 1
+#21437
+metal cane~
+a big metal cane~
+You see a big metal cane here.~
+unknown~
+weapon 0 AN
+polearm 9 11 pound 0
+20 5 5000 P
+#21438
+plate mail shirt~
+{7a {^p{7late {^m{7ail {^s{7hirt{0~
+{7A {^p{7late {^m{7ail {^s{7hirt{0 is on the ground.~
+metal~
+armor SY AD
+20 21 20 11 0
+5 10 4643 P
+A
+18 5
+A
+17 4
+#21439
+turquoise shield~
+{^a t{6u{^rqu{6o{^ise shi{6e{^ld{0~
+{^A t{6u{^rqu{6o{^ise shi{6e{^ld{0 is on the ground.~
+unknown~
+armor S AJ
+50 25 25 28 0
+5 10 6453 P
+A
+13 50
+A
+13 50
+#21440
+overalls~
+a pair of overalls~
+A pair of blue overalls are here.~
+unknown~
+armor 0 AF
+15 8 10 5 0
+15 2 1000 P
+A
+14 25
+A
+2 2
+#21441
+plate mail leggings~
+{^s{7ome {^p{7late {^m{7ail {^l{7eggings{0~
+{^S{7ome {^p{7late {^m{7ail {^l{7eggings{0 are on the ground.~
+unknown~
+armor S AF
+15 15 15 10 0
+5 5 3211 P
+A
+18 5
+A
+4 1
+#21442
+recall potion~
+a recall potion~
+A recall potion is on the ground.~
+unknown~
+potion 0 AO
+20 'recall' 'reserved' 'reserved' 'reserved'
+1 1 250 P
+#21443
+yellow potion~
+a yellow potion of see invisible~
+A yellow potion is on the ground.~
+unknown~
+potion G AO
+25 'detect invis' 'reserved' 'reserved' 'reserved'
+1 1 300 P
+#21444
+ant scroll~
+an ant scroll~
+A scroll with an ant picture is on the ground.~
+unknown~
+scroll 0 AO
+55 'ant' 'reserved' 'reserved' 'reserved'
+20 1 15000 P
+#21445
+staff giving~
+a Staff of Giving~
+A Staff of Giving is on the ground.~
+unknown~
+staff 0 AO
+20 10 10 'create food' 0
+5 3 5742 P
+#21446
+yeoma bracelet~
+a {@y{%e{@o{%m{@a{0 bracelet~
+A {@y{%e{@o{%m{@a{0 bracelet is on the ground.~
+unknown~
+jewelry 0 AU
+0 0 0 0 0
+5 1 1320 P
+A
+14 50
+A
+2 2
+#21447
+jima bracelet~
+a {@j{$i{@m{$a{0 bracelet~
+A {@j{$i{@m{$a{0 bracelet is on the ground.~
+unknown~
+jewelry AG AM
+0 0 0 0 0
+5 1 1321 P
+A
+12 50
+A
+1 1
+#21448
+lapis lazuli ring~
+{$a {$l{4a{$p{4i{$s {$l{4a{$z{4u{$l{4i {$r{4i{$n{4g{0~
+{$A {$l{4a{$p{4i{$s {$l{4a{$z{4u{$l{4i {$r{4i{$n{4g{0 is on the ground.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+5 1 2500 P
+A
+12 5
+A
+3 2
+#21449
+jade stone amulet~
+a {@jade {7stone {0amulet~
+A {@jade {7stone {0amulet is on the ground.~
+unknown~
+jewelry A AC
+0 0 0 0 0
+15 1 3800 P
+A
+13 50
+A
+12 50
+#21450
+long sleeved shirt~
+{&a l{7ong {&s{7leeved {&s{7hirt{0~
+{&A l{7ong {&s{7leeved {&s{7hirt{0 is in a pile on the ground.~
+unknown~
+armor 0 AD
+2 2 2 2 0
+1 1 600 P
+#21451
+cloth breeches~
+{&a p{7air {7o{&f {&b{7reeches{0~
+{&A p{7air {7o{&f {&b{7reeches{0 are on the ground.~
+cloth~
+armor 0 AF
+2 2 2 2 0
+1 1 400 P
+#21452
+studded leather hat~
+{3a {7s{3tudded {7l{3eather {7h{3at{0~
+{3A {7s{3tudded {7l{3eather {7h{3at{0 is on the ground.~
+unknown~
+armor 0 AE
+3 2 3 3 0
+1 1 750 P
+A
+4 1
+#21453
+long flowery gown~
+{%a {5l{!o{#n{$g {^f{#l{%o{!w{#e{^r{5y {$g{%o{!w{#n{0~
+{%A {5l{!o{#n{$g {^f{#l{%o{!w{#e{^r{5y {$g{%o{!w{#n{0 is on the ground.~
+unknown~
+armor 0 AD
+2 1 2 4 0
+1 2 860 P
+A
+12 25
+#21454
+wool socks~
+{7a {8p{7a{8i{7r {8o{7f {8g{7r{8e{7y{8, {7w{8o{7o{8l{7y {8s{7o{8c{7k{8s{0~
+{7A {8p{7a{8i{7r {8o{7f {8g{7r{8e{7y{8, {7w{8o{7o{8l{7y {8s{7o{8c{7k{8s{0 are on the ground.~
+unknown~
+armor 0 AG
+1 1 1 2 0
+1 1 250 P
+#21455
+fountain~
+a large fountain~
+A large fountain sits in the middle of the intersection.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#21456
+scrap paper~
+a scrap piece of paper~
+A scrap piece of paper is on the ground.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1 P
+E
+scrap~
+It reads "61362" 
+~
+E
+paper~
+It reads "61362" 
+~
+#21457
+desk~
+a small desk~
+A small desk is here.~
+unknown~
+container 0 0
+5 AC 0 5 5
+0 50 0 P
+#21458
+glass fountain~
+{&a {7gla{&ss foun{7tai{&n{0~
+{&A {7gla{&ss foun{7tai{&n{0 gushes here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 33 0 P
+#21459
+bed beds~
+a bed~
+There are a few beds here.~
+unknown~
+furniture 0 0
+6 50000 EHL 10000 10000
+0 500 0 P
+#21460
+special letter~
+a special letter~
+A sealed letter lies on the ground.~
+unknown~
+trash T A
+0 0 0 0 0
+1 1 2 P
+#21461
+key~
+a key~
+A key is on the ground.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 55 P
+#21462
+mid tonic~
+a mid tonic~
+A mid tonic lies here.~
+glass~
+potion 0 AO
+101 'heal' 'heal' 'reserved' 'reserved'
+1 1 1500 P
+#21463
+wooden buckler~
+{$a {3wood{8en bu{3ckle{$r{0~
+{$A {3wood{8en bu{3ckle{$r{0 rests on the ground, waiting for the next battle.~
+unknown~
+armor 0 AJ
+30 0 0 0 0
+5 2 3000 P
+#0
+
+
+
+#ROOMS
+#21400
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  An entrance to the market is to the north, the street
+goes east and west, and Tansinia Road goes south.  Looking north, you see
+the castle off in the distance.  
+~
+0 0 0
+E
+south~
+You see a long dirt road that leads south.  
+~
+D0
+~
+~
+0 0 21441
+D1
+~
+~
+0 0 21401
+D2
+~
+~
+0 0 20175
+D3
+~
+~
+0 0 21438
+S
+#21401
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The street goes east and west, and there is a store made
+of brick to the south.  
+~
+0 0 0
+E
+south~
+You see Nally's Store to the south.  
+~
+D1
+~
+~
+0 0 21403
+D2
+~
+~
+0 0 21402
+D3
+~
+~
+0 0 21400
+S
+#21402
+Nally's Store~
+You are inside Nally's Store, owned by the Nally family.  There is a
+counter with items on it for sale, and there are some other things on the
+shelves behind it.  You see a doorway behind the counter that you are unable
+to get to.  
+~
+0 8 0
+D0
+~
+~
+0 0 21401
+S
+#21403
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The street goest north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21404
+D1
+~
+~
+0 0 21472
+D2
+~
+~
+0 0 21471
+D3
+~
+~
+0 0 21401
+S
+#21404
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The street goes north and south, and there is a white
+house with black shutters to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21405
+D2
+~
+~
+0 0 21403
+S
+#21405
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is an entrance to the market to the west, the
+street goes north and south, and a white house with black shutters is to the
+east.  
+~
+0 0 0
+E
+east~
+You see a well kept house to the east.  
+~
+D0
+~
+~
+0 0 21408
+D1
+~
+~
+1 0 21406
+D2
+~
+~
+0 0 21404
+D3
+~
+~
+0 0 21446
+S
+#21406
+A House~
+You are inside the white house with black shutters.  The house is well
+kept.  There is a fireplace to the east, next to the small kitchen.  In the
+center of the room is a large rug, and around it is a couch and some chairs.
+There is a table along the north wall.  There is another room to the south,
+and the street is to the west.  
+~
+0 8 0
+D2
+~
+~
+0 0 21407
+D3
+~
+~
+1 0 21405
+S
+#21407
+A House~
+You are inside the white house with black shutters.  This is the bedroom,
+with two beds and there are windows on all of the walls.  Looking out the
+west windows you can see people walking along the brick streets.  
+~
+0 8 0
+D0
+~
+~
+0 0 21406
+S
+#21408
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is a large, two story, black rooved brick house to
+the east.  The brick street goes north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 21409
+D2
+~
+~
+0 0 21405
+S
+#21409
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is a large, two story, black rooved brick house to
+the east.  The brick street goes south and west.  To the north you see the
+brick annex of the Poway Inn.  
+~
+0 0 0
+E
+east~
+You see a huge brick house to the east.  
+~
+D1
+~
+~
+1 0 21410
+D2
+~
+~
+0 0 21408
+D3
+~
+~
+0 0 21414
+S
+#21410
+A Large House~
+You are inside the large brick house.  The floor has been polished and is
+very shiny.  A red brick fireplace is in the north wall, and there is a
+counter along the east wall.  The kitchen table is in the southeast corner
+and has a blue tablecloth on it.  There are stairs that lead up, and there
+is a room to the south.  
+There is a door the exits the house to the west.
+~
+0 8 0
+D2
+~
+~
+0 0 21411
+D3
+~
+~
+1 0 21409
+D4
+~
+~
+0 0 21412
+S
+#21411
+A Large House~
+You are in the family room of the large brick house.  There is a big
+round rug encompassing most of the floor.  Nice furniture is all over the
+room, and there are paintings on the wall.  Through the windows you are able
+to see people walking the streets.  
+~
+0 8 0
+D0
+~
+~
+0 0 21410
+S
+#21412
+The Upstairs~
+You are in the spacious upstairs of the large brick house.  This area is
+like an office, having a big clock, a nice desk, and bookshelves.  There are
+windows on the west wall, letting you see out over the Poway market.  Stairs
+lead down and also up onto the roof.  
+~
+0 8 0
+D2
+~
+~
+0 0 21413
+D4
+~
+~
+0 0 21481
+D5
+~
+~
+0 0 21410
+S
+#21413
+The Upstairs~
+You are in the spacious upstairs of the large brick house.  This is the
+lavish bedroom, where there are a couple of huge beds and big fluffy blue
+drapes around them.  There are some dressers on the southern wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 21412
+S
+#21414
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The brick street goes east and west, and the Poway Inn is
+to the north.  The Poway Inn is an L-shaped brick building, the original
+two-story inn, and the one-floor brick annex on the east side of it.  
+~
+0 0 0
+E
+north~
+You see the Poway Inn to the north, a safe place to stay the night.  
+~
+D0
+~
+~
+0 0 21415
+D1
+~
+~
+0 0 21409
+D3
+~
+~
+0 0 21417
+S
+#21415
+Poway Inn~
+You are in the Poway Inn.  The inn is very nice looking.  The walls are
+clean and white with square windows on the east and west walls, and two on
+each side of the door.  There is a counter with the innkeeper's papers on
+it.  There is a stairway that leads up to the room.  There is a doorway to
+the east that leads to Jergin's Office.  
+~
+0 1032 0
+D1
+~
+~
+0 0 21473
+D2
+~
+~
+0 0 21414
+D4
+~
+~
+3 21415 21416
+S
+#21416
+A Nice Room~
+You are in a nice room in the Poway Inn.  There is a window on the south
+wall that you can look out over the street.  It is safe here to sleep for
+the night.  
+~
+0 1032 0
+D5
+~
+~
+3 21415 21415
+S
+#21417
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The brick street goes east and west, the market is to the
+south, and a avenue goes north.  
+~
+0 0 0
+E
+north~
+You see a castle a ways north of here.  
+~
+D0
+~
+~
+0 0 9400
+D1
+~
+~
+0 0 21414
+D2
+~
+~
+0 0 21455
+D3
+~
+~
+0 0 21418
+S
+#21418
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The brick street goes east and west.  There is a small
+house to the north, and looking south you see a large purple tent inside the
+market.  
+~
+0 0 0
+E
+north~
+There is a tiny house on the north side of the street.  
+~
+D0
+~
+~
+0 0 21419
+D1
+~
+~
+0 0 21417
+D3
+~
+~
+0 0 21420
+S
+#21419
+Poway Medical Center~
+You in the Poway Medical Center, where you can get get cured from your
+illnesses.  There are small windows on each wall with white curtains, making
+you feel that you are in good hands.  
+~
+0 1032 0
+D2
+~
+~
+0 0 21418
+S
+#21420
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The brick street goes east and south, and there is a
+large two story building here.  
+~
+0 0 0
+E
+north~
+You see the brick building with a large window near the street.  
+~
+E
+west~
+You see a plaque on the building to the west that says, "The Residence."  
+~
+E
+building~
+The Residence 
+~
+D1
+~
+~
+0 0 21418
+D2
+~
+~
+0 0 21429
+D3
+~
+~
+0 0 21421
+S
+#21421
+The Residence~
+You are inside the Residence Bank.  The floor is made of blue tile, and
+the walls are painted white.  There are two navy blue couches in the room. 
+There is a desk with all of the account information stacked neatly on it. 
+There is a door next to some bookshelves on the west wall.  
+~
+0 1048584 0
+D0
+~
+~
+4 21421 21422
+D1
+~
+~
+0 0 21420
+S
+#21422
+Bank Archives~
+You are in the bank archives in the back of the residence.  There is a
+door on the south wall that leads into the bank.  Bookshelves cover all of
+the walls in the room filled with files.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21423
+D2
+~
+~
+4 21421 21421
+S
+#21423
+Bank Archives~
+You are in the back corner of the bank archives.  There are some stone
+steps that lead up to a window on the south wall where light floods in.  On
+all of the walls, there are bookshelves that contain all of the bank's
+files.  
+~
+0 524288 0
+E
+steps~
+The steps are made of a light gray sanded stone, which the light from the
+window shines down upon them.  
+~
+E
+north~
+You see a smaller bookshelf that stands out from the rest, having a crack
+around the outside of it.  
+~
+E
+window~
+You see a large window at the top of the stone steps that you could
+probobly fit through.  
+~
+D2
+~
+window~
+1 0 21420
+D3
+~
+~
+0 0 21422
+D4
+~
+bookshelf~
+1 0 21424
+S
+#21424
+The Residence~
+You are in the headquarters of the secret spy network, the Residence.  It
+is made up of an elite group of spies who do secret missions all over the
+world.  There are some bookshelves on the walls, and there is a small
+fireplace on the east side of the room.  
+~
+0 524288 0
+E
+north~
+You see a small bookshelf on hinges on the north wall.  
+~
+D3
+~
+~
+0 0 21425
+D5
+~
+bookshelf~
+1 0 21423
+S
+#21425
+The Residence~
+You are in the recovery area of the Residence.  The spies who have just
+returned from their latest missions enjoy taking a rest in the soft beds,
+and having a nice refreshing drink.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21424
+D2
+~
+~
+0 0 21426
+S
+#21426
+The Residence~
+You are in the assignment room of the Residence.  There is a table with
+objective papers stacked high on it.  You also see a small clock hanging on
+the wall, ticking away.  
+~
+0 524288 0
+E
+clock~
+The clock is made with a very dark kind of wood only found in certain
+places in the world.  
+~
+D0
+~
+~
+0 0 21425
+D2
+~
+~
+0 0 21427
+S
+#21427
+The Residence~
+You are in the briefing room.  You can find out information about the
+missions and other various things.  There is a large world map on the west
+wall with many little red marks of where objectives are and blue dots where
+spies are working.  There are also yellow stars where spy outposts of the
+Residence are located.  There is a small stairway that goes down to the
+first floor.  
+~
+0 524288 0
+E
+lonas~
+You look at Lonas on the map.  In tiny print is says there is a small
+outpost somewhere in Lonas.  
+~
+E
+poway~
+You look at Poway on the map.  In tiny print it says that the Residence
+Headquarters is located in Poway.  
+~
+E
+minstrello~
+You look at Minstrello on the map.  In tiny print it says, a small
+portion of our treasury is located in Minstrello.  
+~
+D0
+~
+~
+0 0 21426
+D5
+~
+~
+0 0 21428
+S
+#21428
+The Residence~
+You are in the back room of the Residence, where people are able to take
+secret routes to secret locations.  There is a door on the west wall that
+leads down into the sewers.  
+~
+0 524288 0
+D4
+~
+~
+0 0 21427
+S
+#21429
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is a two story brick building to the west, and the
+brick street goes north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 21420
+D2
+~
+~
+0 0 21430
+S
+#21430
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is a white house to the west with brown shutters. 
+The brick street goes north and south, and there is an entrance to the
+market to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21429
+D1
+~
+~
+0 0 21464
+D2
+~
+~
+0 0 21433
+D3
+~
+~
+0 0 21431
+S
+#21431
+An Old House~
+You are inside an old house.  The floor is dirty and the furniture has
+lots of dust on it.  Whoever lives here doesn't take clean it very often.  
+~
+0 0 0
+D1
+~
+~
+0 0 21430
+D4
+~
+~
+0 0 21432
+S
+#21432
+An Attic~
+You are in a poorly lit attic.  Just as the downstairs is, the attic is
+extremely dusty.  There are all kinds of little trinkets up here, and there
+is a tiny window looking out over the town.  
+~
+0 0 0
+D5
+~
+~
+0 0 21431
+S
+#21433
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  You see a large tent on the other side of the fence. 
+There is a blue house to the west.  The brick street goes north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 21430
+D2
+~
+~
+0 0 21434
+S
+#21434
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  The entrance to the blue house is to the west, and the
+brick street goes north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21433
+D1
+~
+~
+0 0 21438
+D3
+~
+~
+0 0 21435
+S
+#21435
+Inside a House~
+You are inside the blue house.  There are small windows on the walls with
+blue drapes.  There are some empty boxes in the room for extra storage
+space.  There is a small couch against the wall.  A doorway leads north and
+the exit is east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21436
+D1
+~
+~
+0 0 21434
+S
+#21436
+Inside a House~
+You are inside a house.  There is a counter along the east wall with
+vegetables laying on it.  A round wooden table is in the room with several
+chairs around it.  There is a doorway to the south and a small wooden door
+to the north.  
+~
+0 0 0
+D0
+~
+~
+1 0 21437
+D2
+~
+~
+0 0 21435
+S
+#21437
+A Pantry~
+You are in a dark pantry.  Shelves cover the walls and there are all
+sorts of jars and bags on them.  The door is to the south.  
+~
+0 0 0
+D2
+~
+~
+1 0 21436
+S
+#21438
+Ranely Way~
+You are on a street in Poway.  The street is brick and it circles the
+Poway market.  Along the edge of the market is a wooden fence with trees
+growing along it.  There is a stable to the south.  The brick street goes
+east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 21400
+D2
+~
+~
+0 0 21439
+D3
+~
+~
+0 0 21434
+S
+#21439
+Poway Stables~
+You are in the poway stables.  The place is made of wood and there are
+several stalls.  There are piles of straw for the horses to rest in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21438
+D1
+~
+~
+0 0 21440
+S
+#21440
+Poway Stables~
+You are among the horse stalls.  The ground is really dirty from the
+horses.  There are saddles hanging on the stall doors.  
+~
+0 0 0
+D2
+~
+~
+1 21461 21474
+D3
+~
+~
+0 0 21439
+S
+#21441
+Southern Market Entrance~
+You are at the southern entrance to the Poway market.  There are stands
+west of here and there is a large area to the east with crowds of people all
+around.  
+~
+0 0 0
+D0
+~
+~
+0 0 21451
+D1
+~
+~
+0 0 21442
+D2
+~
+~
+0 0 21400
+D3
+~
+~
+0 0 21470
+S
+#21442
+Among the Crowds~
+You are in a large area filled with people.  There are entertainers doing
+all sorts of things.  You see people talking to each other and there are
+chickens walking on the ground.  This place is really noisy.  
+~
+0 0 0
+E
+chicken~
+The porpulent white chickens run around your feet.  
+~
+D0
+~
+~
+0 0 21448
+D1
+~
+~
+0 0 21443
+D3
+~
+~
+0 0 21441
+S
+#21443
+Among the Crowds~
+You are in a large area filled with people.  There are entertainers doing
+all sorts of things.  You see people talking to each other and there are
+chickens walking on the ground.  This place is really noisy.  
+~
+0 0 0
+E
+chicken~
+The porpulent white chickens run around your feet.  
+~
+D0
+~
+~
+0 0 21447
+D1
+~
+~
+0 0 21444
+D3
+~
+~
+0 0 21442
+S
+#21444
+A Puppet Show~
+You are in the southeast corner of the large area where a puppet show is
+going on.  The small crowd watches the little puppets fight each other.  The
+puppet show wagon sits along the market fence.  A large tree shades the
+puppet showing area.  
+~
+0 0 0
+E
+fence~
+You see the market fence along the border of the market area.  
+~
+E
+wagon~
+The puppet show wagon is set up so that the little stage folds out from
+the side with little red curtains on the edges.  
+~
+D0
+~
+~
+0 0 21445
+D3
+~
+~
+0 0 21443
+S
+#21445
+The Armor Stand~
+You are infront of the armor stand.  The stand has its best armor laying
+on the counter top.  You see many people around here talking.  A market
+entrance is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21446
+D2
+~
+~
+0 0 21444
+D3
+~
+~
+0 0 21447
+S
+#21446
+Eastern Market Entrance~
+You are at the eastern entrance to the Poway market.  You hear lots of
+noise from the market and see lots of activity.  The brick street is to the
+east that circles the market.  
+~
+0 0 0
+D1
+~
+~
+0 0 21405
+D3
+~
+~
+0 0 21445
+S
+#21447
+Among the Crowds~
+You are in a crowded area of the market where everyone stands around and
+talks.  You see people try to pass through the crowd to get to a certain
+stand as their animals wander off into the people.  There are all kinds of
+noises, people laughing and all kinds of gossiping.  You see a stand to the
+east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21449
+D1
+~
+~
+0 0 21445
+D2
+~
+~
+0 0 21443
+D3
+~
+~
+0 0 21448
+S
+#21448
+Among the Crowds~
+You are in a very crowded area in the market.  People are moving around
+trying to get to where they want to be, while some just stand around,
+talking and watching people entertain others.  You see a stand to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 21450
+D1
+~
+~
+0 0 21447
+D2
+~
+~
+0 0 21442
+D3
+~
+~
+0 0 21451
+S
+#21449
+A Peaceful Corner~
+You are in a corner between two stands.  There is a large tree to shade
+the sun and there are boxes and crates that store armor and weapons for the
+stands.  You can see the crowds of people to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 21447
+D3
+~
+~
+0 0 21450
+S
+#21450
+The Weapon Stand~
+You are standing in front of the weapon stand, where an old, retired
+knight sells his finest weapons.  The counter is covered with a blue cloth,
+and overhead is a canopy to shield the sun.  You see boxes and crates to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21449
+D2
+~
+~
+0 0 21448
+D3
+~
+~
+0 0 21452
+S
+#21451
+Poway Market~
+You are on a walkway through the Poway market.  You see stands west of
+here, and to the east are crowds of people.  
+~
+0 0 0
+D0
+~
+~
+0 0 21452
+D1
+~
+~
+0 0 21448
+D2
+~
+~
+0 0 21441
+S
+#21452
+Market Center~
+You are in the center of the Poway market, one of the biggest markets in
+the area.  You can find many unique items for sale in the market.  Merchants
+come from all of Tansinia to sell their special items.  A rare few even come
+from overseas!  
+~
+0 0 0
+D0
+~
+~
+0 0 21453
+D1
+~
+~
+0 0 21450
+D2
+~
+~
+0 0 21451
+D3
+~
+~
+0 0 21463
+S
+#21453
+Poway Market~
+You are on a walkway through the Poway market.  You see a person going to
+his stand with a wagon full of fresh vegetables.  There are some cabbages
+that have fallen off and are laying on the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21454
+D2
+~
+~
+0 0 21452
+S
+#21454
+Poway Market~
+You are in the Poway market.  The northern entrance is right by here, and
+you see a walkway to the west that goes behind several stands.  The smell of
+fish is in the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 21455
+D2
+~
+~
+0 0 21453
+D3
+~
+~
+0 0 21456
+S
+#21455
+Northern Market Entrance~
+You are at the northern entrance to the Poway market.  There are walkways
+that lead through it to the many stands.  You hear many people talking in
+the market.  
+~
+0 0 0
+D0
+~
+~
+0 0 21417
+D2
+~
+~
+0 0 21454
+S
+#21456
+A Side Path~
+You are on a side path that goes behind the meat and fish stands.  You
+see the butcher to the south chopping meat into smaller pieces.  The fence
+around the market is to the north, and on the other side you see people
+walking along the street.  
+~
+0 0 0
+D1
+~
+~
+0 0 21454
+D3
+~
+~
+0 0 21457
+S
+#21457
+A Side Path~
+You are on a side path that goes behind the vegetable stands.  Someone is
+unloading a cart full of cabbage right now.  There is a big oak tree on this
+side of the fence, and there is a purple tent northwest of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 21456
+D3
+~
+~
+0 0 21458
+S
+#21458
+Outside the Purple Tent~
+You are standing outside of a big purple tent.  There are two balls of
+blue light hovering on each side of the tent entrance.  You are very curious
+as to what is inside it.  There is a side path to the east that goes behind
+some food stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 21459
+D1
+~
+~
+0 0 21457
+D2
+~
+~
+0 0 21460
+S
+#21459
+The Magician's Emporium~
+You are inside the big purple tent, the Magician's Emporium.  There is a
+round tabletop floating in the center of the tent, serving as the counter. 
+There are trunks with markings on them laying on the ground that contain
+different things to buy.  The store magician walks around creating magical
+objects out thin air that give off a mesmorizing glow.  
+~
+0 0 0
+D2
+~
+~
+0 0 21458
+S
+#21460
+Poway Market~
+You are walking around in the market.  There are many people around, and
+sometimes you see someone of one of the rarer races stroll by you.  You see
+some produce stands to the east, and north you think you can see a big
+purple tent.  
+~
+0 0 0
+D0
+~
+~
+0 0 21458
+D2
+~
+~
+0 0 21461
+S
+#21461
+Walkway Intersection~
+You are walking around in the market.  There are many people around, and
+sometimes you see someone of one of the rarer races stroll by you.  There is
+a path that leads east to the market center.  
+~
+0 0 0
+D0
+~
+~
+0 0 21460
+D1
+~
+~
+0 0 21462
+D2
+~
+~
+0 0 21466
+D3
+~
+~
+0 0 21465
+S
+#21462
+The Vegetable Stand~
+You are at the vegetable stand.  There are heads of lettuce, tomatoes,
+carrots, and there is a fresh cart of cabbage coming in now!  The owner of
+the stand is cutting up some lettuce and carrots for a salad to sell.  
+~
+0 0 0
+D1
+~
+~
+0 0 21463
+D3
+~
+~
+0 0 21461
+S
+#21463
+Meat and Fish Stand~
+You are infront of the meat and fish stand.  The counter is a bit messy,
+with bits of meat lying about.  There is a brass scale on the right side of
+the counter, and the butcher is behind, chopping up meat.  
+~
+0 0 0
+D1
+~
+~
+0 0 21452
+D3
+~
+~
+0 0 21462
+S
+#21464
+Western Market Entrance~
+You are at the western entrance to the Poway market.  There are walkways
+that lead through it to the many stands.  You hear many people talking in
+the market.  You see a stand east of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 21465
+D3
+~
+~
+0 0 21430
+S
+#21465
+Walder's Furniture~
+You are at Walder's furniture stand.  There are several pieces of
+furniture sitting around here, waiting for a nice home.  It looks like
+Walder spent a lot of time making them.  The market's walkway goes east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 21461
+D3
+~
+~
+0 0 21464
+S
+#21466
+Poway Market~
+You are walking around in the Poway market.  There are many people
+around, and sometimes you see someone of one of the rarer races stroll by
+you.  There is a big tree on the west side of the walkway, casting a large
+shadow.  
+~
+0 0 0
+D0
+~
+~
+0 0 21461
+D2
+~
+~
+0 0 21467
+S
+#21467
+Poway Market~
+You are walking around the Poway market just east of a big red tent. 
+There is a little sign that says, "Curiosity Shop."  It seems to catch your
+interest...  You see a few stands to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21466
+D1
+~
+~
+0 0 21469
+D3
+~
+~
+0 0 21468
+S
+#21468
+The Curiosity Shop~
+You are inside the traveling curiosity shop.  For now, its home is the
+Poway market, but who knows for how long.  There are many tables set up in
+here with all kinds strange things on them.  
+~
+0 0 0
+D1
+~
+~
+0 0 21467
+S
+#21469
+Jewelry Stand~
+You are at the jewelry stand in the market.  There is a cloth-covered
+table with bracelets, rings, and earrings spread out on it.  The jewelry
+sparkles in the sun, adding to its beauty.  
+~
+0 0 0
+D1
+~
+~
+0 0 21470
+D3
+~
+~
+0 0 21467
+S
+#21470
+Bargain Clothing~
+The first thing you notice at this stand is the large sign with the crude
+letters, "BaRgAin CloThIng."  You see nice clothes hanging up for sale, yet
+the sign makes you skeptical.  
+~
+0 0 0
+E
+sign~
+The sign looks like it was make in a real hurry or by a two year old.  
+~
+D1
+~
+~
+0 0 21441
+D3
+~
+~
+0 0 21469
+S
+#21471
+Poway Library~
+You are in the Poway Library.  The library isn't too big, but there are
+thousands of books crammed into it.  There are many candles lighting the
+room so it is bright enough to read.  This is a great place to gain more
+knowledge of skills and spells.  
+~
+0 0 0
+D0
+~
+~
+0 0 21403
+S
+#21472
+The Training Yard~
+You are in the Training Yard, a fenced in area where you can train and
+practice skills and spells.  The yard is grassy except for in the middle
+where there is a dirt circle where the ground gets the most wear and tear.  
+~
+0 0 0
+D3
+~
+~
+0 0 21403
+S
+#21473
+Jergin's Office~
+You are inside Jergin's Office.  The floor is tile, and the walls are
+covered with maps.  There are two large windows on the south wall, looking
+out at the brick street.  There is a big table here with maps and scrolls on
+it, and Jergin sits behind it reading the latest news.  
+~
+0 1032 0
+D3
+~
+~
+0 0 21415
+S
+#21474
+Inside a Stall~
+You are in a stall with a horse that will take you on a one way trip to
+Lonas.  There is a stall door to the north and another to the south that
+exits the stable.  
+~
+0 0 0
+D0
+~
+~
+1 21461 21440
+D2
+~
+exit~
+1 0 21475
+S
+#21475
+Riding the Horse to Lonas~
+You look behind you as you speed away from the stable and away from
+Poway.  Your horse is going at top speed, and you should be in Lonas in no
+time.  
+~
+0 0 0
+D3
+~
+~
+0 0 21476
+S
+#21476
+Riding the Horse to Lonas~
+You are speeding across the country of Tansinia on your way to Lonas. 
+There are large forests around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21477
+S
+#21477
+Riding the Horse to Lonas~
+You are speeding across the country of Tansinia on your way to Lonas. 
+There are large forests to the east.  
+~
+0 0 0
+D3
+~
+~
+0 0 21478
+S
+#21478
+Riding the Horse to Lonas~
+You are speeding across the country of Tansinia on your way to Lonas. 
+You pass people walking on the road and laugh because of how far they have
+to walk.  
+~
+0 0 0
+D3
+~
+~
+0 0 21479
+S
+#21479
+Riding the Horse to Lonas~
+You are speeding across the country of Tansinia on your way to Lonas. 
+You see the Renwood to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 21480
+S
+#21480
+The Village of Lonas~
+You speed to the edge of the town and your horse slows to a stop.  You
+step off of the horse, and then it takes off back to Poway, leaving a trail
+of dust behind it.  
+~
+0 0 0
+D0
+~
+~
+0 0 20301
+S
+#21481
+The Rooftop~
+The rooftop is a little windy, and blows your clothes and hair around a
+little.  You can see all over the town of Poway, and the Avenue to the north.  On the
+south side of the rooftop is a large metal contraption called the Warp
+Machine.  
+~
+0 0 0
+D2
+~
+~
+0 0 22350
+D5
+~
+~
+0 0 21412
+S
+#0
+
+
+
+#SPECIALS
+M 21411 spec_cast_mage
+M 21416 spec_cast_mage
+M 21419 spec_cast_cleric
+M 21422 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 21405 1 1
+D 0 21406 3 1
+D 0 21409 1 1
+D 0 21410 3 1
+D 0 21415 4 2
+D 0 21416 5 2
+D 0 21421 0 2
+D 0 21422 2 2
+D 0 21423 2 1
+D 0 21423 4 1
+D 0 21424 5 1
+D 0 21436 0 1
+D 0 21437 2 1
+D 0 21440 2 2
+D 0 21474 0 2
+D 0 21474 2 1
+M 0 21404 7 21400 1
+M 0 21402 1 21402 1
+G 0 3031 0
+G 0 21401 0
+G 0 21402 0
+G 0 3086 0
+G 0 20306 0
+M 0 21404 7 21405 1
+M 0 21406 5 21407 1
+M 0 21406 5 21411 1
+M 0 21406 5 21413 1
+M 0 21404 7 21414 1
+M 0 21415 1 21415 1
+G 0 21415 0
+O 0 21459 0 21416
+M 0 21418 4 21418 1
+M 0 21404 7 21418 1
+M 0 21473 2 21419 1
+M 0 21421 1 21421 1
+G 0 21421 0
+M 0 21473 2 21425 1
+O 0 21458 0 21425
+O 0 21459 0 21425
+O 0 20916 0 21426
+M 0 21475 1 21426 1
+O 0 21457 0 21432
+P 0 21456 1 21457 1
+M 0 21404 7 21432 1
+M 0 21403 1 21436 1
+M 0 21437 1 21437 1
+E 0 21437 0 16
+M 0 21440 1 21440 1
+E 0 21440 0 7
+G 0 21461 0
+M 0 21406 5 21442 1
+M 0 21416 1 21442 1
+M 0 21408 1 21444 1
+M 0 21406 5 21444 1
+M 0 21407 4 21444 2
+E 0 21405 0 16
+M 0 21409 2 21444 2
+M 0 21410 1 21444 1
+E 0 21406 0 17
+M 0 21445 1 21445 1
+G 0 21438 0
+G 0 21441 0
+G 0 21436 0
+G 0 21439 0
+G 0 21463 0
+M 0 21414 1 21447 1
+M 0 21413 1 21448 1
+M 0 21405 4 21448 1
+G 0 21403 0
+M 0 21418 4 21449 1
+M 0 21417 1 21449 1
+E 0 21409 0 6
+M 0 21450 1 21450 1
+G 0 21430 0
+G 0 21431 0
+G 0 21433 0
+G 0 21435 0
+G 0 21434 0
+M 0 21411 1 21451 1
+E 0 21407 0 16
+M 0 21404 7 21451 1
+M 0 21419 1 21452 1
+E 0 21410 0 5
+M 0 21412 3 21452 1
+E 0 21408 0 17
+M 0 21405 4 21455 1
+G 0 21403 0
+M 0 21404 7 21456 1
+M 0 21405 4 21457 1
+G 0 21403 0
+M 0 21412 3 21458 1
+E 0 21408 0 17
+M 0 21459 1 21459 1
+G 0 21442 0
+G 0 21445 0
+G 0 21443 0
+G 0 21444 0
+G 0 21462 0
+M 0 21412 3 21461 1
+E 0 21408 0 17
+O 0 21455 0 21461
+M 0 21462 1 21462 1
+G 0 21420 0
+G 0 21419 0
+G 0 21418 0
+G 0 21417 0
+M 0 21463 1 21463 1
+G 0 21411 0
+G 0 21412 0
+G 0 21413 0
+G 0 21414 0
+G 0 21416 0
+M 0 21418 4 21464 1
+M 0 21465 1 21465 1
+G 0 21429 0
+G 0 21427 0
+G 0 21426 0
+M 0 21418 4 21467 1
+M 0 21468 1 21468 1
+G 0 21425 0
+G 0 21424 0
+G 0 21423 0
+G 0 21422 0
+M 0 21469 1 21469 1
+G 0 21446 0
+G 0 21447 0
+G 0 21448 0
+G 0 21449 0
+M 0 21470 1 21470 1
+G 0 21450 0
+G 0 21451 0
+G 0 21452 0
+G 0 21454 0
+G 0 21453 0
+M 0 21471 1 21471 1
+M 0 21472 1 21472 1
+M 0 21422 1 21473 1
+M 0 21476 1 21474 1
+G 0 21461 0
+S
+
+
+
+#SHOPS
+21402 0 10 17 15 1 140 80 0 23
+21415 0 18 0 0 0 120 100 0 23
+21422 0 0 0 0 0 100 100 0 23
+21445 0 9 1 0 0 120 80 0 23
+21450 0 5 0 0 0 120 80 0 23
+21459 0 4 3 2 10 120 80 0 23
+21462 0 19 0 0 0 120 80 0 23
+21463 0 19 0 0 0 120 80 0 23
+21465 0 12 0 0 0 120 80 0 23
+21468 0 1 8 9 13 120 80 0 23
+21469 0 33 9 0 0 120 80 0 23
+21470 0 9 1 0 0 120 80 0 23
+21475 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#21400
+say Ok, here's all of the assignments that need completed every so often.  Some may have already been completed by another agent.
+say 1. Check the Lonas Outpost
+~
+#21406
+say What filthy commoners!
+~
+#21408
+scream
+say Save me!!
+faint
+~
+#21414
+flip
+bounce
+wink
+~
+#21415
+say Welcome to Poway Inn!  How can I help you?
+smile
+~
+#21416
+serenade
+~
+#21417
+blink
+~
+#21421
+say Hello, how can I help you?
+~
+#21422
+say What's the password?
+~
+#21423
+say You may enter.
+unlock north
+open north
+~
+#21424
+say Welcome Adventurer!  Type QUEST to see the list of options.
+smile
+~
+#21440
+say Hello!
+say It's 50,000 silver for a ride to Lonas.
+~
+#21441
+unlock south
+open south
+say There you go!  Have a nice ride.
+~
+#21474
+say hello $n
+~
+#21476
+close north
+lock north
+open exit
+smile $n
+~
+#0
+
+#$

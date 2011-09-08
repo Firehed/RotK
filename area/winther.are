@@ -1,0 +1,851 @@
+#AREADATA
+Name Wintheroth~
+Builders Grimace~
+VNUMs 700 720
+Credits [ CLAN] Grimace Wintheroth~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+healer~
+The Healer~
+You see the friendly Clan Healer here, waiting for someone to help.
+~
+This healer can not only heal, but she can Train, Practice, and Gain too!
+~
+Human~
+ABJKZabd 0 0 5000 0
+10 0 1d1+100 1d1+100 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#701
+armorer~
+the armorer~
+The Armorer is ready to equip you.
+~
+~
+Dwarf~
+AB J 0 1000 0
+100 0 1d1+100 1d1+100 1d1+100 none
+-40
+0 0 LQ R
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 701 100~
+#703
+guildmaster~
+the guildmaster~
+Your guildmaster is here.
+~
+~
+Human~
+ABJKb 0 0 0 0
+100 0 100d100+1000 1d1+100 10d100+150 none
+-60
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#705
+the bartender~
+The Bartender~
+The Bartender is here.
+~
+~
+Human~
+ABG 0 0 1000 0
+5 0 1d1+50 1d1+50 0d0+0 none
+0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#706
+the chef~
+The Chef~
+The beautiful Chef is here, and she asks what you would like.
+~
+The Chef is a beautiful woman, she is also extremely skillful in cooking, having gone to the Chef Academy in Chocotown.
+~
+Human~
+AB 0 0 1000 0
+15 0 1d1+100 1d1+100 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 706 100~
+#709
+monkey~
+the monkey~
+A monkey is here.
+~
+The monkey has a little hat on and he has a little accordian to play.  
+~
+Human~
+AB 0 0 0 0
+1 0 1d1+100 1d1+100 9d17+50 none
+-40
+BCDEFGHIJKLMNO ABP 0 K
+stand stand none 2
+AHMV ABCDEFGHIJK medium unknown
+#716
+wizard~
+the wizard~
+The old wizard is here.
+~
+~
+Elf~
+AB CDEFGJ 0 1000 0
+0 0 1d1+100 1d1+100 1d1+100 none
+-62
+0 0 B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+M GREET 701 701~
+#0
+
+
+
+#OBJECTS
+#700
+healing pool~
+a Healing Pool~
+A Healing Pool is here.~
+Gel~
+furniture AG 0
+10000 100000000 FIL 100000 100000
+0 31267 0 P
+#701
+silvery helmet~
+{8a s{7ilv{&ery h{7elm{8et{0~
+{8A s{7ilv{&ery h{7elm{8et{0 lies here.~
+unknown~
+armor BG AE
+30 30 30 35 0
+25 2 9000 P
+A
+3 3
+A
+4 3
+A
+13 50
+A
+12 150
+#702
+silvery shin guards~
+{8som{7e sil{&very shi{7n gua{8rds{0~
+{8Som{7e sil{&very shi{7n gua{8rds{0 lie here.~
+unknown~
+armor 0 AF
+30 30 30 35 0
+25 2 9000 P
+A
+2 3
+A
+13 200
+A
+17 3
+A
+1 3
+#703
+a fountain~
+{^A marble fountain{0~
+A marble fountain~
+unknown~
+fountain A 0
+-1 -1 'water' 0 0
+0 0 0 P
+#706
+the ice box~
+the ice box~
+A nice ice box~
+steel~
+container 0 0
+10000 A 0 10000 10000
+0 10000 0 P
+#707
+prize~
+a PRIZE!~
+A PRIZE!~
+unknown~
+token 0 A
+EIJKN 0 0 0 0
+0 0 0 P
+#708
+key~
+the Key to Wintheroth~
+The Key to Wintheroth lies here.~
+unknown~
+key AG AO
+0 0 0 0 0
+1 1 555 P
+#709
+brownie~
+the throne~
+A tall-backed throne sits under the light.~
+unknown~
+furniture 0 0
+1 999999 EHK 200 200
+0 0 0 P
+#710
+the desk~
+a desk made of oak~
+A desk made of oak is here, with neatly stacked piles of paper on it.~
+Oak~
+furniture 0 AP
+0 0 0 0 0
+0 10000 0 P
+#711
+key~
+a key~
+The Master Key~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#712
+mushroom~
+a Magic Mushroom~
+A Magic Mushroom is here.~
+unknown~
+food 0 A
+24 24 0 0 0
+0 1 25 P
+#713
+bubbling elixir~
+a bubbling elixir~
+A bubbling elixir is here.~
+unknown~
+potion 0 AO
+100 'acidshield' 'watershield' 'holyshield' 'glassshield'
+10 0 3000 P
+#714
+shelter potion~
+a shelter potion~
+A shelter potion is here.~
+unknown~
+potion 0 AO
+100 'shield' 'armor' 'sanctuary' 'bless'
+10 0 3000 P
+#715
+remedy potion~
+a remedy potion~
+A remedy potion is here.~
+unknown~
+potion 0 AO
+100 'cure poison' 'cure blindness' 'cure disease' 'refresh'
+10 0 2500 P
+#716
+full tonic~
+a full tonic~
+A full tonic is here.~
+unknown~
+potion 0 AO
+100 'heal' 'heal' 'heal' 'heal'
+10 0 2500 P
+#717
+card corpse free~
+a card of Grimace's Get yo' corpse free~
+A card of Grimace's Get yo' corpse free is here.~
+unknown~
+jewelry GH AO
+0 0 0 0 0
+1 0 0 P
+#718
+test item~
+tEST ITEM~
+TEST ITEM is here.~
+unknown~
+trash P A
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#700
+The Lobby~
+You are standing in the recall room for Clan {6Wi{8n{7ther{8o{6th.  {0 As
+you walk around, you see that the floor is a highly polished marble.  There
+are torches along the walls that give off a pleasant glow.  In the center of
+the room, there is a hole that sends you through a portal to Meriam.  North
+and south you see other rooms, and the castle exit is to the west.  
+~
+0 12 0
+E
+south~
+You see the Armory.
+~
+E
+north~
+You see the Lounge.
+~
+E
+floor~
+You gaze into the shiny floor at your own reflection.
+~
+E
+down~
+You see the Quest Shop in Midgaard.
+~
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+D3
+~
+~
+4 708 20326
+D5
+~
+~
+0 0 3382
+S
+#701
+The Armory~
+This room is where you will prepare for fighting in {8The Grand Arena{0
+to the west.  There area all kinds of weapons lying about the room.  You see
+mourning stars, spears, swords, daggers, and a bunch of other stuff all over
+the place.  
+~
+0 12 0
+E
+west~
+You see the Arena
+~
+E
+north~
+You see the Lobby
+~
+D0
+~
+~
+0 0 700
+D3
+~
+~
+0 0 702
+S
+#702
+The Grand Arena~
+This arena is HUGE!  There are hundreds of people in the stands watching
+you walk around in the dirt, waiting for the next battle.  You see
+{1stains{0 in the dirt where blood has been spilled many times, there are
+bits of bone scattered around your feet.  You see charred armor next to the
+wall, where it's wearer tried to clime the wall but failed.  As you walk
+along, you stumble over the skull of a dragon.  The only exit is east into
+{8The Armory{0.  
+~
+0 0 0
+D1
+~
+~
+0 0 701
+S
+#703
+The Lower Lounge~
+You are in a nice, inviting room.  There are a few {!  Red sofas{0 in the
+room, and you can hear {&music{0 playing in the background.  In the center
+of the room is a {$spiral staircase{0 that goes up to the second floor.  To
+the north you see is the {8Dining Hall{0, east is {8The Room of Rules{0, and
+south is the {8Lobby.  {0 
+You see a large book on a round table.
+~
+0 8 0
+E
+north~
+You see the Dining Hall.
+~
+E
+east~
+You see the Room of Rules.
+~
+E
+south~
+You see the Lobby.
+~
+E
+up~
+You see the Upper Lounge.
+~
+E
+book~
+This book contains a list of all the clan members of Wintheroth.
+1. Kalista
+2. Treijt
+3. Darkus
+4. Branton
+5. Keth
+6. Maike
+~
+D0
+~
+~
+0 0 704
+D1
+~
+~
+0 0 707
+D2
+~
+~
+0 0 700
+D4
+~
+~
+0 0 708
+S
+#704
+The Dining Hall~
+This Dining Hall is enormous!  The wooden floor is mostly covered by a
+{1red carpet{0 with some wood showing around the edge of the room.  The
+giant {3wooden table{0 looks like it could accomidate over 50 people at a
+time!  There are many {&chandeliers{0 around the room hanging from the
+ceiling giving off a {#brilliant light.  {0 
+
+~
+0 8 0
+E
+west~
+You see the Kitchen.
+Maybe there's something good to eat?  Go check it out!
+~
+E
+east~
+You see the Bar.
+~
+E
+chandeliers~
+Wow, {#BRIGHT LIGHT!{0
+~
+E
+table~
+Around the table you see many fancy armless chairs and a tall-backed chair with comfy, padded arms at the end of the table.
+~
+E
+carpet~
+You see a great big carpet covering the wooden floor.
+~
+D1
+~
+~
+0 0 705
+D2
+~
+~
+0 0 703
+D3
+~
+~
+0 0 706
+S
+#705
+The Bar~
+You are at the clan bar.  The bar itself is made of oak, and the seats
+are wooden swivel chairs.  Behind the bar is a great collection of beer,
+wine, champagne, and other liquors and beverages.  
+~
+0 8 0
+E
+chairs~
+Hey, nice swivel chairs!
+~
+E
+west~
+You see the Dining Hall.
+~
+D3
+~
+~
+0 0 704
+S
+#706
+The Kitchen~
+This is a huge kitchen!  There is a big center island where the chef prepares all of his food, and there is a {!m{@a{#g{$i{%c{^a{&l{0 drink machine that the chef uses for drinks.
+~
+0 8 0
+E
+east~
+You see the Dining Hall.
+~
+E
+machine~
+Hey!  Hands off the drink machine!  Leave it to the chef.
+~
+D1
+~
+~
+0 0 704
+S
+#707
+The Room of Rules~
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{7A {8dan{7g{&ero{7u{8s lo{7o{&kin{7g {8dag{7g{&er i{7s {8on t{7h{&e gr{7o{8und{7.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0{3sw{#o{&r{7d l{&i{#e{3s o{#n {&t{7he{&g{#r{3ou{#n{&d.{0
+~
+0 1032 0
+D3
+~
+~
+0 0 703
+S
+#708
+The Upper Lounge~
+{8The Upper Lounge{0 is very similar to {8The Lower Lounge{0 below,
+except all of the {$sofas{0 and {$chairs{0 are {$blue{0 and no fountain.  To
+make up for the fountain, there are many paintings around the room, but you
+don't recognize any of them.  The {&spiral staircase{0 is in the center of
+the room, north is {@The Throne Room{0, east and west are some bedrooms, and
+south is a hallway.  
+~
+0 8 0
+E
+north~
+You see the Throne Room.
+~
+E
+south~
+You see the Hallway.
+~
+E
+down~
+You see the Lower Lounge
+~
+E
+west~
+You see a bedroom.
+~
+E
+east~
+You see a bedroom.
+~
+D0
+~
+~
+0 0 709
+D1
+~
+~
+1 0 713
+D2
+~
+~
+0 0 714
+D3
+~
+~
+1 0 712
+D5
+~
+~
+0 0 703
+S
+#709
+The Throne Room~
+The first thing you notice in the room is the very tall throne where
+{$Grimace{0 sits.  Coming down through the glass ceiling is a constant {#b{3e{#a{3m{0 of
+yellow light that lands on the throne.  The narrow {$b{4l{$u{4e{0 carpet you are
+standing on goes across the room and ends at the throne.  The floor is made
+of a beautifully colored {&m{^a{6r{^b{&l{^e{0 and it is polished to perfection.  On the
+wall behind the throne is a giant glass window.  Covering the east and west
+walls are great {!r{1e{!d{0 curtains.  There are many different {!c{@o{#l{$o{%r{^e{&d{0 pillows
+scattered around the room.  
+You see two servants with refreshments waiting on people.
+There is a {3monkey{0 playing {&m{8u{&s{8i{&c{0.
+~
+0 8 0
+E
+floor~
+You see a great Tiger carved into the floor.
+~
+E
+down~
+You see a great Tiger carved into the floor.
+~
+E
+up~
+You look into the stary night sky through the glass ceiling.
+~
+E
+west~
+You see a great {!red{0 curtain.
+~
+E
+east~
+You see a great {!red{0 curtain.
+~
+E
+south~
+You see the Lounge.
+~
+E
+monkey~
+You see an awesome looking little monkey!  He has an accordian and he's playing all kinds of songs.
+~
+D1
+~
+~
+2 711 711
+D2
+~
+~
+0 0 708
+D3
+~
+~
+2 711 710
+S
+#710
+The Grand Bedroom~
+This bedroom is the biggest in the castle, having a king size bed, a
+pyramid glass ceiling, and giant lava lamp on the night stand.  The floor is
+covered with a nice furry white carpet, the walls are a light {^blue{0, and
+there is a door to the east.  
+~
+0 1024 0
+E
+up~
+You see a pyramid-like ceiling made of glass, which you can see the stary sky.
+~
+E
+carpet~
+You see a really soft, furry carpet that you love to walk on.
+~
+E
+down~
+You see a really soft, furry carpet that you love to walk on.
+~
+E
+east~
+You see a wooden door to the east.
+~
+E
+lamp~
+You see a great big lava lamp on the little night stant next to the bed.  You stair into it, mesmorized...
+~
+E
+bed~
+You see a cool bed with a bunch of fluffy pillows on it.
+~
+D1
+~
+~
+2 711 709
+S
+#711
+Grimace's Office~
+The room is fairly simple.  You see a Grandfather Clock against the wall,
+an oak desk with neat piles of paper, and a blue padded swivel chair.  
+~
+0 1032 0
+E
+piles~
+You look at the piles of paper on the desk, all kinds of things.  You see entry forms, maps, and various other things.
+~
+E
+paper~
+You look at the piles of paper on the desk, all kinds of things.  You see entry forms, maps, and various other things.
+~
+E
+clock~
+You see a Grandfather Clock against the southern wall and every hour it goes DING.
+~
+D3
+~
+~
+2 711 709
+S
+#712
+A Bedroom~
+This bedroom is made so people can have some privacy when they need it. 
+The floor is carpeted in {$b{4l{$u{4e{0, and there is a big bed in the
+center of the room.  On the south wall is a {%p{5o{%r{5t{%a{5l{0 leading to
+the the Renwood.  
+~
+0 8 0
+D1
+~
+~
+1 0 708
+D2
+~
+~
+0 0 21800
+S
+#713
+A Bedroom~
+This bedroom is made for privacy when people need it.  The floor is
+carpeted in {!{!red{0, and there is a big bed in the center of the room. 
+There is a {%p{5o{%r{5t{%a{5l{0 in the south wall that leads to the
+Minstrello Church.  
+~
+0 8 0
+D2
+~
+~
+0 0 18236
+D3
+~
+~
+1 0 708
+S
+#714
+The Hallway~
+{8The Hallway{0 is nothing spectacular.  You know that the floor is
+wooden because of the {&clunk{0 noise you make when you walk.  The ceiling
+is only about ten feet high, which is much shorter than the other rooms.  As
+you walk down the hall, {3g{#l{3o{#w{3i{#n{3g{0 torches light the way.  To
+the north, you see {8The Upper Lounge{0, and to the south, you see {8The
+Ceremonial Room{0.  
+~
+0 8 0
+E
+clunk~
+How do you look at a clunk?
+~
+D0
+~
+~
+0 0 708
+D1
+~
+~
+0 0 716
+D2
+~
+~
+0 0 715
+S
+#715
+Ceremonial Room~
+This room was made for conducting important ceremonies, parties, and many
+other fun things!  There is plenty of room in here and lots of seats about
+the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 714
+S
+#716
+The Laboratory~
+You are inside the Wintheroth Laboratory.  There are wooden shelves on
+the walls behind a counter with many potions sitting on them.  An old grey
+wizard is wandering around, looking for a certain spellbook.  
+~
+0 8 0
+D3
+~
+~
+0 0 714
+S
+#0
+
+
+
+#SPECIALS
+M 700 spec_cast_clan_adept
+M 716 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 700 3 1
+D 0 708 1 1
+D 0 708 3 1
+D 0 709 1 2
+D 0 709 3 2
+D 0 710 1 2
+D 0 711 3 2
+D 0 712 1 1
+D 0 713 3 1
+M 0 700 1 700 1
+O 0 700 0 700
+M 0 701 1 701 1
+G 0 701 0
+G 0 702 0
+O 0 703 0 703
+O 0 3200 0 703
+M 0 705 1 705 1
+G 0 3004 0
+G 0 3003 0
+G 0 3001 0
+O 0 706 0 706
+M 0 706 1 706 1
+G 0 3009 0
+G 0 3011 0
+G 0 3014 0
+G 0 3012 0
+G 0 3101 0
+G 0 3100 0
+G 0 3102 0
+G 0 3152 0
+G 0 3151 0
+M 0 709 1 709 1
+O 0 709 0 709
+O 0 710 0 711
+M 0 716 1 716 1
+G 0 716 0
+G 0 715 0
+G 0 714 0
+G 0 713 0
+S
+
+
+
+#SHOPS
+701 0 9 0 0 0 120 80 0 23
+705 0 0 0 0 0 80 120 0 23
+706 0 19 0 0 0 80 120 0 23
+716 0 0 0 0 0 120 80 0 23
+0
+
+
+
+#MOBPROGS
+#701
+shake $n
+say What can I do for you?
+~
+#706
+say Hello $n, What can I get you?
+~
+#0
+
+#$

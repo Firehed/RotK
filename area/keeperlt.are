@@ -1,0 +1,69 @@
+#AREADATA
+Name Keepers of Light Clan Hall~
+Builders Faylen~
+VNUMs 22620 22629
+Credits [ CLAN] Faylen  Keepers of Light Clanhall~
+Security 1
+End
+
+
+
+#MOBILES
+#22620
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22620
+{yK{Ye{We{Yp{ye{Yr{Ws {Yc{yl{Ya{Wn {YL{yo{Yu{Wn{Yg{yu{Ye{x~
+You stand at the entrance of a enormous stone walled room.  A sign hangs
+above a brightly light fire place reading "Clan Of The Keepers".  As your
+eyes scan the room u see tables and chairs and over sized sofa's.  The site
+of the sofa's and chairs is very inviting and u get the sudden urge to have
+a seat and relax.  
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

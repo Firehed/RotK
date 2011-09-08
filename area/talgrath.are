@@ -1,0 +1,7172 @@
+#AREADATA
+Name Talagrath~
+Builders Tekino~
+VNUMs 17000 17599
+Credits [ ALL ] Tekino  Talagrath~
+Security 2
+End
+
+
+
+#MOBILES
+#17000
+changer~
+changed~
+Changer dude
+~
+~
+Human~
+Ad 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17001
+Sinister Kitty~
+a sinister kitty~
+You see a sinister kitty sleeping on his desk.
+~
+~
+cat~
+AB Z 0 8 0
+102 50 30000d1+0 1d1+1 5000d500+5000 none
+-50
+FH ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+sleep sleep none 70000
+AGV ACDEFHJKQUV medium unknown
+#17011
+The Mana Beast~
+The Mana beast~
+A towering beast of pure shadows is here
+~
+~
+unique~
+ABF DF CDEOP 0 0
+300 3500 1d1+28000 10d10+1000 1d1+2500 claw
+-50
+ADEFKN A DKM NS
+stand stand none 400
+AMV ABCDEFGHIJK huge unknown
+#17012
+Master mage~
+the {1m{2a{1s{2t{1e{2r{0 mage~
+The {1m{2a{1s{2t{1e{2r{0 mage is here, showing you his selections.
+~
+~
+Kenku~
+AB FJLT 0 8 0
+90 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 I 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJKP medium skin
+#17018
+Master Thief~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17019
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17023
+a scorpion rat~
+A Scorpion-rat~
+You see a scorpion-rat
+~
+~
+Human~
+AG 0 0 800 0
+125 75 1d1+3000 3d3+4 1d1+200 sting
+0
+FJ A 0 0
+stand stand none 300
+V CEFHKQ medium unknown
+F for AHM
+F par ABDGIJ
+#17024
+Black Crystal Spider~
+A black crystal spider~
+You see a large black crystal spider here
+~
+~
+Human~
+AG D A -800 0
+175 100 1d1+5000 40d500+600 1d1+230 bite
+-3
+EI A 0 0
+stand stand either 6000
+P ACFU large unknown
+F for AHMV
+F par BDEGHIJK
+#17051
+Sentry~
+A Sentry Golem~
+You see a sentry golem.
+~
+~
+Minotaur~
+AB DFJLTa 0 8 0
+100 0 1d1+30000 1d1+6000 1d1+500 claw
+-2
+EFK ABL DI EM
+stand stand none 600
+AHMV ABCDEFGHIJKPW medium mythril
+#17056
+Avian Townsman~
+an Avian townsman~
+You see an Avian townsman
+~
+~
+Avian~
+A DFJLT 0 8 0
+45 25 400d3+100 55d4+100 55d2+32 pound
+-1
+0 A J LQ
+stand stand none 700
+AHMV ABCDEFGHIJKP medium unknown
+#17061
+Town Crier~
+A town crier~
+There is a town crier here shouting announcements
+~
+~
+Elf~
+AG J 0 8 0
+45 35 3d600+400 3d50+200 5d50+25 scratch
+0
+0 A B Z
+stand stand either 800
+AHMV ABCDEFGHIJK medium unknown
+#17062
+Satyr townsman~
+A Satyr townsman~
+A Satyr townsman is here
+~
+~
+Satyr~
+AG CFG 0 8 0
+45 32 500d2+200 40d2+200 50d2+35 pound
+-1
+JN AH M NS
+stand stand none 600
+AHMV ABCDEFGHIJK medium unknown
+#17067
+Kenku townsman~
+The kenku townsman~
+You see a kenku townsman here.
+~
+~
+Kenku~
+AG FJLT 0 0 0
+45 35 300d5+400 0d0+0 55d3+25 bite
+0
+0 A I 0
+stand stand either 1000
+AHMV ABCDEFGHIJKP medium unknown
+#17068
+an elf townsman~
+an elf townsman~
+You see an elf townsman
+~
+~
+Elf~
+AG J 0 8 0
+45 15 600d2+100 0d0+0 55d4+25 slice
+0
+0 A B Z
+stand stand either 600
+AHMV ABCDEFGHIJK medium unknown
+#17072
+Human Townsman~
+a human townsman~
+You see a human townsman
+~
+~
+Human~
+AG 0 0 8 0
+45 0 400d3+200 40d2+75 55d3+15 punch
+-1
+0 A 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#17095
+general store shopkeeper~
+the general store shopkeeper~
+You see the general store shopkeeper
+~
+~
+Kenku~
+AB FJLT 0 8 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJKP medium skin
+#17096
+the armorsmith~
+The {4a{$r{4m{$o{4r{$s{4m{$i{4t{$h{0~
+You see The {4a{$r{4m{$o{4r{$s{4m{$i{4t{$h{0
+~
+~
+Kenku~
+AB FJLT 0 0 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJKP medium feathers
+#17097
+Chimera ~
+Chimera~
+You see Chimera here sewing a dress
+~
+~
+Kenku~
+AB FJLT 0 8 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJKP medium feathers
+#17098
+Elf conjurer~
+an elf conjurer~
+An elf conjurer is here, selling potions.
+~
+~
+Elf~
+AB J 0 8 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A B Z
+stand stand none 2147483647
+AHMV ABCDEFGHIJK medium skin
+#17099
+The banker~
+The {3b{#an{&k{#e{3r{0~
+The {3b{#an{&k{#e{3r{0 is here to change your coins and take your money.
+~
+~
+Kenku~
+ABde FJLT 0 8 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJKP medium feathers
+#17100
+The baker~
+The baker~
+The baker is here, selling you a fresh pie
+~
+~
+Kenku~
+AB FJLT 0 8 0
+95 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJKP medium skin
+#17101
+The forge's head blacksmith~
+The {1forge's{0 head blacksmith~
+You see The {1forge's{0 head blacksmith
+~
+~
+Kenku~
+AB FJLT 0 0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0
+0 A I 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJKP medium unknown
+#17103
+Master warrior~
+A master warrior~
+A master warrior is here teaching swordsmanship
+~
+~
+Human~
+ABJKb 0 0 0 0
+101 0 2d2+2 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17104
+Master mage~
+A master mage~
+A master mage is here teaching novices how to cast spells
+~
+~
+Human~
+ABJKb 0 0 0 0
+101 0 2d2+2 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17105
+cleric~
+A master cleric~
+A master cleric is here healing the wounded
+~
+~
+Human~
+ABJKb 0 0 0 0
+101 0 2d2+2 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17106
+ranger~
+A kenku forester~
+A kenku ranger is here catching a racoon.
+~
+~
+Human~
+ABJKb 0 0 0 0
+101 0 2d2+2 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17107
+Druid trainer~
+A druid trainer~
+You see a druid trainer here summoning birds
+~
+~
+Human~
+ABJKb 0 0 0 0
+101 0 2d2+2 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17108
+Master thief~
+the master thief~
+You see the master thief here glaring at you menacingly
+~
+~
+Human~
+ABJK 0 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17200
+a large bat~
+{8a large bat{0~
+{8a large bat{0 is flying around here.
+~
+~
+bat~
+ABF TZ 0 -1000 0
+85 15 3d100+450 0d0+0 3d9+10 none
+1
+0 0 0 S
+stand stand none 500
+AGV ACDEFHJKP medium unknown
+F off FH
+#17201
+A cave mole~
+{3a c{8av{3e {8mole{0~
+{3a c{8av{3e {8mole{0 is here, digging furiously.
+~
+~
+lizard~
+AB 0 0 -1000 0
+70 9 3d100+250 0d0+0 3d9+2 none
+5
+0 0 L IS
+stand stand none 100
+AGXc ACDEFHKQV medium unknown
+#17243
+rock monster~
+{8the rock monster{0~
+You see a small {8rock monster{0 hopping about here.
+~
+~
+orc~
+AB J 0 -1000 0
+150 300 1d1+2999 0d0+0 1d1+200 pound
+0
+F 0 EGQ S
+stand stand none 1000
+AHMV ABCDEFGHIJK small unknown
+#17244
+rock beast~
+a {8rock {4beast{0~
+A dangerous looking {8rock {4beast{0 is here.
+~
+~
+orc~
+AB J 0 -1000 0
+168 350 1d1+3999 0d0+0 1d1+250 pound
+-10
+0 0 EGQ S
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#17245
+rock demon~
+{4a rock demon{0~
+A {1fierce {4rock {8d{4e{8m{4o{8n{0 is staring at you.
+~
+~
+Shadow~
+AB U 0 -1000 0
+200 400 1d1+7999 0d0+0 1d1+400 bite
+-15
+K 0 M NS
+stand stand none 800
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+#17400
+talagrath guard official~
+the Guard official~
+An official of the Guards is here, reading off the rules and regulations
+~
+~
+Kenku~
+AB FJLT 0 500 0
+101 1000 5d10+500 5d10+500 5d10+500 none
+0
+0 0 I 0
+stand stand male 100
+AHMV ABCDEFGHIJKP medium unknown
+M SPEECH 17401 rules~
+M GRALL 17400 100~
+#17450
+Xirxes Questmaster~
+Xirxes the Questmaster~
+Xirxes the Questmaster is here, sitting in a comfy chair behind his desk.
+~
+~
+Human~
+ABJK 0 CDEHPQRS 0 0
+101 0 1d1+29999 1d1+29999 30d40+3000 punch
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17598
+The sinister kitty~
+a {1s{!i{1n{!i{1s{!t{1e{!r {@k{2i{@t{2t{@y{0~
+You see a {1s{!i{1n{!i{1s{!t{1e{!r {@k{2i{@t{2t{@y{0 here.
+~
+~
+Human~
+AI 0 0 0 0
+101 -15536 5000d5000+5000 5000d5000+5000 5000d5000+5000 claw
+-100
+0 0 0 0
+stand stand none 0
+G 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#17599
+pet shoppie owner~
+the pet shop shoppy~
+You see the pet shop shoppy here.
+~
+~
+Human~
+AB 0 0 0 0
+102 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#17000
+A crystal desk~
+a crystal desk~
+You see a fiery crystal desk here.~
+unknown~
+container B 0
+500 AC 0 20 0
+0 0 0 P
+#17001
+razor-sharp bluesteel serrated runeblade~
+a {1razor-sharp {$bluesteel {5serrated {1R{2u{3n{4e{1blade{0~
+A {1razor-sharp {$bluesteel {5serrated {1R{2u{3n{4e{1blade{0~
+Bluesteel~
+weapon ABG AN
+sword 600 1 slash AE
+108 10 0 P
+A
+19 4000
+A
+18 4000
+A
+2 100
+#17002
+Polished bluesteel scale mail~
+some{! Polished {$ bluesteel {^scalemail {0~
+Some{! Polished {$ bluesteel {^scalemail {0~
+Bluesteel~
+armor A AK
+1000 1000 1000 1000 0
+108 20 0 P
+#17003
+Satin Cloak~
+a {4midnight blue{# hawk-embroidered{& satin{8 cloak{0~
+A {4midnight blue{# hawk-embroidered{& satin{8 cloak{0~
+Satin~
+container GI AL
+60 0 0 5 4
+108 5 0 P
+#17010
+Falchion~
+a {5majestic {4bluesteel {6fa{^lchi{6on{0~
+You see a {5majestic {4bluesteel {6fa{^lchi{6on{0~
+bluesteel~
+weapon B AN
+sword 1 400 slash E
+80 15 4500000 P
+A
+18 45
+A
+13 230
+A
+19 60
+#17011
+morning star~
+a {2poison {&tipped {4bluesteel {5Mor{%ni{5ng {^star{0~
+You see a A {2poison {&tipped {4bluesteel {5Mor{%ni{5ng {^star{0~
+Bluesteel~
+weapon B AN
+mace 1 390 pound H
+75 15 4400000 P
+A
+18 40
+A
+13 220
+A
+19 40
+#17012
+Dagger~
+a {&gleaming {5j{%ad{5e{&-hilted {7M{&y{7t{h{&r{7i{&l {4da{6gg{4er{0 ~
+You see A {&gleaming {5j{%ad{5e{&-hilted {7M{&y{7t{h{&r{7i{&l {4da{6gg{4er{0 ~
+Mythril~
+weapon B AN
+dagger 1 410 stab A
+90 6 5000000 P
+A
+13 200
+A
+18 40
+A
+19 40
+#17013
+Battle Axe~
+{7A {8sh{&arp {1mahogany {&handled {3ba{#tt{&le {#ax{3e{0~
+You see {7A {8sh{&arp {1mahogany {&handled {3ba{#tt{&le {#ax{3e{0~
+Mythril~
+weapon B AN
+axe 1 420 slice EF
+95 35 5100000 P
+A
+13 250
+A
+18 50
+A
+19 60
+#17014
+The Forge's Pride~
+{1the {3Tal{#agra{&th{#ia{3n {1f{!or{7ge{&s {7Pr{!id{1e{0~
+You see {1the {3Tal{#agra{&th{#ia{3n {1f{!or{7ge{&s {7Pr{!id{1e{0~
+Silver Mythril~
+weapon 0 AN
+exotic 1 420 sting B
+99 12 5500000 P
+F
+R 0 0 D
+A
+19 50
+A
+1 8
+#17015
+Chain mail~
+{7some {5i{%n{5t{%r{5i{%c{5a{%t{5e{5l{%y {3r{4i{3n{4g{3e{4d bluesteel {3c{#h{3a{#i{3n{#m{3a{#i{3l{0~
+You see {7some {5i{%n{5t{%r{5i{%c{5a{%t{5e{5l{%y {3r{4i{3n{4g{3e{4d bluesteel {3c{#h{3a{#i{3n{#m{3a{#i{3l{0~
+Bluestel~
+armor AY AD
+200 200 200 185 0
+85 50 5900000 P
+A
+18 48
+A
+19 48
+A
+19 48
+A
+13 400
+A
+12 500
+A
+20 -100
+#17016
+Armor~
+some {7m{&y{^th{&r{&i{7l {1plate {3ar{#m{3or{0~
+You see some {7m{&y{^th{&r{&i{7l {1plate {3ar{#m{3or{0~
+Mythril~
+armor ABGIY AD
+200 200 200 185 0
+80 65 5500000 P
+A
+18 30
+A
+19 30
+A
+13 300
+A
+19 30
+A
+12 400
+A
+20 -100
+#17017
+angel's gauntlets~
+the {&an{#g{&el's {1ga{!u{^nt{!lets{0~
+You see the {&an{#g{&el's {1ga{!u{^nt{!lets{0~
+Bluesteel~
+treasure A AH
+0 0 0 0 0
+99 8 5200000 P
+F
+R 0 0 C
+A
+4 3
+A
+1 3
+A
+18 50
+#17018
+War helmet~
+{&a {3w{#i{3n{#g{3e{#d {1war {6he{^l{&m{^e{6t.{0~
+You see {&a {3w{#i{3n{#g{3e{#d {1war {6he{^l{&m{^e{6t.{0~
+Mythril~
+armor A AE
+200 200 200 185 0
+95 10 4500000 P
+A
+13 320
+A
+18 25
+A
+18 25
+A
+19 50
+A
+20 -100
+#17019
+Combat Boots~
+some {1sp{!ik{1ed {3leather {1co{!{&m{!ba{1t {4boots{0~
+You see some {1sp{!ik{1ed {3leather {1co{!{&m{!ba{1t {4boots{0~
+unknown~
+treasure A AG
+0 0 0 0 0
+96 6 5000000 P
+F
+A 0 0 V
+A
+13 100
+A
+12 600
+A
+18 30
+A
+19 60
+#17020
+Chocolate Cake~
+a {@d{#e{@l{#i{#c{$i{#o{$u{#s{0 chocolate cake~
+You see a {@d{#e{@l{#i{#c{$i{#o{$u{#s{0 chocolate cake~
+dough~
+food 0 AO
+30 35 0 0 0
+1 1 1000 P
+#17021
+Cornbread~
+some {3cornbread{0~
+You see some {3cornbread{0~
+dough~
+food 0 AO
+25 25 0 0 0
+0 1 500 P
+#17022
+Crescent roll~
+a appetizing crescent roll~
+You see an appetizing crescent roll~
+unknown~
+food 0 AO
+15 15 0 0 0
+1 1 500 P
+#17023
+Wedding Cake~
+a magnificent wedding cake~
+You see a {&beautifully decorated w{7e{&d{7d{&i{7n{&g{0 cake.~
+dough~
+food 0 AO
+55 55 0 0 0
+0 3 2500 P
+#17024
+Sweetbread~
+some {@sweet{0bread~
+You see some {@sweet{0bread~
+dough~
+food 0 AO
+15 15 0 0 0
+0 1 500 P
+#17025
+Glazed Donut~
+a glazed donut~
+You see a glazed donut~
+unknown~
+food 0 AO
+5 5 0 0 0
+0 1 300 P
+#17026
+jelly donut~
+a jelly-filled donut~
+You see a jelly-filled donut~
+dough~
+food 0 AO
+5 5 0 0 0
+0 1 300 P
+#17027
+Chocolate Donut~
+a chocolate donut~
+You see a chocolate donut.~
+dough~
+food 0 AO
+5 5 0 0 0
+0 1 300 P
+#17028
+Flower Dress~
+a {%beautiful {1dragon{& laced {!f{@l{#o{$w{%e{^r{& dress{0~
+In crap~
+silk~
+container Y AK
+50 0 0 5 0
+40 4 500000 P
+A
+4 15
+#17029
+Cloak~
+a {1crimson {4m{$a{4s{$t{4e{$r {1w{!ar{&r{!io{1rs{& cloak{0~
+You see a {1crimson {4m{$a{4s{$t{4e{$r {1w{!ar{&r{!io{1rs{& cloak{0~
+unknown~
+container Y AK
+40 0 0 5 2
+40 5 580000 P
+A
+1 15
+A
+2 15
+#17030
+robe~
+a {4deep blue {1satin {$M{4a{$s{4t{$e{4r {3m{#ag{3e{7 robe{0~
+You see a a {4deep blue {1satin {$M{4a{$s{4t{$e{4r {3m{#ag{3e{7 robe{0~
+unknown~
+container Y AK
+40 0 0 5 2
+45 5 510000 P
+A
+4 15
+A
+3 15
+#17032
+Cape~
+a {1coat-{2of-{3arms {&emblazed {$knights {7cape{0~
+You see a {1coat-{2of-{3arms {&emblazed {$knights {7cape{0~
+satin~
+container Y AC
+10 0 0 5 0
+46 5 500000 P
+A
+5 10
+#17033
+Shirt~
+a {2c{3a{2m{3o{2f{3l{2a{3g{2e {1hunting {4shirt{0~
+You see a {2c{3a{2m{3o{2f{3l{2a{3g{2e {1hunting {4shirt{0.~
+satin~
+container Y AK
+4 0 0 5 1
+40 5 350000 P
+A
+2 14
+#17034
+healing potion~
+a powerful {1h{!e{&al{!i{1ng{0 potion~
+You see a potent {1h{!e{&al{!i{1ng{0 potion~
+unknown~
+potion A AO
+75 'full life' '' '' ''
+32 2 4000 P
+#17035
+Illness potion~
+a cure illness mixture~
+You see a cure illness mixture~
+unknown~
+potion A AO
+75 'cure disease' 'cure poison' 'cure blindness' 'restore mana'
+75 2 500 P
+#17036
+Mana Potion~
+vial of mana~
+You see a vial of pure mana~
+unknown~
+potion A AO
+75 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+75 2 500 P
+#17037
+Weary travellers potion~
+a potion for weary travellers~
+You see a potion for weary travellers~
+unknown~
+potion A AO
+75 'refresh' 'refresh' 'refresh' 'restore mana'
+75 2 500 P
+#17038
+Warriors aid~
+the warriors aid~
+You see a potion that helps in battle.~
+unknown~
+potion A AO
+75 'giant strength' 'frenzy' 'armor' 'haste'
+75 2 500 P
+#17039
+A potion of shields~
+a potion of shields~
+A potion of elemental shields~
+unknown~
+potion A AO
+75 'fireshield' 'iceshield' 'shockshield' 'acidshield'
+75 2 500 P
+#17040
+talagrath gate key~
+the key to the gate of Talagrath~
+A beautiful bluesteel key to the gates of Talagrath~
+Bluesteel~
+key AB AO
+0 0 0 0 0
+101 2 0 P
+#17041
+A hooded dark lantern~
+a hooded dark lantern~
+You see a hooded dark lantern~
+teak~
+light 0 AO
+0 0 500 0 0
+50 3 500 P
+#17042
+pouch~
+a fire-retardant mythril-silk pouch~
+You see a fire-retardant mythril-silk pouch~
+mythril~
+container Y AL
+40 AC 0 10 2
+50 2 1000 P
+#17043
+trail mix~
+some trail mix~
+Some trail mix~
+food~
+food 0 A
+50 50 0 0 0
+50 3 500 P
+#17044
+Canteen~
+a bluesteel canteen.~
+You see a bluesteel canteen~
+unknown~
+drink 0 0
+45 45 'water' 0 0
+60 5 800 P
+#17045
+a canvas backpack~
+a simple canvas backpack~
+You see a simple canvas backpack~
+unknown~
+container 0 AL
+100 A 0 50 2
+60 6 4000 P
+#17046
+an acid wand~
+an {3a{#c{3i{#d{& wand{0~
+You see an {3a{#c{3i{#d{& wand{0~
+unknown~
+wand 0 AO
+90 5 5 'acidstorm' 0
+60 3 20000 P
+#17047
+Lightning rod~
+the {#lighning{& rod{0~
+You see the {#lighning{& rod{0~
+unknown~
+wand 0 AO
+90 50 50 'chain lightning' 0
+65 3 2500 P
+#17048
+The tiger wand~
+the {3golem {&wand{0~
+The {3golem {&wand{0 is here~
+mythril steel~
+wand A AO
+80 8 8 'golem' 0
+75 5 12500 P
+#17049
+Dragon wand~
+the {1D{!r{1a{!g{1o{!n{& Wand{0~
+You see The {1D{!r{1a{!g{1o{!n{& Wand{0~
+unknown~
+wand ABG AO
+90 8 8 'dragon' 0
+95 5 10000 P
+#17050
+Fire wand~
+a flame-tipped wand.~
+You see a {!flame{&-tipped{0 wand~
+unknown~
+wand 0 AO
+80 15 15 'high explosive' 0
+75 5 5000 P
+#17058
+Flowing granite fountain~
+a beautiful granite fountain~
+You see a beautiful fountain of the finest granite here.~
+Granite~
+fountain GI 0
+-1 -1 'water' 0 0
+75 600 0 P
+#17059
+Fighters Gi~
+a {1crimson fringed {8black {0fighters gi~
+You see a {1crimson fringed {8black {0fighters gi~
+satin~
+container Y AF
+40 0 0 5 2
+50 5 670000 P
+A
+2 10
+A
+1 10
+A
+4 5
+#17061
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#17091
+The statue of Tekino~
+the statue of Tekino~
+A beautifully carved statue of Tekino, the protector of talagrath, is here.~
+unknown~
+trash GI 0
+0 0 0 0 0
+30 600 0 P
+#17100
+A mysterious scroll of lore~
+a mysterious scroll~
+A mysterious scroll rests here~
+parchment~
+map GI AO
+0 0 0 0 0
+80 2 0 P
+E
+scroll~
+In the highest of mountains.  In the farthest of lands.  In the corners
+of the world.  In a place so far away, only the wizest wanderers know of
+such.  In a meadow, leading to the heavens.  Seek here, high and low, far
+and wide.  Find the mark where the treasure lies.  Find the key that unlocks
+the gate.  In your hand you hold a treasure.  A treasure greater than
+diamonds, more powerful than magic, more beautiful than a blooming meadow,
+and more secret than the deepest depths of the ocean.  With your mind you
+must find the path and unlock the way.  Create your own map with your
+imagination, and solve the mysterious puzzle.  
+~
+#17101
+A hidden scroll of lore~
+a hidden scroll of lore~
+You see a mysterious scroll carefully tucked away in the area.~
+parchment~
+map 0 AO
+0 0 0 0 0
+80 2 0 P
+#17150
+A mysterious scroll~
+a mysterious scroll~
+An old forest-green scroll rests here.~
+unknown~
+map 0 AO
+0 0 0 0 0
+85 2 0 P
+E
+scroll~
+-Only the gods would dare to enter alone-
+-Your transportation prayers will be of no use-
+-The guardians have no mercy-
+~
+#17200
+mysterious scroll 2~
+a mysterious scroll~
+A {4midnight blue{0 rolled scroll rests here~
+unknown~
+gem 0 AO
+0 0 0 0 0
+80 2 0 P
+E
+scroll~
+- Treasures lie where the land is high -
+- Where the forests end, the path beings -
+~
+#17250
+Mysterious Scroll 4~
+a mysterious scroll~
+An old golden scroll rests here.~
+unknown~
+gem 0 AO
+0 0 0 0 0
+80 2 0 P
+E
+scroll~
+-The treasure lies where the sun will rise-
+-Strive far from the glaciers of the north, you will only find cold-
+~
+#17300
+Mysterious scroll 3~
+a mysterious scroll~
+A mysterious crimson scroll lies here.~
+unknown~
+gem 0 AO
+0 0 0 0 0
+80 2 0 P
+E
+scroll~
+- The treasure lies where the sun does rise -
+- conquer the dragon to find your path -
+~
+#17312
+Whirlpool pool~
+{7A {^crystalline{7 whirlpool{0~
+A pool of {6pure water{0 flows around the shallow in the {^crystal{0 floor, its very nature hinting at a {7healing power....{0~
+Crystal~
+furniture AIOT P
+5 5000 I 10000 10000
+0 -27008 0 P
+E
+read~
+The word "Ephiny" is inscribed on a flat rock on the bottom of the pool.  
+~
+#17399
+Magical Barrier~
+a magical barrier~
+There is residue of glowing white energy surrounding the gate~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#17400
+Talagrathian Guard ring~
+a {3T{#a{3l{#a{3g{#r{3a{#t{3h{#i{3a{#n {1gu{!a{1rd ring{0~
+A {3T{#a{3l{#a{3g{#r{3a{#t{3h{#i{3a{#n {1gu{!a{1rd ring{0 rests here.~
+unknown~
+jewelry ABGHIY AT
+0 0 0 0 0
+45 1 0 P
+A
+4 50
+A
+19 50
+A
+18 50
+#17401
+serving dish~
+the serving dish~
+You see a serving dish here, full of some local foods.~
+unknown~
+container 0 0
+600 0 0 40 1
+0 4 0 P
+#17402
+wine keg~
+a wine keg~
+You see a large keg of rare wine here~
+unknown~
+fountain 0 0
+-1 -1 'icewine' 0 0
+0 0 0 P
+#17403
+A uniform supply box~
+a supply box~
+You see a uniform and regalia supply box here.~
+unknown~
+container 0 0
+600 A 0 40 1
+0 0 0 P
+#17404
+portal~
+a portal~
+A magical portal is here.~
+unknown~
+portal 0 0
+0 0 0 3014 0
+0 0 0 P
+#17405
+Exile wanted list~
+a list of wanted and exiled citizens~
+There is a sign here listing the current exiled and wanted list.~
+unknown~
+map 0 A
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The clan will soon be considering all Covenant members to be enemies. 
+For now, be weary of their members.  If you are assaulted, you have
+permission to attack.  
+~
+#17406
+roster~
+the clan roster~
+The clan roster is posted here on the wall.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+roster~
+|       Runemasters Order     |     Knights Order     |    Assassains Order    
+|Moraina-Runemaster Mistress  |Zelco-Commanding Knight|Shocore-Master Assassain
+|Verilak-Apprentice Mage      |                       |Plimbo-Apprentice Thief 
+~
+#17488
+Kenku Talisman~
+a {4K{$e{4n{$k{4u {#T{3a{#l{3i{#s{3m{#a{3n{0~
+You see a {4K{$e{4n{$k{4u {#T{3a{#l{3i{#s{3m{#a{3n{0 here.~
+unknown~
+jewelry 0 AC
+0 0 0 0 0
+0 0 0 P
+A
+20 -1000
+A
+18 1000
+A
+19 1000
+E
+affect~
+~
+#17500
+Gladiator Champion ring~
+a {#g{3o{#l{3d{#e{3n{ {1 Gladiator Champion{0 ring~
+A {#g{3o{#l{3d{#e{3n{ {1 Gladiator Champion{0 ring rests here.~
+gold~
+scroll BY AB
+101 'improved sanctuary' 'reserved' 'reserved' 'reserved'
+91 3 0 P
+#17501
+the silver Gladiator Champion ring~
+a {7s{&i{7l{&v{7e{&r{1 Gladiator Champion {0ring~
+A {7s{&i{7l{&v{7e{&r{1 Gladiator Champion {0ring rests here.~
+unknown~
+wand ASY ABT
+101 12 12 'sanctuary' 0
+80 2 0 P
+#17520
+Blue Flag~
+the blue team's flag~
+The blue team's flag rests here in a pedestol~
+fabric~
+scroll A AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+50 2 0 P
+#17523
+Red Flag~
+the red team's flag~
+The red team's flag sits here on a peditsol~
+fabric~
+scroll A AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+50 2 0 P
+#17543
+Armor firehed~
+{6The {&A{7rmor {2of {!F{1i{Mr{5e{$h{4e{$d{0~
+{6The {&A{7rmor {2of {!F{1i{Mr{5e{$h{4e{$d{0 is here.~
+unknown~
+armor AB AD
+250 250 250 250 0
+101 0 0 P
+A
+13 500
+A
+12 150
+A
+14 100
+A
+18 60
+A
+19 55
+#17550
+Book Case~
+a {&Beautiful {$bookcase{0~
+A {&Beautiful {$bookcase{0 is here~
+unknown~
+container 0 0
+500 0 0 25 1
+80 500 1000000 P
+#17551
+1 wood~
+a #1 wood driver~
+You see a dangerous looking driver laying here.~
+unknown~
+weapon G AN
+exotic 1 500 smash 0
+75 3 500000 P
+#17552
+3 wood~
+a #3 wood driver~
+You see a dangerous looking driver laying here.~
+unknown~
+weapon G AN
+exotic 1 500 smash 0
+75 3 500000 P
+#17553
+5 iron~
+a 5-iron~
+You see a dangerous looking golf club laying here.~
+unknown~
+weapon B AN
+exotic 1 400 smash 0
+75 2 500000 P
+#17554
+7 iron~
+a 7-iron~
+You see a dangerous looking golf club laying here~
+unknown~
+weapon B AN
+exotic 1 400 smash 0
+75 2 500000 P
+#17555
+9 iron~
+a 9-iron~
+You see a dangerous looking golf club laying here.~
+unknown~
+weapon B AN
+exotic 1 400 smash 0
+70 1 500000 P
+#17556
+Golf ball~
+a golf ball~
+A pearly white golf ball is rolling around here.~
+unknown~
+trash B AO
+0 0 0 0 0
+75 2 500000 P
+#17557
+Golf bag~
+a golf bag~
+You see a dark red golf bag resting here.~
+unknown~
+container Y AT
+5 0 0 11 0
+75 5 750000 P
+#17558
+a putter~
+a putter~
+You see a not-so-dangerous looking putter laying here.~
+unknown~
+weapon A AN
+exotic 1 200 smash 0
+75 2 500000 P
+#17559
+sand wedge~
+a sand wedge~
+You see a dangerous looking golf club laying here.~
+unknown~
+weapon B AN
+exotic 1 200 smash 0
+75 2 500000 P
+#17560
+chipper~
+a chipper~
+You see a dangerous looking golf club laying here.~
+unknown~
+weapon B AN
+exotic 1 300 smash 0
+75 2 500000 P
+#17561
+A tennis racket~
+a tennis racket~
+You see a tennis racket covered in Koland's Vow~
+unknown~
+weapon AB AN
+dagger 1 225 slash 0
+65 2 250000 P
+#17599
+Tekino's Bitchslapper~
+what he wields when he is pissed at someone~
+This is what Tekino uses when he's pissed~
+ouch~
+weapon A AN
+exotic 5000 15000 divine 0
+108 40 0 P
+A
+2 -24288
+A
+19 -24288
+A
+18 -15536
+#0
+
+
+
+#ROOMS
+#17450
+Xirxes' Place~
+This is the Quest Shop of Talagrath, proudly owned by Xirxes, The
+Questmaster of Talagrath.  Not only will he send you on quests to kill
+people and retrieve items, he will also buy and sell your various items. 
+There is a ladder that leads down into the Warp Machine.  
+~
+0 1024 0
+D4
+~
+~
+0 0 17057
+D5
+~
+~
+0 0 22350
+S
+#17500
+Battle Arena Center~
+Crowds high above in the seats chant the names of the mages and warriors
+dominating the fighting.  Gladiator's fight eachother in the middle, as
+excited onlookers watch, giving thumbs down signals to the dominating
+gladiator.  
+~
+0 16785408 0
+D0
+~
+~
+0 0 17501
+D1
+~
+~
+0 0 17503
+D2
+~
+~
+0 0 17502
+D3
+~
+~
+0 0 17504
+D5
+~
+~
+4 9603 30202
+S
+#17501
+Battle Arena~
+The arena walls bend northward, forming a long open road leading to a
+castle.  The spectators above run alongside of the gladiators making a break
+for the castle.  Combatants duel for the right to continue north.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17510
+D1
+~
+~
+0 0 17506
+D2
+~
+~
+0 0 17500
+D3
+~
+~
+0 0 17505
+S
+#17502
+Battle Arena~
+To the south, a large road leads to a castle, illminated with the arena
+lights.  A team of combatants charge down the road, slaying everything in
+their path, trying to reach the castle doors.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17500
+D1
+~
+~
+0 0 17507
+D2
+~
+~
+0 0 17514
+D3
+~
+~
+0 0 17508
+S
+#17503
+Battle Arena~
+The crowds in the stands cheer on the teams as the competetors fight hand
+to hand as fireballs and lightning bolts collide overhead from the attacking
+spellcasters.  Thieves dart about lunging their daggers quickly, then
+retreat to the shadows.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17506
+D2
+~
+~
+0 0 17507
+D3
+~
+~
+0 0 17500
+S
+#17504
+Battle Arena~
+The entranceway expands into a large square arena.  It reminds you of a
+colloseum.  Crowds cheer above from their seats, and shout insults and
+praises at the contestants.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17505
+D1
+~
+~
+0 0 17500
+D2
+~
+~
+0 0 17508
+D3
+~
+~
+0 0 17530
+S
+#17505
+Battle Arena~
+An unfortunate mage has bitten the dust from an assassin's dagger.  The
+crowd boo's the thief for his unethical ethics, and unfair attack.  The
+thief is struck in the head by a falling tomato.  
+~
+0 16777216 0
+D1
+~
+~
+0 0 17501
+D2
+~
+~
+0 0 17504
+S
+#17506
+Battle Arena~
+A band of attackers have cornered an orc.  It thrashes about,
+unsuccesfully dodging many of the slashes his opponents are dishing out. 
+Sadly, the orc falls to the floor and his lifeless body is thrown into the
+crowds.  
+~
+0 16777216 0
+D2
+~
+~
+0 0 17503
+D3
+~
+~
+0 0 17501
+S
+#17507
+Battle Arena~
+An old battlemage sits in the corner, cackling in pity of those who try
+to charge him.  The mage motions his wand, and the attackers are thrown
+backwards, sending their weapons flying into the crowds.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17503
+D3
+~
+~
+0 0 17502
+S
+#17508
+Battle Arena~
+A band of gladiators form a huddle in the corner of the arena.  The
+gladiator in the center gestures his sword in several different directions. 
+The gladiators disband, and run off brandishing their weapons.  Crowds above
+cheer them on.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17504
+D1
+~
+~
+0 0 17502
+S
+#17510
+Battle Arena~
+You walk on the arena road leading to the red team's castle.  The
+spectators run alongside you, and cheer your team on.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17511
+D2
+~
+~
+0 0 17501
+S
+#17511
+Battle Arena~
+You walk on the arena road leading to the red team's castle.  The
+spectators run alongside you, and cheer your team on.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17512
+D2
+~
+~
+0 0 17510
+S
+#17512
+Battle Arena~
+You walk on the arena road leading to the red team's castle.  The
+spectators run alongside you, and cheer your team on.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17513
+D2
+~
+~
+0 0 17511
+S
+#17513
+Before the castle~
+A mock siege castle is built into the arena here, waiting to be captured
+by the gladiator teams.  The doors are fiercely guarded by the strongest of
+the teammembers.  
+~
+0 16777216 0
+D0
+~
+~
+1 0 17521
+D2
+~
+~
+0 0 17512
+S
+#17514
+Battle Arena~
+You and your gladiator team battle through the opposing force to try to
+reach their castle.  The crowds above you throw shout and chant the team
+names.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17502
+D2
+~
+~
+0 0 17515
+S
+#17515
+Battle Arena~
+You and your gladiator team battle through the opposing force to try to
+reach their castle.  The crowds above you throw shout and chant the team
+names.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17514
+D2
+~
+~
+0 0 17516
+S
+#17516
+Battle Arena~
+You and your gladiator team battle through the opposing force to try to
+reach their castle.  The crowds above you throw shout and chant the team
+names.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17515
+D2
+~
+~
+0 0 17517
+S
+#17517
+Battle Arena~
+You stand before a siege castle built into the arena.  It is used as the
+gladiator team base, and they fiercely guard it from the opposing sides,
+trying not to allow it to be captured.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 17516
+D2
+~
+~
+1 0 17518
+S
+#17518
+Blue Team's Castle~
+You stand on the bottom floor of the blue team's siege castle with your
+teammates.  The Blue guards ward off the red attackers as fierce gladiators
+battle.  
+~
+0 16777216 0
+D0
+~
+~
+1 0 17517
+D4
+~
+~
+0 0 17519
+S
+#17519
+Blue Team's Castle~
+You stand on the center floor of the Blue team's siege castle.  Above you
+a glowing flag waves in the winds.  Below you guards fight off the opposing
+gladiators.  
+~
+0 16777216 0
+D4
+~
+~
+0 0 17520
+D5
+~
+~
+0 0 17518
+S
+#17520
+Top of Castle~
+You look out over a field of blood and gore.  Beside you stands a blue
+flag that glows in the arena lights.  Crowds cheer on your team as you
+proudly wave it overhead.  
+~
+0 16777216 0
+D5
+~
+~
+0 0 17519
+S
+#17521
+Red Team's Castle~
+You are standing on the bottom floor of the Red team's siege castle. 
+Guards stand here battling the opposing forces.  
+~
+0 16777216 0
+D2
+~
+~
+1 0 17513
+D4
+~
+~
+0 0 17522
+S
+#17522
+Red Team's Castle~
+You are in the Center of the Red Team's Castle.  Above you the team flag
+rests in its pedestol, and below you, fierce guards are thwarting the
+opposing team as they reach the castle doors.  
+~
+0 16777216 0
+D4
+~
+~
+0 0 17523
+D5
+~
+~
+0 0 17521
+S
+#17523
+Top of Castle~
+You stand on top of the Red Team's Castle with your teammates, looking
+out upon an arena of blood and gore.  Beside you stands the flag for you to
+capture.  Proudly you wave it abovehead, and crows cheer for your team.  
+~
+0 16777216 0
+D5
+~
+~
+0 0 17522
+S
+#17530
+Battle Arena Exit~
+You stand at the clear exit back to the common square.  Gladiator's are
+scarce in this area, because the ones that fight here are said to be
+cowards.  
+~
+0 16777216 0
+D1
+~
+~
+0 0 17504
+D4
+~
+~
+0 0 3025
+S
+#17598
+Tekino's Animal Park~
+Several animals run about here, many of them trying to savagely bite the unwary shoppy. 
+~
+0 4096 0
+D2
+~
+~
+0 0 57
+S
+#17599
+storage~
+Several animals wander around here, climbing trees and swimming in the pond. 
+~
+0 4 0
+S
+#17000
+Mysterious chambers~
+You find your way onto a hidden set of stone stairs leading down
+underground.  The walls of the decending hallway have ancient glowing
+symbols etched into them.  They seem important, but you dont know how to
+interpret the language.  
+~
+0 8201 0
+D0
+~
+~
+0 0 17001
+D4
+~
+~
+1 0 14523
+S
+#17001
+Mysterious Chambers~
+The chamber decends deeper as you continue.  Torches are positioned on
+the wall in strategic positions, but have been extinguised by a mysterious
+wind that blows through the chambers.  Behind you you can barely see the
+light of day.  
+~
+0 8201 0
+D0
+~
+~
+0 0 17002
+D2
+~
+~
+0 0 17000
+S
+#17002
+Mysterious Caverns~
+Daylight behind you has vanished, and the magic glowing symbols that
+paint the rooms are so plentiful up ahead, that a torch is no longer
+necessary.  You struggle to keep standing as the decending slope steepens
+into a cavern up ahead.  
+~
+0 8201 0
+D0
+~
+~
+0 0 17003
+D2
+~
+~
+0 0 17001
+S
+#17003
+Mysterious Chambers~
+The decent comes to an end as the paths spiral in two directions.  This
+mysterious wind that drives through the area chills your bones and makes you
+wish you could turn back.  Something wants to make sure that tresspassers
+are not welcome.  
+~
+0 8200 0
+D0
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17002
+D3
+~
+~
+0 0 17005
+S
+#17004
+Mysterious Chambers~
+More and more you begin to believe that what you are feeling is really
+not wind, but whatever it is, it is really whipping past, and through, you. 
+~
+0 8200 0
+D0
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17003
+S
+#17005
+Mysterious Chambers~
+More and more you begin to believe that what you are feeling is really
+not wind, but whatever it is, it is really whipping past, and through, you. 
+~
+0 8200 0
+D1
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17007
+S
+#17006
+Mysterious Chambers~
+The "wind" strengthens even more and you struggle to keep going.  The
+symbols on the wall are so plentiful that you cant see much rock anymore. 
+Even under your feet there is a good amount of writing.  
+~
+0 8200 0
+D2
+~
+~
+0 0 17004
+D3
+~
+~
+0 0 17010
+S
+#17007
+Mysterious Chamers~
+More and more you begin to believe that what you are feeling is really
+not wind, but whatever it is, it is really whipping past, and through, you. 
+~
+0 8200 0
+D0
+~
+~
+0 0 17008
+D1
+~
+~
+0 0 17005
+S
+#17008
+Mysterious Chamers~
+Shadows dance all around, there are so many, you cant even make out your
+own.  The symbols begin to flicker on the wall.  The wind whips you, and
+whistles around the corners.  You see the end of this terrifying chamber to
+the east.  
+~
+0 8200 0
+D0
+~
+~
+0 0 17009
+D1
+~
+~
+0 0 17011
+D2
+~
+~
+0 0 17007
+S
+#17009
+Mysterious Chambers~
+Accompanied by the rolling winds, shadows dance through the chamber that
+arent yours.  You look all around, and see nothing.  
+~
+0 8200 0
+D1
+~
+~
+0 0 17010
+D2
+~
+~
+0 0 17008
+S
+#17010
+Mysterious Chambers~
+The "wind" strengthens even more and you struggle to keep going.  The
+symbols on the wall are so plentiful that you cant see much rock anymore. 
+Even under your feet there is a good amount of writing.  
+~
+0 8200 0
+D1
+~
+~
+0 0 17006
+D3
+~
+~
+0 0 17009
+S
+#17011
+Mysterious Chambers~
+You cant bear it anymore.  The wind penetrates your skin and chills your
+soul.  Fierce howling accompanies the wind.  The strange symbols dance with
+different colors and flash brilliant beams of light across the rooms.  The
+shadows that fill the room form themselves into a hidious beast.  
+~
+0 8200 0
+D3
+~
+~
+0 0 17008
+D5
+~
+~
+0 0 17012
+S
+#17012
+End of the Mysterious Chambers~
+Above you, you hear the fierce howling of the wind and see the glowing
+symbols.  Where you are now is safe, and free from the spirits above.  You
+sit back and relax for a moment, before looking for a way out.  
+~
+0 8200 0
+D4
+~
+~
+0 0 17011
+D5
+~
+~
+0 0 17013
+S
+#17013
+Shadow Caves~
+Fighting that mana beast just doesnt seem worth it anymore. While these caves are much more pleasant than what was experienced above, there is an eerie light illuminating the passageways.
+Your goal is simple: Find your way out in this lifetime.
+~
+0 8192 0
+D0
+~
+~
+0 0 17014
+D4
+~
+~
+0 0 17012
+S
+#17014
+Shadow Caves~
+You look down these strange passageways.  You realize the treat you are
+in for.  Exits branch off to the north and west, its just a lucky guess
+which way will get you to the end 
+~
+0 8192 0
+D0
+~
+~
+0 0 17015
+D2
+~
+~
+0 0 17013
+S
+#17015
+Shadow Caves~
+This passageway continues for a little ways before turning sharply to the south up ahead.
+~
+0 8192 0
+D1
+~
+~
+0 0 17016
+D2
+~
+~
+0 0 17014
+S
+#17016
+Shadow Caves~
+The only sound audible is your own footsteps against the slippery stone
+floors.  Strange creatures scurry about and shine their bright red eyes
+through cracks in the walls.  At least they dont LOOK dangerous.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17017
+D3
+~
+~
+0 0 17015
+S
+#17017
+Shadow Caves~
+Some of the strange animals you see seem to be bigger than others.  One
+turns and snarls at you, and makes you jump.  Hopefully there arent any
+bigger or there could be a real problem.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17016
+D2
+~
+~
+0 0 17018
+S
+#17018
+Shadow Caves~
+You come to the end of this south passageway as it continues on to the
+east.  A bloody handprint on the wall signifies that you werent the first
+one down here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17017
+D1
+~
+~
+0 0 17022
+S
+#17019
+Shadow Caves~
+Someone (or something) has scratched the word "help" into the floor here.
+So far you havent seen anything that dangerous, but you still quicken your
+step abit.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17020
+S
+#17020
+Shadow Caves~
+You feel like you're going in circles, that symbol on the wall looks
+incredibly familiar.  No, wait, theres one up ahead, and over there....  And
+over there too.....  
+~
+0 8192 0
+D2
+~
+~
+0 0 17021
+D3
+~
+~
+0 0 17019
+S
+#17021
+Shadow Caves~
+You see some creatures abit larger here, and you see a couple bloody
+clawmarks on the wall.  Something infront of you dashes across your field of
+view and shines so bright you have to cover your eyes.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17020
+S
+#17022
+Shadow Caves~
+Exits branch out in all of the cardinal directions.  The only thing to do
+now is close your eyes, spin around, and stop.  Whichever way your facing is
+the way you go.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17023
+D3
+~
+~
+0 0 17018
+S
+#17023
+Shadow Caves~
+Up north you see a four way intersection.  You almost step on some animal
+running around here.  It looks like a rat, but with a scorpion tail? 
+Nevertheless, you keep walking.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17024
+S
+#17024
+Shadow Caves~
+You hear a big CRASH!  It makes you jump three feet in the air, and spin
+around.  Whats this?  A huge black crystal spider?  Well it scurried off
+anyway.  Guess you'll never know.  You hope.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17023
+D2
+~
+~
+0 0 17041
+S
+#17025
+Shadow Caves~
+Ou follow them down the passageway.  It looks like a hunter with an odd
+polearm chasing a giant spider.  Then the hunter is shown inside a giant
+web.  Next, the spider is towering over the man inside the web.  There is
+one last drawing, but it is partially dissolved by the water dripping down
+from the roof.  Maybe its better that you dont know what happens.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17028
+D2
+~
+~
+0 0 17026
+S
+#17026
+Shadow caves~
+High above you, you see long sharp stalactites hanging dangerously from
+the ceiling.  Underneath them, there are tall blunt stalactites.  You wonder
+where you will meet your death, a stalactite in the head, or an attack from
+these odd animals.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17025
+D1
+~
+~
+0 0 17027
+S
+#17027
+Shadow caves~
+Strange triangular red glowing eyes watch you as you walk through the
+cave.  You decide to go over to a pair of eyes to see what it is, and it
+jumps out at you.  A rat with a scorpion's tail?  Weird.  It runs away, and
+so do you.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17029
+D3
+~
+~
+0 0 17026
+S
+#17028
+Shadow Caves~
+Walking down this chamber, you notice some cave paintings on the wall. 
+You follow them down the passageway.  It looks like a hunter with an odd
+polearm chasing a giant spider.  Then the hunter is shown inside a giant
+web.  Next, the spider is towering over Walking down this chamber, you
+notice some cave paintings on the wall.  You follow them south.  
+~
+0 8192 0
+D3
+~
+~
+0 0 17025
+S
+#17029
+Shadow Caves~
+Several glowing marks plaster the left wall, accompanied with some claw
+slashes pointlessly etched into the floor.  
+~
+0 4 0
+S
+#17030
+Shadow Caves~
+You step on an approaching oversized beetle.  It makes an oddly loud
+crunch and hiss as you step on it again just to make sure.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17042
+D2
+~
+~
+0 0 17031
+S
+#17031
+Shadow Caves~
+Passageways branch out to the west, south and north.  Motion at each exit
+and say "eenie, meenie, miney, moe."  Moe it is then.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17030
+D2
+~
+~
+0 0 17032
+D3
+~
+~
+0 0 17033
+S
+#17032
+Shadow Caves~
+The pathways fork out into two differnt directions.  You decide that it
+doesnt matter which way you take anymore, you're probably going to die
+anyway.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17031
+D2
+~
+~
+0 0 17035
+D3
+~
+~
+0 0 17034
+S
+#17033
+Shadow Caves~
+The floor is quite slippery in this part of Shadow Caves.  You just about
+slip, but you just barely catch yourself on a conveniently placed
+stalactite...  Wait, was that there just a second ago?  
+~
+0 8192 0
+D1
+~
+~
+0 0 17031
+D2
+~
+~
+0 0 17034
+S
+#17034
+Shadow Caves~
+A clear crystal spider eyes you from an enormous silk web in the corner. 
+You are tempted to touch the web, but decide it may not be a wise choice.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17033
+D1
+~
+~
+0 0 17032
+S
+#17035
+Shadow Caves~
+There is a disgusting blood mark on the wall here.  It looked as if
+something was slaughtered against the cave side.  You decide not to stick
+around and meet the murdurer.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17032
+D1
+~
+~
+0 0 17036
+S
+#17036
+Shadow Caves~
+Big crystal spiders of various colors scamper across the ceiling here. 
+They maneuver around the stalactites trying to escape the bite of the other
+spiders.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17037
+D3
+~
+~
+0 0 17035
+S
+#17037
+Shadow Caves~
+You stagger on through the hallways.  It is a tight squeeze to get
+through.  Its almost completely dark.  You squint ahead to make sure your
+not running into walls.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17036
+D1
+~
+~
+0 0 17038
+S
+#17038
+Shadow Caves~
+You stretch and look around.  To the east there are the regular red eyes
+and odd illuminations.  To the south there is an amazing yellow brightness. 
+~
+0 8192 0
+D1
+~
+~
+0 0 17049
+D2
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17037
+S
+#17039
+The Exit~
+This area is rather bright.  It hurts your eyes to try to look around, so
+you keep them closed.  You hear a bell ring eleven times.  When you went in,
+it was about seven-thirty.  Wow, three hours in this dammed cave.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17038
+D3
+~
+~
+0 0 17040
+S
+#17040
+Outside the gate~
+You are on the outside of a magnificent gate.  On the inside you see some
+giant sentinel golems.  Looks like all this trouble youve gone through has
+been worth it.  The cavern here soars nearly a half mile high.  You must be
+under a mountain.  Above you high castles tower into the sky, beautifully
+constructed with bluesteel bricks.  
+~
+0 0 0
+D1
+~
+~
+0 0 17039
+D2
+~
+~
+0 17040 17051
+S
+#17041
+Shadow Caves~
+You must have been wandering through this maze for a few hours already. 
+Its hard to tell since there is no sun out to see if its day or night.  Well
+there has to be some end to this, maybe you can find the end before the big
+animals find you.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17024
+D3
+~
+~
+0 0 17042
+S
+#17042
+Shadow Caves~
+Exits branch off here in a couple of ways.  You randomly pick the
+direction you continue in.  Is it you, or are these caves getting a little
+bit darker?  
+~
+0 8192 0
+D1
+~
+~
+0 0 17041
+D2
+~
+~
+0 0 17043
+D3
+~
+~
+0 0 17030
+S
+#17043
+Shadow Caves~
+Something catches your eye as you continue through these dammed caves. 
+There is a slight crack in the wall here, though you cant see through it. 
+Maybe there is a way to get in there.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17042
+D1
+~
+~
+0 0 17044
+S
+#17044
+Shadow Caves~
+Interesting marks dot the walls here and there.  They are not written in
+your language, but then again, it may not be writing.  You pay them no
+attention and staggar on.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17045
+D3
+~
+~
+0 0 17043
+S
+#17045
+Shadow Caves~
+Yep, its definitely getting a little darker.  Its getting a little hard
+to see.  Maybe you wont be stuck in here when it gets pitch black. 
+Especially with these monsters.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17044
+D1
+~
+~
+0 0 17046
+S
+#17046
+Shadow Caves~
+The walls here are quite close together.  You must turn sideways to
+squeeze through the path.  As you put your hand on the wall to ease yourself
+through the tight sections, your handprint glows on the wall for just a
+moment.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17047
+D3
+~
+~
+0 0 17045
+S
+#17047
+Shadow Caves~
+Both east and south look equally appealing to you: You wish you didnt
+have to go down either of the paths.  Very strangely, You hear a faint bell
+ring nine times.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17046
+D1
+~
+~
+0 0 17048
+D2
+~
+~
+0 0 17049
+S
+#17048
+Shadow Caves~
+You are getting quite sick of walking.  You press on, and dodge a couple
+monsters as they come dashing past you.  The first one looked like an
+oversized beetle, the second one looked like a miniature dinosaur.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17050
+D3
+~
+~
+0 0 17047
+S
+#17049
+Shadow Caves~
+A few more interesting noises.  A couple clangs of metal, and exteremely
+faint voices.  It seems that your getting close to the end 
+~
+0 8192 0
+D0
+~
+~
+0 0 17047
+D1
+~
+~
+0 0 17050
+D3
+~
+~
+0 0 17038
+S
+#17050
+Shadow Caves~
+Another strange spider has dropped from the ceiling.  You notice its
+crystal blue exoskeleton as it hangs from its silk thread.  It looks at you
+with bright red eyes.  You realize that these are the same kind of eyes
+youve been seeing all along.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17048
+D3
+~
+~
+0 0 17049
+S
+#17051
+Between the Gates~
+You are between two magnificent steel gates.  Two golem sentinels stare
+at you as you nervously continue.  Beyond the gates you see a magnificent
+city.  
+~
+0 0 0
+D0
+~
+~
+0 17040 17040
+D2
+~
+~
+0 0 17052
+S
+#17052
+On the inside of the gates~
+You stand before a remarkable hidden city beneath a mountain.  The roads
+are beautiful white cobble, smoothed and dampened by falling drops of water
+from the ceiling high above.  
+~
+0 0 0
+D0
+~
+~
+0 0 17051
+D1
+~
+~
+0 0 17112
+D2
+~
+~
+0 0 17053
+D3
+~
+~
+0 0 17162
+S
+#17053
+City of Talagrath- Main Road~
+Stalactites decending from an outstanding height come down a little lower
+than the building roofs.  A building to your right is carved from a giant
+stalactite; one of the few that isnt made from bluesteel.  
+~
+0 0 0
+D0
+~
+~
+0 0 17052
+D2
+~
+~
+0 0 17054
+S
+#17054
+City of Talagrath- Main Road~
+High above on the roofs you see a combination of archer guards, and
+children running around.  You see one taunting a guard, as he turns around
+and aims a crossbow at his forehead.  You are on the northern end of the
+north-south road in Talagrath.  
+~
+0 0 0
+D0
+~
+~
+0 0 17053
+D2
+~
+~
+0 0 17055
+S
+#17055
+City of Talagrath- Main Road~
+The silver-white cobblestone you have been walking on sounds a little
+hollower than before, signifying that you walk above a sewer system or
+something of the like.  There are high-rising bluesteel brick castles and
+mansions lining the streets.  
+~
+0 0 0
+D0
+~
+~
+0 0 17054
+D2
+~
+~
+0 0 17056
+S
+#17056
+City of Talagrath- Main Road~
+The north-south road splits into a four way intersection.  Signs in the
+room reveal that to the east, the general store and armor shop can be found,
+and to the west, the magic shop and weapon store.  
+~
+0 0 0
+D0
+~
+~
+0 0 17055
+D1
+~
+~
+0 0 17089
+D2
+~
+~
+0 0 17057
+D3
+~
+~
+0 0 17090
+S
+#17057
+City of Talagrath- Main Road~
+Infront of you is a spectacular square with high arches, and gushing
+fountains, inviting the population to sit and rest.  You are underneath one
+of the spectacular archways leading into market square.  Down from here is
+the Questmaster's place.  
+~
+0 0 0
+D0
+~
+~
+0 0 17056
+D2
+~
+~
+0 0 17058
+D5
+~
+~
+0 0 17450
+S
+#17058
+Market Square~
+You stand in the center of the town of Talagrath.  Golden cobblestone
+covers the ground here, and a magnificant granite fountain sprays you with
+mist.  Marble archways tower over the northern and southern exits.  Green
+shrubs create a hedge around portions of the square.  
+~
+0 0 0
+D0
+~
+~
+0 0 17057
+D1
+~
+~
+0 0 17059
+D2
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17065
+S
+#17059
+City of Talagrath- Main Road~
+The golden cobblestone is now a radiant white, and it continues down the
+eastern road of the town.  Stalactites and stalactites actually meet here,
+though this enormous cave in which the city was created seems nearly a mile
+high.  
+~
+0 0 0
+D1
+~
+~
+0 0 17060
+D3
+~
+~
+0 0 17058
+S
+#17060
+City of Talagrath- Main Road~
+You are still on the east-west road of Talagrath.  Every few minutes,
+drops of water hit the cobblestone from high above.  In the distance to the
+east you see a set of gates, and to the west you see the marble archways
+into Market Square.  
+~
+0 0 0
+D1
+~
+~
+0 0 17061
+D3
+~
+~
+0 0 17059
+S
+#17061
+City of Talagrath- Main Road~
+On the east-west road of talagrath, there are high rising buildings build
+of bluesteel bricks.  They are build in a cyllinder form, spiraling up into
+the sky.  Far on the other side of this monstrous chamber under a mountain,
+you see a spectacular tower nearly reaching the cavern roof.  
+~
+0 0 0
+D1
+~
+~
+0 0 17062
+D2
+~
+~
+0 0 17081
+D3
+~
+~
+0 0 17060
+S
+#17062
+City of Talagrath- Main Road~
+The east-west road has a branch to the south here.  On the wall of one of
+the bluesteel buildings, you see a sign reading, "Chimera's Clothing, to the
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 17085
+D1
+~
+~
+0 0 17063
+D3
+~
+~
+0 0 17061
+S
+#17063
+City of Talagrath- Main Road~
+Again, the east-west road branches to the south.  South of here, you see
+warriors, mages, and clerics practicing and training.  Most of them seem to
+be kenku, but you see a few titans and other rare races.  
+~
+0 0 0
+D1
+~
+~
+0 0 17064
+D2
+~
+~
+0 0 17103
+D3
+~
+~
+0 0 17062
+S
+#17064
+Inside of the gate~
+You are at the end of the east-west road.  There is a giant gateway here,
+with sentry golems patrolling on the other side.  They look at you
+questioningly, and continue patrolling.  To the north and south, the road
+breaks to the north and south, following the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 17124
+D1
+~
+~
+1 0 17241
+D2
+~
+~
+0 0 17125
+D3
+~
+~
+0 0 17063
+S
+#17065
+City of Talagrath- Main Road~
+You stand below a giant archway, glistening with a shiny marble color
+coming from a patch of light high above at the ceiling of the cavern. 
+"Market Square" is etched into the side of the archway in a calligraphic
+font.  
+~
+0 0 0
+D1
+~
+~
+0 0 17058
+D3
+~
+~
+0 0 17066
+S
+#17066
+City of Talagrath- Main Road~
+A little ways to the east you can see marble archways signifying the
+location of Market Square.  You look up and see a bright flash.  It looks
+like the first sign of daylight youve seen all day, or night, or something. 
+In any case, it probably explains how all the kenku got down here.  
+~
+0 0 0
+D1
+~
+~
+0 0 17065
+D3
+~
+~
+0 0 17067
+S
+#17067
+City of Talagrath- Main Road~
+The east-west road of Talagrath branches south here, leading to a bakery
+among other things.  A kenku warrior appears from almost nowhere high above,
+and soars down and lands on the battlent to one of these buildings.  
+~
+0 0 0
+D1
+~
+~
+0 0 17066
+D2
+~
+~
+0 0 17077
+D3
+~
+~
+0 0 17068
+S
+#17068
+City of Talagrath- Main Road~
+You continue along the east-wet road.  There is a sign pointing north
+that says "This way to The Forge."  In that direction you see a finely
+crafted hut with a red smoke pouring from the chimney.  
+~
+0 0 0
+D0
+~
+~
+0 0 17094
+D1
+~
+~
+0 0 17067
+D3
+~
+~
+0 0 17069
+S
+#17069
+City of Talagrath- Main Road~
+You are traveling on the west half of the east-west road.  Above you, an
+arching bridge connects two brick keeps, above on the battlements of the
+keeps, elves dart from pillar to pillar, playing a dangerous game of tag.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17068
+D2
+~
+~
+0 0 17108
+D3
+~
+~
+0 0 17070
+S
+#17070
+Inside of the Gate~
+To the north and south, the roads continue parallel to the walls.  You
+stand before a platinum gateway, with sentinels standing guard infront of
+them.  Several large creatures pass you, and grunt at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 17151
+D1
+~
+~
+0 0 17069
+D2
+~
+~
+0 0 17150
+D3
+~
+~
+1 0 17200
+S
+#17071
+City of Talagrath- Main Road~
+You stand with your back to Market square, facing south looking down a
+north-south road floored in silver cobblestone.  Shrubs and decorations make
+the walls of these buildings come to life with color.  
+~
+0 0 0
+D0
+~
+~
+0 0 17058
+D2
+~
+~
+0 0 17072
+S
+#17072
+City of Talagrath- Main Road~
+The north-south road breaks east and west too.  Signs pointing west read
+"Bank" and "Food."  Signs pointing east read "Potions" and "Clothing."  You
+can barely smell the fresh bread from the bakery.  In the north you see the
+fountain spraying up water from Market Square.  
+~
+0 0 0
+D0
+~
+~
+0 0 17071
+D1
+~
+~
+0 0 17084
+D2
+~
+~
+0 0 17073
+D3
+~
+~
+0 0 17080
+S
+#17073
+City of Talagrath- Main Road~
+The north-south road arches upward slightly, and the gound underfoot is
+slightly more unstable than before.  You press your ear to the ground, and
+hear chatter below you.  Your eavesdropping is postponed by a kenku shaman
+waving a wand in your general direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 17072
+D2
+~
+~
+0 0 17074
+S
+#17074
+City of Talagrath- Main Road~
+A group of wyverns and draconians hop by arguing about whos treasure is
+larger, and whos scales are brighter.  You ask them the directions to the
+nearest healer, and they ignore your presence and continue boasting.  
+~
+0 0 0
+D0
+~
+~
+0 0 17073
+D2
+~
+~
+0 0 17075
+S
+#17075
+City of Talagrath- Main Road~
+From the tops of these structures, Stone gargoyles smirk at you.  They
+seem like they are following you with their eyes, maybe they are?  You look
+at some stained glass windows on the surrounding buildings, portraying a
+picture of a race youve never seen before.  
+~
+0 0 0
+D0
+~
+~
+0 0 17074
+D2
+~
+~
+0 0 17076
+S
+#17076
+Inside of the gate~
+You see A large granite gateway.  Sentinal golems are questioning
+passer-byers on the other side.  To the east and west the road splits and
+follows the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 17075
+D1
+~
+~
+0 0 17137
+D3
+~
+~
+0 0 17138
+S
+#17077
+Southwestern Market Square~
+You see many assorted buildings made completely from bluesteel, though
+some are carved from gigantic stalagmites.  You smell a delicious auroma
+coming from the west.  A sign hangs here pointing west that reads "Bakery." 
+~
+0 0 0
+D0
+~
+~
+0 0 17067
+D1
+~
+~
+0 0 17078
+D3
+~
+~
+0 0 17100
+S
+#17078
+Southwestern Market Square~
+This section of the southwestern market is scarcely built upon.  Kenku
+children are playing a game on the grass against some rude half-orc kids. 
+One of the kenkus is hovering over your head.  You run out from underneath
+it.  
+~
+0 0 0
+D2
+~
+~
+0 0 17079
+D3
+~
+~
+0 0 17077
+S
+#17079
+Southwestern Market Square~
+You are travelling through the southwestern quarter of the Market
+Square.  Here we have a few town criers announcing tournaments and events. 
+Several signs signify that the bank and bakery occupy this corner of town. 
+To the south you see a bank.  
+~
+0 0 0
+D0
+~
+~
+0 0 17078
+D1
+~
+~
+0 0 17080
+D2
+~
+~
+0 0 17099
+S
+#17080
+Southwestern Market Square~
+In this area some of the elderly population rests here, escaping the
+crowded bustle of market square and the main roads.  Two of them are arguing
+over a game of checkers.  
+~
+0 0 0
+D1
+~
+~
+0 0 17072
+D3
+~
+~
+0 0 17079
+S
+#17081
+Southeastern Market Square~
+To the east you see open doors with racks of clothing filling the rooms. 
+A sign here points east reading, "Clothers."  There is a small crowd of
+people here huddling around something.  You push through the crowd and
+notice that a fallen stalactite has smashed a hole in the beautiful white
+cobblestone.  
+~
+0 0 0
+D0
+~
+~
+0 0 17061
+D1
+~
+~
+0 0 17097
+D3
+~
+~
+0 0 17082
+S
+#17082
+Southeastern Market Square~
+There are five low-class houses here lined up symetrically.  Even though
+they are low class, they are still quite extravagant.  The shimmering
+bluesteel has you squinting when you gaze toward that area.  
+~
+0 0 0
+D1
+~
+~
+0 0 17081
+D2
+~
+~
+0 0 17083
+S
+#17083
+Southeastern Market Square~
+A group of draconians sit outside an extravagant mansion discussing their
+treasures.  The doors of this mansion are furnished in beautiful mahogany. 
+To the south there is a stall set up with an old druid whistling inside.  
+~
+0 0 0
+D0
+~
+~
+0 0 17082
+D2
+~
+~
+0 0 17098
+D3
+~
+~
+0 0 17084
+S
+#17084
+Southeastern Market Square~
+This is the more prosperous side of the city.  One aspiring kenku is
+building a shop out of brick.  There are two kenkus arguing over something
+and have drawn a crowd, which seems to like to input their thoughts by
+screeching at the kenkus.  
+~
+0 0 0
+D1
+~
+~
+0 0 17083
+D3
+~
+~
+0 0 17072
+S
+#17085
+Northwestern Market square~
+You are rained on from above by a silvery liquid.  The locals call it
+blue mythril.  You look up and see an amazing compound stalactite that looks
+like a spectacular upside-down mountain range of sharp jagged peaks.  
+~
+0 0 0
+D1
+~
+~
+0 0 17096
+D2
+~
+~
+0 0 17062
+D3
+~
+~
+0 0 17086
+S
+#17086
+Northwestern Market square~
+To women have attracted an audience.  They are complaining about the drip
+from the stalactites, and how they are eroding their homes and making the
+cobble slippery.  
+~
+0 0 0
+D0
+~
+~
+0 0 17087
+D1
+~
+~
+0 0 17085
+S
+#17087
+Northwestern Market square~
+Signs here point north to the general store, and Southeast to the armor
+shop.  A town crier announces the return of Tekino, the keeper of talagrath.
+Many kenkus rush down the road towards the gates of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 17095
+D2
+~
+~
+0 0 17086
+D3
+~
+~
+0 0 17088
+S
+#17088
+Northwestern Market square~
+In the area there are many people scrambling away from a street musician.
+As you near, you cover your ears from this horrible music.  The musician
+frowns and begins to put his instrument away.  You decide to throw a coin
+down the bell of whatever hes playing just for sympathy.  
+~
+0 0 0
+D1
+~
+~
+0 0 17087
+D3
+~
+~
+0 0 17089
+S
+#17089
+Northwestern Market square~
+You see a crowd gathered around a street corner where a kenku is playing
+a pipelike intrument called the zenku.  You absorb the music and find
+yourself tapping your foot to the beat.  You throw a coin into his case as
+you pass by.  
+~
+0 0 0
+D1
+~
+~
+0 0 17088
+D3
+~
+~
+0 0 17056
+S
+#17090
+Northwestern Market Square~
+Onr rather large kenku seems to be pestering a smaller one flying about. 
+It falls down and hits the curb hard.  An adault kenku goes up to the bully
+and punch it in the nose.  At least there is justice in this town.  
+~
+0 0 0
+D1
+~
+~
+0 0 17056
+D3
+~
+~
+0 0 17091
+S
+#17091
+Northwestern Market Square~
+Here lies a statue of lord Tekino, the protector of Talagrath, and the
+holder of the key to the gate.  Passer-byers pat the statue as they leave,
+so do you.  
+~
+0 0 0
+D1
+~
+~
+0 0 17090
+D3
+~
+~
+0 0 17092
+S
+#17092
+Northwestern Market Square~
+Here lies a pool of silver mythril that drips from the stalactites above.
+It collects into a basin, and the mage's apprentice gathers it in a bucket
+and takes it back north to the magic shop.  You stick your finger in the
+pool and an extreme chill fills your body.  You quickly withdraw, and it leaves
+your hand glowing for a moment.  
+~
+0 0 0
+D0
+~
+~
+0 0 17102
+D1
+~
+~
+0 0 17091
+D2
+~
+~
+0 0 17093
+S
+#17093
+Northwestern Market Square~
+You hear the hustle and bustle of the northwestern market square.  A
+faint glow comes upon your face as you look back to the center of Market
+Square.  A sign reading "Weapons" points west.  
+~
+0 0 0
+D0
+~
+~
+0 0 17092
+D3
+~
+~
+0 0 17094
+S
+#17094
+Northwestern Market Square~
+To the west you see the famous weapon shop of Talagrath.  You see a
+warrior kenku carrying a bluesteel battleaxe.  The building s in this area
+are slightly crimson tinted through the bluesteel.  
+~
+0 0 0
+D1
+~
+~
+0 0 17093
+D2
+~
+~
+0 0 17068
+D3
+~
+~
+0 0 17101
+S
+#17095
+Talagrath General Store~
+You are in the General store.  An elf sits behind a table here.  There
+are various necessities on the wall behind them with price tags attatched to
+them.  
+~
+0 1024 0
+D2
+~
+~
+0 0 17087
+S
+#17096
+The Turtle Shell~
+Blacksmiths sit around a giant anvil crafting a single bluesteel
+breastplate.  The only blacksmith not working on it is behind the counter
+smiling at you.  The merchandise listing is posted on the table.  
+~
+0 1024 0
+D3
+~
+~
+0 0 17085
+S
+#17097
+Chimera's Clothiers~
+Racks of clothes line the perimeter of the building.  Chimera sits behind
+her desk sewing a skirt together.  You want to try some of this on!  
+~
+0 1024 0
+D3
+~
+~
+0 0 17081
+S
+#17098
+Pop a Potion~
+An elf mage is asleep in his rocking chair behind the sales desk.  You
+consider knocking on his head, but decide knocking on the desk would be
+better.  Potions are organized on the shelves by color.  You read the
+placard stating the shop list.  
+~
+0 1024 0
+D0
+~
+~
+0 0 17083
+S
+#17099
+The Talagrath Bank~
+There are a bunch of people in the bank today.  Most of them are dragons,
+heaving sacks of gold onto the counter.  Employees cart bricks of gold
+through the finely-crafted vault door.  You can tell this is quite a rich
+town.  
+~
+0 1049600 0
+D0
+~
+~
+0 0 17079
+S
+#17100
+The Baker's Dozen~
+You take a seat at a mahogany table here as you inhale the enriching
+smell of the bakery.  A human waitress hops over to your table to take your
+order.  
+~
+0 1024 0
+D1
+~
+~
+0 0 17077
+S
+#17101
+The Forge~
+You stand before A large bald satyr that is crafting a sword from a piece
+of bluesteel.  He looks up at you with his one good eye and nods.  The room
+is filled with a reddish smoke, and a list of the merchandise is on the
+wall.  Weapons of all sorts are shelved on the walls here.  They are crafted
+finer than any weapon youve ever seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 17094
+S
+#17102
+The Wizards Wand~
+The mage apprentice that came into the shop before you is pouring his
+bucket of silver mythril into a cauldron.  The shopkeeper looks at you
+questioningly, and stares into your eyes for a moment, looking for
+something.  He waves his hand over the shop's se The mage apprentice that
+came into the shop before you is pouring his bucket of silver mythril into a
+cauldron.  The shopkeeper looks at you questioningly, and stares into your
+eyes for a moment, looking for something.  He waves his hand over the shop's
+selection.  
+~
+0 1024 0
+D2
+~
+~
+0 0 17092
+S
+#17103
+Warriors Hall~
+A satyr guildmaster is here training the Talagrath warriors in the arts
+of swordsmanship and fighting.  Puppets are hanging fom the ceiling by
+ropes, and are being beat upon by the warriors.  Other GUILDS continute to
+the south 
+~
+0 1024 0
+D0
+~
+~
+0 0 17063
+D2
+~
+~
+0 0 17104
+S
+#17104
+Mages hall~
+Wizards and their appentices pace around the room, watching the
+novitiates practice casting magic missles at puppets.  One of them casts
+their spell, and strikes one of the wizards in the butt.  He swiftly turns
+the novice into a toad.  
+~
+0 1024 0
+D0
+~
+~
+0 0 17103
+D3
+~
+~
+0 0 17105
+S
+#17105
+Clerics Hall~
+Some wounded hunters stumble into the room, and are swiftly tended to by
+the training clerics.  Others practice mock first aid on their partners to
+sharpen their abilities.  
+~
+0 1024 0
+D1
+~
+~
+0 0 17104
+D3
+~
+~
+0 0 17106
+S
+#17106
+Rangers Guild ~
+Animals run about around this are, and training foresters try and use
+their skills to capture them.  More experienced ones are trying to track the
+trail of a racoon around the guild hall.  
+~
+0 1024 0
+D1
+~
+~
+0 0 17105
+D3
+~
+~
+0 0 17107
+S
+#17107
+Druids Hall~
+Elder druids sit on benches here, watching new druids fail to summon
+ants.  A more skilled trainee is practicing summoning birds.  He succeeds
+and the sparrow flys down and eats the other druid's ant.  
+~
+0 1024 0
+D1
+~
+~
+0 0 17106
+S
+#17108
+Temple Lane~
+Beyond here, you see temples rising into the air, and wounded travelers
+passing by.  Religious paladins seek out their gods for thanksgiving, and
+people throw their old arms and armor into a pit and say a quick prayer.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17069
+D2
+~
+~
+0 0 17109
+S
+#17109
+Thoth Temple~
+Followers of Thoth gather around the altar and make sacrafices to the god
+of light.  Some kneel before the altar and bow to the statue of Thoth. 
+Followers of Belan are quickly pushed into their temple in the conjoined
+area 
+~
+0 8192 0
+D0
+~
+~
+0 0 17108
+D1
+~
+~
+0 0 17110
+S
+#17110
+Belan Temple~
+The followers of Belan group together in the dark side of the temple. 
+They chant hymns of Belan as the eyes of the god's statue glow red.  Many of
+the followers then rush to the altar to pray to their higher power.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17111
+D3
+~
+~
+0 0 17109
+S
+#17111
+The Healing Winds~
+Wind here slowly rushes between the Thoth and Belan temples, creating a
+soothing swirl of winds that heal wounds and lessen the fatigue of
+travellers.  The other landmark in this area is a three-foot deep pit with
+stone sides used for citizens to put their unwanted equipment in.  
+~
+0 8192 0
+D3
+~
+~
+0 0 17110
+M 2000 H 2000
+S
+#17112
+Talagrath Wall Road~
+Your travelling on the northeastern quarter of wall road.  The cobble you
+walk on is now shiny bronze.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17113
+D3
+~
+~
+0 0 17052
+S
+#17113
+Talagrath Wall Road~
+Your travelling on a road that runs parallel to the city wall.  People of
+different races walk through here talking amongst themselves and paying you
+no attention.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17114
+D3
+~
+~
+0 0 17112
+S
+#17114
+Talagrath Wall Road~
+The cobble here is particularly bright here, as is the bluesteel walls. 
+Above you there is a cluster of stalactites dripping more than the usual
+amount of water down on the city.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17115
+D3
+~
+~
+0 0 17113
+S
+#17115
+Talagrath Wall Road~
+Your in the very northwest corner of Talagrath, on the inside of the wall
+on wall road.  The wall takes a very sharp bend south here.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17114
+S
+#17116
+Talagrath Wall Road~
+Wall road continues to the east here, but also forks south into a bright
+alley.  The wall again bends east and you stand next to a corner in the
+wall.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17115
+D1
+~
+~
+0 0 17117
+D2
+~
+~
+0 0 17118
+S
+#17117
+Talagrath Wall Road~
+To the west there is an intersection in the wall road.  Here is a corner
+bending in toward the city, and you stand at the point of the angle.  Wall
+road continues south.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17119
+D3
+~
+~
+0 0 17116
+S
+#17118
+Talagrath Wall Road~
+You walk down an eventless alleyway.  Bluesteel brick buildings bump up
+to the cobble walkway.  The alley continues to the south 
+~
+0 8192 0
+D0
+~
+~
+0 0 17116
+D2
+~
+~
+0 0 17120
+S
+#17119
+Talagrath Wall Road~
+Another small hoard of dragons are passing through here, most likely
+because it is out-of-the-way and less populated.  Of course, they are
+talking about their fortunes.  You hurry past them and continue down wall
+road.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17117
+D1
+~
+~
+0 0 17121
+S
+#17120
+Talagrath Wall Road~
+The alley stops here.  There seems to be some sort of sanctuary here,
+because a portion of the kenku populatino is residing in this corner.  There
+is more daylight shining down on this portion of the alley.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17118
+S
+#17121
+Talagrath Wall Road~
+This is the last curve in the Northeastern section of the wall, and it
+continues quite a ways to the south.  You can see in the distance the faint
+glow of the torches next to the eastern gates of the city.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17122
+D3
+~
+~
+0 0 17119
+S
+#17122
+Talagrath Wall Road~
+Wall road continues on its north and south path following the wall.  This
+section is barren, and the shinyness of the metals and stone is more dull.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17121
+D2
+~
+~
+0 0 17123
+S
+#17123
+Talagrath Wall Road~
+The sounds of the city become louder as you near the main roads of
+Talagrath.  You are beginning to get bored on this road.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17122
+D2
+~
+~
+0 0 17124
+S
+#17124
+Talagrath Wall Road~
+You are travelling on the northeast quarter of wall road.  To the north
+the road continues parallel to the wall.  To the south you see the city
+gates.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17123
+D2
+~
+~
+0 0 17064
+S
+#17125
+Talagrath Wall Road~
+You walk on the southeastern quarter of wall road.  The cobblestone
+underfoot is a shiny bronze, and the road follows parallel to the wall.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17064
+D2
+~
+~
+0 0 17126
+S
+#17126
+Talagrath Wall Road~
+The wall road is the least exciting place in the city.  Outcasts and
+people who dont want to deal with the crowds in market square are the only
+ones that walk here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17125
+D2
+~
+~
+0 0 17127
+S
+#17127
+Talagrath Wall Road~
+The road continues to stay parallel to the city wall.  It continues south
+for a ways before turning west far down the road.  On the rooftops, there
+are kids jumping from building to building.  You prepare to catch one just
+incase.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17126
+D2
+~
+~
+0 0 17128
+S
+#17128
+Talagrath Wall Road~
+The wall turns sharply west here.  In this desolate part of town, there
+are two elves brawling over a female.  You take bets in your head on which
+will win.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17127
+D3
+~
+~
+0 0 17129
+S
+#17129
+Talagrath Wall Road~
+You stand on the bronze cobble of wall road on the southeast corner of
+town.  The population is minimal around these parts, since most of the town
+resides in market square.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17128
+D2
+~
+~
+0 0 17133
+S
+#17130
+Thiefs Guild~
+You see training thieves here trying to sneak up and backstab the more
+experienced one with fake weapons.  Others practice hiding and moving from
+corner to corner without being seen.  
+~
+0 9216 0
+D2
+~
+~
+0 0 17131
+S
+#17131
+Talagrath Wall Road~
+Two shadowy figures lurk about here.  You can see open switchblades
+shining in their hands, but thats about it.  They seem to be guarding the
+north exit of this area.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17130
+D2
+~
+~
+0 0 17132
+S
+#17132
+Talagrath Wall Road~
+There is a small sign here pointing north reading "Thiefs only."  Thats
+interesting, you havent seen any thieves in this city at all.  You even
+notice some signs around town banishing them 
+~
+0 8192 0
+D0
+~
+~
+0 0 17131
+D1
+~
+~
+0 0 17133
+D2
+~
+~
+0 0 17134
+S
+#17133
+Talagrath Wall Road~
+After all this walking on wall road, you finally come up on something
+interesting.  There seems to be some artful grafitti painted on the wall of
+two married kenku flying hand in hand.  The art is quite beautiful.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17129
+D3
+~
+~
+0 0 17132
+S
+#17134
+Talagrath Wall Road~
+Wall road bends sharply to the west and continues going that way for a
+long ways.  You can see the city gates down the road.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17132
+D3
+~
+~
+0 0 17135
+S
+#17135
+Talagrath Wall Road~
+You are walking on the city roads that run parallel to the walls of
+talagrath.  The cobble here is bronze, but has silver lacing.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17134
+D3
+~
+~
+0 0 17136
+S
+#17136
+Talagrath Wall Road~
+The scarcely numbered city guards are alert on the battlements of the
+wall.  One watches you for a while before returning to his post.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17135
+D3
+~
+~
+0 0 17137
+S
+#17137
+Talagrath Wall Road~
+You are walking on the city roads that run parallel to the walls of
+talagrath.  The cobble here is bronze, but has silver lacing.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17136
+D3
+~
+~
+0 0 17076
+S
+#17138
+Talagrath Wall Road~
+You are traveling on Wall road in the southwest quarter of Talagrath. 
+You are on the road following the wall, which has bronze cobblestone with
+some silver mixed in.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17076
+D3
+~
+~
+0 0 17139
+S
+#17139
+Talagrath Wall Road~
+Your travelling paralell to a great wall dividing the city from the
+wretched creatures outside.  You are thankful that these monsters cant fly. 
+~
+0 8192 0
+D1
+~
+~
+0 0 17138
+D3
+~
+~
+0 0 17140
+S
+#17140
+Talagrath Wall Road~
+The cobble here is particularly bright here, as is the bluesteel walls. 
+Above you there is a cluster of stalactites dripping more than the usual
+amount of water down on the city.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17139
+D3
+~
+~
+0 0 17141
+S
+#17141
+Talagrath Wall Road~
+Another small hoard of dragons are passing through here, most likely
+because it is out-of-the-way and less populated.  Of course, they are
+talking about their fortunes.  You hurry past them and continue down wall
+road.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17142
+D1
+~
+~
+0 0 17140
+S
+#17142
+Talagrath Wall Road~
+The wall road breaks off here, leading into an empty alley to the north,
+and continues to follow the wall to the west.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17143
+D2
+~
+~
+0 0 17141
+D3
+~
+~
+0 0 17145
+S
+#17143
+Talagrath Wall Road~
+You are in a desolate and dank alleyway leading to a dead end up ahead. 
+There seems to be no point in this alley, just to separate the two buildings
+to create room for some laundry to be hung overhead.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17144
+D2
+~
+~
+0 0 17142
+S
+#17144
+Talagrath Wall Road~
+You are at the dead end of a dark alleyway.  This blockage to the north
+doesnt look to be that old.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17143
+S
+#17145
+Talagrath Wall Road~
+Wall road continues on its north and south path following the wall. 
+This section is barren, and the shinyness of the metals and stone is more
+dull.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17146
+D1
+~
+~
+0 0 17142
+S
+#17146
+Talagrath Wall Road~
+You stand at a corner of the wall, which bends inward toward the city at
+an acute angle.  The guard above you here seems to have fallen asleep.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17145
+D3
+~
+~
+0 0 17147
+S
+#17147
+Talagrath Wall Road~
+The wall takes a final turn here before continuing north.  In the far
+distance you see the city gates.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17148
+D1
+~
+~
+0 0 17146
+S
+#17148
+Talagrath Wall Road~
+The road is slippery here from excess water that drips from the
+stalactites.  You nearly catch yourself on a conveniently placed local.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17149
+D2
+~
+~
+0 0 17147
+S
+#17149
+Talagrath Wall Road~
+Elves dart about here being chased by a small band of satyr children. 
+You try to dodge one of them, but he accidentally sends you sprawling.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17150
+D2
+~
+~
+0 0 17148
+S
+#17150
+Talagrath Wall Road~
+You are walking on wall road in the southwest quarter of Talagrath.  The
+bronze cobblestone follows the wall for quite a ways south.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17070
+D2
+~
+~
+0 0 17149
+S
+#17151
+Talagrath Wall Road~
+You are walking along the Northeat quarter of the road that runs parallel
+to the wall.  The Silver Cobblestone has turned to a bronze sort of color,
+but it is still remarkably brilliant.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17070
+S
+#17152
+Talagrath Wall Road~
+You're walking along The Northwestern sector of Wall road.  Incoming
+Kenku warriors fly past you and across the city.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17153
+D2
+~
+~
+0 0 17151
+S
+#17153
+Talagrath Wall Road~
+You are on Wall road.  On the other side of this wall, you can almost
+hear the howling of dangerous beasts City guards drag a thief past you as it
+scrambles around trying to kick itself away from the guards.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17154
+D2
+~
+~
+0 0 17152
+S
+#17154
+Talagrath Wall Road~
+The road here bends sharply to the east with the wall.  Up ahead the wall
+bends again, and so does the road.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17155
+D2
+~
+~
+0 0 17153
+S
+#17155
+Talagrath Wall Road~
+Your standing at a ninety-degree bend, where the wall briefly turns in
+towards the city, and then continues in a straight line.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17156
+D3
+~
+~
+0 0 17154
+S
+#17156
+Talagrath Wall Road~
+You are in the Northwestern sector of wall road.  The road goes parallel
+with the shiny bluesteel brick wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 17157
+D2
+~
+~
+0 0 17155
+S
+#17157
+Talagrath Wall Road~
+Wall road branches here, leading into a dark alleyway to the south, and
+continues to follow the wall up north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17163
+D2
+~
+~
+0 0 17158
+D3
+~
+~
+0 0 17156
+S
+#17158
+Talagrath Wall Road~
+You are still on the Wall Road, but it has branched off into this
+alleyway for some odd reason.  The alley continues to the south.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17157
+D2
+~
+~
+0 0 17159
+S
+#17159
+Talagrath Wall Road~
+The alleyway comes to an abrupt stop here, though it looks like the wall
+blocking your path is somewhat recent.  You decide to turn around and head
+back.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17158
+S
+#17160
+Talagrath Wall Road~
+The wall stops turning in ninety degree angles, and continues going east
+for quite a ways.  Off in the distance you can see the north gates of
+Talagrath, where you first entered .  
+~
+0 8192 0
+D1
+~
+~
+0 0 17161
+D3
+~
+~
+0 0 17163
+S
+#17161
+Talagrath Wall Road~
+The Wall road is interrupted by a fallen stalactite.  The polished bronze
+cobble remains unaffected by the crash however.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17162
+D3
+~
+~
+0 0 17160
+S
+#17162
+Talagrath Wall Road~
+You are travelling through the Northwestern sector of the Talagrath wall
+road.  To the east you can see the north gates of the city.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17052
+D3
+~
+~
+0 0 17161
+S
+#17163
+Talagrath Wall Road~
+Your travelling paralell to a great wall dividing the city from the
+wretched creatures outside.  You are thankful that these monsters cant fly. 
+~
+0 8192 0
+D1
+~
+~
+0 0 17160
+D2
+~
+~
+0 0 17157
+S
+#17170
+The Forge~
+You stand in an adjacent room in the forge, where the rest of the
+expensive equipment is housed.  Blacksmiths are busy pounding armor into
+sizes to fit the above-grounders.  
+asave changed
+~
+0 8196 0
+S
+#17171
+The Turtle Shell~
+You stand in the adjacent room of The Turtle's Shell.  Big titans are
+here molding red-hot mythril into armors.  
+~
+0 4 0
+S
+#17200
+Petrified Hedges entrance~
+You stand outside the gates of Talagrath.  Here, beautiful hedge gardens
+once grew, but are now long petrified.  The ceiling remains high in some
+parts, but is caved in at most spots.  You can still make out the textures
+of the petrified flowers.  
+~
+0 8192 0
+D1
+~
+~
+1 0 17070
+D3
+~
+~
+0 0 17201
+S
+#17201
+Petrified Hedges~
+Tall pale hedges surround you, creating an east-west path.  The flowers
+seem faintly colored, though they have been petrified for thousands of
+years.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17200
+D3
+~
+~
+0 0 17202
+S
+#17202
+Petrified Hedges, intersection~
+The petrified hedges turn sharply at a ninety degree angle.  Small stone
+creatures dash across the top of the hedges.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17201
+D2
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17209
+S
+#17203
+Petrified Hedges, outer edge~
+The petrified hedge maze seems pale and barren, yet alive at the same
+time.  Droplets of condensation splash onto your head from above.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17202
+D2
+~
+~
+0 0 17204
+S
+#17204
+Petrified Hedges, outer edge~
+Beautiful hedges skillfully grown into certain patterns line the ancient
+pathway.  You wonder what they must have looked like while they were still
+alive.  A crumbled section in the hedges reveals an inner layer of the
+garden.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17203
+D2
+~
+~
+0 0 17205
+D3
+~
+~
+0 0 17232
+S
+#17205
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17204
+D2
+~
+~
+0 0 17224
+S
+#17206
+Petrified Hedges, side path~
+You are traveling along a straight corridor of hedge that leads up to
+what looks like a sanctuary of some sort.  The hedges here are mysteriously
+colorful; they seem almost live.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17215
+D3
+~
+~
+0 0 17207
+S
+#17207
+Petrified Hedges, side path~
+You are traveling along a straight corridor of hedge that leads up to
+what looks like a sanctuary of some sort.  The hedges here are mysteriously
+colorful; they seem almost live.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17206
+D3
+~
+~
+0 0 17208
+S
+#17208
+Petrified Hedges, hidden grotto~
+A hole in the cavern roof casts a beam of light down at this section of
+the garden.  All the flowers, plants, trees, and hedges are mysteriously
+live and green.  A small brook runs across the room, underneath a footbridge
+that gives access to a fountain.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17207
+S
+#17209
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17202
+D3
+~
+~
+0 0 17229
+S
+#17210
+Petrified Hedges~
+~
+0 8192 0
+D2
+~
+~
+0 0 17211
+S
+#17211
+Petrified Hedges~
+~
+0 8192 0
+D0
+~
+~
+0 0 17210
+D3
+~
+~
+0 0 17214
+S
+#17212
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17220
+D3
+~
+~
+0 0 17217
+S
+#17213
+Petrified Hedges~
+~
+0 8192 0
+D0
+~
+~
+0 0 17214
+S
+#17214
+Petrified Hedges~
+~
+0 0 0
+D1
+~
+~
+0 0 17211
+D2
+~
+~
+0 0 17213
+S
+#17215
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17225
+D2
+~
+~
+0 0 17216
+D3
+~
+~
+0 0 17206
+S
+#17216
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17215
+D2
+~
+~
+0 0 17217
+S
+#17217
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17216
+D1
+~
+~
+0 0 17212
+S
+#17218
+Petrified Hedges~
+~
+0 8192 0
+D1
+~
+~
+0 0 17219
+S
+#17219
+Petrified Hedges~
+~
+0 8192 0
+D3
+~
+~
+0 0 17218
+S
+#17220
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  A section of the hedge
+has crumbled into a pile of stone.  Looking through the hole in the hedge,
+you can see an inner layer of the maze.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17212
+S
+#17221
+Petrified Hedges~
+~
+0 8192 0
+D1
+~
+~
+0 0 17222
+S
+#17222
+Petrified Hedges~
+~
+0 8192 0
+D0
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17221
+S
+#17223
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17224
+D3
+~
+~
+0 0 17220
+S
+#17224
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  The path turns sharply
+here and continues.  The noise you are making stirs up a group of bats
+overhead.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17205
+D3
+~
+~
+0 0 17223
+S
+#17225
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  The flowers seem
+faintly colored even though they have been petrified for thousands of years.
+ 
+~
+0 8192 0
+D0
+~
+~
+0 0 17226
+D2
+~
+~
+0 0 17215
+S
+#17226
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17227
+D2
+~
+~
+0 0 17225
+S
+#17227
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17229
+D3
+~
+~
+0 0 17226
+S
+#17228
+Petrified Hedges~
+~
+0 8196 0
+S
+#17229
+Petrified Hedges, outer edge~
+Tall pale hedges surround you creating a pathway.  You wonder what they
+must have looked like when they were still alive.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17209
+D3
+~
+~
+0 0 17227
+S
+#17230
+Petrified Hedges~
+~
+0 8192 0
+D3
+~
+~
+0 0 17231
+S
+#17231
+Petrified Hedges~
+~
+0 8192 0
+D1
+~
+~
+0 0 17230
+S
+#17232
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17239
+D1
+~
+~
+0 0 17204
+D2
+~
+~
+0 0 17233
+S
+#17233
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17232
+D3
+~
+~
+0 0 17234
+S
+#17234
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17233
+D3
+~
+~
+0 0 17235
+S
+#17235
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17236
+D1
+~
+~
+0 0 17234
+S
+#17236
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 17237
+D1
+~
+~
+0 0 17240
+D2
+~
+~
+0 0 17235
+S
+#17237
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17238
+D2
+~
+~
+0 0 17236
+S
+#17238
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D1
+~
+~
+0 0 17239
+D3
+~
+~
+0 0 17237
+S
+#17239
+Petrified Hedges, inner edge~
+The inner hedge layer seems to have a brighter, more vibrant coloration
+to it.  You swear that you could even smell the flowers here.  
+~
+0 8192 0
+D2
+~
+~
+0 0 17232
+D3
+~
+~
+0 0 17238
+S
+#17240
+Center of the hedges~
+You've reached the center of the hedge maze.  The only prize you get is a
+secret pathway that will take you back to the entrance.  
+~
+0 8192 0
+D3
+~
+~
+0 0 17236
+D5
+~
+~
+0 0 17200
+S
+#17241
+Mythril Mines Entrance~
+You step through the west gates and enter the mines of Talagrath.  Groups
+of goblins and trolls are pushing carts in and out of the mines.  In these
+mines, workers harvest the mythril and bluesteel to use as construction
+materials for the city.  The rock walls of these mines glisten and reflect
+in silver and blue colors.  
+~
+0 8 0
+D1
+~
+~
+0 0 17242
+D3
+~
+~
+1 0 17064
+S
+#17242
+Mythril Mines Shaft~
+An elaborate set of pullies and ropes attatch to the ceiling of this
+cavern and extend down a large, dark shaft.  Large buckets of rock are being
+hauled up on ropes from the darkness below.  Ladders carved into the rock
+provide a way to reach each mining site.  
+~
+0 8 0
+D3
+~
+~
+0 0 17241
+D5
+~
+~
+0 0 17243
+S
+#17243
+Mythril Mines shaft~
+As you climb down the ladders, you come to the first mining site.  The
+torchlight reflects off of the walls with a light blue tint, indicating that
+bluesteel is mined at this site.  Small rock beasts are hopping around,
+annoying and tormenting the miners.  
+~
+0 8 0
+D0
+~
+~
+0 0 17246
+D1
+~
+~
+0 0 17248
+D2
+~
+~
+0 0 17250
+D3
+~
+~
+0 0 17252
+D4
+~
+~
+0 0 17242
+D5
+~
+~
+0 0 17244
+S
+#17244
+Mythril Mines shaft~
+Farther down the ladder you climb.  There are only a handful of workers
+harvesting metals from this level of the mine.  This site is much darker
+than the site farther up the shaft.  Two trolls push a cart past you full of
+a silvery metal called Mythril.  
+~
+0 8 0
+D0
+~
+~
+0 0 17254
+D1
+~
+~
+0 0 17256
+D2
+~
+~
+0 0 17258
+D3
+~
+~
+0 0 17260
+D4
+~
+~
+0 0 17243
+D5
+~
+~
+0 0 17245
+S
+#17245
+Mythril Mines shaft~
+You have descended to the bottom of the mine shaft.  The only lights that
+shine in this site are being held by a group of wary trolls that are picking
+away at a black, transparent rock.  The only other beings that are down at
+the bottom of the mine shaft are two giant guards with razor-sharp pickaxes,
+and some sets of silver, glowing eyes that stare at you from the darkness. 
+A deep growl is heard from the corner of the site, then a guard mutters the
+words, "Rock demon."  
+~
+0 9 0
+D0
+~
+~
+0 0 17262
+D1
+~
+~
+0 0 17264
+D2
+~
+~
+0 0 17266
+D3
+~
+~
+0 0 17268
+D4
+~
+~
+0 0 17244
+S
+#17246
+Mythril Mines, bluesteel site~
+Two goblins hammer furiously at the wall while a small rock monster jumps
+at their legs, determined to bite the kneecaps off of one of them.  You
+decide to rid the goblins of their annoyance.  
+~
+0 8 0
+D1
+~
+~
+0 0 17247
+D2
+~
+~
+0 0 17243
+D3
+~
+~
+0 0 17253
+S
+#17247
+Mythril Mines, bluesteel site~
+A single goblin is here, shoveling a pile of rock into a cart to be
+hauled up to the top of the shaft.  Before you leave, you notice that a rock
+monster is sitting on a small ledge, throwing pebbles at the goblin.  
+~
+0 8 0
+D2
+~
+~
+0 0 17248
+D3
+~
+~
+0 0 17246
+S
+#17248
+Mythril Mines, bluesteel site~
+A pile of stone nearly as tall as the digging team nearby is doing a very
+good job in blocking the path of the miners.  Several empty mining carts are
+resting next to the pile.  
+~
+0 8 0
+D0
+~
+~
+0 0 17247
+D2
+~
+~
+0 0 17249
+D3
+~
+~
+0 0 17243
+S
+#17249
+Mythril Mines, bluesteel site~
+There is a trickle of water running down the side of the wall here,
+forming a puddle at the base of the wall.  A small goblin is kneeling next
+to the puddle, washing his hands.  
+~
+0 8 0
+D0
+~
+~
+0 0 17248
+D3
+~
+~
+0 0 17250
+S
+#17250
+Mythril Mines, bluesteel site~
+Two goblins barely notice your presence as they push a full cart of
+bluesteel past you.  Another digging team is here, chiseling out bluesteel
+from the cracks.  
+~
+0 8 0
+D0
+~
+~
+0 0 17243
+D1
+~
+~
+0 0 17249
+D3
+~
+~
+0 0 17251
+S
+#17251
+Mythril Mines, bluesteel site~
+The face of the rock here is no longer the rich blue color of the rest of
+the site.  This corner appears to have been harvested completely.  You
+suddenly feel a sharp pain on your neck.  When you turn around, you see a
+tiny rock monster with a stone in its hand.  
+~
+0 8 0
+D0
+~
+~
+0 0 17252
+D1
+~
+~
+0 0 17250
+S
+#17252
+Mythril Mines, bluesteel site~
+Two miners are here, chipping away at the rock wall.  One of them is
+standing on a ladder to attempt to reach a rich pocket of bluesteel.  A rock
+monster is hopping about, threatening to pull the ladder out from underneath
+the goblin.  
+~
+0 8 0
+D0
+~
+~
+0 0 17253
+D1
+~
+~
+0 0 17243
+D2
+~
+~
+0 0 17251
+S
+#17253
+Mythril Mines, bluesteel site~
+The north and west walls of this site come to a corner in this area.  A
+pile of stone lies here to be carted away.  The torch mounted in the corner
+reflects off the bluesteel to create a dazzling lighting effect.  
+~
+0 8 0
+D1
+~
+~
+0 0 17246
+D2
+~
+~
+0 0 17252
+S
+#17254
+Mythril Mines, Mythril site~
+The silver walls of the site reflect your torchlight brightly.  Beside
+you, a troll is wrestling with a silver rock beast to get his pickaxe back. 
+~
+0 9 0
+D1
+~
+~
+0 0 17255
+D2
+~
+~
+0 0 17244
+D3
+~
+~
+0 0 17261
+S
+#17255
+Mythril Mines, Mythril site~
+A silver puddle has formed in the center of the room.  The trolls
+harvesting mythril from the area take caution to avoid the puddle.  You
+touch it with your finger, and your arm suddenly becomes cold.  
+~
+0 0 0
+D2
+~
+~
+0 0 17256
+D3
+~
+~
+0 0 17254
+S
+#17256
+Mythril Mines, Mythril site~
+Two goblins barely notice your presence as they push a full cart of
+bluesteel past you.  Another digging team is here, chiseling out bluesteel
+from the cracks.  
+~
+0 9 0
+D0
+~
+~
+0 0 17255
+D2
+~
+~
+0 0 17257
+D3
+~
+~
+0 0 17244
+S
+#17257
+Mythril Mines, Mythril site~
+Many tired miners are resting here, drinking water from a canteen.  Their
+equipment has been left in a mining cart, and is now being tinkered with by
+a rock monster.  
+~
+0 9 0
+D0
+~
+~
+0 0 17256
+D3
+~
+~
+0 0 17258
+S
+#17258
+Mythril Mines, Mythril site~
+The silver walls of the site reflect your torchlight brightly.  Beside
+you, a troll is wrestling with a silver rock beast to get his pickaxe back. 
+~
+0 9 0
+D0
+~
+~
+0 0 17244
+D1
+~
+~
+0 0 17257
+D3
+~
+~
+0 0 17259
+S
+#17259
+Mythril Mines, Mythril site~
+A silver liquid drips from a stalactite on the ceiling into a crack in
+the floor.  When you turn around to go back, you meet the eyes of a rock
+beast, growling angrily at you.  
+~
+0 9 0
+D0
+~
+~
+0 0 17260
+D1
+~
+~
+0 0 17258
+S
+#17260
+Mythril Mines, Mythril site~
+A digging team of trolls are frantically chipping away at the walls here.
+From a dark ledge, a rock beast pounces at once of the trolls and knocks him
+unconscious.  
+~
+0 9 0
+D0
+~
+~
+0 0 17261
+D1
+~
+~
+0 0 17244
+D2
+~
+~
+0 0 17259
+S
+#17261
+Mythril Mines, Mythril site~
+Rock beasts tackle each other playfully in this corner of the mine, while
+trolls watch them with excitement.  When one of the beasts fails to stand up
+again, one troll begins to flail his arms angrily.  It seems that betting on
+rock monster fights is the only good entertainment here.  
+~
+0 9 0
+D1
+~
+~
+0 0 17254
+D2
+~
+~
+0 0 17260
+S
+#17262
+Mythril Mines, pyrec site~
+A single pickaxe lies here next to a large bone.  There is a full cart of
+black, transluscent stone next to it.  You now understand why Pyrec is so
+rare.  
+~
+0 9 0
+D0
+~
+~
+0 0 17272
+D1
+~
+~
+0 0 17263
+D2
+~
+~
+0 0 17245
+D3
+~
+~
+0 0 17269
+S
+#17263
+Mythril Mines, pyrec site~
+Boards have been placed on the ground here to cover a gaping crack that
+extends across the area.  It looks as if the crack has gotten larger since
+the boards were placed.  
+~
+0 9 0
+D0
+~
+~
+0 0 17273
+D1
+~
+~
+0 0 17275
+D2
+~
+~
+0 0 17264
+D3
+~
+~
+0 0 17262
+S
+#17264
+Mythril Mines, pyrec site~
+It is too dark to see anything except the glowing eyes of Rock demons
+darting across your field of view.  You pray that you can make it back to
+the shaft alive.  
+~
+0 9 0
+D0
+~
+~
+0 0 17263
+D1
+~
+~
+0 0 17276
+D2
+~
+~
+0 0 17265
+D3
+~
+~
+0 0 17245
+S
+#17265
+Mythril Mines, pyrec site~
+It is too dark to see anything except the glowing eyes of Rock demons
+darting across your field of view.  You pray that you can make it back to
+the shaft alive.  
+~
+0 9 0
+D0
+~
+~
+0 0 17264
+D1
+~
+~
+0 0 17277
+D2
+~
+~
+0 0 17279
+D3
+~
+~
+0 0 17266
+S
+#17266
+Mythril Mines, pyrec site~
+To the north, the ropes that extend down the shaft can be seen.  A goblin
+frightens you when it nervously walks past you, shaking, with a pickaxe in
+its hand.  
+~
+0 9 0
+D0
+~
+~
+0 0 17245
+D1
+~
+~
+0 0 17265
+D2
+~
+~
+0 0 17280
+D3
+~
+~
+0 0 17267
+S
+#17267
+Mythril Mines, pyrec site~
+The soft sound of a striking hammer can be heard high above, through the
+stone.  You wish that you were closer to the surface.  
+~
+0 9 0
+D0
+~
+~
+0 0 17268
+D1
+~
+~
+0 0 17266
+D2
+~
+~
+0 0 17281
+D3
+~
+~
+0 0 17283
+S
+#17268
+Mythril Mines, pyrec site~
+There is a small pile of bones lying on the floor.  They appear to fit
+the size of a goblin.  
+~
+0 9 0
+D0
+~
+~
+0 0 17269
+D1
+~
+~
+0 0 17245
+D2
+~
+~
+0 0 17267
+D3
+~
+~
+0 0 17284
+S
+#17269
+Mythril Mines, pyrec site~
+It is too dark to see anything except the glowing eyes of Rock demons
+darting across your field of view.  You pray that you can make it back to
+the shaft alive.  
+~
+0 9 0
+D0
+~
+~
+0 0 17270
+D1
+~
+~
+0 0 17262
+D2
+~
+~
+0 0 17268
+D3
+~
+~
+0 0 17285
+S
+#17270
+Mythril Mines, pyrec site~
+A troll guard is sitting against the wall, shaking.  You approach it,
+only to be screamed at and attacked by the troll while it shouts, "Rock
+demon!"  
+~
+0 9 0
+D1
+~
+~
+0 0 17272
+D2
+~
+~
+0 0 17269
+D3
+~
+~
+0 0 17271
+S
+#17271
+Mythril Mines, pyrec site~
+A single pickaxe lies in this corner.  There is a full bucket of black,
+transluscent stone next to it.  You now understand why Pyrec is so rare.  
+~
+0 9 0
+D1
+~
+~
+0 0 17270
+D2
+~
+~
+0 0 17285
+S
+#17272
+Mythril Mines, pyrec site~
+A set of clawprints can be seen along the floor, leading away from a
+troll that lies dead with a pickaxe in its chest.  
+~
+0 9 0
+D1
+~
+~
+0 0 17273
+D2
+~
+~
+0 0 17262
+D3
+~
+~
+0 0 17270
+S
+#17273
+Mythril Mines, pyrec site~
+The pyrec here has been fully harvested.  This section of wall is the
+only part of the site that looks as if it had been mined.  Then again, you
+can't see the rest of the site that clearly as it is.  
+~
+0 9 0
+D1
+~
+~
+0 0 17274
+D2
+~
+~
+0 0 17263
+D3
+~
+~
+0 0 17272
+S
+#17274
+Mythril Mines, pyrec site~
+As you walk through the darkness, you keep your hand on the wall for
+safety.  Suddenly, you realize what you just touched wasnt the pyrec that
+lines the walls.  You look back, and meet a very angry pair of silver,
+glowing eyes.  
+~
+0 9 0
+D2
+~
+~
+0 0 17275
+D3
+~
+~
+0 0 17273
+S
+#17275
+Mythril Mines, pyrec site~
+Along the wall, blood smears are rare, but obvious.  A single mine cart
+sits empty on the ground.  
+~
+0 9 0
+D0
+~
+~
+0 0 17274
+D2
+~
+~
+0 0 17276
+D3
+~
+~
+0 0 17263
+S
+#17276
+Mythril Mines, pyrec site~
+A brave troll stands here hammering pyrec from the side of the cavern. 
+His eyes scan the site cautiously, wary of the rock demons.  
+~
+0 9 0
+D0
+~
+~
+0 0 17275
+D2
+~
+~
+0 0 17277
+D3
+~
+~
+0 0 17264
+S
+#17277
+Mythril Mines, pyrec site~
+Fierce snarl from a rock demon sends you running quickly in the opposite
+direction.  You can see its glowing eyes shining through the pyrec
+outcropping.  
+~
+0 9 0
+D0
+~
+~
+0 0 17276
+D2
+~
+~
+0 0 17278
+D3
+~
+~
+0 0 17265
+S
+#17278
+Mythril Mines, pyrec site~
+Boards have been placed on the ground here to cover a gaping crack that
+extends out from the corner.  It looks as if the crack has gotten larger
+since the boards were placed.  
+~
+0 9 0
+D0
+~
+~
+0 0 17277
+D3
+~
+~
+0 0 17279
+S
+#17279
+Mythril Mines, pyrec site~
+A rock demon lies motionless on the ground.  A large chunk of stone seems
+to be removed from its back.  Judging by the footprints and scratches on the
+ground, it looked to be a fierce fight.  
+~
+0 9 0
+D0
+~
+~
+0 0 17265
+D1
+~
+~
+0 0 17278
+D3
+~
+~
+0 0 17280
+S
+#17280
+Mythril Mines, pyrec site~
+A dripping sound is the only sound that can be heard, aside from the
+occasional growl of a rock demon.  
+~
+0 9 0
+D0
+~
+~
+0 0 17266
+D1
+~
+~
+0 0 17279
+D3
+~
+~
+0 0 17281
+S
+#17281
+Mythril Mines, pyrec site~
+When you look back towards the mine shaft, you can see a faint glow from
+above.  Exploring is not all its cut out to be.  
+~
+0 9 0
+D0
+~
+~
+0 0 17267
+D1
+~
+~
+0 0 17280
+D3
+~
+~
+0 0 17282
+S
+#17282
+Mythril Mines, pyrec site~
+Fierce snarl from a rock demon sends you running quickly in the opposite
+direction.  You can see its glowing eyes shining through the pyrec
+outcropping.  
+~
+0 9 0
+D0
+~
+~
+0 0 17283
+D1
+~
+~
+0 0 17281
+S
+#17283
+Mythril Mines, pyrec site~
+As you move your hand across the wall, you feel an unfamiliar surface. 
+You hold your torch to the wall, and see a horrifying sign that says, "Help
+me," hastily carved into the wall.  
+~
+0 9 0
+D0
+~
+~
+0 0 17284
+D1
+~
+~
+0 0 17267
+D2
+~
+~
+0 0 17282
+S
+#17284
+Mythril Mines, pyrec site~
+The soft sound of a striking hammer can be heard high above, through the
+stone.  You wish that you were closer to the surface.  
+~
+0 9 0
+D0
+~
+~
+0 0 17285
+D1
+~
+~
+0 0 17268
+D2
+~
+~
+0 0 17283
+S
+#17285
+Mythril Mines, pyrec site~
+You continue through the darkness.  There are no visible objects or
+miners here..  Just darkness.  
+~
+0 9 0
+D0
+~
+~
+0 0 17271
+D1
+~
+~
+0 0 17269
+D2
+~
+~
+0 0 17284
+S
+#17300
+Outside the gates~
+The gates of Talagrath are at one end of this wide chamber.  At the other
+end lies a giant cavern that glimmers and shines with crystals.  
+-
+~
+0 0 0
+D2
+~
+~
+0 0 17301
+S
+#17301
+Crystal Cavern~
+You continue down a long passageway covered in veigns of crystal.  Light
+from the city is reflected throughout the cavern off of crystals to keep the
+area bright.  
+~
+0 0 0
+D0
+~
+~
+0 0 17300
+D2
+~
+~
+0 0 17302
+S
+#17302
+Crystal Cavern~
+As you enter this particular section of the cavern, certain crystals seem
+to glow brighter than the rest.  Here, a soft red glow pulses, growing
+steadily brighter, then fading once more to near darkness, leaving the edges
+of the room just barely visible....  It seems to entice you onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 17301
+D2
+~
+~
+0 0 17305
+S
+#17303
+~
+~
+0 4 0
+S
+#17304
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17306
+S
+#17305
+Crystal Cavern~
+The path splits off four ways, each emitting its own peculiar light. 
+Here, a pale orange glow pulses, growing steadily brighter, then fading once
+more to near darkness, leaving the edges of the room tinged in various soft
+colors.  
+~
+0 0 0
+D0
+~
+~
+0 0 17302
+D1
+~
+~
+0 0 17315
+D2
+~
+~
+0 0 17310
+D3
+~
+~
+0 0 17314
+S
+#17306
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17309
+D3
+~
+~
+0 0 17304
+S
+#17307
+~
+~
+0 4 0
+S
+#17308
+~
+~
+0 4 0
+S
+#17309
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17306
+S
+#17310
+Crystal Cavern~
+A pale aquamarine light fills this room.  Upon closer inspection, you can
+see both shades of deep green and sea-blue are interspersed throughout the
+crystal structure of the cavern.  The ebb and flow of this soft torquoise
+glow creates the feel of an underwater dive....  Dappled sunlight over a
+stream, blended with the dark depths of the ocean.  To the South, a steady
+white light fills the room, providing a glow visible even from where you
+stand.  
+~
+0 0 0
+D0
+~
+~
+0 0 17305
+D1
+~
+~
+0 0 17316
+D2
+~
+~
+0 0 17311
+D3
+~
+~
+0 0 17317
+S
+#17311
+Crystal Cavern~
+As you enter this room, you notice the soft white shimmer of light
+enfolding you.  No longer the oscillating pulse of colors, but a steady
+clear glow, guiding your step.  A faint rainbow of glimmering colors are
+still visible to the North, but as far as can be seen surrounding you, the
+pure white light holds true.  
+~
+0 0 0
+D0
+~
+~
+0 0 17310
+D1
+~
+~
+0 0 17318
+D2
+~
+~
+0 0 17312
+D3
+~
+~
+0 0 17319
+S
+#17312
+Crystal Cavern~
+A steady white light fills the room, emanating from the crystals
+surrounding you...  A healing glow.  This illumination lights your way
+clearly enough to see that the white brilliance lasts into the surrounding
+rooms.  In the center of this cavern flows a small whirlpool....  Its
+current swiftly flows about a naturally formed shallow smoothed into the
+clear crystal floor.  Perhaps if you wade in a bit...?  
+~
+0 1024 0
+D0
+~
+~
+0 0 17311
+D1
+~
+~
+0 0 17320
+D2
+~
+~
+0 0 17313
+D3
+~
+~
+0 0 17321
+S
+#17313
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, ebbing and flowing
+steadily....  And, you realize, in time with the beat of your own heart. 
+The walls of this cavern exude a seeming warmth, in keeping with the sense
+of comfort they evoke.  A steady white light brightens the rooms to the
+West, but here the faint pulse continues, fading in and out.  
+~
+0 0 0
+D0
+~
+~
+0 0 17312
+D1
+~
+~
+0 0 17326
+D3
+~
+~
+0 0 17323
+S
+#17314
+Crystal Cavern~
+A sweet emerald green light emanates from the crystals adorning the walls
+of this room.  The ebb and flow of intensity lulls you into a sense of
+security.  As the flush of light lessens, surrounding rooms steadily
+brighten, drawing you into their midst.  
+~
+0 0 0
+D1
+~
+~
+0 0 17305
+D2
+~
+~
+0 0 17317
+S
+#17315
+Crystal Cavern~
+A faint amber shimmer pulses throughout the crystals in this cavern.  The
+glow grows steadily brighter before fading once more to near darkness,
+leaving the edges of the room just barely visible....  
+~
+0 0 0
+D2
+~
+~
+0 0 17316
+D3
+~
+~
+0 0 17305
+S
+#17316
+Crystal Cavern~
+The shades of crystals here oscillate between a dazzling sapphire and a
+fading silvery blue, each gaining in intensity, before fading to dusk.... 
+As they brighten, so do the rooms to the East and West of here, as if in
+knowing unison, enticing you to explore their depths....  To gaze into their
+crystalline selves and glimpse a bit of your soul.  
+~
+0 0 0
+D0
+~
+~
+0 0 17315
+D1
+~
+~
+0 0 17340
+D2
+~
+~
+0 0 17318
+D3
+~
+~
+0 0 17310
+S
+#17317
+Crystal Cavern~
+The shades of crystals here oscillate between a dazzling sapphire and a
+fading silvery blue, each gaining in intensity, before fading to dusk.... 
+As they brighten, so do the rooms to the East and West of here, as if in
+knowing unison, enticing you to explore their depths....  To gaze into their
+crystalline selves and glimpse a bit of your soul.  
+~
+0 0 0
+D0
+~
+~
+0 0 17314
+D1
+~
+~
+0 0 17310
+D2
+~
+~
+0 0 17319
+D3
+~
+~
+0 0 17341
+S
+#17318
+Crystal Cavern~
+Cool, white light fills the room, tinged softly blue to the North, with a
+pale lavender to the East.  The steady light fills your senses, allowing for
+impeccable vision, and a heightened sense of what may be near.  
+~
+0 0 0
+D0
+~
+~
+0 0 17316
+D1
+~
+~
+0 0 17336
+D2
+~
+~
+0 0 17320
+D3
+~
+~
+0 0 17311
+S
+#17319
+Crystal Cavern~
+Cool, white light fills the room, tinged softly blue to the North, with a
+pale lavender to the West.  The steady light fills your senses, allowing for
+impeccable vision, and a heightened sense of what may be near.  
+~
+0 0 0
+D0
+~
+~
+0 0 17317
+D1
+~
+~
+0 0 17311
+D2
+~
+~
+0 0 17321
+D3
+~
+~
+0 0 17337
+S
+#17320
+Crystal Cavern~
+The bright, white light filling this room seems to be tugging you.... 
+Westward.  Perchance you close your eyes and feel a perfect calm, lulling
+you into a sense of security....  Brilliant white light flows all around
+you, lighting your path...  At the same time, allowing others to see you
+evermore clearly.  May your intuition and instinct lead you to safety.  
+~
+0 0 0
+D0
+~
+~
+0 0 17318
+D1
+~
+~
+0 0 17333
+D2
+~
+~
+0 0 17326
+D3
+~
+~
+0 0 17312
+S
+#17321
+Crystal Cavern~
+The bright, white light filling this room seems to be tugging you.... 
+Eastward.  Perchance you close your eyes and feel a perfect calm, lulling
+you into a sense of security....  Brilliant white light flows all around
+you, lighting your path...  At the same time, allowing others to see you
+evermore clearly.  May your intuition and instinct lead you to safety.  
+~
+0 0 0
+D0
+~
+~
+0 0 17319
+D1
+~
+~
+0 0 17312
+D2
+~
+~
+0 0 17323
+D3
+~
+~
+0 0 17330
+S
+#17322
+~
+~
+0 0 0
+D3
+~
+~
+0 0 17313
+S
+#17323
+Crystal Cavern~
+The crystals surrounding you pulse with a faint amethyst glow, growing
+and fading in intensity....  And, you realize, in time with the beat of your
+own heart.  The walls of this cavern exude a seeming warmth, in keeping with
+the sense of comfort they evoke.  A steady white light brightens the rooms
+to the North, but here the faint pulse continues, ebbing and flowing gently.
+~
+0 0 0
+D0
+~
+~
+0 0 17321
+D1
+~
+~
+0 0 17313
+D3
+~
+~
+0 0 17324
+S
+#17324
+Crystal Cavern~
+The crystals lining this room pulse with a faint amethyst glow, ebbing
+and flowing steadily....  And, you realize, in time with the beat of your
+own heart.  The walls of this cavern exude a seeming warmth, in keeping with
+the sense of comfort they evoke.  A steady white light brightens the rooms
+to the North, but here the faint pulse continues, fading in and out.  
+~
+0 0 0
+D0
+~
+~
+0 0 17330
+D1
+~
+~
+0 0 17323
+D3
+~
+~
+0 0 17325
+S
+#17325
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, ebbing and flowing
+steadily....  And, you realize, in time with the beat of your own heart. 
+The walls of this cavern exude a seeming warmth, in keeping with the sense
+of comfort they evoke.  Steady white light brightens the rooms to the East,
+but here the gentle glow continues to fill the room, fading in and out.  
+~
+0 0 0
+D0
+~
+~
+0 0 17331
+D1
+~
+~
+0 0 17324
+S
+#17326
+Crystal Cavern~
+The crystals surrounding you pulse with a faint amethyst glow, growing
+and fading in intensity....  And, you realize, in time with the beat of your
+own heart.  The walls of this cavern exude a seeming warmth, in keeping with
+the sense of comfort they evoke.  A steady white light brightens the rooms
+to the North, but here the faint pulse continues, ebbing and flowing gently.
+~
+0 0 0
+D0
+~
+~
+0 0 17320
+D1
+~
+~
+0 0 17327
+D3
+~
+~
+0 0 17313
+S
+#17327
+Crystal Cavern~
+The crystals lining this room pulse with a faint amethyst glow, ebbing
+and flowing steadily....  And, you realize, in time with the beat of your
+own heart.  The walls of this cavern exude a seeming warmth, in keeping with
+the sense of comfort they evoke.  A steady white light brightens the rooms
+to the North, but here the faint pulse continues, fading in and out.  
+~
+0 0 0
+D0
+~
+~
+0 0 17333
+D1
+~
+~
+0 0 17328
+D3
+~
+~
+0 0 17326
+S
+#17328
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, ebbing and flowing
+steadily....  And, you realize, in time with the beat of your own heart. 
+The walls of this cavern exude a seeming warmth, in keeping with the sense
+of comfort they evoke.  A steady white light brightens the rooms to the
+West, but here the faint pulse continues, fading in and out.  
+~
+0 0 0
+D0
+~
+~
+0 0 17334
+D3
+~
+~
+0 0 17327
+S
+#17329
+~
+~
+0 4 0
+S
+#17330
+Crystal Cavern~
+The warm white light filling this room seems to be pulling you....  East.
+If you closed your eyes a feeling of calm might just overtake you, lulling
+you into a sense of security....  To the West a faint lavender glow ebbs and
+flows, but here the cavern is illuminated brightly enough to safely light
+your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 17337
+D1
+~
+~
+0 0 17321
+D2
+~
+~
+0 0 17324
+D3
+~
+~
+0 0 17331
+S
+#17331
+Crystal Cavern~
+A clear, white light brightens this area, its edges colored faintly,
+lavender to the West, and a deeper amethyst to the North.  No longer the
+oscillating glow of previous rooms, this steady illumination heightens your
+senses and brightens your path.  
+~
+0 0 0
+D0
+~
+~
+0 0 17338
+D1
+~
+~
+0 0 17330
+D2
+~
+~
+0 0 17325
+D3
+~
+~
+0 0 17332
+S
+#17332
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, gaining and
+lessening, in time with the beat of your own heart.  The walls of this
+cavern exude a seeming warmth, in keeping with the sense of comfort they
+evoke.  A steady, white light fills the rooms to the East, but here the
+gentle glow of surrounding crystals enfolds you.  
+~
+0 0 0
+D1
+~
+~
+0 0 17331
+S
+#17333
+Crystal Cavern~
+The warm white light filling this room seems to be pulling you....  West.
+If you closed your eyes a feeling of calm might just overtake you, lulling
+you into a sense of security....  To the East a faint lavender glow ebbs and
+flows, but here the cavern is illuminated brightly enough to safely light
+your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 17336
+D1
+~
+~
+0 0 17334
+D2
+~
+~
+0 0 17327
+D3
+~
+~
+0 0 17320
+S
+#17334
+Crystal Cavern~
+A clear, white light brightens this area, its edges colored faintly,
+lavender to the East, and a deeper amethyst to the North.  No longer the
+oscillating glow of previous rooms, this steady illumination heightens your
+senses and brightens your path.  
+~
+0 0 0
+D0
+~
+~
+0 0 17339
+D1
+~
+~
+0 0 17335
+D2
+~
+~
+0 0 17328
+D3
+~
+~
+0 0 17333
+S
+#17335
+Crystal Cavern~
+As if completing a rainbow of light, here crystals pulse with a faint
+amethyst glow, gaining and lessening steadily....  And, you realize, in time
+with the beat of your own heart.  The walls of this cavern exude a seeming
+warmth, in keeping with the sense of comfort they evoke.  Clear, white light
+floods the rooms to the west, but here the faint pulse continues, fading in
+and out.  
+~
+0 0 0
+D3
+~
+~
+0 0 17334
+S
+#17336
+Crystal Cavern~
+A steady white light fills these rooms, aiding your vision, and removing
+any unsteady sensation the pulsating lights may have caused.  The
+surrounding crystals glow warmly, pulling you towards the center of the
+cavern....  A promise of something more....  
+~
+0 0 0
+D0
+~
+~
+0 0 17340
+D1
+~
+~
+0 0 17339
+D2
+~
+~
+0 0 17333
+D3
+~
+~
+0 0 17318
+S
+#17337
+Crystal Cavern~
+A steady white light fills these rooms, aiding your vision, and removing
+any unsteady sensation the pulsating lights may have caused.  The
+surrounding crystals glow warmly, pulling you towards the center of the
+cavern....  A promise of something more....  
+~
+0 0 0
+D0
+~
+~
+0 0 17341
+D1
+~
+~
+0 0 17319
+D2
+~
+~
+0 0 17330
+D3
+~
+~
+0 0 17338
+S
+#17338
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, gaining and lessening
+steadily....  And, you realize, in time with the beat of your own heart. 
+The walls of this cavern exude a seeming warmth, in keeping with the sense
+of comfort they evoke.  A cool, white light fills the rooms to the East, but
+here the gentle glow of surrounding crystals enfolds you.  
+~
+0 0 0
+D1
+~
+~
+0 0 17337
+D2
+~
+~
+0 0 17331
+S
+#17339
+Crystal Cavern~
+The crystals here pulse with a faint amethyst glow, ebbing and flowing
+steadily....  And, you realize, in time with the beat of your own heart. 
+The walls of this cavern exude a seeming warmth, in keeping with the sense
+of comfort they evoke.  A steady white light brightens the rooms to the
+West, but here the faint pulse continues, fading in and out.  
+~
+0 0 0
+D2
+~
+~
+0 0 17334
+D3
+~
+~
+0 0 17336
+S
+#17340
+Crystal Cavern~
+As if completing a rainbow of light, here crystals pulse with a faint
+amethyst glow, gaining and lessening steadily....  And, you realize, in time
+with the beat of your own heart.  The walls of this cavern exude a seeming
+warmth, in keeping with the sense of comfort they evoke.  Sparkling, blue
+light brightens the rooms to the West, but here the faint pulse continues,
+fading in and out.  
+~
+0 0 0
+D2
+~
+~
+0 0 17336
+D3
+~
+~
+0 0 17316
+S
+#17341
+Crystal Cavern~
+As if completing a rainbow of light, here crystals pulse with a faint
+amethyst glow, gaining and lessening steadily....  And, you realize, in time
+with the beat of your own heart The walls of this cavern exude a seeming
+warmth, in keeping with the sense of comfort they evoke.  Sparkling, blue
+light brightens the rooms to the East, but here the faint pulse continues,
+fading in and out.  
+~
+0 0 0
+D1
+~
+~
+0 0 17317
+D2
+~
+~
+0 0 17337
+S
+#17400
+Guard Headquarters~
+You stand in the headquarters of the Talagrathian Guards.  Infront of
+you, two guards are at a desk writing on some official parchments.  The
+headquarters is located high up in the north tower of Talagrath.  From here,
+the entire city can be seen.  You notice many guards with crossbows hiding
+on top of many buildings, patrolling the main roads from high up.  
+~
+0 0 0
+D0
+~
+~
+0 0 17401
+D1
+~
+~
+0 0 17403
+D2
+~
+~
+0 0 17405
+D3
+~
+~
+0 0 17402
+D4
+~
+~
+0 0 17406
+S
+#17401
+Guard lounge~
+This room is decorated with war banners and tapestries on the walls and a
+beautiful oriental rug in the center.  Extravagant furniture such as
+couches, tables, and chairs are positioned in the room to make it quite a
+cozy lounge.  A table serving snacks and ale is located to the back of the
+room.  
+~
+0 0 0
+D2
+~
+~
+0 0 17400
+S
+#17402
+Guard nexus room~
+Several archways surround the room.  In each archway is a liquid-like
+magical portal that allows the guards to travel to different cities.  A
+secretary sits behind his desk recording the locations that different guard
+went to.  A sign on the wall reads, {4"North-Midgaard, {3South-Talagrath
+Market Square, {7West-New Thalos, {1Up-The Glacier."  {0 
+~
+0 0 0
+D0
+~
+~
+0 0 3014
+D1
+~
+~
+0 0 17400
+D2
+~
+~
+0 0 17058
+D3
+~
+~
+0 0 9506
+D4
+~
+~
+0 0 450
+S
+#17403
+Guard armory~
+Bows, arrows, crossbows, swords, maces, and axes are all mounted on the
+wall on racks and shelves.  Guard uniform and regalia are also being
+supplied on a long clothing rack.  An armsmaster watches you carefully.  
+~
+0 0 0
+D1
+~
+~
+0 0 852
+D3
+~
+~
+0 0 17400
+S
+#17405
+Guard briefing room~
+In this room, rows of wooden chairs are lined up facing a podium.  The
+chairs all have a pad of parchment and a quill in them.  There are also
+several records on the wall displaying the current exile and wanted lists.  
+~
+0 0 0
+D0
+~
+~
+0 0 17400
+S
+#17406
+Observation tower~
+From here, the whole city can be seen.  Guards with spyglasses carefully
+scan the city to make sure that there are no intruders or erupting
+conflicts.  A giant telescope is mounted in the center of the tower for
+easier viewing.  Next to it rests a large ballista.  
+~
+0 0 0
+D5
+~
+~
+0 0 17400
+S
+#0
+
+
+
+#SPECIALS
+M 17450 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 17500 5 2
+D 0 17513 0 1
+D 0 17517 2 1
+D 0 17518 0 1
+D 0 17521 2 1
+D 0 17000 4 1
+D 0 17064 1 1
+D 0 17070 3 1
+D 0 17200 1 1
+D 0 17241 3 1
+M 0 17450 1 17450 1
+O 0 17520 0 17520
+O 0 17523 0 17523
+M 0 17599 1 17598 1
+M 0 17598 5 17599 5
+M 0 16402 1 17002 1
+M 0 16402 1 17006 1
+M 0 16402 1 17007 1
+M 0 16402 1 17009 1
+M 0 17011 17011 17011 1
+M 0 17024 10 17014 2
+M 0 17023 10 17015 2
+M 0 17024 10 17017 2
+M 0 17024 10 17018 1
+M 0 17023 10 17024 1
+M 0 17024 5 17024 1
+M 0 17024 5 17025 1
+M 0 17024 1 17028 1
+M 0 17024 10 17031 2
+M 0 17023 10 17034 2
+O 0 17399 0 17040
+M 0 17024 10 17041 2
+M 0 17023 1 17042 1
+M 0 17023 10 17044 2
+M 0 17024 10 17048 1
+M 0 17023 10 17049 1
+M 0 17051 1 17051 1
+M 0 17051 1 17051 1
+M 0 17056 1 17056 1
+O 0 17058 0 17058
+M 0 17061 1 17058 1
+M 0 17067 1 17061 1
+M 0 17061 1 17061 1
+M 0 17062 1 17062 1
+M 0 17067 1 17067 1
+M 0 17068 1 17068 1
+M 0 17072 1 17072 1
+M 0 17061 1 17079 1
+M 0 17067 1 17087 1
+O 0 17091 0 17091
+M 0 17068 1 17092 1
+M 0 17095 1 17095 1
+G 0 17041 0
+G 0 17042 0
+G 0 17043 0
+G 0 17044 0
+G 0 17045 0
+M 0 17096 1 17096 1
+G 0 17015 0
+G 0 17016 0
+G 0 17017 0
+G 0 17018 0
+G 0 17019 0
+M 0 17097 1 17097 1
+G 0 17028 0
+G 0 17029 0
+G 0 17030 0
+G 0 17059 0
+G 0 17032 0
+G 0 17033 0
+M 0 17098 1 17098 1
+G 0 17034 0
+G 0 17035 0
+G 0 17036 0
+G 0 17037 0
+G 0 17038 0
+G 0 17039 0
+M 0 17099 1 17099 1
+M 0 17100 1 17100 1
+G 0 17020 0
+G 0 17021 0
+G 0 17022 0
+G 0 17023 0
+G 0 17024 0
+G 0 17025 0
+G 0 17026 0
+G 0 17027 0
+M 0 17101 1 17101 1
+G 0 17010 0
+G 0 17011 0
+G 0 17012 0
+G 0 17013 0
+G 0 17014 0
+M 0 17012 1 17102 1
+G 0 17046 0
+G 0 17047 0
+G 0 17048 0
+G 0 17049 0
+M 0 17103 1 17103 1
+M 0 17104 1 17104 1
+M 0 17105 1 17105 1
+M 0 17106 1 17106 1
+M 0 17107 1 17107 1
+M 0 17067 1 17108 1
+M 0 17056 1 17115 1
+M 0 17072 1 17122 1
+M 0 17108 1 17130 1
+M 0 17062 1 17132 1
+M 0 17056 1 17142 1
+M 0 17062 1 17147 1
+M 0 17200 20 17201 2
+M 0 17201 10 17202 2
+M 0 17201 10 17206 2
+O 0 17058 0 17208
+M 0 17200 20 17209 2
+M 0 17201 10 17212 2
+M 0 17200 20 17216 2
+M 0 17200 20 17217 2
+M 0 17200 20 17220 2
+M 0 17200 20 17225 2
+M 0 17200 20 17227 2
+M 0 17201 10 17229 2
+M 0 17200 20 17234 2
+M 0 17201 10 17235 2
+M 0 17201 10 17236 2
+M 0 17201 10 17237 2
+M 0 17201 10 17238 2
+M 0 17243 10 17243 2
+M 0 17244 10 17244 2
+M 0 17245 20 17245 2
+M 0 17243 10 17248 2
+M 0 17243 10 17250 2
+M 0 17243 10 17251 2
+M 0 17243 1 17252 1
+M 0 17243 10 17253 2
+M 0 17244 10 17255 3
+M 0 17244 10 17257 3
+M 0 17244 10 17261 2
+M 0 17245 20 17263 2
+M 0 17245 20 17265 2
+M 0 17245 20 17271 2
+M 0 17245 20 17272 2
+M 0 17245 20 17274 2
+M 0 17245 20 17277 2
+M 0 17245 1 17277 1
+M 0 17245 20 17280 2
+M 0 17245 20 17282 2
+M 0 17245 20 17284 2
+O 0 17312 0 17312
+M 0 17400 1 17400 1
+O 0 17402 0 17401
+O 0 17401 0 17401
+P 0 17025 5 17401 5
+P 0 17026 5 17401 5
+P 0 17027 5 17401 5
+O 0 17403 0 17403
+P 0 17400 10 17403 10
+O 0 17405 0 17405
+O 0 17406 0 17405
+S
+
+
+
+#SHOPS
+17450 5 9 10 3 1 100 100 0 23
+17012 0 3 0 0 0 100 100 0 23
+17095 0 15 17 19 1 100 100 0 23
+17096 0 9 0 0 0 100 100 0 23
+17097 0 9 15 0 0 100 100 0 23
+17098 0 10 0 0 0 100 100 0 23
+17100 0 19 0 0 0 100 100 0 23
+17101 0 5 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#17400
+say Welcome to the Talagrathian Guards!
+~
+#17401
+say The two main purposes of our clan are to protect the city of Talgrath, and establish justice throughout the realm.  While we support peace, we use force if necessary to ensure the safety of friends, allies, and younger adventurers.
+say While in the clan, do not attack other members, and do not attack other people unless approved of by the clan.
+say If you are attacked, you have the approval to fight back. say The Guards has three orders in which each member is placed in based on class and desires: Order of Knights, Order of Assassains, and Order of Runemasters.
+~
+#0
+
+#$

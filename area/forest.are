@@ -1,0 +1,188 @@
+#AREADATA
+Name Enchanted Forest~
+Builders Nalun~
+VNUMs 20601 20650
+Credits [30 65] Nalun   Enchanted Forest~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20601
+A Small Intersection~
+There is an intersection of a large game trail leading to the north and a
+path leading to the west.  The smell of honeysuckles is very great here. 
+From the tall trees, the sun can't be reached here.  A road can is visible
+in the distance to the south.  
+~
+0 524288 3
+D0
+~
+~
+0 0 20602
+D2
+~
+~
+0 0 20607
+D3
+~
+~
+0 0 20606
+S
+#20602
+A Large Game Trail~
+The trail leads north and south.  This trail looks very worn by big
+prints leading north and south on the dirt.  The smell of fresh flowers and
+honeysuckles is strong.  A road is barely visible to the south.  
+~
+0 524288 3
+D0
+~
+~
+0 0 20603
+D2
+~
+~
+0 0 20601
+S
+#20603
+In Front of a Large Cave~
+There is a large cave to the north and a large game trail leading south. 
+There is a strong smell of wild flowers growing around the trail.  The
+sounds of wolves and large creatures surround this place.  It is difficult
+to see because the forest is so thick.  
+~
+0 524288 3
+D0
+~
+~
+0 0 20604
+D2
+~
+~
+0 0 20602
+S
+#20604
+A Large Smelly Cave~
+The sounds in the cave echo as water drips from the roof of the cave.  It
+looks to be that bears or large animals dwell in this cave.  There seems to
+show that a small chamber bends to the west.  The smell of a large animal's
+dung is weak and can be sensed to the west.  
+~
+0 524289 0
+D2
+~
+~
+0 0 20603
+D3
+~
+~
+0 0 20605
+S
+#20605
+The Bears Den~
+There is a large chamber of a cave to the east.  The smell of a large
+animal's dung is very strong in this small chamber.  The sound of dripping
+water can be heard.  This chamber is lined with large scratches on the walls
+of the cave.  It is difficult to see without a proper light in this small
+chamber of the cave.  
+~
+0 524289 0
+D1
+~
+~
+0 0 20604
+S
+#20606
+Small Path~
+The small path leads east and west.  A small campsite can be seen to the
+west.  The aroma of small animals roasting is coming from a small campsite
+to the west.  Wild flowers grow all around this path.  
+~
+0 524288 3
+D1
+~
+~
+0 0 20601
+D3
+~
+~
+0 0 20608
+S
+#20607
+Enchanted Path~
+The road continues east and west.  A small trail leads to the north
+seeming to have large footprints of a large animal.  The smell of wild
+flowers and honeysuckles dwells upon the path.  A large cave is visible to
+the north.  The sound of wolves is in the distance.  
+~
+0 524288 3
+D0
+~
+~
+0 0 20601
+S
+#20608
+Secluded Campsite~
+This is a place that the bandits from the enchanted path meet.  A small
+fire burns off to the left.  The smell of roast animals and smoke is here. 
+Large shoeprints dwell upon the ground, therefore large men must walk the
+earth here.  The dirt on the ground seems to be well traveled.  
+~
+0 524288 3
+D1
+~
+~
+0 0 20606
+D3
+~
+~
+0 0 20609
+S
+#20609
+Entrace to Bandit Camp~
+A small fire burns off to the right, as a small dirt path leads east. 
+The smell of roast animals and smoke is here.  Large shoeprints are on the
+ground.  The dirt on the ground seems to be well traveled.  A large door
+seems to be to the north.  
+~
+0 524288 3
+D1
+~
+~
+0 0 20608
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

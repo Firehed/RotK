@@ -1,0 +1,1517 @@
+#AREADATA
+Name Frosty Lands~
+Builders Nyskel~
+VNUMs 21950 21999
+Credits [60-80] Nyskel  Frosty Lands~
+Security 1
+End
+
+
+
+#MOBILES
+#21951
+Frozen Bunny~
+An almost {7fl{$u{6ffy {&bunny {^fr{6oz{^en{x in {^i{4c{^e{x is here~
+You see a formerly {7fl{$u{^ffy {&bunny{x turned into {4solid {&i{7c{^e{x roll around and start sinking into the layers of {7s{&n{7o{&w{x
+~
+~
+rabbit~
+AFG DFQV N 0 0
+160 0 5000d1+0 0d0+0 100d10+0 frbite
+-17
+FH I J H
+stand stand either 100
+AGV ACDEFHJK small unknown
+#21952
+Frozen Icey Worm~
+A {@sl{2i{@my {$bu{4b{@bli{$ng {7wo{&rm{x rumbles around~
+You walk in and you see a little {7wo{&rm{x crawl across the ground, {@gre{2asy, {^grimy{x and {6d{5i{4s{%g{6u{$s{^t{%i{$n{@g{x
+~
+~
+centipede~
+A Zd 0 100 0
+147 0 3500d2+0 0d0+0 60d10+0 slime
+-32
+0 0 FI E
+stand stand none 0
+ABGO ACK small unknown
+#21953
+Freezing Groundhog~
+A {4F{^reez{6ing {8Ground{1hog{x~
+This {8Ground{1hog{x can barely get out of it's {8hole{x, better end it's misery.
+~
+~
+fido~
+ABY 0 C 0 0
+140 0 3000d3+0 0d0+0 70d20+0 chomp
+-26
+CFJR 0 I CR
+stand stand none 0
+ABGV ACDEFK medium unknown
+F par HJQV
+#21954
+Snow Boulder~
+A {4HUGE {8Boulder{x of {7Snow {2Ro{@ll{2ing{x at you~
+A {4HUGE {7Snow {8Boulder{x is {2Ro{@ll{2ing{x straight at you!
+~
+~
+Gnome~
+A J C 0 0
+155 0 5000d2+0 0d0+0 70d10+0 thrust
+-36
+COP 0 P HR
+stand stand none 0
+AHMV ABCDEFGHIJK huge Snow
+#21955
+Rock Slug~
+A {1Rock {8Solid {5S{2lu{5g{x~
+A {5S{2lu{5g{x {4ru{2mb{4le{#s{x around on {1rocks{x.
+~
+~
+centipede~
+A Z 0 0 0
+170 0 10000d1+0 0d0+0 80d3+0 digestion
+-22
+0 0 F E
+stand stand none 0
+ABGO ACK medium unknown
+F res I
+#21956
+Rock Monster~
+A {$Huge {1Rock {2M{4o{1n{#s{1t{4e{2r{x~
+A {$Huge {2M{4o{1n{#s{1t{4e{2r{x towers over you as you cower in fear.
+~
+~
+Black Dragon~
+A L D -500 0
+167 200 6000d2+0 0d0+0 80d3+0 flbite
+-21
+DO M P S
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#21957
+Rock Leech~
+A {1Rocky {8Le{!e{8ch{x~
+A {8le{!e{8ch{x is here...{@sucking{x on {1rocks{x?
+~
+~
+centipede~
+AC PQZ 0 0 0
+152 0 4000d3+0 0d0+0 50d3+10 suction
+-13
+0 0 FI E
+stand stand none 0
+ABGO ACK tiny unknown
+#21958
+Goblin~
+An {1A{7n{!g{7r{1y {1Go{2bl{1in{x~
+An {1A{7n{!g{7r{1y {1Go{2bl{1in{x is here. But he doesn't want you here.
+~
+~
+Goblin~
+AF J 0 -250 0
+170 0 6000d2+2000 0d0+0 50d5+10 none
+-17
+BEP 0 P NSXY
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21959
+Lazy Slime~
+A {!B{1lo{!b{X of {@Sl{2i{@me{x~
+A {!B{1lo{!b{X of {@Sl{2i{@me{x glowing on the ground in front of you.
+~
+~
+orc~
+ABF J H -100 0
+156 0 4000d2+2000 0d0+0 90d3+20 slime
+-37
+CEFIKO 0 Q S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21960
+Speedy Snake~
+A {^Sp{$ee{5dy {2Sn{3a{@ke{x~
+A {^sp{$ee{5dy {2sn{3a{@ke{x slithers across the ground.
+~
+~
+snake~
+ABF V 0 0 0
+200 0 9000d2+3000 0d0+0 100d3+0 flbite
+-43
+CDHMNO 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+#21961
+Ice Rocker~
+An {&I{^c{6e {!R{1o{8cke{1r{x~
+An {&I{^c{6e {!R{1o{8cke{1r{x {!r{1o{1c{8k{8s{x the {&i{^c{6e{x.
+~
+~
+dragon~
+ABF JT CDEH 0 0
+230 0 10000d2+5000 0d0+0 60d3+20 wrath
+-47
+CDEFHIMO 0 BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#21951
+Frozen Dagger~
+a Frozen Solid Dagger~
+You see sitting here a dagger covered with solid ice.~
+unknown~
+weapon M AN
+dagger 6 15 stab BD
+75 2 2000 P
+#21952
+Frozen Key~
+the {7Fr{^oz{7en {7Key{x~
+The {7fr{^oz{7en {7key{x~
+unknown~
+key 0 A
+0 0 0 0 0
+99 100 0 P
+#21953
+Carapace Frozen Skin~
+a {1Cara{8pace{x of {6Fr{&oz{^en {3Skin{x~
+A {1Cara{8pace{x molded together of {6Fr{&oz{^en {3Skin{x lies here.~
+Ice~
+armor 0 AD
+100 115 105 110 0
+65 5 0 P
+A
+13 300
+A
+20 -35
+A
+19 25
+A
+19 10
+A
+2 5
+A
+1 10
+#21954
+Rock Hard Head~
+a {1Roc{!k {8Hard {5Hea{%d{x~
+This {8Ground{1hog{x can barely get out of it's {8hole{x, better end it's misery.~
+Skin~
+armor 0 AE
+50 50 50 50 0
+65 3 0 P
+A
+18 15
+A
+19 15
+A
+5 5
+A
+3 3
+A
+13 150
+#21955
+Snow Fairy~
+a {&Snow {#F{3a{@ir{#y{x~
+A {&Snow {#F{3a{@ir{#y{x buzzes around you peacefully.~
+unknown~
+armor A AQ
+100 100 100 100 0
+70 10 0 P
+A
+4 5
+A
+3 5
+A
+20 -30
+A
+13 350
+A
+14 500
+#21956
+Slimy Carpet~
+a {5Sl{#im{5y {1C{2arpe{1t{x~
+A {5Sl{#im{5y {1C{2arpe{1t{x looks like it can fit around your waist.~
+Slug~
+armor 0 AL
+90 90 90 90 0
+75 3 0 P
+A
+13 250
+A
+20 -30
+A
+12 100
+A
+5 -3
+#21957
+Monster Skin~
+a {4Pile{x of {8Dr{2ag{8on {3Skin{x~
+A {4Pile{x of {8Dr{2ag{8on {3Skin{x is here, maybe you could coer your arms with it.~
+Dragon Skin~
+armor B AI
+150 150 150 150 0
+75 2 0 P
+A
+20 -10
+A
+18 15
+A
+19 15
+A
+13 350
+#21958
+Rocky Face~
+a {2F{4a{$c{@e{x of {1Rocks{x~
+A {8chunk{x of {1rock{x sits here, maybe it can {7protect{x your {2f{4a{$c{@e{x.~
+unknown~
+armor 0 AR
+50 50 50 50 0
+65 3 0 P
+A
+14 300
+A
+12 300
+A
+13 200
+A
+18 20
+A
+19 20
+#21959
+Rusty Shackles~
+a {4String{x of {8Shackles{x~
+A {4String{x of {8Shackles{x is all {7dusty{x and {1rusty{x.~
+metal~
+armor 0 AU
+25 25 25 25 0
+0 20 0 P
+A
+18 20
+A
+19 20
+A
+4 -3
+A
+2 -3
+A
+9 5
+#21960
+Gold Glittering Money~
+a {$Small {2Mound{x of {1Something{x that {#Gl{&it{3te{7r{#s{x~
+A {$small {2mound{x of {1something{x {#Gl{&it{3te{7r{#ing{x.~
+unknown~
+money A A
+200000 0 0 0 0
+0 0 0 P
+#21961
+Little Earring~
+a {$L{@i{#tt{2l{4e {6E{5a{1rr{!i{%n{^g{x~
+A {$l{@i{#tt{2l{4e {6e{5a{1rr{!i{%n{^g{x~
+unknown~
+container MY AS
+20 ABE 0 100 5
+99 2 5000 P
+A
+20 -10
+A
+12 50
+A
+13 200
+#21962
+Golden Chest~
+a {1Small {#Go{3ld{#en {4Chest{x~
+A {1small {#go{3ld{#en {4chest{x~
+Titanium~
+container D 0
+10000 AD 21967 200000 20
+0 0 0 P
+#21963
+Glowing Slime~
+a {#Gl{!ow{3in{1g {4Pi{$e{4ce{x of {@Sl{2i{@me{x~
+A {#gl{!ow{3in{1g {4pi{$e{4ce{x of {@sl{2i{@me is here...{#g{!l{#o{!w{#i{!n{#g{x.~
+Slime~
+warp_stone A AO
+0 0 0 0 0
+50 1 5000 P
+#21964
+Emblem Life~
+the {4E{$m{1b{!l{!e{4m {8of {&L{#i{7f{!e{x~
+The {4E{$m{1b{!l{!e{4m {8of {&L{#i{7f{!e{x~
+unknown~
+armor AB AO
+100 100 100 100 0
+101 4 30000 P
+A
+13 450
+A
+23 -30
+A
+21 -30
+A
+24 -30
+A
+20 -50
+#21965
+Silent Passage~
+a {2Pair{x of {4So{1lid {8F{7oo{4t{6wea{4r{x~
+A {2Pair{x of {4So{1lid {8F{7oo{4t{6wea{4r{x~
+Mithril~
+armor AI AG
+100 100 100 100 0
+85 5 10000 P
+A
+13 300
+A
+12 300
+A
+20 -45
+#21966
+Ring Contricting Constriction~
+a {4Ri{#n{$g{x of {1Co{!nstr{@ict{2ion{x~
+A {4Ri{#n{$g{x of {1Co{!nstr{@ict{2ion{x is starting to {!b{1l{!ee{1d{x on it's own.~
+Snake~
+armor 0 AB
+-50 -50 -50 -50 0
+80 1 0 P
+A
+18 65
+A
+19 65
+A
+13 -750
+A
+20 20
+A
+12 -500
+A
+1 10
+A
+2 10
+A
+3 -5
+A
+4 -5
+A
+5 -10
+#21967
+Stone Key~
+a {8St{1o{8ne{x Key~
+A {8st{1o{8ne{x key is here being a key~
+Stone~
+key 0 AO
+0 0 0 0 0
+15 3 0 P
+#21968
+Pile of Nothingness~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21970
+Wizard Wizard's Gauntlets~
+{&({!R{1a{2d{@i{#a{@t{2i{1n{!g{&) {!W{1i{4z{$a{@r{2d{3'{#s {#G{3a{^u{6n{2t{${4e{1t{!s{x~
+Radiating with a wizardly glow, these gauntlets bother your eyes.~
+unknown~
+armor E AH
+1000 1000 1000 1000 0
+105 0 0 P
+A
+12 2000
+A
+14 1000
+A
+13 2000
+A
+20 -5000
+#21971
+Dark Shroud Cape~
+{8D{7ar{8k {!W{1i{4z{$a{@r{2d{3'{#s {4C{$a{8p{4e{x~
+A dark peice of leather flows here, alone in the air.~
+unknown~
+armor CE AK
+1000 1000 1000 1000 0
+105 0 0 P
+A
+13 2000
+A
+12 2000
+A
+20 -3000
+#21972
+Wizard's Robe~
+{&({!F{1l{2o{@w{2i{1n{!g{&) {!W{1i{4z{$a{@r{2d{3'{#s {!R{1o{#b{!e{x~
+A long, soft, flowing robe drizzles with overflowing essence.~
+unknown~
+armor E AD
+1000 1000 1000 1000 0
+105 0 0 P
+A
+13 3000
+A
+12 5000
+A
+20 -5000
+#21973
+Wizard's Protection Guard~
+{!W{1i{4z{$a{@r{2d{3'{#s {8P{7r{!o{1t{4e{$c{1t{!i{7o{8n{x~
+A strong, sturdy long shield seems to be emiting a faint glow around it.~
+unknown~
+armor AE AJ
+3000 3000 3000 3000 0
+105 0 0 P
+A
+13 3000
+A
+12 3000
+A
+20 -3000
+#21974
+Wizard's Hood~
+{!W{1i{4z{$a{@r{2d{3'{#s {6H{5o{7o{8d{x~
+A hood crafted so finely, the creater has become legendary.~
+unknown~
+armor E AE
+500 500 500 500 0
+105 0 0 P
+A
+13 500
+A
+12 500
+A
+20 -1000
+#21975
+Nyskel's Enchanted Staff~
+{!N{1ys{8k{7e{7l{4'{$s {^E{6n{1c{!ha{#n{3t{2e{@d {1St{8a{1ff{x~
+A big long staff of enchanted wood floats here with power only matched by the owner, Nyskel.~
+unknown~
+weapon E AN
+staff 1000 1000 cleave CF
+105 0 0 P
+A
+13 5000
+A
+12 5000
+A
+20 -5000
+#21976
+Nyskel's Pride~
+{!N{1ys{7k{8el{4'{$s {8P{7o{8w{2e{@r{x~
+The unholy power of Nyskel~
+unknown~
+armor EFI AT
+500 500 500 500 0
+105 0 0 P
+A
+13 10000
+A
+12 10000
+A
+20 -5000
+#0
+
+
+
+#ROOMS
+#21950
+A Chilly Grassland~
+As you walk in you feel a sudden draft upon you, you look around you see
+nothing around you except for far and wide landscape.  You wonder where you
+have wandered.  There are no footprints of any animals no chirping of the
+birds, nothing.  
+~
+0 0 0
+D1
+~
+~
+0 0 21951
+D3
+~
+~
+0 0 645
+S
+#21951
+Icy Tundra~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  
+~
+0 0 0
+D1
+~
+~
+0 0 21952
+D3
+~
+~
+0 0 21950
+S
+#21952
+Icy Tundra~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  You
+can barely see ahead of you, you try to brush off some of the snow blowing
+in your face, you try to look around, you see a little spot below you...  
+~
+0 0 0
+D1
+~
+~
+0 0 21953
+D3
+~
+~
+0 0 21951
+D5
+~
+~
+3 21967 21996
+S
+#21953
+Icy Tundra~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  
+~
+0 0 0
+D0
+~
+~
+0 0 21954
+D3
+~
+~
+0 0 21952
+S
+#21954
+Frozen Sandland~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  You
+can barely see ahead of you, you try to brush off some of the snow blowing
+in your face, you try to look around, you dont see anything near you 
+~
+0 0 0
+D2
+~
+~
+0 0 21953
+D3
+~
+~
+0 0 21955
+S
+#21955
+Frozen Sandland~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  
+~
+0 0 0
+D1
+~
+~
+0 0 21954
+D4
+~
+~
+0 0 21956
+S
+#21956
+Breezy Forest~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  You
+can barely see ahead of you, you try to brush off some of the snow blowing
+in your face, you try to look around, all you see is the path you came from
+down below and the path ahead.  
+~
+0 0 0
+D1
+~
+~
+0 0 21957
+D5
+~
+~
+0 0 21955
+S
+#21957
+Breezy Forest~
+As you continue walking the chill keeps sliding down through your body,
+you wonder how this place is still so well preserved yet so abandoned.  
+~
+0 0 0
+D1
+~
+~
+0 0 21958
+D3
+~
+~
+0 0 21956
+S
+#21958
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21960
+D1
+~
+~
+0 0 21962
+D2
+~
+~
+0 0 21959
+D3
+~
+~
+0 0 21957
+S
+#21959
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21958
+D1
+~
+~
+0 0 21963
+S
+#21960
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21961
+D2
+~
+~
+0 0 21958
+S
+#21961
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21964
+D2
+~
+~
+0 0 21962
+D3
+~
+~
+0 0 21960
+S
+#21962
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21961
+D1
+~
+~
+0 0 21965
+D2
+~
+~
+0 0 21963
+D3
+~
+~
+0 0 21958
+S
+#21963
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21962
+D1
+~
+~
+0 0 21966
+D2
+~
+~
+0 0 21997
+D3
+~
+~
+0 0 21959
+S
+#21964
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21967
+D2
+~
+~
+0 0 21965
+D3
+~
+~
+0 0 21961
+S
+#21965
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21964
+D1
+~
+~
+0 0 21968
+D2
+~
+~
+0 0 21966
+D3
+~
+~
+0 0 21962
+S
+#21966
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21965
+D1
+~
+~
+0 0 21969
+D3
+~
+~
+0 0 21963
+S
+#21967
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21998
+D1
+~
+~
+0 0 21970
+D2
+~
+~
+0 0 21968
+D3
+~
+~
+0 0 21964
+S
+#21968
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21967
+D1
+~
+~
+0 0 21971
+D2
+~
+~
+0 0 21969
+D3
+~
+~
+0 0 21965
+S
+#21969
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21968
+D1
+~
+~
+0 0 21972
+D3
+~
+~
+0 0 21966
+S
+#21970
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D2
+~
+~
+0 0 21971
+D3
+~
+~
+0 0 21967
+S
+#21971
+Stuck in a Blizzard~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21970
+D2
+~
+~
+0 0 21972
+D3
+~
+~
+0 0 21968
+S
+#21972
+A Snowy Forest~
+You walk through a crowded forest and up in a wide-open surface.  You
+cant see more then a meter ahead of you, as you walk forth your footstep
+from behind you gets barraged by snow and instantaneously covers it. 
+Wait...  Can kind of make something out to the south, maybe there is an
+opening.  
+~
+0 524288 0
+D0
+~
+~
+0 0 21971
+D2
+~
+~
+0 0 21973
+D3
+~
+~
+0 0 21969
+S
+#21973
+A Chilling Tunnel~
+Somehow you find a path over a hill, just thank the gods you can see
+where you are going.  As you walk further you hear some odd and disturbing
+sounds.  Maybe you should prepare for what lies beyond, whatever it is, it
+doesnt sound to welcoming.  
+~
+0 0 0
+D0
+~
+~
+0 0 21972
+D4
+~
+~
+0 0 21974
+S
+#21974
+A Chilling Tunnel~
+Somehow you find a path over a hill, just thank the gods you can see
+where you are going.  As you walk further you hear some odd and disturbing
+sounds.  Maybe you should prepare for what lies beyond, whatever it is, it
+doesnt sound to welcoming.  Some of that snow from outside is melting on
+you, you brush it off a little before you continue ,hopefully not to much
+sank into your armor, and hopefully you didn't have to much leather on 
+~
+0 0 0
+D1
+~
+~
+0 0 21975
+D5
+~
+~
+0 0 21973
+S
+#21975
+A Chilling Tunnel~
+Somehow you find a path over a hill, just thank the gods you can see
+where you are going.  As you walk further you hear some odd and disturbing
+sounds.  Maybe you should prepare for what lies beyond, whatever it is, it
+doesnt sound to welcoming.  
+~
+0 0 0
+D3
+~
+~
+0 0 21974
+D4
+~
+~
+0 0 21976
+S
+#21976
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  As you continue the melted snow from before starts to sink
+through your armor and trikle off your body, you whipe some off and take a
+look at the water up close, it doesnt look like average water, maybe there
+is something different about it here.  
+~
+0 0 0
+D0
+~
+~
+0 0 21977
+D1
+~
+~
+0 0 21979
+D2
+~
+~
+0 0 21981
+D3
+~
+~
+0 0 21983
+D5
+~
+~
+0 0 21975
+S
+#21977
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D1
+~
+~
+0 0 21978
+D2
+~
+~
+0 0 21976
+D3
+~
+~
+0 0 21984
+S
+#21978
+A Dark Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D2
+~
+~
+0 0 21979
+D3
+~
+~
+0 0 21977
+D4
+~
+~
+0 0 21985
+S
+#21979
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21978
+D2
+~
+~
+0 0 21980
+D3
+~
+~
+0 0 21976
+S
+#21980
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21979
+D3
+~
+~
+0 0 21981
+S
+#21981
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21976
+D1
+~
+~
+0 0 21980
+D3
+~
+~
+0 0 21982
+S
+#21982
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21983
+D1
+~
+~
+0 0 21981
+S
+#21983
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 21984
+D1
+~
+~
+0 0 21976
+D2
+~
+~
+0 0 21982
+S
+#21984
+A Flat Tunnel ~
+You find a tunnel like path with ladders, maybe there has been someone
+down here before, you wonder if it or they are alive...  Or maybe still
+here.  Try searching around, you may find some clues, maybe something to
+help you.  
+~
+0 0 0
+D1
+~
+~
+0 0 21977
+D2
+~
+~
+0 0 21983
+S
+#21985
+A Dark Path~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  
+~
+0 0 0
+D1
+~
+~
+0 0 21986
+D5
+~
+~
+0 0 21978
+S
+#21986
+A Dark Path~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  
+~
+0 0 0
+D1
+~
+~
+0 0 21987
+D3
+~
+~
+0 0 21985
+S
+#21987
+A Dark Path~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  You look around more
+closely, you see a little glinting light ahead, but then it suddenly
+dissapears, you search for it then it goes away around a corner, you follow
+but you end up infront of something.  
+~
+0 0 0
+D2
+~
+~
+0 0 21988
+D3
+~
+~
+0 0 21986
+S
+#21988
+A Dark Path~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  
+~
+0 0 0
+D0
+~
+~
+0 0 21987
+D1
+~
+~
+0 0 21989
+S
+#21989
+A Dark Tunnel~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  
+~
+0 0 0
+D0
+~
+~
+0 21952 21990
+D3
+~
+~
+0 0 21988
+D5
+~
+~
+0 0 21991
+S
+#21990
+A Small Bunker~
+You end up in another tunnel-like area, surrounded by...  Nothing, maybe
+after what you just met, this is better.  You see ahead more tunnel, barely
+lit by small lamps, you try to squint to see further down, but nothing is
+visible, maybe walking further is the only way.  You found a little crevas
+containing a whole bunch of nothing, or is there nothing...  Or isn't there
+nothing..  Or maybe there isn't nothing but there is something in the
+nothing?  
+~
+0 1028 0
+D2
+~
+~
+0 21952 21989
+S
+#21991
+A Dark Tunnel~
+You walk down some more tunnels, as you get closer the sounds get louder.
+Pounding, smashing, scratching, the sounds get creepier and creepier.  But
+you won't find out what it is by sitting there.  
+~
+0 0 0
+D3
+~
+~
+0 0 21995
+D4
+~
+~
+0 0 21989
+D5
+~
+~
+0 0 21992
+S
+#21992
+A Drafty Tunnel~
+You walk down some more tunnels, as you get closer the sounds get louder.
+Pounding, smashing, scratching, the sounds get creepier and creepier.  But
+you won't find out what it is by sitting there.  
+~
+0 0 0
+D1
+~
+~
+0 0 21994
+D4
+~
+~
+0 0 21991
+D5
+~
+~
+0 0 21993
+S
+#21993
+A COLD Hall~
+You made it all the way to what seems like the end, too bad there wasn't
+anything good here.  
+~
+0 0 0
+D4
+~
+~
+0 0 21992
+D5
+~
+~
+0 0 21999
+S
+#21994
+A Frozen Cave~
+You walk down some more tunnels, as you get closer the sounds get louder.
+Pounding, smashing, scratching, the sounds get creepier and creepier.  But
+you won't find out what it is by sitting there.  You found a little cavern
+the diggers must have made for protection, maybe they know there is
+something further down.  
+~
+0 0 0
+D3
+~
+~
+0 0 21992
+S
+#21995
+A Dark Bunker~
+You walk down some more tunnels, as you get closer the sounds get louder.
+Pounding, smashing, scratching, the sounds get creepier and creepier.  But
+you won't find out what it is by sitting there.  You found a little cavern
+the diggers must have made for protection, maybe they know there is
+something further down.  
+~
+0 0 0
+D1
+~
+~
+0 0 21991
+S
+#21996
+Icy Hell~
+You have fallen and you can't get up, snow flutters past your face. 
+Maybe scream for help?  Dig your way out?  Or DIE...  
+~
+0 0 0
+D4
+~
+~
+3 21967 21952
+S
+#21997
+A Frozen Cave~
+You find yourself in a cave, empty but still you see a flash of light
+coming from somewhere.  You walk further but still you find nothing.  You
+enter deeper into the cave you see a mound of snow, maybe look at it deeper.
+~
+0 0 0
+D0
+~
+~
+0 0 21963
+S
+#21998
+A Cool Cavern~
+You find yourself in a cave, empty but still you see a flash of light
+coming from somewhere.  You walk further but still you find nothing.  You
+enter deeper into the cave you see a patch of snow, what might it be?  
+~
+0 0 0
+D2
+~
+~
+0 0 21967
+S
+#21999
+Stuck in the Snow~
+Well, I guess the previous room wasn't the last but obviosly the thing
+here doesn't want you disturbing him, you just better leave to be on the
+safe side.  
+~
+0 524289 0
+D4
+~
+~
+0 21967 21993
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21951 5 21951 1
+E 0 21951 0 16
+M 0 21951 5 21953 1
+E 0 21951 0 16
+M 0 21952 5 21955 1
+E 0 21953 0 5
+M 0 21952 5 21957 1
+E 0 21953 0 5
+M 0 21954 3 21960 1
+E 0 21955 0 18
+M 0 21954 3 21966 1
+E 0 21955 0 18
+M 0 21954 3 21969 1
+E 0 21955 0 18
+M 0 21955 3 21974 1
+E 0 21956 0 13
+M 0 21955 3 21976 1
+E 0 21956 0 13
+M 0 21956 2 21978 1
+E 0 21957 0 10
+M 0 21957 10 21980 1
+E 0 21958 0 20
+M 0 21956 2 21982 1
+E 0 21957 0 10
+M 0 21957 10 21984 1
+E 0 21958 0 20
+M 0 21958 2 21987 1
+E 0 21959 0 25
+M 0 21958 2 21988 1
+E 0 21959 0 25
+O 0 21962 0 21990
+P 0 21960 1 21962 1
+P 0 21964 1 21962 1
+M 0 21960 3 21994 1
+E 0 21966 0 2
+M 0 21959 10 21995 3
+E 0 21963 0 17
+E 0 21965 0 8
+O 0 21952 0 21996
+M 0 21953 1 21997 1
+E 0 21954 0 6
+M 0 21953 2 21998 1
+E 0 21954 0 6
+M 0 21961 1 21999 0
+G 0 21967 0
+M 0 21961 15 21999 5
+M 0 21961 1 21999 0
+E 0 21961 0 21
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

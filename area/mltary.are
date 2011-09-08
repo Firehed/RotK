@@ -1,0 +1,179 @@
+#AREADATA
+Name Millitary Clan Hall~
+Builders None~
+VNUMs 22600 22609
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#22606
+no name~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#22600
+Center of the Military~
+Welcome clan mates and/or Immortals.  This is the center of peaceful
+military.  We aim to bring peace amongst all alignments.  If we shall fail,
+we shall destroy all people of racist alignments 
+~
+0 4 0
+D0
+~
+~
+0 0 22601
+D1
+~
+~
+0 0 22605
+D3
+~
+~
+0 0 22602
+D4
+~
+~
+0 0 22606
+M 500 H 500
+S
+#22601
+Healer's Room~
+This is where our healer is.  Why he just stands around and casts money..
+Bellog doesnt know.  Welcome to the Healer 
+~
+0 0 0
+D2
+~
+~
+0 0 22600
+S
+#22602
+Hallway~
+Ah, just the same old prettied up hallway, mades everywhere constantly
+cleaning.  A reflection of everything in the room on the floors.  
+~
+0 0 0
+D1
+~
+~
+0 0 22600
+D3
+~
+~
+0 0 22603
+S
+#22603
+The All In One Trainer~
+Ah, a newest addition to this fine place.  An all-in-one-Trainer! 
+Practice and train in this very fine room No Limits, no nothin.. 
+(especially mobs ;) 
+~
+0 0 0
+D1
+~
+~
+0 0 22602
+D3
+~
+~
+0 0 22604
+S
+#22604
+Dummy Room~
+Ok, this is simple.  Kill the dummy and win a prize!  
+~
+0 0 0
+D1
+~
+~
+0 0 22603
+S
+#22605
+Ye Ol' Shop~
+Get your clan Equipment here.  Potions, armor, weapon or 2.  Its all
+here!  Have fun.  
+~
+0 0 0
+D3
+~
+~
+0 0 22600
+S
+#22606
+Exit Room.~
+North=Forest Temple(Warning: Hero Zone), South=training grounds,
+East=Hell, West=Questmaster, FINALLY, Up=Bellog's Office 
+~
+0 0 0
+D0
+~
+~
+0 0 20851
+D1
+~
+~
+0 0 10401
+D2
+~
+~
+0 0 21700
+D4
+~
+~
+0 0 63
+D5
+~
+~
+0 0 22600
+S
+#22607
+NoobJoinE & Cadet Ships.~
+Ok, east for Training Grounds(NJE)..  West for Hell(Cadet) and South for
+Drow City(Soldier) 
+~
+0 4 0
+S
+#22608
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

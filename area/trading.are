@@ -1,0 +1,486 @@
+#AREADATA
+Name Trading Post~
+Builders Wardrof~
+VNUMs 1900 1949
+Credits [ ALL ] Wardrof Trading Post~
+Security 9
+End
+
+
+
+#MOBILES
+#1900
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1906
+cire~
+Cire~
+Cire is here, looking at his newest works
+~
+~
+Shadow~
+AB TU H 0 0
+25 0 1d1+29999 0d0+0 1d1+29999 none
+-90
+0 0 M NS
+stand stand male 2147483647
+AHMV ABCDEFGHIJK medium unknown
+#1907
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1908
+Warlock the Wizard~
+Warlock~
+Warlock the wizard is standing here, puzzled over his last purchace.
+~
+~
+Human~
+AB 0 0 0 0
+110 0 1d1+100 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1909
+jeweller~
+The Jeweller~
+The jeweller is here, crying from his lack of customers.
+~
+~
+Human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1900
+plate platemail mail~
+metalic Platemail~
+A piece of metal is here, in the shape of a body~
+unknown~
+armor G AD
+10 10 10 10 0
+35 0 30000 P
+A
+19 10
+A
+18 10
+A
+1 2
+A
+5 2
+A
+19 7
+A
+18 5
+A
+12 50
+A
+13 50
+#1901
+head strong helmet~
+head strong helmet~
+A head strong helmet is sitting here, lonely.~
+unknown~
+armor 0 AE
+5 5 5 5 0
+35 0 25000 P
+A
+19 15
+A
+19 3
+A
+1 3
+A
+5 3
+A
+4 5
+A
+18 15
+#1902
+small metal shield~
+the small metal shield~
+A small metal shield is sitting on the ground, wonder how much you could get for this.~
+unknown~
+armor 0 AJ
+30 30 50 10 0
+50 2 50000 P
+A
+19 20
+A
+18 10
+A
+12 100
+A
+13 100
+#1903
+iron cast ring~
+an iron cast ring~
+An iron cast ring is here.~
+iron~
+armor 0 0
+1 1 1 1 0
+31 0 200 P
+A
+13 125
+A
+12 25
+A
+18 12
+A
+19 12
+#1917
+key master~
+master's Key~
+A key is sitting here, what could it be for?~
+unknown~
+trash HMZ A
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#1900
+Entrance to the Trading Post~
+The entrance to the trading post is one of the most busy there is in the
+realm.  There are people of all levels here to get all their goods in the
+Trading Post 
+~
+0 0 0
+D0
+~
+~
+0 0 20546
+D1
+~
+~
+0 0 1901
+S
+#1901
+West side of Main Street~
+You are now on the west side of main street, this is probably the most
+busy street second only to Market Square in MG.  
+~
+0 0 0
+D0
+~
+~
+0 0 1906
+D1
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1900
+S
+#1902
+Main Street~
+Standing on main street gives you an unsure sence in your chest.  Wonder
+what it could be.  
+~
+0 0 0
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1909
+D3
+~
+~
+0 0 1901
+S
+#1903
+East End of Main Street~
+The farther east you go the less crowded the Trading Post seems to be. 
+Going farther east will bring you to wall road, and eventually will bring
+you back to Meriam.  
+~
+0 0 0
+D0
+~
+~
+0 0 1910
+D1
+~
+~
+0 0 1904
+D3
+~
+~
+0 0 1902
+S
+#1904
+Intersection of Main Street and Wall Road~
+Here is the intersection of Main Street and Wall Road.  There are som
+mystical portals from here that lead you to places neer, and far in the
+realm 
+~
+0 0 0
+D0
+~
+~
+0 0 1913
+D1
+~
+~
+0 0 1905
+D2
+~
+~
+0 0 1914
+D3
+~
+~
+0 0 1903
+S
+#1905
+Edge of Humanity~
+You stand on the edge of humanity, going east will bring you back to
+midgard, and west will bring you into the trading post 
+~
+0 0 0
+D1
+~
+~
+0 0 3382
+D3
+~
+~
+0 0 1904
+S
+#1906
+Armor Shop~
+In the armory there are many pieces of platemail, and metal leggings. 
+South of here is a leather worker.  
+~
+0 0 0
+D2
+~
+~
+0 0 1901
+S
+#1907
+Leather Shop~
+Nahtan is here, making you whatever you need.  He can make everything
+from boots to sleeves, all out of leather.  One might say this is a mage's
+paradise!  
+~
+0 4 0
+S
+#1908
+Magic Shop~
+Scrolls tacked to the wall, wands filling almost the entire room.  This
+must be the magic shop!  
+~
+0 0 0
+D2
+~
+~
+0 0 1902
+S
+#1909
+Jewelry Shop~
+Everywhere from amulets, to rings, and back to amulets.  This is a
+jewelry shop.  The finest jewelry is crafted here 
+~
+0 0 0
+D0
+~
+~
+0 0 1902
+S
+#1910
+Dead End~
+Might as well turn around, you've hit a dead end!  
+~
+0 0 0
+D2
+~
+~
+0 0 1903
+D4
+~
+~
+4 1917 1912
+S
+#1911
+~
+~
+0 4 0
+S
+#1912
+Secret Room~
+You stand in a secret room, what could be hiding here?  
+~
+0 16785408 0
+D5
+~
+~
+4 0 1910
+S
+#1913
+Wall Road~
+You stand on wall road.  Almost nothing is heard this far east in the
+trading post.  You begin to wonder what is up here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1915
+D2
+~
+~
+0 0 1904
+S
+#1914
+Wall Road~
+You stand south of main street now, this is where most of the crime is in
+the trading post, sometimes there are corpses laying around from the more
+unfortunate.  
+~
+0 8192 0
+D0
+~
+~
+0 0 1904
+D2
+~
+~
+0 0 1916
+S
+#1915
+End of Wall road~
+You stand on the end of Wall Road, may as well turn around now.  
+~
+0 0 0
+D0
+~
+~
+3 0 1917
+D2
+~
+~
+0 0 1913
+S
+#1916
+Southern End of Wall Road~
+Standing at the southern end of wall road gets pritty boring, doesn't it?  
+~
+0 8192 0
+D0
+~
+~
+0 0 1914
+S
+#1917
+Thieves Sanctuary~
+Standing here reminds you of being a thief!  Wait, standing here meens
+you are a thief.  
+~
+0 0 0
+D2
+~
+~
+3 0 1915
+S
+#0
+
+
+
+#SPECIALS
+M 1906 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 1910 4 2
+D 0 1912 5 2
+D 0 1915 0 2
+D 0 1917 2 2
+M 0 1906 1 1906 1
+G 0 1900 0
+G 0 1901 0
+G 0 1902 0
+G 0 1903 0
+G 0 1330 0
+G 0 5329 0
+G 0 5108 0
+G 0 6112 0
+G 0 5301 0
+M 0 1908 1 1908 1
+G 0 3039 0
+G 0 3040 0
+G 0 3042 0
+G 0 5022 0
+G 0 1370 0
+G 0 3041 0
+G 0 3081 0
+G 0 3080 0
+G 0 2251 0
+M 0 1909 1 1909 1
+G 0 5030 0
+G 0 5031 0
+O 0 1917 0 1917
+S
+
+
+
+#SHOPS
+1906 0 9 0 0 0 100 100 0 23
+1908 3 4 10 2 0 100 100 0 23
+1909 33 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

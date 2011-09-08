@@ -1,0 +1,383 @@
+#AREADATA
+Name Lake Eos~
+Builders Tekino~
+VNUMs 22640 22699
+Credits [BLDG.] Tekino  Lake Eos~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22640
+Steep mountain path~
+A rope hangs around a rock here, acting as a docking point for rafts and
+boats.  You find yourself on a thin rocky path that twists and turns to
+follow the curve of the cliffs.  Up ahead, the path ducks into a crevice
+that appears to ascend steeply up to the peaks of the mountains.  
+~
+0 0 0
+D1
+~
+~
+0 0 13504
+D3
+~
+~
+0 0 22641
+S
+#22641
+Steep mountain path~
+As you ascend, the steep mountain path continues eastward, closely
+following the curve of the cliffs.  At this height, overhangs, crevices, and
+pertrusions litter the cliffs, making it relatively easy to continue, as
+long as you use strategy.  
+~
+0 0 0
+D1
+~
+~
+0 0 22640
+D3
+~
+~
+0 0 22642
+S
+#22642
+Steep mountain path~
+A wide crack in the mountainside here allows easy passage from the steep
+climb to a challenging yet less fatiguing passage that continues to ascend
+into the peaks.  
+~
+0 0 0
+D0
+~
+~
+0 0 22643
+D1
+~
+~
+0 0 22641
+S
+#22643
+Steep mountain path~
+A crevice to the south leads to a steep decent back to the rivers and
+forests.  To the north lies a gradual incline that is leading into clouded
+peaks.  The grass and vegetation along the path is surprisingly healthy for
+the altitude it is at.  
+~
+0 0 0
+D0
+~
+~
+0 0 22644
+D2
+~
+~
+0 0 22642
+S
+#22644
+Steep mountain path~
+The path bends gradually here, leading to a beautiful plain in the west,
+and a steeper descent to the south.  You have a beautiful view of the
+mountains, glaciers, and sea from your position, though you presume that you
+will have a better view to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 22643
+D3
+~
+~
+0 0 22645
+S
+#22645
+Mountain clearing~
+All around you is lush vegetation, ripe with berries and wildlife.  From
+an elevated rock you have a breathtaking overlook of the northern territory.
+From here, you notice that the bay of the river is surprisingly calm; the
+reflection of the mountains in the water is beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 22646
+D1
+~
+~
+0 0 22644
+S
+#22646
+Lake Eos Shore~
+You have found that above the clouds, in these mysterious peaks that you
+have pondered at from thousands of feet below, lies a high-altitude lake
+surrounded by dense forests and trickling waterfalls.  The air smells soft
+like fresh, cool rain, and the sun complements the beauty with a comforting
+warmth.  
+~
+0 0 0
+D1
+~
+~
+0 0 22647
+D2
+~
+~
+0 0 22645
+D3
+~
+~
+0 0 22658
+S
+#22647
+Lake Eos Shore~
+A quiet, yet ear-splitting screech draws your attention to the sky.  You
+see a drake fly northward across the lake and disappear into a rocky inlet. 
+While this lake environment surpasses your most beautiful imaginations, you
+realize that you are not the only creature to occupy this remote place.  
+~
+0 0 0
+D1
+~
+~
+0 0 22648
+D3
+~
+~
+0 0 22646
+S
+#22648
+Lake Eos Shore~
+Erosion in this area of the shore causes the land to drop off steeply
+into the lake.  You follow a beaten path through the forest that runs along
+the shoreline.  You can make out sets of footprints in the muddy sections,
+though you don't know what creature is responsible for them.  
+~
+0 0 0
+D0
+~
+~
+0 0 22649
+D3
+~
+~
+0 0 22647
+S
+#22649
+Lake Eos Shore~
+~
+0 0 0
+D2
+~
+~
+0 0 22648
+D3
+~
+~
+0 0 22650
+S
+#22650
+Lake Eos Shore~
+~
+0 0 0
+D0
+~
+~
+0 0 22651
+D1
+~
+~
+0 0 22649
+S
+#22651
+Lake Eos Shore~
+~
+0 0 0
+D2
+~
+~
+0 0 22650
+D3
+~
+~
+0 0 22652
+S
+#22652
+Lake Eos~
+~
+0 0 0
+D0
+~
+~
+0 0 22653
+D1
+~
+~
+0 0 22651
+D3
+~
+~
+0 0 22654
+D5
+~
+~
+0 0 22696
+S
+#22653
+Rocky Outcropping~
+~
+0 0 0
+D2
+~
+~
+0 0 22652
+S
+#22654
+Lake Eos Shore~
+~
+0 0 0
+D1
+~
+~
+0 0 22652
+D2
+~
+~
+0 0 22655
+S
+#22655
+Lake Eos Shore~
+~
+0 0 0
+D0
+~
+~
+0 0 22654
+D3
+~
+~
+0 0 22656
+S
+#22656
+Lake Eos Shore~
+~
+0 0 0
+D1
+~
+~
+0 0 22655
+D2
+~
+~
+0 0 22657
+S
+#22657
+Lake Eos Shore~
+~
+0 0 0
+D0
+~
+~
+0 0 22656
+D1
+~
+~
+0 0 22658
+S
+#22658
+Lake Eos Shore~
+~
+0 0 0
+D1
+~
+~
+0 0 22646
+D3
+~
+~
+0 0 22657
+S
+#22696
+~
+~
+0 0 0
+D4
+~
+~
+0 0 22652
+D5
+~
+~
+0 0 22697
+S
+#22697
+~
+~
+0 0 0
+D4
+~
+~
+0 0 22696
+D5
+~
+~
+0 0 22698
+S
+#22698
+~
+~
+0 0 0
+D3
+~
+~
+0 0 22699
+D4
+~
+~
+0 0 22697
+S
+#22699
+~
+~
+0 0 0
+D1
+~
+~
+0 0 22698
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

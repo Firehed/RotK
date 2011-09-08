@@ -1,0 +1,633 @@
+#AREADATA
+Name The Labrynth~
+Builders Wardrof~
+VNUMs 16400 16424
+Credits [ HERO] Wardrof The Labrynth~
+Security 9
+End
+
+
+
+#MOBILES
+#16402
+soul lost~
+The lost soul~
+The lost soul tries to find his way back to living mortal.
+~
+~
+wyvern~
+AFG DFT 0 0 0
+105 400 1d1+19999 1d1+20000 1d1+1500 none
+-45
+CFH L 0 S
+stand stand none 50000
+ABGZ ACDEFHJKQVX medium unknown
+#16404
+giant guardian~
+The Giant Guardian~
+The Giant Guardian is here, admiring his key.
+~
+~
+Giant~
+ABF 0 CDEHNO 0 0
+107 750 1d1+24999 0d0+0 1d1+2000 none
+-40
+0 0 HI JP
+stand stand none 80000
+AHMV ABCDEFGHIJK giant unknown
+#16409
+bane~
+Bane~
+Bane is here, looking at his new amulet.
+~
+~
+Human~
+ABF 0 H 0 0
+105 800 1d1+29999 0d0+0 1d1+2500 none
+-50
+0 0 0 C
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#16416
+Xantha~
+Xantha~
+Xantha is here, angered by your entrance.
+~
+~
+Giant~
+ABF 0 H 0 0
+107 750 1d1+29999 0d0+0 1d1+5999 none
+-76
+0 0 HI JP
+stand stand none 600000
+AHMV ABCDEFGHIJK medium unknown
+#16417
+Xantha's Little Helper~
+Xantha's Helper~
+Xantha's Little Helper is here, Killing you!
+~
+~
+Giant~
+ABF 0 0 0 0
+107 800 1d1+29999 0d0+0 1d1+3999 none
+-50
+0 0 HI JP
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#16418
+king~
+The king~
+The king is disturbed by your entrance.
+~
+~
+Pixie~
+ABF EJT H 0 0
+104 500 1d1+29999 1d1+29000 1d1+2999 none
+-92
+0 0 BP HKZ
+stand stand none 150000
+AHMV ABCDEFGHIJKP tiny unknown
+#16422
+queen~
+the queen~
+The Queen is here, you are dead
+~
+~
+Pixie~
+AF EJT H 0 0
+104 500 1d1+24999 0d0+0 1d1+3999 none
+-80
+0 0 BP Z
+stand stand none 50000
+AHMV ABCDEFGHIJKP medium unknown
+#16423
+no name~
+Tria~
+A bear named tria is attacking you
+~
+~
+bear~
+ABF 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+-50
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV large unknown
+#0
+
+
+
+#OBJECTS
+#16400
+thing~
+thing~
+I beard~
+unknown~
+weapon 0 AN
+exotic 45 45 none 0
+0 0 0 P
+#16404
+key~
+a small key~
+A small key to the Labrynth lies here.~
+oldstyle~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#16405
+chest~
+a small chest~
+A small wooden chest sits in the corner of the room.~
+wood~
+container 0 0
+500 ABCD 16404 500 50
+0 0 0 P
+#16406
+dagger death~
+{1D{3a{1g{3g{1e{3r {1of DE{*AT{1H{0~
+A dagger of death lies here.~
+unknown~
+weapon M AN
+dagger 15 14 pierce ABEG
+101 0 80000 P
+A
+13 250
+A
+12 300
+A
+19 35
+A
+18 30
+A
+5 4
+A
+1 3
+#16407
+golden hands~
+{#G{3o{7l{#d{3e{7n {5H{*an{5ds{0~
+{@A pair of Golden hands lie here.~
+unknown~
+armor 0 AH
+25 25 25 25 0
+101 0 0 P
+A
+13 300
+A
+18 30
+A
+19 40
+A
+4 5
+A
+2 4
+#16409
+amulet magi~
+{@A{2m{5u{@l{2e{5t {@of the {2M{@a{2g{@i~
+A wizard's amulet lies here.~
+Greenness~
+armor 0 AC
+5 5 5 5 0
+101 1 30000 P
+A
+12 500
+A
+4 5
+A
+20 -25
+A
+3 5
+#16416
+green leggings~
+{@G{2r{@e{2e{@n {5Le{7gg{3i{7ng{5s{0~
+{@A pair of green leggings is here, melting in the sun.~
+Green Goup~
+armor MZ AF
+50 50 50 50 0
+101 5 60000 P
+A
+20 -50
+A
+13 450
+A
+12 450
+A
+18 45
+A
+19 40
+#16417
+thrown king's~
+king's thrown~
+The king's thrown is very big, almost big enough to go into.~
+unknown~
+portal 0 0
+999 0 0 16419 0
+101 0 0 P
+#16418
+ball lightning~
+{5B{2a{5l{2l{0 of {#Lightning{0~
+A ball of lighting rests here.~
+unknown~
+light 0 A
+0 0 999 0 0
+101 2 50000 P
+A
+20 5
+A
+17 10
+A
+19 10
+A
+18 10
+#16422
+diamond earring~
+{&D{^i{&a{^m{&o{^n{&d{^ E{&a{^r{&r{^i{&n{^g{0~
+An earring made of pure diamond is here.~
+unknown~
+armor 0 AS
+5 5 5 5 0
+101 0 50000 P
+A
+5 5
+A
+19 20
+A
+18 20
+#16423
+large key~
+a VERY large key~
+A VERY large key sits on the ground.~
+unknown~
+key 0 A
+0 0 0 0 0
+105 0 0 P
+#0
+
+
+
+#ROOMS
+#16400
+The Beggining of the end~
+You stand at the beggining of the end of your life.  The only exit is to
+the north but others flow into here.  This is the one room in the labrynth
+that is safe from mobs.  
+~
+0 73732 0
+D0
+~
+~
+0 0 16401
+S
+#16401
+Inside the Labrynth~
+You are now inside the labrynth, hope you can find a way out!  All around
+there are lost souls fighting to retake the form of an alive mortal.  There
+is a long hallway north with small hallways leading to the east and west.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16402
+D2
+~
+~
+0 0 16400
+S
+#16402
+-| in the Labrynth~
+You stand at a -| in the labrynth.  To the north there is a long hallway
+that will set you free.  To the west there is a shorter hallway that only
+true heroes should enter.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16403
+D2
+~
+~
+0 0 16401
+D3
+~
+~
+0 0 16410
+S
+#16403
+|- in the Labrynth~
+You stand neer the end of a small hallway.  To the north is the guardian
+of the Labrynth.  Going east leads you to the east end of the labrynth where
+the king's quarters is.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16404
+D1
+~
+~
+0 0 16406
+D2
+~
+~
+0 0 16402
+S
+#16404
+Guardian's Quarters~
+You stand at the foot of a giant guardian.  By now you are already dead.  
+~
+0 8192 0
+D0
+~
+~
+4 16404 16405
+D2
+~
+~
+0 0 16403
+S
+#16405
+Your way home~
+Here you can recall your way to safety 
+~
+0 4 0
+S
+#16406
+A busy intersection~
+This is a very busy intersection.  If you head west from here you go back
+to the long hallway.  Going up leads to the Kings quarters and a secret
+underground room.  Going south continues on this small hallway.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16407
+D3
+~
+~
+0 0 16403
+D4
+~
+~
+0 0 16413
+S
+#16407
+|_ In the small hallway~
+You stand on a |_in the small hallway.  To the south is the small hallway
+to the north leads to the king's quarters and the long hallway.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16406
+D1
+~
+~
+0 0 16408
+S
+#16408
+The small hallway~
+You stand in a small hallway this place is crawling with lost souls.  To
+the south there is a large man that would like to have your head.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16409
+D3
+~
+~
+0 0 16407
+S
+#16409
+End of a small hallway~
+You are at the end of a small hallway, to the east you go back to the
+beggining and to the north you head down the small hallway.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16408
+D3
+~
+~
+0 0 16400
+S
+#16410
+A small alley~
+You stand in a small alley.  To the east there is a long hallway and down
+there is a dark cave.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16402
+D5
+~
+~
+0 0 16411
+S
+#16411
+Underground Chamber~
+You stand in the underground chamber.  To the up you get to the ground
+floor, and back to the long hallway.  West, there is a small ally that leads
+you to the almighty Xantha.  
+~
+0 8192 0
+D3
+~
+~
+0 0 16412
+D4
+~
+~
+0 0 16410
+S
+#16412
+Small Alley~
+You stand in the small underground alley.  To the east there is a small
+passage back to the long hallway.  South there is a small, stinky passage
+that leads to Xantha, the unholy beast of the labrynth.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16411
+D2
+~
+~
+0 0 16415
+S
+#16413
+On top of the Labrynth~
+You stand on top of the labrynth from here you can see the entire maze.  
+~
+0 0 0
+D1
+~
+~
+0 0 16414
+D5
+~
+~
+0 0 16406
+S
+#16414
+Before the Thrown room~
+You stand before the thrown room.  To the north the king is pondering
+over his next campain.  To the east is a long passage to the beginning of
+the Labrynth.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16417
+D1
+~
+~
+0 0 16400
+D3
+~
+~
+0 0 16413
+S
+#16415
+Before Xantha's Cavern~
+You stand before Xantha's cavern.  It is VERY hot and VERY smelly here. 
+Xantha doesnt know how to groom himself.  His cavern has only one way in and
+one way out.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16412
+D1
+~
+~
+0 0 16416
+S
+#16416
+Xantha's Cavern~
+Lets make this short and sweet.  Your dead!!!  
+~
+0 4 0
+D4
+~
+~
+0 0 16400
+S
+#16417
+Thrown room~
+A giant red thrown is in the middle of the room, it looks like you could
+fall right into it.  
+~
+0 0 0
+D2
+~
+~
+0 0 16414
+S
+#16419
+Inside the thrown~
+Now how did you get here, better be careful, you get the feeling that
+people don't like you.  
+~
+0 8192 0
+D3
+~
+~
+0 0 16420
+S
+#16420
+Around a corner~
+You sence DEATH here.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16419
+D2
+~
+~
+0 0 16421
+S
+#16421
+Last time to LIVE.~
+Any farther would be stupid!  
+~
+0 0 0
+D0
+~
+~
+0 0 16420
+D2
+~
+~
+0 0 16422
+S
+#16422
+You are DEAD!~
+~
+0 4 0
+D3
+~
+~
+2 16423 16405
+S
+#0
+
+
+
+#SPECIALS
+M 16402 spec_cast_undead
+M 16409 spec_cast_mage
+M 16418 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 16404 0 2
+D 0 16422 3 2
+M 0 16402 10 16402 10
+M 0 16404 1 16404 1
+G 0 16404 0
+O 0 16405 0 16405
+P 0 16406 1 16405 1
+P 0 16407 1 16405 1
+M 0 16409 1 16409 1
+E 0 16409 0 4
+E 0 16409 0 3
+M 0 16417 2 16416 2
+M 0 16416 1 16416 1
+E 0 16416 0 7
+O 0 16417 0 16417
+M 0 16418 1 16417 1
+E 0 16418 0 0
+M 0 16422 1 16422 1
+E 0 16422 0 21
+E 0 16422 0 22
+G 0 16423 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

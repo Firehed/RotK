@@ -1,0 +1,261 @@
+Sender  Wardrof~
+Date    Wed Mar 12 16:27:26 2003~
+Stamp   1047511646
+To      all~
+Subject Random Items~
+Text
+They now have value based on their magic and armor class and they have a new feature.
+Every 4 random items you find will affect your stats by either 1 or 2.
+
+Wardrof
+~
+Sender  Firehed~
+Date    Thu Mar 13 14:49:28 2003~
+Stamp   1047592168
+To      all~
+Subject selling stuff~
+Text
+You should now be able to sell any item (that has a value) at any shopkeeper.
+Shoppies should be able to buy anything, and now they can!
+I'm working on the bug where haggle LOWERS your selling price right NOW
+Letting you know
+Firehed
+~
+Sender  Firehed~
+Date    Thu Mar 13 15:26:31 2003~
+Stamp   1047594391
+To      all~
+Subject A note about the last thing~
+Text
+Haggle is fixed now, you dont haggle DOWN your selling price anymore, you haggle it up.
+~
+Sender  Wardrof~
+Date    Sun Mar 16 08:44:19 2003~
+Stamp   1047829459
+To      all~
+Subject Suffix bug fixed~
+Text
+Suffixes now work properly.
+
+God of The Brotherhood
+~
+Sender  Wardrof~
+Date    Sun Mar 16 15:12:24 2003~
+Stamp   1047852744
+To      all~
+Subject Items purging~
+Text
+This should not happen any more.
+
+God
+~
+Sender  Firehed~
+Date    Mon Mar 17 15:24:05 2003~
+Stamp   1047939845
+To      all~
+Subject Randoms and general stuff~
+Text
+Ok, a pretty large change is now in.
+It is now set up so certain classes cannot wear metal items (any item without the non_metal item flag)
+These classes are (just first tier listed here, but their second and thier tier counterparts are included)
+Mage
+Thief
+Ranger
+Vampire
+Conjurer
+
+I just wated to let everyone know, because this can really affect the way classes are balanced.
+This will also make non-metal items much more sought-after for those listed classes.
+If you are one of those classes and wearing a metal item right now, you can keep wearing it, but if you remove it, you can't get it back on.
+I'm not sure if this will work with weapons yet (random-wise, the AC determines that stuff, but I'm checking NOW), but this should make gameplay more interesting.
+We will probably need to go through some of the more used areas and make sure that the items are accurate that way, non_metal is something that people often ignore while building, but now it actually matters.
+Please feel free to note the imms (or in the forums somewhere, I'll find a good place) about items that should be flagged non_metal that aren't.
+And in case you're wondering, mithril armor randoms are considered non-metal (mithril is kind of a scale thing, although some think its metal, but we're saying its not), so everyone can wear the high-ac randoms (if you can find them!)
+Sorry for the length and the uglyness of the note, but..yeah
+Firehed
+Oh yeah, if you think what classes can/can't wear metal are wierd, it's easily changable, so feel free to note me about that too
+~
+Sender  Firehed~
+Date    Mon Mar 17 15:32:43 2003~
+Stamp   1047940363
+To      all~
+Subject A quick follow-up~
+Text
+A slight change, now anyone can wear any weapon regardless of metal/nonmetal
+This was done mainly beacuse thieves cannot wear metal but daggers are metal, and that wouldn't work, would it?
+Regardless, your weapon shouldn't really affect your noise-making (in a thief/ranger's case) or spellcasting much, so it makes sense anyways.
+Firehed
+~
+Sender  Firehed~
+Date    Mon Mar 17 19:22:30 2003~
+Stamp   1047954150
+To      all~
+Subject Vamps~
+Text
+Vampires, Liches, and Necromancers can now wear metal, like clerics, warriors, and druids.
+We may change it back if vamps get some good skills/spells, but they're on the low end right now, so they can wear metal :)
+~
+Sender  Firehed~
+Date    Mon Mar 17 19:24:08 2003~
+Stamp   1047954248
+To      all~
+Subject metal wearing~
+Text
+As of next reboot, anyone can wear metal under level 25.
+It's really hard to equip at low levels, and restrictions like that make it that much harder.
+Anyways, you don't go a-thiefing an a-casting much at those levels anyways
+Firehed
+~
+Sender  Wardrof~
+Date    Tue Mar 18 13:49:25 2003~
+Stamp   1048020565
+To      all~
+Subject Metal EQ~
+Text
+I made it so that you can wear EQ unless it is flagged metal, not all eq
+is metal unless flagged non-metal.  This makes the IMPs lives a whole lot
+easier, and less buggier down the line.  I hope you guys can figure out what
+is defined as metal and what isn't.  Again, if you see anything that is
+metal that isn't flagged metal, please alert your friendly immortal staff
+and we will fix it as soon as possible.  
+
+God
+~
+Sender  Wardrof~
+Date    Tue Mar 18 15:08:17 2003~
+Stamp   1048025297
+To      all~
+Subject Breath spells~
+Text
+Breath spells are better. They are now a very decent mid to high level spell.
+~
+Sender  Wardrof~
+Date    Fri Mar 21 12:06:31 2003~
+Stamp   1048273591
+To      all~
+Subject Exp code~
+Text
+I changed the exp code by a lot.  People that are above level 61 will see
+an improvement, and people below 61 will think it is worse.  Overall it is
+more balanced, and there is no longer a huge exp cut at level 61.  I hope
+you all like it!  
+God
+~
+Sender  Wardrof~
+Date    Mon Mar 24 13:41:35 2003~
+Stamp   1048538495
+To      all~
+Subject Exp Code~
+Text
+has been changed, just letting you all know that it isnt a bug
+also saves have been minorly modified.
+~
+Sender  Wardrof~
+Date    Sat Mar 29 12:45:17 2003~
+Stamp   1048967117
+To      all~
+Subject Quest EQ~
+Text
+Quest EQ has been changed. I think you will enjoy my changes.
+
+God
+~
+Sender  Wardrof~
+Date    Sat Mar 29 13:29:56 2003~
+Stamp   1048969796
+To      all~
+Subject Camoflauge~
+Text
+Camo does what it is supposed to do now!
+~
+Sender  Firehed~
+Date    Sat Mar 29 18:25:51 2003~
+Stamp   1048987551
+To      all~
+Subject New stuff and fixes~
+Text
+There is now an 'energy bed' spell
+It's available to cleric classes.
+For more detailed info, 'slist energy bed'
+
+Shoppies now no longer require money to buy stuff.
+That will fix shoppies saying 'I can't afford that'.
+Also, you can sell items that shoppies can't see to them
+It doesn't really make sense, but it makes everyones lives easier.
+A/O next reboot, shoppies will also work with invis people, so you
+don't have to blow your cover to list/buy/sell or whatever.
+Quest EQ may get upped in stats too, as well as demon realms things
+(let's face it, only 2-3 items there don't just plain suck)
+I'll also be finishing my area 'Alien Fields' in the near future.
+It'll be a place good for mid-level (20-40ish) exp and items (there are NO good mid-lvl items)
+Anything else thats easy to do will probably get done in the near future.
+
+Firehed, the {DBlack{g and {WWhite {YRabbit{x
+~
+Sender  Wardrof~
+Date    Mon Mar 31 14:28:39 2003~
+Stamp   1049146119
+To      all~
+Subject Pretitle~
+Text
+If you are notitled you cannot change your pretitle either.
+~
+Sender  Wardrof~
+Date    Mon Mar 31 15:17:41 2003~
+Stamp   1049149061
+To      all~
+Subject Bags~
+Text
+You can only take 150 items out at a time. Untested.
+~
+Sender  Wardrof~
+Date    Tue Apr  1 14:08:58 2003~
+Stamp   1049231338
+To      all~
+Subject Kick, Put~
+Text
+You cant put more than 150 items in something at a time (bug fix).
+Kick was removed after people said it wasn't good enough.
+~
+Sender  Wardrof~
+Date    Tue Apr  1 15:59:06 2003~
+Stamp   1049237946
+To      all~
+Subject Thieves stuff~
+Text
+Idea of Chansa giving thieves high level skill was implemented.  New
+skill is called whirlwind.  Does half as much damage, but when you dual
+wield it hits twice.  Backstab and Camo were changed slightly shouldn't
+really affect gameplay.  Steal was changed slightly, again shouldn't affect
+gameplay.  I know there was something else but I can't think of it.  
+
+God
+~
+Sender  Wardrof~
+Date    Wed Apr  2 17:42:17 2003~
+Stamp   1049330537
+To      all~
+Subject Counter, Clan list~
+Text
+Counter has been modified slightly, you will probably see it more often.
+Change list now shows the name of the clan. When posting notes to an entire clan, use the name listed.
+~
+Sender  Wardrof~
+Date    Sat Apr 12 12:01:18 2003~
+Stamp   1050170478
+To      all~
+Subject Energy Bed~
+Text
+You are now safe inside of an Energy Bed.
+~
+Sender  Firehed~
+Date    Sun May  4 19:29:05 2003~
+Stamp   1052098145
+To      all~
+Subject bug~
+Text
+The quiver bug is now fixed.  Before, if you tried to refill an item that you
+didn't have, it would crash; there was no 'does the item exist?' check.
+It works now, refill and typo away :)
+Firehed, fixer of his bugs
+~

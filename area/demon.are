@@ -1,0 +1,1837 @@
+#AREADATA
+Name The Demon Realms~
+Builders Firehed~
+VNUMs 16300 16399
+Credits [ HERO] Firehed The Demon Realms~
+Security 9
+End
+
+
+
+#MOBILES
+#16308
+demon red~
+The Red Demon~
+The Red Demon just woke up, and he's hungry...   For flesh!
+~
+~
+Draconian~
+ABF T 0 0 0
+105 800 1d1+30000 1d1+9999 1d1+5000 flame
+-15
+A LQ H FGIJ
+stand stand none 10000
+AHMV ABCDEFGHIJKPQ large unknown
+F res I
+#16309
+giant~
+The Giant~
+The Giant is here, pissed off that you just woke him up!
+~
+~
+Giant~
+ABF 0 0 0 0
+107 0 1d1+30000 5d2579+178 1d1+6000 none
+-16
+AO 0 HI JP
+stand stand none 16494
+AHMV ABCDEFGHIJK giant Flesh
+#16310
+boogey man~
+The Boogey Man~
+The Boogey Man is here, annoyed that anyone whould inturupt his dancing.
+~
+~
+Human~
+ABF 0 0 0 0
+105 0 1d1+7000 0d0+0 5d7+1500 none
+-20
+A 0 0 0
+stand stand none 21546
+AHMV ABCDEFGHIJK medium unknown
+#16311
+redneck~
+A Redneck~
+A redneck is here, and he attacks just for the hell of it.
+~
+~
+Human~
+ABF 0 0 0 0
+105 0 1d1+30000 0d0+0 1d1+7000 none
+-25
+B 0 0 0
+stand stand none 37581
+AHMV ABCDEFGHIJK medium unknown
+#16312
+mangled cat~
+A healer~
+A mangled cat is here, to help heal your wonds.
+~
+~
+cat~
+ABa Z 0 0 0
+0 0 1d1+29999 1d1+29999 100d100+1000 none
+0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUV medium unknown
+#16313
+ibm clean room guy~
+{&Clean-Suit {*M{7a{*n{0~
+A tired IBMer is here, in a bunny suit, attacking you!
+~
+~
+Human~
+ABF DF E -650 0
+104 666 1d1+30000 0d0+0 1d1+10000 thwack
+81
+AK A 0 0
+stand stand male 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16314
+money green demon~
+{@The {2M{@o{2n{@e{2y {@D{2e{@m{2o{@n{0~
+A flat, wide, green demon is here!
+~
+~
+Draconian~
+ABF T S 0 0
+104 342 1d1+30000 0d0+0 1d1+11000 none
+1000
+0 ALQ IRX FGHJ
+stand stand either 0
+AHMV ABCDEFGHIJKPQ medium money
+F res H
+#16315
+earth demon~
+{2Ea{@rt{*h D{@em{2on{0~
+A huge pile of dirt is here, attacking you...?
+~
+~
+Gnome~
+ABF J CDES 821 0
+104 725 1d1+30000 30000d1+0 1d1+12500 wrath
+2500
+0 A P R
+stand stand none 193
+AHMV ABCDEFGHIJK large unknown
+#16316
+blue water demon~
+{$The {4B{$l{4u{$e {4W{$a{4t{$e{4r {*D{3e{#m{3o{*n{0~
+A huge blue demon is flooding the room!
+~
+~
+water fowl~
+ABF Tb PS 255 0
+104 555 1d1+30000 30000d1+0 1d1+15000 drain
+70
+A A R 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#16317
+leviathan~
+{4L{$e{6v{^i{7a{^t{6h{$a{4n{0~
+A huge watery beast is here, ready to devour you!
+~
+~
+water fowl~
+ABF Tb HS -750 0
+104 512 1d1+30000 30000d1+0 1d1+17500 none
+4000
+AE AR H J
+stand stand none 0
+AGW ACDEFHKP giant unknown
+F res R
+#16318
+wood demon tree~
+{*W{7oo{&d {^D{&e{7mo{*n{0~
+A giant tree, seemingly harmless is here, but it starts swinging its branches at you.
+~
+~
+Giant~
+ABF DFQa B 0 0
+104 650 1d1+30000 20000d1+500 1d1+20000 thwart
+4500
+AI AX I HJP
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+F res H
+#16319
+gold demon~
+{3G{#o{7l{&d {#D{&e{7m{#o{3n{0~
+A demon the same color as the golden walls is here, killing you!
+~
+~
+Human~
+ABF PQa C -450 0
+104 0 1d1+30000 30000d1+0 1d1+20000 none
+5000
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16320
+rufus shin-ra shinra~
+{*R{7u{&f{7u{*s{0~
+A tall handsome man is here, keeping up the family business.
+~
+~
+Human~
+ABF DF QR 300 0
+104 764 1d1+30000 30000d1+0 1d1+20000 none
+4000
+0 A 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16321
+sun demon light~
+{7S{&u{3n {#De{3m{&o{7n{0~
+A huge ball of light is here, nearly blinding you!
+~
+~
+Gnoll~
+ABF FZ DH -254 0
+104 150 1d1+30000 30000d1+0 1d1+20000 none
+0
+AI AIS H RY
+stand stand none 0
+AHMV ABCDEFGHIJKUV medium unknown
+#16322
+sephiroth great warrior~
+{7S{*e{&p{*h{7i{*r{&o{*t{7h{0~
+The great warrior, {7S{*e{&p{*h{7i{*r{&o{*t{7h{0 is here, ready to protect his mother.
+~
+~
+Human~
+ABF 0 CDEHPQRS -1000 0
+104 1050 1d1+30000 30000d1+0 1d1+25000 none
+3000
+0 A DMQ N
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16323
+jenova mother~
+{%J{5E{%N{5O{%V{5A{0~
+The great warrior's Mother, {%J{5E{%N{5O{%V{5A{0 is here, defending itself.
+~
+~
+Human~
+ABF DF CDEHPQRS -1000 0
+104 876 1d1+30000 30000d1+0 1d1+22500 beating
+5000
+0 AR E J
+stand stand none 45628
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16324
+master tonberry~
+{2M{@a{3s{#ter {3T{@o{2nbe{@r{3r{#y{0~
+A green, hooded creature is here, with a star floating over his head.
+~
+~
+hobgoblin~
+ABF J CDEPQS -1000 0
+104 572 1d1+30000 30000d1+0 1d1+22500 stab
+0
+0 A LQ 0
+stand stand none 1503
+AHMV ABCDEFGHIJKY medium unknown
+#16325
+guard realm~
+The Realm Guard~
+A Guard of the realm is here, willing to die to protect the area!
+~
+~
+Human~
+ABF DFa 0 0 0
+104 342 1d1+25000 0d0+0 1d1+5000 none
+3000
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#16326
+rainbow demon~
+{!R{@a{#i{$n{%b{^o{&w {*D{7e{3m{2o{1n{0~
+The {!R{@a{#i{$n{%b{^o{&w {*D{7e{3m{2o{1n{0 is here to protect he royal palace!
+~
+~
+Avian~
+ABF DFJLT CDEPQRS 1000 0
+104 326 30000d1+0 30000d1+0 1d1+25000 suction
+4000
+A A J LQ
+stand stand none 9738
+AHMV ABCDEFGHIJKP medium unknown
+#16327
+agahnim wizard~
+{*A{7ga{&h{7ni{*m{0~
+The Great Wizard, Agahnim, is here, cursing you!
+~
+~
+dragon~
+ABF JT H -999 0
+104 483 30000d1+0 30000d1+0 1d1+25000 none
+0
+EHN A BEHP FINSXY
+stand stand none 1032
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#16328
+ganon~
+{*G{7a{&n{7o{*n{0~
+A great, evil wizard is here, ready to eat your soul.
+~
+~
+Human~
+ABF DF H -1000 0
+104 725 30000d1+0 30000d1+0 1d1+25000 divine
+-100
+EHIN APQ DS FN
+stand stand none 102
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16330
+fire demon~
+{1F{!ir{3e {#D{3e{!mo{1n{0~
+A towering inferno of a demon is here, burning you!
+~
+~
+dragon~
+ABF JT D 0 0
+104 730 30000d1+0 30000d1+0 1d1+25000 bite
+5000
+A A BEH FI
+stand stand none 1023
+AHZ ACDEFGHIJKPQUVX medium unknown
+#16331
+silver demon~
+{*Si{7lve{&r {7Dem{*on{0~
+A huge demon of silver is here, destroying you.
+~
+~
+Draconian~
+ABF T HPS -200 0
+104 741 30000d1+0 30000d1+0 1d1+25000 beating
+3000
+A ALQ HI FGJ
+stand stand none 0
+AHMV ABCDEFGHIJKPQ medium unknown
+#16332
+air demon~
+{6A{^i{6r D{^e{&m{^o{6n{0~
+Some sort of outline of the air itself is floating around...
+~
+~
+Pixie~
+ABF EJT CHS 0 0
+104 853 30000d1+0 30000d1+0 1d1+25000 none
+5000
+A A BP Z
+stand stand none 103
+AHMV ABCDEFGHIJKP medium unknown
+#16333
+aeris ancient~
+{7A{&e{^r{&i{7s{0~
+Aeris, the last remaining Ancient, is here, deep in prayer.
+~
+~
+modron~
+AB DFJLPQc FH 1000 0
+104 1000 30000d1+0 30000d1+0 1d1+25000 divine
+5000
+HR ABN CHIKLMOQSY 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium unknown
+F off Q
+F imm MPQ
+#16334
+everyone~
+everyone~
+A huge horde of people is here, with healing powers!
+~
+~
+Human~
+ABa DF CDEHPQRS 1000 0
+110 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#16335
+rude the turk~
+{7R{&ud{7e{0~
+Rude of the Turks is here, protecting Aeris.
+~
+~
+Giant~
+ABF DFV BCDEHPQRS 200 1
+104 657 30000d1+0 30000d1+0 1d1+25000 peck
+-95
+A A HI JP
+stand stand none 2342203
+AHMV ABCDEFGHIJK medium unknown
+#16336
+reno the turk~
+{2R{@en{2o{0~
+Reno of the Turks is here, protecting Aeris.
+~
+~
+bear~
+ABF DF BCDEHPQRS 400 1
+104 742 30000d1+0 30000d1+0 35d31+20 cleave
+-100
+DEO A EI 0
+stand stand none 219382
+AGV ABCDEFHJKUV medium unknown
+#16337
+elena the turk~
+{3E{#l{^e{#n{3a{0~
+Elena of the Turks is here, protecting Aeris.
+~
+~
+bat~
+ABF TZ CDEHPQRS 600 1
+104 656 30000d1+0 30000d1+0 1d1+20000 slap
+7500
+FH A 0 S
+stand stand none 28347
+AGV ACDEFHJKP medium unknown
+#16338
+tseng turk~
+{1T{!s{6e{!n{1g{0~
+Tseng of the Turks is here, protecting Aeris.
+~
+~
+modron~
+ABF J CDEPQS 800 1
+104 549 30000d1+0 30000d1+0 1d1+17500 slash
+5000
+QR ABMNPQ HIK 0
+stand stand none 0
+H ABCGHJK medium unknown
+#16340
+deadguy~
+deadguy~
+Test dead guy here
+~
+~
+Human~
+A 0 0 0 0
+0 0 1d1+30000 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16307
+Dragon Hide Ring~
+{!A {#D{3e{#m{3o{#n {$H{4i{$d{4e {^R{6i{^n{6g{x~
+A Ring of Demon Skin is here.~
+Demon Hide~
+armor A AB
+10 10 10 10 0
+101 0 0 P
+A
+13 150
+A
+1 1
+A
+18 15
+A
+19 15
+#16308
+dragon hide ring~
+{!A {#D{3e{#m{3o{#n {$H{4i{$d{4e {^R{6i{^n{6g{x~
+A Ring of Demon Skin is here~
+Demon Hide~
+armor 0 AB
+10 10 10 10 0
+101 0 50000 P
+A
+12 200
+A
+4 1
+A
+3 1
+A
+20 -15
+#16309
+huge sweaty shirt~
+a {^Huge Sweaty Shirt{0~
+A wet shirt large enough for a giant is here.~
+unknown~
+armor Y AD
+300 30 30 30 0
+101 0 20000 P
+A
+19 15
+A
+18 15
+A
+14 150
+A
+12 150
+A
+13 150
+#16310
+disco belt~
+{#Disco Champion's {$Belt{0~
+The belt of a disco champion is here.~
+unknown~
+armor G AL
+150 50 50 50 0
+101 0 30000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+#16311
+redbeard can beer~
+a {!R{1e{!d{1b{!e{1a{!r{1d {^Can 'O {$Vermont {#Beer{0~
+A Can of Redbeard brand Vermont beer hovers here.~
+unknown~
+drink ABGSY AQ
+999999999 999999999 'absinthe' 0 0
+101 5 500000 P
+A
+19 20
+A
+18 25
+A
+13 250
+A
+12 200
+A
+17 100
+#16312
+bed spikes~
+a Bed of {*Dull {0spikes~
+A bed of {*dull{0 spikes is here... aiding your wounds.~
+unknown~
+furniture A 0
+99 99999 HK 10000 10000
+0 0 0 P
+#16313
+white fabric gloves~
+{&White Fabric Gloves{0~
+Some {&White Fabric Gloves{0 are here~
+unknown~
+armor 0 AH
+75 24 28 25 0
+1 0 12312 P
+A
+1 5
+A
+2 5
+A
+3 5
+A
+4 5
+A
+5 5
+A
+20 -50
+A
+14 100
+A
+12 100
+A
+13 50
+#16314
+money platinum 150~
+150 Platinum~
+A pile of platinum is here.~
+unknown~
+money 0 A
+1500000 0 0 0 0
+0 0 0 P
+#16315
+ring melting~
+{#R{3i{#n{3g{2 of {!M{1e{!l{1t{!i{1n{!g{0~
+A {#R{3i{#n{3g{2 of {!M{1e{!l{1t{!i{1n{!g{0 is here.~
+unknown~
+armor A AB
+50 10 10 10 0
+0 0 0 P
+A
+20 -30
+A
+19 30
+A
+18 30
+A
+12 100
+F
+A 0 0 U
+#16316
+watery cloak~
+{$W{4a{$t{4e{$r{4y {$C{4l{$o{4a{$k{0~
+A {$W{4a{$t{4e{$r{4y {$C{4l{$o{4a{$k{0 is here.~
+unknown~
+armor Y AC
+50 20 20 20 0
+101 2 1000000 P
+A
+20 -50
+A
+19 30
+A
+18 30
+A
+14 200
+A
+12 300
+A
+13 250
+F
+R 0 0 H
+#16317
+scales water god~
+{&S{7c{*a{7l{&e{7s {*o{7f {&T{7h{*e {$W{4a{$t{4e{$r {7G{&o{7d{0~
+The {&S{7c{*a{7l{&e{7s {*o{7f {&T{7h{*e {$W{4a{$t{4e{$r {7G{&o{7d{0 are here.~
+unknown~
+armor Y AF
+75 23 16 31 0
+101 2 1500000 P
+A
+19 35
+A
+18 35
+A
+20 -50
+A
+12 150
+A
+13 200
+#16318
+origami bracelet~
+{!O{@r{#i{$g{%a{^m{&i {7B{6r{5a{4c{3e{2l{1e{8t{0~
+An {!O{@r{#i{$g{%a{^m{&i {7B{6r{5a{4c{3e{2l{1e{8t{0 is here.~
+unknown~
+armor 0 AM
+12 23 21 31 0
+101 0 50000 P
+A
+19 15
+A
+18 15
+A
+14 200
+A
+12 350
+A
+13 50
+#16319
+sleeves woven gold~
+{2Sleeves woven of {#G{3o{#l{3d{0~
+Some {2Sleeves woven of {#G{3o{#l{3d{0 are here.~
+gold~
+armor F AI
+100 70 68 69 0
+101 0 0 P
+A
+13 150
+A
+12 200
+A
+14 50
+A
+19 45
+A
+18 45
+A
+20 -50
+#16320
+Shinra Shin-Ra earring~
+{&Shin{*-{&Ra {7Earring{0~
+A {&Shin{*-{&Ra {7Earring{0 is here.~
+unknown~
+armor 0 AS
+50 75 75 75 0
+101 0 0 P
+A
+19 40
+A
+18 40
+A
+13 200
+A
+12 300
+A
+20 -50
+E
+shin-ra~
+Inscribed on the earring is the following code:
+X9Q26FA8E7O
+~
+E
+earring~
+Inscribed on the earring is the following code:
+X9Q26FA8E7O
+~
+#16321
+sun light sunlight~
+{#S{3u{#n{3l{#i{3g{#h{3t{0~
+Some {#S{3u{#n{3l{#i{3g{#h{3t{0 is here.~
+unknown~
+light ABGI A
+0 0 999 0 0
+101 0 1000000 P
+A
+19 50
+A
+18 50
+A
+13 250
+A
+12 300
+#16322
+masamune blade sword~
+{&M{7a{&s{*a{&m{7u{&n{7e{0~
+The sword of Sepiroth lies here, glistening in the sunlight.~
+unknown~
+weapon ABM AN
+sword 25 28 none ADF
+101 0 150000 P
+A
+20 -50
+A
+14 600
+A
+12 650
+A
+13 500
+A
+17 200
+A
+19 40
+A
+18 40
+#16323
+tentacle anklets~
+{%T{5e{%n{5t{%a{5c{%l{5e {%A{5n{%k{5l{%e{5t{%s{0~
+Some {%T{5e{%n{5t{%a{5c{%l{5e {%A{5n{%k{5l{%e{5t{%s{0 are here.~
+tentacles~
+armor 0 AU
+50 20 22 17 0
+101 1 5000000 P
+A
+19 35
+A
+18 35
+A
+20 -75
+A
+13 600
+A
+14 500
+A
+12 400
+#16324
+master tonberry star~
+{#F{3l{#o{3a{#t{3i{#n{3g{2, {@S{2p{@i{2n{@n{2i{@n{2g {^S{6t{^a{6r{0~
+A {#F{3l{#o{3a{#t{3i{#n{3g{2, {@S{2p{@i{2n{@n{2i{@n{2g {^S{6t{^a{6r{0 is floating here.~
+tonberry~
+armor 0 AE
+200 10 10 10 0
+101 0 2500000 P
+A
+20 -25
+A
+19 25
+A
+18 25
+A
+14 150
+A
+12 300
+A
+13 200
+#16325
+bone earring~
+{7B{*o{&n{*e {7E{*a{&r{*r{7i{*n{&g{0~
+A {7B{*o{&n{*e {7E{*a{&r{*r{7i{*n{&g{0 is here.~
+bone~
+armor G AS
+50 15 20 6 0
+101 1 1000000 P
+A
+19 30
+A
+18 30
+A
+14 350
+A
+12 250
+A
+13 150
+A
+20 -30
+#16326
+gemmed necklace~
+{!G{#e{@m{$m{^e{%d {*N{7e{^c{5k{$l{3a{2c{1e{0~
+A {!G{#e{@m{$m{^e{%d {*N{7e{^c{5k{$l{3a{2c{1e{0 is here.~
+gems~
+armor Y AC
+50 29 32 31 0
+101 0 3000000 P
+A
+12 300
+A
+20 -50
+A
+13 250
+F
+R 0 0 I
+F
+R 0 0 J
+F
+R 0 0 K
+E
+necklace~
+This necklace will aid you in the resistance of the {gacid{x, {bcold{x,
+and {Ylightning{x elements.  
+~
+#16327
+mirror shield~
+{^T{&h{^e {^M{7i{&rr{7o{^r S{7h{&ie{7l{^d{0~
+{^T{&h{^e {^M{7i{&rr{7o{^r S{7h{&ie{7l{^d{0 is here.~
+glass~
+armor 0 AJ
+300 200 200 200 0
+101 0 2000000 P
+A
+20 -50
+A
+12 500
+A
+13 300
+F
+R 0 0 J
+F
+R 0 0 H
+F
+R 0 0 I
+F
+R 0 0 K
+F
+R 0 0 R
+F
+R 0 0 N
+F
+R 0 0 G
+E
+mirror~
+This shield gives you resistance to all of the shields:
+{@Acid
+{*Glass
+{4Water{0
+{&Holy
+{RFire
+{^Ice
+{$Shock{0
+~
+E
+shield~
+This shield gives you resistance to all of the shields:
+{$Shock{0
+{^Ice
+{RFire
+{&Holy
+{4Water{0
+{*Glass
+{@Acid{0
+~
+#16328
+the big key~
+{#The Big Key!{0~
+A giant key is lying here.~
+unknown~
+key 0 A
+0 0 0 0 0
+104 0 0 P
+#16329
+red chain mail~
+{RR{re{Rd {rC{Rh{ra{Ri{rn {RM{ra{Ri{rl{0~
+Some {RR{re{Rd {rC{Rh{ra{Ri{rn {RM{ra{Ri{rl{0 is here, protecting whoever wears it.~
+unknown~
+armor ABMZ AK
+350 250 250 250 0
+101 0 100000 P
+A
+20 -25
+A
+19 30
+A
+18 30
+A
+12 350
+A
+13 300
+#16330
+wrist mounted lighter~
+{1W{!r{3i{#s{3t{!-{1M{!o{3u{#n{3t{!e{1d {!L{3i{#g{3h{!t{1e{!r{0~
+A {1W{!r{3i{#s{3t{!-{1M{!o{3u{#n{3t{!e{1d {!L{3i{#g{3h{!t{1e{!r{0 is here, burning stuff.~
+FIRE~
+armor ABE AM
+75 30 30 30 0
+101 0 1574294 P
+A
+12 250
+A
+13 300
+A
+18 40
+A
+19 40
+#16331
+silver tooth~
+a {&S{7i{&l{7v{&e{7r {*Tooth{0~
+A {&S{7i{&l{7v{&e{7r {*Tooth{0 is here.~
+silver~
+armor 0 AR
+75 5 5 5 0
+101 0 100000 P
+A
+12 350
+A
+13 150
+A
+18 25
+A
+19 25
+#16332
+boots flight~
+{@B{2o{@o{2t{@s {2o{@f {2F{@l{2i{@g{2h{@t{0~
+The {@B{2o{@o{2t{@s {2o{@f {2F{@l{2i{@g{2h{@t{0 are hovering here.~
+unknown~
+armor 0 AG
+75 15 15 15 0
+101 0 1500000 P
+A
+19 25
+A
+18 25
+A
+14 100
+A
+12 100
+A
+13 100
+F
+A 0 0 T
+E
+boots~
+These boots make you fly without a doubt.
+~
+E
+flight~
+These boots make you fly without a doubt.
+~
+#16333
+white materia~
+{&W{^h{&i{^t{&e {^M{&a{^t{&e{^r{&i{^a{0~
+A glowing ball of materia is here.~
+unknown~
+armor 0 AO
+60 20 20 20 0
+101 1 1238474 P
+A
+19 55
+A
+18 55
+A
+20 -60
+A
+12 650
+A
+13 500
+#16334
+huge chest~
+a Huge Chest~
+A huge chest is here, holding something very important.~
+unknown~
+container 0 0
+100000 ABCD 16335 100000 0
+0 0 0 P
+#16335
+small key~
+the Small Key~
+A small key is here.~
+metal~
+key G A
+0 0 0 0 0
+104 0 0 P
+#16339
+sword wizslap~
+{1W{7i{1z{7s{1l{7a{1p{0~
+An extremely powerful sword is here.~
+slap~
+weapon EM AN
+sword 11 14 slap ABDEG
+55 0 6900 P
+#16340
+happy scroll~
+{!H{@A{#P{$P{%Y {^S{&C{*R{!O{@L{#L{$!{%!{^!{&!{*!{0~
+A {!H{@A{#P{$P{%Y {^S{&C{*R{!O{@L{#L{$!{%!{^!{&!{*!{0 is here!~
+unknown~
+scroll 0 0
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#16341
+fulllife full life potion~
+full-life potion~
+A Full-life potion is here.~
+unknown~
+potion 0 A
+0 'full life' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#16383
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#16384
+levelizer~
+levelizer~
+The levelizer~
+unknown~
+trash 0 AG
+0 0 0 0 0
+0 0 0 P
+A
+5 25
+A
+3 25
+A
+1 25
+A
+4 25
+A
+2 25
+#16385
+firehed equipment sack~
+firehed's equipment sack~
+Firehed's Equipment Sack is here.~
+unknown~
+container 0 A
+100000 0 0 100000 0
+0 0 0 P
+#16386
+ring immunity~
+{GR{Bi{Dn{Wg {bo{rf {YI{Rm{Cm{Gu{Bn{Di{Wt{gy{x~
+The {GR{Bi{Dn{Wg {bo{rf {YI{Rm{Cm{Gu{Bn{Di{Wt{gy{x is here.~
+unknown~
+armor ABGIa AB
+5000 5000 5000 5000 0
+110 0 0 P
+F
+S 0 0 C
+F
+S 0 0 D
+F
+S 0 0 E
+F
+S 0 0 P
+F
+S 0 0 Q
+F
+S 0 0 S
+F
+S 0 0 R
+F
+S 0 0 O
+F
+S 0 0 N
+F
+S 0 0 A
+#16387
+wand chopping~
+{gWand of {z{RC{YH{GO{CP{BP{MI{RN{YG{x{D!{w!{W!{w!{D!{x~
+THE {gWand of {z{RC{YH{GO{CP{BP{MI{RN{YG{x{D!{w!{W!{w!{D!{x is here!~
+unknown~
+wand E AO
+100000 1000000000 1000000000 'change sex' 0
+110 0 1 P
+#16388
+marble full of fire~
+{#M{!a{3r{1b{#l{!e {3f{1u{#l{!l {3o{1f {#F{!i{3r{1e{0~
+A {#M{!a{3r{1b{#l{!e {3f{1u{#l{!l {3o{1f {#F{!i{3r{1e{0 is here.~
+fire~
+armor G AT
+100 40 40 40 0
+101 0 1 P
+A
+13 300
+A
+12 300
+A
+20 -50
+A
+18 20
+A
+19 80
+#16389
+wardrof stocking stuffer~
+wardrof's Stocking Stuffers~
+Wardrof's Bag O' Shitte~
+unknown~
+container Y A
+1000000000 A 0 2147483647 0
+110 0 0 P
+#16390
+pack o'bacon bacon~
+{!P{#A{@C{^K {$O{%'{!B{#A{@C{^O{$N{*!{7!{&!{7!{*!{0~
+A {!P{#A{@C{^K {$O{%'{!B{#A{@C{^O{$N{0 is here{*!{7!{&!{7!{*!{0~
+fat~
+food ABEFGIa A
+2147483647 2147483647 0 0 0
+110 0 1 P
+#16391
+juke box jukebox~
+{!N{#E{@O{^N {$J{%U{!K{#E{@B{^O{$X{*!{7!{&!{7!{*!{0~
+A {!N{#E{@O{^N {$J{%U{!K{#E{@B{^O{$X{0 is here{*!{7!{&!{7!{*!{0 ~
+unknown~
+jukebox ABEFGIa A
+0 0 0 0 0
+110 0 1 P
+#16392
+nice spellup~
+{!N{#I{@C{^E {$S{%P{!E{#L{@L{^U{$P{*!{7!{&!{7!{*!{0~
+A {!N{#I{@C{^E {$S{%P{!E{#L{@L{^U{$P{0 is here{*!{7!{&!{7!{*!{0~
+unknown~
+potion ABEFGIa A
+40000 'acidshield' 'glassshield' 'holyshield' 'watershield'
+101 0 1 P
+#16393
+mega spellup~
+{!M{#E{@G{^A {$S{%P{!E{#L{@L{^U{$P{*!{7!{&!{7!{*!{0~
+A {!M{#E{@G{^A {$S{%P{!E{#L{@L{^U{$P{0 is here{*!{7!{&!{7!{*!{0~
+unknown~
+potion ABEFGIa A
+60000 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+101 0 1 P
+#16394
+super potion~
+{!S{#U{@P{^E{$R {%P{!O{#T{@I{^O{$N{*!{7!{&!{7!{*!{0~
+A {!S{#U{@P{^E{$R {%P{!O{#T{@I{^O{$N{0 is here{*!{7!{&!{7!{*!{0~
+unknown~
+potion ABEFGIa A
+10000 'final blessing' 'bless' 'heroes feast' 'sanctuary'
+101 0 1 P
+#16395
+happy wand~
+{!H{#A{@P{^P{$Y {%W{!A{#N{@D{^!{$!{*!{7!{&!{7!{*!{0~
+A {!H{#A{@P{^P{$Y {%W{!A{#N{@D{0 is here{^!{$!{*!{7!{&!{7!{*!{0~
+unknown~
+wand 0 AO
+110 10000 10000 'quest pill' 0
+110 0 1 P
+#16396
+qp token quest~
+qp token~
+A qp token~
+unknown~
+token 0 A
+CFG 0 0 0 0
+0 0 0 P
+#16397
+handful icy flames light~
+{!H{1a{3n{#d{3f{1u{!l {4of {^Icy {#F{3l{1a{!m{3e{#s{0~
+Icy flames are here.~
+unknown~
+light ABGI AQ
+0 0 999 0 0
+45 0 0 P
+A
+13 150
+A
+12 200
+A
+18 12
+A
+19 12
+A
+5 3
+#16398
+bag sac firehed shitte~
+firehed's Bag O' Shitte~
+Firehed's Bag 'O Shitte is here.  DON'T TOUCH IT!!~
+unknown~
+container ABEFGIYa A
+1000000000 A 0 200 0
+110 0 1 P
+#16399
+black hole~
+{8A Black Hole{0~
+{8A Black Hole{0 is ...not... here.~
+nothing~
+pit 0 AR
+0 0 0 0 0
+110 0 1 P
+#0
+
+
+
+#ROOMS
+#16300
+Entrance to the Demon Realms~
+You have just entered the Demon Realms.  Be weary traveller, for one
+wrond step may have you wishing you had your mommy with you.  
+~
+0 65540 0
+D0
+~
+~
+0 0 16306
+D1
+~
+~
+0 0 16305
+D2
+~
+~
+0 0 16301
+S
+#16301
+An empty room~
+There is nothing in this room, and a small earthquake just sealed the way
+you came.  East is the only exit.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16304
+S
+#16302
+A Dead End~
+You have reached a dead end.  Better turn around and go back the way you
+came.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16300
+S
+#16303
+An empty cavern~
+At this point, you can be brave and go West, or retreat to the North.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16304
+D3
+~
+~
+0 0 16307
+S
+#16304
+Another empty cavern~
+From here, you can continue by going south, or retreat to the west.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16303
+D3
+~
+~
+0 0 16301
+S
+#16305
+An empty room~
+There is nothing in this room except a hole down to Market Square.  The
+way you came from seems to have just sealed itself shut.  Down is the only
+way out.  
+~
+0 8192 0
+D5
+~
+~
+0 0 3014
+S
+#16306
+A Dead End~
+You have reached a dead end.  Better turn around and go back the way you
+came.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16300
+S
+#16307
+A warm cavern~
+You start to get a nasty feeling here, for to the South, you can see
+something red, although you can not make out what it is.  Well, You've
+gotten this far, I hope you can make it further.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16303
+D2
+~
+~
+0 0 16308
+S
+#16308
+The Demon's Chamber~
+You just wandered into the Demon's Chamber.  Bad move!  Well, you just
+woke up a creature 17 times your size and strength...  Have fun!  
+~
+0 8192 0
+D0
+~
+~
+0 0 16307
+D2
+~
+~
+0 0 16309
+S
+#16309
+The Giant's Bedroom~
+Well, you got away from that demon alive, but you ended up waking up a
+giant in the process.  And as you manage to get a glance to the West, you
+spot what appears to be the boogey man (?)  .  Well, you got past the demon,
+so a giant shouldn't be too hard.  Anyways, he's tired.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16308
+D3
+~
+~
+0 0 16310
+S
+#16310
+A Dance Hall~
+You just entered a Disco hall.  The boogey man is here, although far from
+what you ever expected.  A dancing maniac, you would have thought he was the
+one to haunt children in their dreams.  Maybe disco scares them...  
+~
+0 8192 0
+D1
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16311
+S
+#16311
+Vermont~
+Well, ya just landed smack-dab in the middle of Vermont, better known as
+Redneck Country.  You obviously don't know where you are if you can't
+identify the "Moo"ing animal.  A cow by the way (K-ow).  A huge redneck is
+here, and an odd beer can is floating by him.  
+~
+0 8192 0
+E
+beer~
+A Redbeard brand can of beer is mysteriously floating next to the redneck.  
+~
+D1
+~
+~
+0 0 16310
+D3
+~
+~
+0 0 16312
+S
+#16312
+The Healing Grounds~
+In this room, there is an odd creature, presumably a healer, and a bed 'o
+spikes to rest on (they're dull).  
+~
+0 1028 0
+D0
+~
+~
+0 0 16313
+S
+#16313
+The Clean Room~
+You have just entered the Clean Room at IBM.  Here, there is one of those
+crazy guys in a bunny suit, but he's gone insane being stuck in a dust-free
+environment for the past 7.5 years.  He attacks you!  
+~
+0 8192 0
+D4
+~
+~
+0 0 16314
+S
+#16314
+The Money Demon's Lair~
+You have just entered the lair of another one of the demons.  This one is
+bright green in color, very near the same color of a wad of cash.  Although
+he is holding a large pile of money, there isn't any else in the room to try
+to get from him.  Thinking that you are the stealing looting people that you
+are, he attacks you, willing to die for his money.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16315
+D5
+~
+~
+0 0 16313
+S
+#16315
+Guard House~
+This is where the guards of the realm reside.  There must be six or seven
+guards here, all of whom definately are not the nice welcoming type.  You
+notice that one of the guards is slightly translucent, and have a feeling
+that he is the one that you need to kill to get past the guards.  Of course,
+you could just flee back to where you came from, or try to get what appears
+to be a magical ring off of the main guard.  Whatever you do, you better
+choose fast, because all of the guards here launch into an incredible attack
+against you.  
+~
+0 8192 0
+D3
+~
+~
+0 0 16314
+D5
+~
+~
+0 0 16316
+S
+#16316
+Lair of the Water Demon~
+The water demon resides here.  As you wonder how a solid beast could
+possibly be made of water, you glimpse what appears to be the Great Water
+God, Leviathan, to the north!  This demon is wearing some sort of a water
+cloak around his neck.  Unsurprisingly, he attacks you too.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16317
+S
+#16317
+The Leviathan's Chambers~
+Great, just great!  You just managed to defeat the water demon, but it
+seems that his sole purpose was to protect his God and master, Leviathan. 
+Just his name sends a little chill of fear down your spine, but since you
+are now gazing into his {$COLOSSAL{0 body, your instincts are telling you
+nothing less than to run for your life!  
+~
+0 8192 0
+D1
+~
+~
+0 0 16318
+D2
+~
+~
+0 0 16316
+S
+#16318
+The Wooden Demon's Forest~
+In here, what seems like a mighty redwood tree is planted firmly into the
+ground.  Just as you think that it is safe for a little while, you notice
+that the tree seems to have dark circles exactly where eyes should be, if it
+was alive.  But, you realize all too late, that this isn't an ordinary tree,
+its the great Wood Demon!  Wrapped around one of it's branches is what seems
+like a piece of paper.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16319
+D3
+~
+~
+0 0 16317
+S
+#16319
+A Golden Palace~
+You have just entered a giant golden palace.  Everything seems to be made
+of solid gold here.  If you weren't being attacked by a demon that seems to
+be wearing sleeves of pure gold, you would take out your weapon and carve
+out a bit of the wall to spend.  Well, too bad.  
+~
+0 8192 0
+D0
+~
+~
+0 0 16320
+S
+#16320
+Shin-Ra Building, 70th Floor~
+After getting past that golden demon, you are feeling pretty brave, yet
+still somewhat scared.  You are really starting to hope that the exit to the
+Demon Realms is approaching, but you are not too hopeful.  It turns out that
+as you had entered the palace, you had just entered the world's largest
+elevator, which took you to the top of the Shin-Ra building.  You are now on
+the 70th floor, and Rufus is here, protecting 'what is rightfully his'.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16319
+D5
+~
+~
+0 0 16321
+S
+#16321
+The Greenhouse~
+Now, you are in a greenhouse of some sort.  It is dazzlingly bright in
+here, and as you squint around to look for the bright source, a Demon of the
+Sun is what you find.  He is holding a light so powerful that you would
+swear that it is a chunk of the sun.  You feel as if you are going to melt
+in here, and have a feeling that some sort of water attack would put out
+this problem pretty quick.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16322
+D4
+~
+~
+0 0 16320
+S
+#16322
+The Planet's Core~
+After defeating the Sun Demon, the earth trembled and you fell down into
+a fissure that formed from it.  You fell down...  Down...  Down...  Down... 
+And ended up here, in the planet's core.  You are floating in nothingness,
+but the Great Warrior {#Sephiroth{0 is here, appearantly willing to die to
+protect something, although you can't tell quite what.  He wields his great
+sword, the {&M{7a{&s{*a{&m{7u{&n{7e{0.  
+~
+0 8192 0
+D5
+~
+~
+0 0 16323
+S
+#16323
+Deeper in the Planet's Core~
+By some miracle, you were able to defeat the great warrior Sephiroth. 
+What seems like a seething mass of tentacles is here, and putting the puzzle
+together, you realize that this is {%J{5E{%N{5O{%V{5A{0.  You feel that if
+you are able to defeat JENOVA, you may find a use for one of those
+tentacles.  
+~
+0 8192 0
+D1
+~
+~
+0 0 16324
+D4
+~
+~
+0 0 16322
+S
+#16324
+Leaving the Planet's Core~
+You have escaped from the Great Warrior Sephiroth, and have now gotten
+away from {%J{5E{%N{5O{%V{5A{0.  As you are leaving the planet's core, you
+run into a small hooded creature, with a Yellow Star floating above it's
+head.  You realize that it must be a Master Tonberry, although you don't
+expect that it will be as much trouble as what you have faced in the past.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16325
+D3
+~
+~
+0 0 16323
+S
+#16325
+Tunneling through the dirt~
+You are almost out of the planet's core.  Right now, you are tunneling up
+through the dirt, and have nearly broken through when the dirt around you
+starts to move uncontrollably.  You think that its just another small
+earthquake, but then you see two white balls that are telling you that you
+are being attacked by the Earth Demon.  The two white balls narrow into
+cat-like slits of eyes, consentrating solely on you.  
+~
+0 8192 0
+D4
+~
+~
+0 0 16326
+S
+#16326
+On the Rainbow~
+Well, looks like you travelled a little too high.  You went right past
+the Leprechaun's {#Pot-'O-Gold{0, on to the rainbow.  You would think that
+this of all places would be safe, but it turns out there is another Demon
+here, guarding the palace at the top of the {Rr{@a{#i{$n{%b{^o{&w{0.  He
+attacks you to defend the palace.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16327
+S
+#16327
+Hyrule Castle~
+Travelling East from the top of the Rainbow, you have ended up in the
+great castle of Hyrule.  Unfortunately, you weren't the first one to get
+here.  Agahnim is here, trying to conquer the Light World, and you have to
+stop him before he does!  You know the drill by now, and this time, he
+attacks to stop you from doing what he's trying to do.  
+~
+0 8192 0
+D4
+~
+~
+0 0 16328
+S
+#16328
+Top of the Pyramid~
+After defeating Agahnim, you were transported to the pyramid for the last
+time, the last battle.  The Dark Wizard Ganon is here, and he's quite
+unhappy that you would dare to even think about trying to stop him.  You
+notice that unlike all of the other rooms, you have two choices to leave
+this time!  To the east, you don't see any enemies, just one large chest,
+probably holding rewards beyond your wildest dreams.  To the south, you see
+some more demons, but they probably hold more rewards than you are worthy
+of!  
+~
+0 8192 0
+D1
+~
+~
+4 16328 16329
+D2
+~
+~
+4 16328 16330
+S
+#16329
+The Secret Chamber~
+There is nothing here but a huge chest.  There are no creatures attacking
+you, but you can't seem to open the huge chest.  If only you could find the
+key....  
+~
+0 8192 0
+D2
+~
+~
+0 0 16334
+S
+#16330
+Burning Chamber~
+OK, you decided to go south.  You can see what looks like the last
+creatues, far off to the south.  Of course, there are doors, but for you're
+convenience, they're all clear.  Or, maybe that's because that the great
+Fire Demon burned them all down, and there is an invisible barrier to the
+south!  Well, you've got another playmate.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16331
+S
+#16331
+Shining Silver Chamber~
+Well, you got away from the Fire Demon with your life, but let's make
+this short and sweet.  There is a huge {&Silver{0 demon here, and he's going
+to kill you now.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16332
+S
+#16332
+The Wind Tunnel~
+As soon as you step into this tunnel, you feel a chill, as gusts of 70-80
+MPH winds nearly blow you off your feet into the solid wall behind you. 
+Since you don't see any source of these seemingly abnormal winds, you feel
+that this must be another demon!  This demon of air seems to be wearing some
+transparent boots, but you can't be too sure.  
+~
+0 8192 0
+D2
+~
+~
+0 0 16333
+S
+#16333
+The Ancient City~
+After getting into the Ancient City, you see someone praying here, on a
+tall, Holy, platform.  There are four other people near here, trying to
+capture her, but they can't seem to penetrate the holy barrier that is
+formed around her.  As you enter the room, they shout, "{RLeave Aeris alone!
+She is the last remaining Ancient!  Don't touch her!!!{x" 
+~
+0 8192 0
+D1
+~
+~
+0 0 16334
+S
+#16334
+Healing Chamber~
+You have reached the end of the Demon Realms!  You can recall from here,
+or ask the horde of people for healing.  Well, if you're cursed at this
+point...  You better hope that you have a friend who can summon, because
+there aren't any exits in here!  
+~
+0 1028 0
+S
+#0
+
+
+
+#SPECIALS
+M 16308 spec_breath_fire
+M 16316 spec_breath_any
+M 16317 spec_cast_mage
+M 16320 spec_breath_any
+M 16321 spec_breath_fire
+M 16322 spec_cast_mage
+M 16323 spec_breath_any
+M 16327 spec_cast_mage
+M 16330 spec_breath_fire
+M 16331 spec_cast_mage
+M 16332 spec_breath_frost
+M 16333 spec_cast_mage
+M 16335 spec_breath_frost
+M 16338 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 16328 1 2
+D 0 16328 2 2
+M 0 16308 1 16308 1
+E 0 16307 0 1
+E 0 16308 0 2
+M 0 16309 1 16309 1
+E 0 16309 0 5
+M 0 16310 1 16310 1
+E 0 16310 0 13
+M 0 16311 1 16311 1
+E 0 16311 0 18
+M 0 16312 1 16312 1
+O 0 16312 0 16312
+M 0 16313 1 16313 1
+E 0 16313 0 9
+M 0 16314 1 16314 1
+G 0 16314 0
+M 0 16325 8 16315 1
+E 0 16315 0 1
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16325 8 16315 7
+M 0 16316 1 16316 1
+E 0 16316 0 3
+M 0 16317 1 16317 1
+E 0 16317 0 7
+M 0 16318 1 16318 1
+E 0 16318 0 14
+M 0 16319 1 16319 1
+E 0 16319 0 10
+M 0 16320 1 16320 1
+E 0 16320 0 21
+M 0 16321 1 16321 1
+E 0 16321 0 0
+M 0 16322 1 16322 1
+G 0 16322 0
+M 0 16323 1 16323 1
+E 0 16323 0 25
+M 0 16324 1 16324 1
+E 0 16324 0 6
+M 0 16315 1 16325 1
+E 0 16325 0 21
+M 0 16326 1 16326 1
+E 0 16326 0 3
+M 0 16327 1 16327 1
+E 0 16327 0 11
+M 0 16328 1 16328 1
+G 0 16328 0
+O 0 16334 0 16329
+P 0 16329 1 16334 1
+M 0 16330 1 16330 1
+E 0 16330 0 14
+M 0 16331 1 16331 1
+E 0 16331 0 20
+M 0 16332 1 16332 1
+E 0 16332 0 8
+M 0 16333 1 16333 1
+E 0 16333 0 17
+M 0 16338 1 16333 1
+M 0 16337 1 16333 1
+M 0 16336 1 16333 1
+G 0 16335 0
+M 0 16335 1 16333 1
+M 0 16334 1 16334 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

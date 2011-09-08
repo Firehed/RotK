@@ -1,0 +1,884 @@
+#AREADATA
+Name Immortal Offices~
+Builders Immortals~
+VNUMs 55 99
+Credits [ IMM ] Staff   Immortal Offices~
+Security 1
+End
+
+
+
+#MOBILES
+#55
+john dispenser~
+John the Dispenser~
+{0
+~
+~
+Human~
+ABJKXZab DF 0 0 0
+16959 0 1d1+0 0d0+0 0d0+0 divine
+0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#56
+Panther~
+The panther resting here~
+You see a large black panther resting here.
+~
+An enormous black panther with jade green eyes 
+rests at its owner's feet.
+-
+~
+cat~
+ABG DFZ 0 -500 0
+101 0 100d100+1000 0d0+0 0d0+0 none
+0
+FH ABLMQ 0 0
+stand stand female 0
+AGV ACDEFHJKQUV huge unknown
+#57
+Shifty-Eyed Dove.~
+a shifty-eyed dove~
+You see a strange shifty-eyed dove here.
+~
+~
+song bird~
+AB T 0 0 0
+101 0 5000d1+1000 100d1+600 400d1+600 divine
+-50
+CFH ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand female 0
+AGW ACDEFHKPQ small feathers
+#58
+Wolfy~
+the wolf Wolfy~
+A VERY cute wolf is standing here.
+~
+Here you see Sleighty's famous wolf companion.  She's the cutest wolf you
+have ever seen.  Her name tag reads Wolfy.  
+~
+wolf~
+AI DJUVZ 0 1000 0
+0 500 1d1+9999 1d1+999 1d1+999 bite
+-25
+FHMN ALPQR 0 0
+stand stand female 0
+AGV ACDEFJKQV medium animal
+#59
+death~
+{&De{7a{8th{0~
+Death is here, pondering over who he will take next.
+~
+~
+Black Dragon~
+AF JLT F 0 0
+20 10000 10000d10000+29999 1d1+29999 1d1+29999 bite
+-1000
+H M BEHP FIS
+stand stand male 100000
+AGHMVZ ABCDEFGHIJKPQUVX giant unknown
+#61
+A Phoenix~
+the {1P{3h{1o{3e{1n{3i{1x{0~
+Here stands {3Ileandra,{0 the {1P{3h{1o{3e{1n{3i{1x{0. She guards her {7Mistress{0 loyally. 
+~
+This {1P{3h{1o{3e{1n{3i{1x{^ is both the symbol of {7Ephiny{^'s {8power{^,and her loving {6friend{^.
+Every once in a while, {3Ileandra{^ will let loose a tail-feather...  A {8gift{^
+from her {7Lady{^...  Do {1NOT{^ harm this creature, or the {7Goddess{^'s {8wrath{^ will be
+visited upon {3you{^.
+~
+song bird~
+AI DEFJLT ABCDEHOQR -500 0
+0 400 1d1+2999 1d1+999 1d1+249 claw
+-30
+FGHJMNOR ABCDHIOQSZ EFGMPTY R
+stand stand female 0
+AGHMVW ABCDEFGHIJKP medium unknown
+#70
+shadow cat ~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#76
+{cKaru's{r sweet POOH{x~
+{r My Sweet POOH.{x~
+{cKaru's{r sweet POOH{w is here.{x
+~
+{y(,\- )_    {/
+ {y(    ' b `-{rD  {/
+ {y|      ,__/{/
+  {y\,{r_____{y,'{/
+  {r/  Karu \{x{/
+ {r/_|--|___|{y\{x{/
+ {y/  \  \ |\_){/
+{y/   _'-' /{/
+{y| /  \  /{/
+{y\|   |` \_{/
+{y|  /_\ ___){/
+{y(____){x
+~
+bear~
+AGIJKabe CDEGJPVc CDEPQRS 0 0
+105 1000 2000d10+100 102d10+100 200d10+50 none
+-500
+DEO BCDHILMNQRSXYZ EI 0
+stand stand none 10000
+AGV ABCDEFHJKUV large unknown
+M GREET 76 100~
+#99
+Pilsbury Dough Boy~
+The Pilsbury Dough Boy~
+The Pilsbury Dough Boy
+~
+~
+Human~
+A 0 0 0 0
+0 0 1d1+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#55
+box strike anywhere matches~
+a box of {!S{1t{!r{1i{!k{1e {%A{5n{%y{5w{%h{5e{%r{5e {#M{3a{#t{3c{#h{3e{#s{0~
+A box of {!S{1t{!r{1i{!k{1e {%A{5n{%y{5w{%h{5e{%r{5e {#M{3a{#t{3c{#h{3e{#s{0 is here.~
+unknown~
+pill 0 A
+110 'quest pill' 'quest pill' 'quest pill' 'quest pill'
+101 0 1 P
+#56
+spiffy~
+the fluffy pillows~
+You see a huge clam shell filled with luxurious over-stuffed pillows.~
+unknown~
+furniture ABGIY AN
+1 0 H 0 0
+1 0 10000 P
+#57
+Reclining Hammock~
+a reclining hammock~
+You see a reclining hammock here~
+unknown~
+furniture ABG 0
+1 700 EIL 40000 40000
+101 50 0 P
+#58
+bone key~
+a {&bone{0 key~
+Here lies Sleighty's {&bone{0 key.~
+bone~
+key O AO
+0 0 0 0 0
+0 0 0 P
+#59
+bag randoms bag-o-randoms~
+wardrof's bag-o-randoms~
+Wardrof's bag-o-randoms is here.~
+hair~
+container 0 A
+10000 0 0 999 0
+110 0 0 P
+#60
+Dagger Decimator~
+{1Death's {!Dagger {1D{!e{1C{!i{1M{!a{1T{!o{1R{0~
+This dagger has been finely crafted the the {1L{1o{!r{!d {&o{&f {!F{!i{1r{1e{0 himself. The dagger looks very powerful and the evil energy in it feels like it can destroy even the purest energies in the world. This is not a weapon to take lightly.~
+unknown~
+weapon ABEP AN
+dagger 1000 1000 divine ABCDEGH
+19 3 100000 P
+A
+17 1000
+A
+20 1000
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 1000
+A
+18 1000
+#61
+cherry wood desk~
+a smooth, carved, cherry-wood desk~
+A desk of silky, dark, cherry-wood stands against the far wall. It appears to be carved in some sort of design...~
+wood~
+furniture A 0
+2 10000 DGJO 10000 10000
+0 0 0 P
+#62
+throne~
+a high-backed, velvet, throne~
+This carefully carved, velvet, {3c{7h{3a{7m{3p{7a{3g{7n{3e{0-colored, {1t{7h{1r{7o{1n{7e{0 rests behind the desk. It seems perfect for one to relax in...comfortable, yet {5b{7e{5a{7u{5t{7i{5f{7u{5l{0...~
+velvet/wood~
+furniture A 0
+2 2000 FI 1000 1000
+0 0 0 P
+#63
+bow~
+a {%P{^e{%A{^c{%F{^u{%L{^ B{%o{^W{n~
+A {%P{^e{%A{^c{%F{^u{%L {^B{%o{^W {nis here.~
+Bellonium~
+weapon BFGITY AN
+bow 500 5000 typo ABCDEGH
+105 0 5000000 P
+#64
+Quiver~
+a {%P{^e{%A{^c{%E{^f{%U{^l{%L {^Q{%u{^I{%v{^E{%r{n~
+A {%P{^e{%A{^c{%E{^f{%U{^l{%L {^Q{%u{^I{%v{^E{%r{n is here.~
+Bellonium~
+quiver ABFGIQTY AN
+2147483647 0 16 2147483647 0
+105 0 2147483647 P
+#65
+armor~
+{!B{@e{#L{$l{%L{^o{7G{!'s {@A{#r{$M{%o{^R{n~
+{!B{@e{#L{$l{%L{^o{7G{!'s {@A{#r{$M{%o{^R{n~
+unknown~
+armor 0 ABCDEFGHJKLMQRSTU
+10000000 0 0 0 0
+105 0 0 P
+A
+19 -15536
+A
+18 -15536
+A
+18 15536
+A
+18 15536
+A
+18 15536
+A
+18 15536
+A
+19 15536
+A
+19 15536
+A
+19 15536
+A
+20 10000
+A
+20 10000
+A
+13 -24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+16 1000
+A
+4 50
+A
+5 50
+A
+2 50
+A
+3 50
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+13 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+12 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+A
+14 24288
+#66
+Boo~
+{!B{@O{^O{n~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#69
+Throne Bellog~
+{^B{6ellog's {!R{1uby {#T{3hrone{n~
+{^B{6ellog's {!R{1uby {#T{3hrone{n~
+Ruby~
+furniture ABFGISUY 0
+1 5000 EHK 5000000 5000000
+101 5000 2147483647 P
+#70
+cupboard~
+cupboard~
+Baal's junk cupboard, dont touch!~
+rope~
+container A 0
+100000 0 0 100000 0
+0 0 0 P
+#76
+pooh's hat~
+{rPOOH's {Rhat.{x~
+{rPOOH's {Rhat.{x lies here.~
+m6mmi nahk~
+armor ABGINY AE
+500 500 500 500 0
+102 0 0 P
+A
+13 20000
+A
+14 10000
+A
+17 20000
+A
+12 10000
+A
+1 20
+A
+18 30000
+A
+19 30000
+#98
+armor~
+testing armor~
+Testing armor is here~
+unknown~
+armor 0 AD
+100 0 0 0 0
+110 0 0 P
+A
+17 100
+#99
+dark rose~
+{8Dark {7Rose{0~
+A strange black rose grows here~
+Stantelium~
+treasure AIY A
+0 0 0 0 0
+0 -1 0 P
+#0
+
+
+
+#ROOMS
+#55
+Firehed's Office~
+You have entered Firehed's Office.  You are either very lucky or very
+screwed to be here.  You have a feeling youre screwed.  You better not touch
+his IMPLEMENTOR'S DAGGERS, or any clan gear of the {4K{$e{4e{$p{4e{$r{4s{c. 
+There are tons of {%Strike Anywhere Matches{c here.  There are exits in all
+directions.  To the North is Dikan's office, to the South is the Palace of
+Wardrof.  To the East is Tekino's Home, and West is Sleighty's, piled with
+paperwork.  Going up, you find yourself in Ephiny's Office, and down brings
+you back to The Quest Shoppe.  Looking more carefully, you notice that to the
+North is a door made out of bone, South seems to be made out of some sort of
+plastic door.  To the East, the door is made out of normal wood, but the
+West door is seemingly burning paperwork.  Down is a simple trapdoor,
+whereas the steps leading Up bring you to a frozen door of {6Ice{7wine{c.  
+~
+0 1091076 0
+D0
+~
+bone~
+4 0 69
+D1
+~
+wood~
+4 0 57
+D2
+~
+plastic~
+4 0 59
+D3
+~
+fire~
+4 0 58
+D4
+Ephiny's sanctuary is up there!
+~
+frozen icewine~
+4 0 61
+D5
+There is a trapdoor leading to Meriam's place here.
+~
+trapdoor~
+4 0 3382
+O firehed~
+S
+#56
+Rhiannon's Office~
+Large potted plants stand in each corner of the room with a
+sweeping ivy clinging to the north wall.  The soft glow of
+torches flickers off the cold stone walls, which provides an
+atmosphere of soothing comfort to the Immortal who resides here.
+~
+0 525316 0
+S
+#57
+Office of Tekino~
+You are in the office of Tekino Telpaa, the wise Kenku battlemage.  He
+site behind his crystal desk scribbling furiously on a piece of parchment. 
+Maps of foreign regions are scattered about the office.  
+~
+0 1024 0
+D0
+~
+~
+0 0 17598
+D4
+~
+~
+1 0 17500
+D5
+~
+~
+1 0 17058
+S
+#58
+Sleighty's Office~
+The walls of Sleighty's office are littered with {!bad {5poetry{0, {7drawings{0,
+{3scratches{0 and oddly-placed {$dents{0. You wonder how it is possible for it to
+{@constantly {6rain {8indoors{0.
+~
+0 11292 0
+E
+dents~
+Vicious dents are thrown about the room.  Does somebody have anger
+management problems?  
+~
+E
+poetry~
+Examining the poetry, you begin to feel queasy.  What would inspire
+somebody to write such horrible poems?  
+~
+E
+poems~
+Examining the poetry, you begin to feel queasy.  What would inspire
+somebody to write such horrible poems?  
+~
+E
+drawings~
+Upon looking harder, the drawings that litter the walls of Sleighty's
+office could have been drawn better by a young child.  Does somebody need
+lessons?  
+~
+E
+scratches~
+Various sized scratches, rips and tears are found about the walls of
+Sleighty's office.  You ponder the stories behind them.  
+~
+E
+dents~
+~
+D0
+The secret door to Sleighty's private pet shop.  
+~
+~
+4 58 840
+D1
+The secret door to the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{$'{0 Clan Hall is east.
+~
+~
+4 58 831
+D5
+~
+~
+4 58 3379
+S
+#59
+Wardrof's Palace~
+Wardrof's Palace is a warm and comforting place.  The walls are covered
+in paintings done by others.  These painting show Wardrof slaying Izual and
+destroying those that don't believe in him.  Before Wardrof was granted
+immortality, Izual was wandering the realm.  The man that is not spoke of
+set a quest for all persons that wandered the realm.  This quest was to find
+Izual, wherever his is, and tame him.  Over ten million heros tried, but
+only two succeded.  These two were then replacements for the man that is not
+spoke of.  In current day these two are known as GOD and the Black and White
+Rabbit.  However, they sometimes go by their mortal names, Wardrof and
+Firehed.  
+~
+0 16785412 0
+D5
+~
+~
+0 0 16200
+M 16960 H 16960
+S
+#60
+{x~
+~
+0 4 0
+S
+#61
+Ephiny's Sanctuary~
+You feel an {6utter calm {0as you arrive in this place....  Unlike the
+{1f{3i{1e{3r{1y {0Mistress {0herself, this {3Phoenix{0's room is {6quiet,
+{7serene, {8peaceful{0.  You can understand why she refers to it as her
+{7s{6a{7n{6c{7t{6u{7a{6r{7y{6....  {0 The walls surrounding you are a pale
+{1r{7o{1s{7e{0-colored marble, engraved with scenes depicting Amazons in
+battle.  An ancient cherry-wood desk, worn with use over time but kept silky
+to the touch through care, leans against the far wall.  A high-backed,
+{3c{7h{3a{7m{3p{7a{3g{7n{3e{0-colored, velvet throne rests behind it, tucked
+neatly into the desk's inner curvature.  Adorning the wall behind these
+elegant pieces, are the remnants of great battles and memories past.  
+~
+0 516 0
+D0
+~
+~
+4 552 551
+D4
+~
+~
+4 552 555
+S
+#62
+{WF{Daylen's Offic{We{x~
+{y You find yourself inside a large marble foyer.  High above, the domed
+ceiling of the cathedral gives you a feeling of pure awe at the enormity of
+it.  The floor is carpted with a lush blood red carpt.  Light pours in from
+the large stane glass windows.  Making the room light up like a rainbow
+after a light summer rain.  {x 
+~
+0 0 0
+D5
+~
+~
+0 0 851
+S
+#63
+{!B{%e{!L{%l{!O{%g{!'s {@H{$o{@U{$s{@E{n~
+Well, obviously if your in here...  {!  YOUR IN TROUBLE{n...  Unless.. 
+You were {%INVITED{n {$NOW LISTEN PERSON!  {^IF YOU THINK YOU CAN GET AWAY
+WITH THIS YOU ARE FREAKIN DEAD WRONG!  {n 
+Oh, and...{@Welcome to MY HOUSE!{n
+~
+0 8709 3
+D5
+~
+~
+0 0 22606
+M 0 H 0
+O Bellog~
+S
+#69
+{DD{Ri{Dk{Ra{Dn{R'{Ds {RR{Do{Ro{Dm {RO{Df {RP{Da{Ri{Dn{X~
+{DThis here is {DD{Ri{Dk{Ra{Dn{R'{Ds {RR{Do{Ro{Dm{X{D.  You can tell by the horrible smell.  You see body parts laying all over the room covered in {Rblood.{D  You look to your left and see you executioner.
+{X
+~
+0 9220 0
+S
+#70
+Baal's Command room~
+This is Baal's true domain.  As you move about you get a spine chilling
+sense of blood and death.  You get the feeling you are being watched by some
+sort of powerful entity.  On one side of the room is a rather large
+fireplace, burning with high {1crimson{0 flames.  This is the room where
+Baal makes his choices to who lives and who dies by the Wanderer's blade. 
+You hear a weird noise and turn around, the noise is coming from a marble
+statue, a soul long trapped and housed within a marble shell for Baal's
+personal enjoyment.  
+~
+0 1548 0
+E
+marble~
+A stone {*black{0 pedestal rests a marble statue of a soul that was trapped eons ago when Baal first rose to power
+~
+E
+up~
+As you look up you can see straight off into the sky, via the well hidden sky light.
+ 
+~
+E
+fireplace~
+As you look at this large fireplace, big {1crimson{0 flames soar high then dip back down. Is it really just a fireplace? or is there more to it.
+~
+E
+down~
+a big puffy dark wine colored rug covers much of the floor here.
+~
+D3
+~
+~
+1 22159 18055
+S
+#71
+{RSilence {gHell~
+Welcolme to silence hell. This is a place where the Devil Shall Judge
+you. So if you did anything wrong you better confess RIGHT now to Silence
+Please sit here and wait your turn and SILENCE will be right with you.
+ 
+~
+0 4 0
+M 5000 H 100
+O Silence~
+S
+#72
+Nyskel's Secret Quarters~
+This is Nyskel's Kingdom, he rests, tests and does other junk I'm to lazy
+to think of what to write right now, so you'll just have to wait...  Why are
+you still reading this?  
+~
+0 4 0
+M 1000 H 1000
+O Nyskel~
+S
+#73
+{rSa{Rvv{ry's {wPleasure {mAbode{x~
+Walking into Savvy's Pleasure Abode, you sense there is more here than
+you want to know.  There is a king size waterbed in the far corner of the
+room as well as small nightstand resting near the bed.  Upon the stand in a
+leather covering lies her diary.  As a gust of wind blows across the room as
+pages of her diary flutters about on the stand.  One decides to take a peek
+at a page that has been turned by the wind.  As one reads the page and turns
+a deep shade of red and wonders is this a Woman or a Nympho.  As one
+continues to read more of the page and says {rBoth{G.  Wild Jasmine flows
+through the room as the waterbed looks so enticing with two heart-shape
+pillows tossed upon it as well as the black satin sheets that cover the bed.
+Hanging above the bed is a oil painting of Savvy as she wears her long black
+gown with a slit up the left thigh, Her long black hair blowing as her
+grayish eyes shine .  One notices she is holding a deadly dagger at her
+side.  One takes one more look around and quickly leaves before someone
+notices them here.  
+~
+0 4 0
+S
+#74
+~
+~
+0 4 0
+S
+#75
+~
+~
+0 4 0
+S
+#76
+Karu's Office~
+{y(,\- )_    
+ {y(    ' b `-{rD
+ {y|      ,__/
+  {y\,{r_____{y,'
+  {r/  Karu \{x
+ {r/_|--|___|{y\{x
+ {y/  \  \ |\_)
+{y/   _'-' /
+{y| /  \  /
+{y\|   |` \_
+{y|  /_\ ___)
+{y(____){x
+~
+0 263173 0
+M 400 H 500
+O karu~
+S
+#99
+Stantel's Office~
+This is the office of the head builder, Stantel.  It's {7grey{0 stone
+walls are lined with torches that give off a {2Jade{0 glow.  On the floor, a
+pentagram is drawn with what looks like {1blood{0.  
+~
+0 33804 0
+S
+#0
+
+
+
+#SPECIALS
+M 55 spec_questmaster
+M 59 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 55 0 2
+D 0 55 1 2
+D 0 55 2 2
+D 0 55 3 2
+D 0 55 4 2
+D 0 55 5 2
+D 0 57 4 1
+D 0 57 5 1
+D 0 58 0 2
+D 0 58 1 2
+D 0 58 5 2
+D 0 61 0 2
+D 0 61 4 2
+D 0 70 3 2
+O 0 1204 0 55
+O 0 55 0 55
+M 0 55 1 55 1
+G 0 16387 0
+G 0 16388 0
+G 0 16398 0
+G 0 55 0
+G 0 1206 0
+G 0 16599 0
+G 0 16399 0
+G 0 16393 0
+G 0 16391 0
+G 0 16392 0
+G 0 16390 0
+G 0 16394 0
+G 0 16395 0
+M 0 56 1 56 1
+O 0 56 0 56
+O 0 17000 0 57
+M 0 57 1 57 1
+O 0 57 0 57
+P 0 17040 1 17000 1
+M 0 17001 1 57 1
+O 0 18021 0 58
+O 0 18022 0 58
+O 0 18045 0 58
+O 0 18044 0 58
+O 0 18046 0 58
+O 0 61 0 61
+O 0 62 0 61
+O 0 69 0 63
+M 0 76 1 76 1
+E 0 76 0 6
+M 0 99 1 99 1
+O 0 99 0 99
+S
+
+
+
+#SHOPS
+55 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#59
+cast teleport
+~
+#60
+say {&De{7a{8th {0is the only way out for you, $n!
+~
+#63
+~
+#76
+say I am Karu's toy so you can only play with me.
+beam $n
+say I am sweet, huge and warm. Like Pooh is supposed to be.
+hug $n
+say there you go.
+~
+#0
+
+#$

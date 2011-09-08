@@ -1,0 +1,294 @@
+Sender  Wardrof~
+Date    Thu Mar  7 19:14:18 2002~
+Stamp   1015553658
+To      immortal~
+Subject who titles~
+Text
+people that can get them are:
+mortal clan leaders
+3rd tier heroed clannies
+~
+Sender  Firehed~
+Date    Fri Apr 19 12:38:26 2002~
+Stamp   1019241506
+To      immortal~
+Subject Cross Area Resets~
+Text
+OK, we have had enough problems with Cross-Area resets.
+If the object isn't in the area, then don't have a reset for it in the area.
+You don't need to get rid of what there are, but no more until further notice.
+(I'm trying to make it read through twice, once will load the objs and mobs, the second will do the resets)
+So, don't do them
+Firehed
+~
+Sender  Firehed~
+Date    Thu May  9 16:55:04 2002~
+Stamp   1020984904
+To      all~
+Subject PKing~
+Text
+I heard someone mentioning something about pk level variance earlier.
+I want to make this simple...
+If the MUD allows you to attack someone, then you can.
+Just letting you all know,
+Firehed
+~
+Sender  Firehed~
+Date    Fri May 10 21:43:54 2002~
+Stamp   1021088634
+To      immortal~
+Subject rule confusion~
+Text
+I want to end this here and now, on a note board that doesn't purge.  If
+you have your immortal logged, you may ONLY have a test mortal logged.  Your
+immortal and mortal are completely seperate.  If you affect any non-test
+mortal that belongs to you in any way as an imm, they both go, Common
+offenses that will get mortals cornered like swearing, etc, don't really
+require use of the penalty board.  If its something where they need to get
+nuked, banned, whatever, that is really what that board is meant for. 
+Talking back to imps is telling us that you are trying to make yourself no
+more, so if you want your characters, don't do it.  That goes for mortals
+too, if they may care.  
+ 
+Sorry about the harshness of this, but it needed to be this way.
+I'm sick of hearing about inconsistency in rules that we don't even know exist, so I want to end it.
+Preferably on the right foot (or left...whatever..correct foot)
+ 
+Firehed
+~
+Sender  Firehed~
+Date    Tue Oct 15 18:18:55 2002~
+Stamp   1034727535
+To      all~
+Subject Attn: Newbies~
+Text
+To let you all know, the door in Training Grounds is there for YOUR safety.
+Advanced training is actually advanced.  At least until level 60 or so.
+For your own safety,
+Firehed
+~
+Sender  Wardrof~
+Date    Thu Jan 16 11:40:06 2003~
+Stamp   1042742406
+To      all~
+Subject Defense/Saves~
+Text
+These things are VERY important.  The less saves you have (negitive
+numbers are good) the better off you are .  The more defense you have the
+better off you are.  Experiment with this to find the maximums.  F 
+
+Sorry about that last F, ignore it,
+Wardrof
+~
+Sender  Firehed~
+Date    Mon Feb 10 18:37:21 2003~
+Stamp   1044927441
+To      all~
+Subject RotK Website~
+Text
+There have been some updates to the RotK website:
+The online who-list now works, and there is a link to forums there as well.
+The forums are also available at http://www.hackeditemsd2.com/forum
+They will probably move to forums.hackeditemsd2.com as soon as I can figure out subdomains :)
+We may also be purchasing www.realmofthekeepers.com
+Please sign up for the forums, they are stiill under development but they have some useful info and its a great way for clans to talk with their members (other than the ntoes system)
+Yes, the clan forums are secure, so Brotherhood members can't go look inside the forums of the Beholders
+Same goes for 'non-clanned' people (within the forums)
+Check it out, its a graet place to get your ideas heard, etc.
+Many updates will be posted there.
+Sorry if this is a little messy, I'm in telnet and I can't get it to echo my commands, lol
+ 
+Firehed
+~
+Sender  Wardrof~
+Date    Thu Mar 20 13:54:50 2003~
+Stamp   1048193690
+To      All~
+Subject HP bug~
+Text
+As firehed said the HP bug should be fixed.  We are systematically fixing
+people's HPs.  If you know yours were messed up it is very important that
+you tell us.  If we find that your HPS are messed up and you DONT tell us
+there will be penalties when we fix your hps.  
+
+God
+~
+Sender  Firehed~
+Date    Sat Mar 22 11:18:17 2003~
+Stamp   1048357097
+To      all~
+Subject Donations~
+Text
+I just wanted to let everyone know that we now have a donations section
+on the website if anyone is interested in helping us.  We are considering
+purchasing rotk.  Net as well which would be costly, and there is the
+monthly cost of simply there as well.  If anyone could donate, it would be
+much appreciated, and there could be in-game rewards as well.  It's powered
+by PayPal, and its on the main frame of the website (rotk.tamarisk.ab. 
+ca) and the bottom of the forums (forums.hackeditemsd2.com) Although
+it's not an official request, it would be much appreciated, as there are
+costs associated with owning a mud.  
+ 
+I just wanted to let everyone know.
+Firehed
+~
+Sender  Wardrof~
+Date    Wed Mar 26 14:52:46 2003~
+Stamp   1048715566
+To      all~
+Subject New room type~
+Text
+Some rooms it is no impossible to quaff a potion. This can be potentially deadly
+In addition, bind does NOT work on yourself. This spell was too powerful, and has now been toned down.
+
+Wardrof
+~
+Sender  Wardrof~
+Date    Sat Mar 29 12:25:49 2003~
+Stamp   1048965949
+To      all~
+Subject Quest Identify~
+Text
+The quest identify command is now in place. This command allows you to identify a quest item
+before you buy it.
+
+Wardrof
+
+PS: syntax is: quest identify <item name>
+if you dont put an item name it defaults to the crystal ring.
+~
+Sender  Wardrof~
+Date    Mon Mar 31 13:34:46 2003~
+Stamp   1049142886
+To      all~
+Subject Corpse Retrievals (Clerification)~
+Text
+The price of a CR is as follows:
+(level) * (tier) * 10
+This ONLY applies if you die when you have talked to an immortal before hand.
+This DOES NOT mean you can be careless and die, and then pay 3k qps and get your gear back.
+
+These can only be modified if you:
+a) die doing something for an IMM (testing) - free
+die from a glitch - free
+
+This means: If you die to a mob, you're responsible. If you die to a player, you're responsible.
+If you die on a bad recall, you're responsible. If you die in an immortal-controled environment the formula.
+If you die testing for an immortal it is free. If you die to a glitch it is free.
+
+Wardrof
+~
+Sender  Tekino~
+Date    Mon Mar 31 20:00:35 2003~
+Stamp   1049166035
+To      all~
+Subject ***GLADIATOR GAMES***~
+Text
+Hmm.  I can feel a gladiator game coming up.  Sunday feels good.  About
+8.  Yes yes.  No guarantees, but free your schedule.  If you haven't been to
+one, you're missing one of the greatest events in the history of combat.  If
+you have been to one, spread the word, and tell people what it's like.  Post
+some info about what it's like even, (because i dont want to ;) Evenin'
+-Tekino 
+~
+Sender  Wardrof~
+Date    Tue Apr  1 13:41:38 2003~
+Stamp   1049229698
+To      all~
+Subject Clans~
+Text
+As I have told various peoples, clans are to be lead by immortal leaders.
+It seems that some people have decided to, after I told them, to talk to
+Firehed.  Not only have the "extra" clans have been removed, but the person
+in question has been punished.  It is not appropriate for me to say the
+punishment, but you can ask the person in question after.  
+
+God
+~
+Sender  Wardrof~
+Date    Tue Apr  1 19:10:14 2003~
+Stamp   1049249414
+To      all~
+Subject Titles~
+Text
+Titles are NOT meant to mask your real name. You will be punished if they do. Punishment can only come from IMPs or Grimace.
+~
+Sender  Wardrof~
+Date    Wed Apr  2 17:02:01 2003~
+Stamp   1049328121
+To      all~
+Subject Kick Replacement~
+Text
+There is a new replacement for Kick called thunder kick. It is much more powerful and delivers 5 blows at a time.
+~
+Sender  Firehed~
+Date    Thu Apr  3 11:07:13 2003~
+Stamp   1049393233
+To      all~
+Subject Spy~
+Text
+Spy works now!
+~
+Sender  Wardrof~
+Date    Thu Apr  3 20:41:04 2003~
+Stamp   1049427664
+To      all~
+Subject Globals~
+Text
+There are 4 new globals that have been implemented:
+Double exp, spekas for itself.
+No Pk means there is no pking whatsoever.
+nosafe means all safe rooms are no longer safe.
+nocorpse means when you die you dont lose your stuff, if you die under this mode there are no pk stats rewarded.
+
+To check if they are on or off, please use the globals command.
+
+Wardrof
+~
+Sender  Wardrof~
+Date    Tue Apr  8 18:10:37 2003~
+Stamp   1049847037
+To      all~
+Subject Player Housing~
+Text
+Soon you will find that you are able to purchase housing.  It is possible
+to "buy house" from a quest master.  
+
+Current prices are as follows:
+For a foundation (1 room): 5 build tokens
+
+For additional rooms: 1 build token
+
+For a mob with 1 ability (quest master, healer, ect): 1 build token
+For an additional ability: 1 build token
+
+For a potion with 4 limited spells at level 100: 1 build token
+For additional levels (50 more up to level 300): 1 build token
+
+For a custom item (with limits): 3 build tokens
+
+Build tokens are subject to drastic price change and or confiscation if these prices turn out to be too high or too low
+
+Wardrof
+~
+Sender  Wardrof~
+Date    Wed Apr  9 16:31:00 2003~
+Stamp   1049927460
+To      all~
+Subject Godsight~
+Text
+Godsight works now, this is mostly for immortals, but I thought I would let morts know too.
+~
+Sender  Firehed~
+Date    Mon Apr 28 17:39:04 2003~
+Stamp   1051573144
+To      all~
+Subject Level one bug~
+Text
+ I think the bug is finally fixed!  It turns out that it *was* the
+godsight code, something that I overlooked.  I won't go into details about
+it, but the mud should be _much_ more stable now :) Let me know if there are
+any problems.  
+ 
+Firehed, fixer of his bugs
+~

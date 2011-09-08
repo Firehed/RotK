@@ -1,0 +1,2589 @@
+#AREADATA
+Name Sleighty's Test Area~
+Builders Sleighty~
+VNUMs 18000 18050
+Credits [ ALL ] Slei.   Sleighty's Test Area~
+Security 5
+End
+
+
+
+#MOBILES
+#18000
+data hound~
+a data hound~
+A data hound growls at you here.
+~
+You see a figure that looks somewhat like a dog sitting in front of you
+made out of tiny ones and zeros.  
+~
+dog~
+AFGU V 0 0 0
+50 20 10d115+668 1d1+99 5d8+20 bite
+-11
+FHR QR DK JO
+stand stand none 200
+AGV ACDEFHJKUV medium code
+#18001
+worm~
+a worm~
+A worm crawls along slowly here.
+~
+A stupid looking bit of coding looks like it can barely move, but is
+still powerful.  
+~
+dog~
+AFGU d 0 0 0
+55 25 10d142+794 1d1+99 5d9+23 digestion
+-14
+0 0 0 0
+stand stand none 225
+AGR ADEFJKQ medium code
+F off H
+F for V
+F par CHUV
+#18002
+hacker~
+a hacker~
+A hacker here looks around nervously.
+~
+A short man shifts his eyes away from you and tries to hide his laptop
+when he notices you.  
+~
+Human~
+AFGU 0 0 0 0
+60 30 1d169+920 1d1+99 5d10+25 typo
+-17
+IU 0 0 0
+stand stand either 250
+AHMV ABCDEFGHIJK medium unknown
+#18003
+agent~
+an Agent~
+An Agent stands here perfectly still.
+~
+A tall man with dark hair and dark sunglasses manages to watch your every
+move without ever looking at you.  
+~
+Human~
+AFG DQ 0 -1000 0
+65 35 10d200+1000 1d1+99 5d11+30 punch
+-19
+FIJNU ABQ D P
+stand stand male 275
+AHMV ABCDEFGHIJK medium unknown
+#18004
+giant c~
+a giant letter C~
+A giant letter C spins around here.
+~
+The giant C just seems odd...  Ah!  That's it!  It's two dimensional!  
+~
+Human~
+ABFU DQ 0 0 0
+75 45 15d200+1500 1d1+99 7d15+50 typo
+-25
+0 BQ 0 0
+stand stand none 1000
+E 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18050
+Jake~
+Jake~
+Jake stands here looking back at you.
+~
+~
+Human~
+A S 0 0 0
+0 0 1d1+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#18000
+test bench~
+a test bench~
+A small bench-like thing made of ones and zeros is here.~
+code~
+furniture 0 0
+2 100000 E 0 0
+0 0 0 P
+#18001
+code~
+some destructive code~
+The destructive code of a worm is here.~
+code~
+weapon 0 AN
+exotic 5 11 typo 0
+45 0 750 P
+E
+code~
+This code looks like it could do some serious damage.
+~
+#18002
+floppy disk~
+a floppy disk~
+A floppy disk lies forgotten on the floor.~
+plastic~
+gem 0 AO
+0 0 0 0 0
+0 0 100 P
+E
+floppy~
+The floppy disk looks rather out of place and very expensive.  
+~
+E
+disk~
+The floppy disk looks rather out of place and very expensive.  
+~
+#18003
+laptop~
+a laptop~
+A hacker's laptop lies here forgotten.~
+plastic~
+armor 0 AJ
+10 10 10 5 0
+45 0 0 P
+E
+laptop~
+The laptop looks pretty sturdy.
+~
+#18004
+suit jacket~
+a suit jacket~
+A gray suit jacket lies crumpled in the corner.~
+cloth~
+armor 0 AD
+13 13 13 7 0
+55 0 1000 P
+E
+suit~
+This gray suit jacket definately looks cool.
+~
+E
+jacket~
+This gray suit jacket definately looks cool.
+~
+#18005
+suit pants~
+a pair of suit pants~
+A pair of gray suit pants lay crumpled in the corner.~
+cloth~
+armor 0 AF
+13 13 13 7 0
+0 0 1000 P
+E
+pants~
+This gray pair of suit pants definately look cool.
+~
+E
+suit~
+This gray pair of suit pants definately look cool.
+~
+#18006
+hole~
+a hole in the floor~
+There seems to be a hole in the coded floor...~
+unknown~
+portal 0 0
+0 0 0 10539 0
+0 0 0 P
+#18009
+cureall potion~
+a {#cu{3rea{#ll po{3ti{#on{0~
+A {#Le{3gen{#ds{0 cureall potion is here.~
+unknown~
+potion 0 A
+150 'cure poison' 'cure disease' 'cure blindness' 'remove curse'
+0 0 2500 P
+#18010
+cospellup potion~
+a {#cos{3pel{#lup po{3ti{#on{0~
+A {#Le{3gen{#ds{0 cospellup potion is here.~
+unknown~
+potion 0 A
+100 'holyshield' 'glassshield' 'acidshield' 'watershield'
+0 0 3500 P
+#18011
+spellup potion~
+a {#sp{3ell{#up po{3ti{#on{0~
+A {#Le{3gen{#ds{0 spellup potion is here.~
+unknown~
+potion 0 A
+150 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+0 0 3500 P
+#18012
+heal potion~
+a {#h{3ea{#l po{3ti{#on{0~
+A {#Le{3gen{#ds{0 healing potion is here.~
+unknown~
+potion 0 A
+0 'heal' 'heal' 'heal' 'heal'
+0 0 2500 P
+#18013
+sign~
+a sign~
+A sign is here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Welcome to the {#C{3it{#y {3of {#Le{3gen{#ds{0.
+~
+#18014
+legendary orb holding~
+{#Leg{3end{#ary Orb {3of {#Holding{0~
+The Legendary Orb of Holding is here.~
+unknown~
+trash AB AQ
+0 0 0 0 0
+0 0 0 P
+#18015
+ancient sash legends~
+{#An{3cie{#nt Sash {3of {#Le{3gen{#ds{0~
+The Ancient Sash of Legends is here.~
+unknown~
+trash A AL
+0 0 0 0 0
+0 0 0 P
+#18016
+bands armageddon~
+{#Bands {3of {#Ar{3ma{#ge{3dd{#on{0~
+The Bands of Armageddon are here.~
+unknown~
+trash AB AI
+0 0 0 0 0
+0 0 0 P
+#18017
+golden loop legend~
+{#Go{3ld{#en Loop {3of {#Le{3gen{#ds{0~
+The Golden Loop of Legends is here.~
+unknown~
+trash I AS
+0 0 0 0 0
+0 0 0 P
+#18018
+legendary mantle magic~
+{#Leg{3end{#ary Ma{3nt{#le {3of {#M{3agi{#c{0~
+The Legendary Mantle of Magic is here.~
+unknown~
+trash ABI AC
+0 0 0 0 0
+0 0 0 P
+#18019
+locket~
+{0Sleighty's {7locket{0~
+Sleighty's locket with the picture of his love inside is here.~
+unknown~
+trash MZ AC
+0 0 0 0 0
+107 0 0 P
+A
+20 -15000
+#18020
+no name~
+(no short description)~
+{0~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+stolz~
+Before you stands a dwarf of extreme height, to other dwarves of course. 
+Unlike most dwarves, instead of a full beard he possesses a VanDyke which
+extends into a goatee equal in length to the beard of the proudest dwarf. 
+Though not a beard in its own right, he wears it as though it is.  A spike
+protrudes through each surprisingly long and pointed ear at the lobe.  The
+tattoo of a Jester's Cap upon the back of his neck seems proudly displayed
+beneath a smoothly shaved head, with the exception of the tuft that remains
+up front to peek out from underneath his helmet.  The stature and odd ears
+hint at an uncommon heritage, but it would be rude to ask a stranger such a
+thing.  At first glance he appears friendly, but a threatening morning star
+and grimy battle armor quickly shatter that image.  
+~
+E
+slei~
+Medium-length brown hair parted down the middle leaves the celtic
+knotwork hoop earring that adorns his left earlobe clearly visible.  Blue
+gray eyes change in accordance with his mood, yet they always contain a
+trace of merriment, as if he were smiling.  Full red lips mark the top of
+the small, decorative Van Dyke that runs from his lower lip to the bottom of
+his chin.  If you happen to catch him smiling or otherwise merry, his
+pronounced canines would draw immediate attention.  Long and well shaped,
+his neck demonstrates the pallor of his skin in comparison to his brown
+hair.  His slim yet broad shoulders are perfectly proportioned.  Neither
+muscle or excessive flesh covers them.  The brightest point of interest is
+the tattoo displayed on his left shoulder.  A Wiccan pentacle is surrounded
+by a tribal pattern, interlaced with celtic knotwork.  Simple blackart, it
+provides a stunning contrast to his pale skin.  His smooth, hairless chest
+shows no sign of fat or excessive muscle.  Two small, nearly colorless
+areolas are capped by rather normal petite man-sized nipples.  His long arms
+reach down to his upper thighs when hanging at his sides, granting the
+impression that he could easily grab and envelop anything within his
+immediate radius with little difficulty.  Upon his right forearm, in colors
+that dance as if aflame, a dragon is rendered, its scales shimmering with an
+outline of gold - as if a foil had been applied.  His wrists are slender for
+a man, but fit well with his thin bone-structure.  They could, if one were
+easily mistaken, give the impression of frailty.  Long and slender fingers,
+with nails that shine like glass, are deceptively delicate-looking.  The
+slight outline of striated stomach muscles rises above his narrow waist.  An
+old pair of faded blue jeans is hanging by a belt from his hips.  His feet
+seem a bit small for a man of his size, yet he walks with grace and balance.
+Perhaps that is why the arch of his foot is so pronounced.  His toenails are
+perfectly groomed and shine like glass.  
+~
+#18021
+Sleighty's lap~
+{a{0Sleighty's lap~
+{l{0~
+unknown~
+furniture 0 0
+1 1000000 E 0 0
+0 0 0 P
+#18022
+hidden fountain~
+a hidden fountain~
+{h{0~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#18023
+amphetamine~
+an amphetamine~
+Sleighty's amphetamine is here.~
+unknown~
+token 0 A
+EHI 0 0 0 0
+0 0 0 P
+#18024
+spliff~
+{0Sleighty's {8spliff{0~
+Sleighty's smoking spliff is here.~
+unknown~
+trash 0 AV
+0 0 0 0 0
+107 0 0 P
+#18025
+sack-o-dolls~
+a sack-o-dolls~
+A sack of voodoo dolls is here.~
+unknown~
+container Y A
+10000 0 0 10000 0
+106 0 0 P
+#18026
+honor wolves'~
+{*W{7o{*l{7v{*e{7s{*' {$H{4o{$n{4o{$r{0~
+Wolves' Honor is here.~
+unknown~
+armor AY AT
+40 40 40 40 0
+101 0 0 P
+A
+18 20
+A
+19 20
+A
+13 250
+A
+12 250
+A
+14 250
+#18027
+pride wolves'~
+{*W{7o{*l{7v{*e{7s{*' {$P{4r{$i{4d{$e{0~
+Wolves' pride~
+unknown~
+armor AY AT
+40 40 40 40 0
+101 0 0 P
+A
+18 20
+A
+19 20
+A
+13 250
+A
+12 250
+A
+14 250
+#18028
+wolf's eye~
+a {*w{7o{*l{7f{*'{7s {$e{4y{$e{0~
+A wolf's eye glows mystically.~
+unknown~
+light AY A
+0 0 999 0 0
+25 0 1000 P
+A
+13 25
+A
+12 25
+A
+14 25
+A
+19 5
+A
+18 5
+E
+eye~
+The wolf's eye peers back at you and it feels as if it's almost looking
+into your soul, and comparing you against past heros and those that will
+come in the future.  
+~
+E
+wolf's~
+The wolf's eye peers back at you and it feels as if it's almost looking
+into your soul, and comparing you against past heros and those that will
+come in the future.  
+~
+#18029
+patterned leggings~
+{*p{7a{*t{7t{*e{7r{*n{7e{*d {$l{4e{$g{4g{$i{4n{$g{4s{0~
+A pair of patterned leggings lie in a crumpled heap on the floor.~
+unknown~
+armor Y AF
+10 10 10 7 0
+50 0 7000 P
+A
+13 75
+A
+12 75
+A
+14 50
+A
+18 20
+A
+19 20
+E
+patterned~
+The leggings have a pattern of a pack of wolves chasing each other up the
+outsides of the pant legs.  
+~
+E
+leggings~
+The leggings have a pattern of a pack of wolves chasing each other up the
+outsides of the pant legs.  
+~
+#18030
+wolf-tooth earring~
+a {*w{7o{*l{7f{0-{*t{7o{*o{7t{*h {$e{4a{$r{4r{$i{4n{$g{0~
+A wolf-tooth earring lies on the ground.~
+unknown~
+armor 0 0
+0 0 0 0 0
+75 0 15000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 20
+A
+19 20
+E
+wolf-tooth~
+This earring is made from the canine of a wolf.  It seems to magically
+stay in the hole without a clasp of any kind.  
+~
+E
+earring~
+This earring is made from the canine of a wolf.  It seems to magically
+stay in the hole without a clasp of any kind.  
+~
+#18031
+wolf-tooth bracelet~
+a {*w{7o{*l{7f{0-{*t{7o{*o{7t{*h {$b{4r{$a{4c{$e{4l{$e{4t{0~
+A wolf-tooth bracelet is on the floor.~
+unknown~
+armor Y AM
+25 25 25 20 0
+75 0 15000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 20
+A
+19 20
+E
+wolf-tooth~
+The bracelet is made from wolf teeth linked by fine silk.
+~
+E
+bracelet~
+The bracelet is made from wolf teeth linked by fine silk.
+~
+#18032
+breastplate~
+an {*e{7t{*c{7h{*e{7d {$b{4r{$e{4a{$s{4t{$p{4l{$a{4t{$e{0~
+An etched breastplate rests against a wall.~
+unknown~
+armor Y AD
+30 30 30 25 0
+75 0 15000 P
+A
+13 125
+A
+12 125
+A
+14 125
+A
+18 25
+A
+19 25
+E
+breastplate~
+The breastplate has an etching of a wolf's head before a full moon.  
+~
+E
+etched~
+The etching is of a wolf's head before a full moon.
+~
+#18033
+sleighty's blessing~
+{*S{7l{*e{7i{*g{7h{*t{7y{*'{7s {$B{4l{$e{4s{$s{4i{$n{4g{0~
+A potion of Sleighty's Blessing is here.~
+unknown~
+potion Y A
+35 'sanctuary' 'stone skin' 'armor' 'bless'
+35 0 3500 P
+#18034
+heal potion~
+a {*h{7e{*a{7l {$p{4o{$t{4i{$o{4n{0~
+A heal potion is here.~
+unknown~
+potion 0 0
+100 'heal' 'refresh' 'mass healing' 'restore mana'
+35 0 3500 P
+#18035
+cureall potion~
+a {*c{7u{*r{7e{*a{7l{*l {$p{4o{$t{4i{$o{4n{0~
+A cureall potion is here.~
+unknown~
+potion Y A
+150 'cure poison' 'cure disease' 'cure blindness' 'remove curse'
+35 0 3500 P
+#18036
+cospellup potion~
+a {*c{7o{*s{7p{*e{7l{*l{7u{*p {$p{4o{$t{4i{$o{4n{0~
+A cospellup potion is here.~
+unknown~
+potion Y A
+150 'holyshield' 'glassshield' 'acidshield' 'watershield'
+25 0 1000 P
+#18037
+spellup potion~
+a {*s{7p{*e{7l{*l{7u{*p {$p{4o{$t{4i{$o{4n{0~
+A spellup potion is here.~
+unknown~
+potion Y A
+150 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+25 0 1000 P
+#18038
+wolf-shaped helmet~
+a {*w{7o{*l{7f{0-{*s{7h{*a{7p{*e{7d {$h{4e{$l{4m{$e{4t{0~
+A wolf-shaped helmet rests in a corner.~
+unknown~
+armor Y AE
+25 25 25 20 0
+75 0 15000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 20
+A
+19 20
+E
+wolf-shaped~
+This helmet was forged in the shape of a wolf's head, only it is missing
+the front where the facial features would be.  
+~
+E
+helmet~
+This helmet was forged in the shape of a wolf's head, only it is missing
+the front where the facial features would be.  
+~
+#18039
+long-bladed stiletto~
+a {*l{7o{*n{7g{0-{*b{7l{*a{7d{*e{7d {$s{4t{$i{4l{$e{4t{$t{4o{0~
+A long-bladed stiletto rests in the wall.~
+unknown~
+weapon BY AN
+dagger 19 19 stab D
+75 0 17500 P
+A
+18 20
+A
+19 20
+E
+stiletto~
+This evil-looking stiletto has a rather long adamantite blade with
+delicate etching, a beautifully sculpted pommel and an engraved hilt.  
+~
+E
+long-bladed~
+This evil-looking stiletto has a rather long adamantite blade with delicate etching, a beautifully sculpted pommel and an engraved hilt.
+~
+E
+blade~
+The extra long adamantite blade has a delicate etching of a wolf's head
+before a full moon.  
+~
+E
+pommel~
+The pommel has been sculpted into a ferocious, snarling wolf's head.
+~
+E
+hilt~
+{*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0 has been skillfully carved into the hilt.
+~
+#18040
+revenge list~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' revenge list~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{0' revenge list is posted on the wall.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+list~
+Feel free to attack any of these people to avenge your fellow bretheren. 
+I would suggest attacking in groups.  
+ 
+Lysia: attacked by Lanthos (Mercenary)
+Lysia: attacked by Fireal (Brotherhood)
+Kalgor: attacked by Fireal (Brotherhood)
+Kalgor: attacked by Shocore (Brotherhood)
+Kalgor: mobkilled by Ixion
+ 
+~
+E
+revenge~
+Feel free to attack any of these people to avenge your fellow bretheren. 
+I would suggest attacking in groups.  
+ 
+Lysia: attacked by Lanthos (Mercenary)
+Lysia: attacked by Fireal (Brotherhood)
+Kalgor: attacked by Fireal (Brotherhood)
+Kalgor: attacked by Shocore (Brotherhood)
+Kalgor: mobkilled by Ixion
+~
+#18041
+lightsaber saber~
+{0Sleighty's {3amber{0-bladed double-sided lightsaber~
+Sleighty's {3amber{0-bladed double-sided lightsaber is on the ground.~
+unknown~
+weapon AB AN
+exotic 10000 10000 wrath DF
+107 0 0 P
+#18042
+earring~
+{0Sleighty's {&celtic knotwork{0 earring~
+Sleighty's celtic knotwork earring is here.~
+unknown~
+trash MZ AS
+0 0 0 0 0
+107 0 0 P
+A
+20 -15000
+#18043
+jeans~
+{0Sleighty's {4beat-up jeans{0~
+Sleighty's {4beat-up jeans{0 are in a crumpled heap.~
+unknown~
+armor 0 AF
+30000 30000 30000 30000 0
+107 0 0 P
+#18044
+secret~
+a leather chair~
+Sleighty's comfortable leather chair.~
+leather~
+furniture 0 0
+1 10000 E 100 1000
+0 0 0 P
+#18045
+chair pleather~
+a pleather chair~
+A pleather chair is here.~
+pleather~
+furniture 0 0
+1 10000 E 0 0
+0 0 0 P
+#18046
+desk~
+a desk~
+A desk piled three feet high with paper is here.~
+wood~
+container 0 0
+10000 ABCD 58 0 0
+0 0 0 P
+E
+desk~
+Between piles of paper you notice 8 parallel scratches and wonder what
+could have possibly caused them.  
+~
+#18047
+dragon tattoo~
+{0Sleighty's {1d{!r{#ag{!o{1n{0 tattoo~
+A piece of Sleighty's arm flesh with his tattoo on it is here.~
+unknown~
+trash MZ AI
+0 0 0 0 0
+107 0 0 P
+A
+19 15000
+A
+18 15000
+#18048
+pentacle tattoo~
+{0Sleighty's {#Wiccan pentacle{0 tattoo~
+A piece of Sleighty's shoulder flesh with his tattoo on it is here.~
+unknown~
+trash MZ AD
+0 0 0 0 0
+107 0 0 P
+A
+19 15000
+A
+18 15000
+#18049
+hunting list~
+the {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' Hunting List~
+The {*N{7i{*g{7h{*t {$W{4o{$l{4v{$e{4s{0' Hunting List is posted on the wall. READ IT!!!~
+paper~
+map 0 0
+0 0 0 0 0
+106 0 0 P
+E
+list~
+These people are to die as soon as possible, as many times as possible:
+Mephisto (Brotherhood)
+Zero (Brotherhood)
+Charell (Brotherhood)
+Raziel (Keepers of Fire)
+Keitaro (Keepers of Fire)
+Yinmuhuadao (Keepers of Fire)
+Menton (Mercenaries)
+Cinotuet (Mercenaries)
+Ralthor (Keepers of Fire)
+Wistom (Keepers of Fire)
+Cloud (Brotherhood)
+Bradley (Brotherhood)
+Silthanus (Keepers of Fire)
+~
+E
+hunting~
+These people are to die as soon as possible, as many times as possible:
+Mephisto (Brotherhood)
+Zero (Brotherhood)
+Charell (Brotherhood)
+Raziel (Keepers of Fire)
+Keitaro (Keepers of Fire)
+Yinmuhuadao (Keepers of Fire)
+Menton (Mercenaries)
+Cinotuet (Mercenaries)
+Ralthor (Keepers of Fire)
+Wistom (Keepers of Fire)
+Cloud (Brotherhood)
+Bradley (Brotherhood)
+Silthanus (Keepers of Fire)
+~
+#18050
+thin air~
+thin air~
+{0~
+unknown~
+container HTY A
+10000 0 0 10000 0
+107 0 0 P
+#0
+
+
+
+#ROOMS
+#18000
+Test Room 0~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 1036 0
+D4
+~
+~
+0 0 18001
+S
+#18001
+Test Room 10~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 8202 0
+D0
+~
+~
+0 0 18002
+D1
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18005
+D4
+~
+~
+0 0 18007
+D5
+~
+~
+0 0 18006
+S
+#18002
+Test Room 11~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18004
+D1
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18001
+D3
+~
+~
+0 0 18005
+D4
+~
+~
+0 0 18008
+D5
+~
+~
+0 0 18006
+S
+#18003
+Test Room 101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18002
+D1
+~
+~
+0 0 18005
+D2
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18001
+D4
+~
+~
+0 0 18009
+D5
+~
+~
+0 0 18003
+S
+#18004
+Test Room 110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18001
+D1
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18002
+D3
+~
+~
+0 0 18005
+D4
+~
+~
+0 0 18010
+D5
+~
+~
+0 0 18006
+S
+#18005
+Test Room 111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18002
+D1
+~
+~
+0 0 18001
+D2
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18003
+D4
+~
+~
+0 0 18011
+D5
+~
+~
+0 0 18006
+S
+#18006
+Test Room 1000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 8202 0
+D0
+~
+~
+0 0 18002
+D1
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18005
+D4
+~
+~
+0 0 18001
+D5
+~
+~
+0 0 18006
+S
+#18007
+Test Room 1001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18011
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18001
+S
+#18008
+Test Room 1010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18007
+D3
+~
+~
+0 0 18011
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18002
+S
+#18009
+Test Room 1011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18011
+D2
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18007
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18003
+S
+#18010
+Test Room 1100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18007
+D1
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18013
+D3
+~
+~
+0 0 18011
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18004
+S
+#18011
+Test Room 1101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18007
+D2
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18009
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18005
+S
+#18012
+Test Room 1110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 8202 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18011
+D4
+~
+~
+0 0 18012
+D5
+~
+~
+0 0 18007
+S
+#18013
+Test Room 1111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18010
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18016
+D4
+~
+~
+0 0 18018
+D5
+~
+~
+0 0 18017
+S
+#18014
+Test Room 10000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18014
+D1
+~
+~
+0 0 18019
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18013
+D4
+~
+~
+0 0 18018
+D5
+~
+~
+0 0 18017
+S
+#18015
+Test Room 10001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18013
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18016
+D4
+~
+~
+0 0 18018
+D5
+~
+~
+0 0 18017
+S
+#18016
+Test Room 10010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18016
+D1
+~
+~
+0 0 18013
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18014
+D4
+~
+~
+0 0 18018
+D5
+~
+~
+0 0 18017
+S
+#18017
+Test Room 10011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18018
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18016
+D4
+~
+~
+0 0 18013
+D5
+~
+~
+0 0 18017
+S
+#18018
+Test Room 10100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18017
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18016
+D4
+~
+~
+0 0 18018
+D5
+~
+~
+0 0 18013
+S
+#18019
+Test Room 10101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18020
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18014
+D4
+~
+~
+0 0 18024
+D5
+~
+~
+0 0 18023
+S
+#18020
+Test Room 10110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18022
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18019
+D3
+~
+~
+0 0 18020
+D4
+~
+~
+0 0 18024
+D5
+~
+~
+0 0 18023
+S
+#18021
+Test Room 10111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18020
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18019
+D4
+~
+~
+0 0 18024
+D5
+~
+~
+0 0 18023
+S
+#18022
+Test Room 11000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 8202 0
+D0
+~
+~
+0 0 18019
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18025
+D3
+~
+~
+0 0 18022
+D4
+~
+~
+0 0 18024
+S
+#18023
+Test Room 11001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18020
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18024
+D4
+~
+~
+0 0 18019
+D5
+~
+~
+0 0 18023
+S
+#18024
+Test Room 11010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18020
+D1
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18023
+D4
+~
+~
+0 0 18025
+D5
+~
+~
+0 0 18019
+S
+#18025
+Test Room 11011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18022
+D1
+~
+~
+0 0 18026
+D2
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18028
+D4
+~
+~
+0 0 18030
+D5
+~
+~
+0 0 18029
+S
+#18026
+Test Room 11100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18026
+D1
+~
+~
+0 0 18028
+D2
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18025
+D4
+~
+~
+0 0 18030
+D5
+~
+~
+0 0 18032
+S
+#18027
+Test Room 11101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18025
+D1
+~
+~
+0 0 18026
+D2
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18028
+D4
+~
+~
+0 0 18030
+D5
+~
+~
+0 0 18033
+S
+#18028
+Test Room 11110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18028
+D1
+~
+~
+0 0 18025
+D2
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18026
+D4
+~
+~
+0 0 18030
+D5
+~
+~
+0 0 18034
+S
+#18029
+Test Room 11111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8206 0
+D0
+~
+~
+0 0 18031
+D1
+~
+~
+0 0 18032
+D2
+~
+~
+0 0 18033
+D3
+~
+~
+0 0 18034
+D4
+~
+~
+0 0 18025
+D5
+~
+~
+0 0 18035
+S
+#18030
+Test Room 100000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18030
+D1
+~
+~
+0 0 18026
+D2
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18028
+D4
+~
+~
+0 0 18030
+D5
+~
+~
+0 0 18025
+S
+#18031
+Test Room 100001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18033
+D1
+~
+~
+0 0 18032
+D2
+~
+~
+0 0 18029
+D3
+~
+~
+0 0 18034
+D4
+~
+~
+0 0 18031
+D5
+~
+~
+0 0 18036
+S
+#18032
+Test Room 100010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18031
+D1
+~
+~
+0 0 18034
+D2
+~
+~
+0 0 18033
+D3
+~
+~
+0 0 18029
+D4
+~
+~
+0 0 18026
+D5
+~
+~
+0 0 18037
+S
+#18033
+Test Room 100011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18029
+D1
+~
+~
+0 0 18032
+D2
+~
+~
+0 0 18031
+D3
+~
+~
+0 0 18034
+D4
+~
+~
+0 0 18027
+D5
+~
+~
+0 0 18038
+S
+#18034
+Test Room 100100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18031
+D1
+~
+~
+0 0 18029
+D2
+~
+~
+0 0 18033
+D3
+~
+~
+0 0 18032
+D4
+~
+~
+0 0 18028
+D5
+~
+~
+0 0 18039
+S
+#18035
+Test Room 100101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18036
+D1
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18038
+D3
+~
+~
+0 0 18039
+D4
+~
+~
+0 0 18029
+D5
+~
+~
+0 0 18040
+S
+#18036
+Test Room 100110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.  
+~
+0 8202 0
+D0
+~
+~
+0 0 18038
+D1
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18035
+D3
+~
+~
+0 0 18036
+D4
+~
+~
+0 0 18031
+D5
+~
+~
+0 0 18040
+S
+#18037
+Test Room 100111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18036
+D1
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18038
+D3
+~
+~
+0 0 18035
+D4
+~
+~
+0 0 18032
+D5
+~
+~
+0 0 18040
+S
+#18038
+Test Room 101000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18035
+D1
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18036
+D3
+~
+~
+0 0 18038
+D4
+~
+~
+0 0 18033
+D5
+~
+~
+0 0 18040
+S
+#18039
+Test Room 101001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18041
+D1
+~
+~
+0 0 18035
+D2
+~
+~
+0 0 18042
+D3
+~
+~
+0 0 18043
+D4
+~
+~
+0 0 18045
+D5
+~
+~
+0 0 18044
+S
+#18040
+Test Room 101010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18036
+D1
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18038
+D3
+~
+~
+0 0 18040
+D4
+~
+~
+0 0 18035
+D5
+~
+~
+0 0 18040
+S
+#18041
+Test Room 101011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18042
+D1
+~
+~
+0 0 18041
+D2
+~
+~
+0 0 18039
+D3
+~
+~
+0 0 18043
+D4
+~
+~
+0 0 18045
+D5
+~
+~
+0 0 18046
+S
+#18042
+Test Room 101100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18039
+D1
+~
+~
+0 0 18042
+D2
+~
+~
+0 0 18041
+D3
+~
+~
+0 0 18043
+D4
+~
+~
+0 0 18045
+D5
+~
+~
+0 0 18048
+S
+#18043
+Test Room 101101~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18041
+D1
+~
+~
+0 0 18039
+D2
+~
+~
+0 0 18042
+D3
+~
+~
+0 0 18043
+D4
+~
+~
+0 0 18045
+D5
+~
+~
+0 0 18049
+S
+#18044
+Test Room 101110~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18046
+D1
+~
+~
+0 0 18047
+D2
+~
+~
+0 0 18048
+D3
+~
+~
+0 0 18049
+D4
+~
+~
+0 0 18039
+D5
+~
+~
+0 0 18050
+S
+#18045
+Test Room 101111~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18041
+D1
+~
+~
+0 0 18045
+D2
+~
+~
+0 0 18042
+D3
+~
+~
+0 0 18043
+D4
+~
+~
+0 0 18045
+D5
+~
+~
+0 0 18039
+S
+#18046
+Test Room 110000~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18048
+D1
+~
+~
+0 0 18047
+D2
+~
+~
+0 0 18044
+D3
+~
+~
+0 0 18049
+D4
+~
+~
+0 0 18041
+D5
+~
+~
+0 0 18050
+S
+#18047
+Test Room 110001~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18046
+D1
+~
+~
+0 0 18049
+D2
+~
+~
+0 0 18048
+D3
+~
+~
+0 0 18044
+D4
+~
+~
+0 0 18047
+D5
+~
+~
+0 0 18050
+S
+#18048
+Test Room 110010~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18044
+D1
+~
+~
+0 0 18047
+D2
+~
+~
+0 0 18046
+D3
+~
+~
+0 0 18049
+D4
+~
+~
+0 0 18042
+D5
+~
+~
+0 0 18050
+S
+#18049
+Test Room 110011~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18046
+D1
+~
+~
+0 0 18044
+D2
+~
+~
+0 0 18040
+D3
+~
+~
+0 0 18000
+D4
+~
+~
+0 0 18043
+D5
+~
+~
+0 0 18050
+S
+#18050
+Test Room 110100~
+As you look around the room you wonder how you got here and what you're
+doing here.  The walls, if they can be called walls, are made up of of
+millions of tiny blobs.  Upon closer inspection the blobs are miniscule ones
+and zeros.
+~
+0 8202 0
+D0
+~
+~
+0 0 18046
+D1
+~
+~
+0 0 18047
+D2
+~
+~
+0 0 18048
+D3
+~
+~
+0 0 18049
+D4
+~
+~
+0 0 18044
+D5
+~
+~
+0 0 18050
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 18000 0 18000
+O 0 18006 0 18000
+M 0 18000 25 18001 1
+M 0 18000 25 18002 1
+M 0 18000 25 18003 1
+G 0 18002 0
+M 0 18000 25 18004 1
+G 0 18002 0
+M 0 18000 25 18005 1
+M 0 18000 25 18006 1
+M 0 18000 25 18007 1
+M 0 18000 25 18008 2
+M 0 18000 25 18009 2
+M 0 18000 25 18010 2
+M 0 18000 25 18011 2
+G 0 18002 0
+M 0 18000 25 18012 2
+G 0 18002 0
+M 0 18000 25 18013 2
+M 0 18000 25 18014 1
+M 0 18001 23 18014 1
+G 0 18001 0
+M 0 18000 25 18015 1
+M 0 18001 23 18015 1
+M 0 18000 25 18016 1
+M 0 18001 23 18016 1
+M 0 18000 25 18017 1
+M 0 18001 23 18017 1
+M 0 18000 25 18018 1
+M 0 18001 23 18018 1
+M 0 18000 25 18019 1
+M 0 18001 23 18019 1
+M 0 18001 23 18020 2
+M 0 18001 23 18021 2
+M 0 18001 23 18022 2
+M 0 18001 23 18023 2
+M 0 18001 23 18024 2
+M 0 18001 23 18025 2
+M 0 18001 23 18026 1
+M 0 18002 20 18026 1
+M 0 18001 23 18027 1
+M 0 18002 20 18027 1
+M 0 18001 23 18028 1
+M 0 18002 20 18028 1
+M 0 18001 23 18029 1
+M 0 18002 20 18029 1
+M 0 18001 23 18030 1
+G 0 18001 0
+M 0 18002 20 18030 1
+M 0 18002 20 18031 2
+M 0 18002 20 18032 2
+G 0 18003 0
+M 0 18002 20 18033 2
+M 0 18002 20 18034 2
+M 0 18002 20 18035 2
+M 0 18002 20 18036 1
+M 0 18003 25 18036 1
+M 0 18002 20 18037 1
+M 0 18003 25 18037 1
+M 0 18002 20 18038 1
+M 0 18003 25 18038 1
+G 0 18004 0
+M 0 18002 20 18039 1
+M 0 18003 25 18039 1
+G 0 18005 0
+M 0 18002 20 18040 1
+G 0 18003 0
+M 0 18003 25 18040 1
+M 0 18003 25 18041 2
+M 0 18003 25 18042 2
+M 0 18003 25 18043 2
+M 0 18003 25 18044 2
+M 0 18003 25 18045 2
+M 0 18003 25 18046 2
+G 0 18004 0
+M 0 18003 25 18047 2
+M 0 18003 25 18048 2
+M 0 18003 25 18049 2
+G 0 18004 0
+M 0 18004 1 18049 1
+M 0 18003 25 18050 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

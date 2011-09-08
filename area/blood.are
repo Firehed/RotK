@@ -1,0 +1,147 @@
+#AREADATA
+Name Bloodfang~
+Builders Stantel~
+VNUMs 871 890
+Credits [ CLAN] Stantel Bloodfang~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#873
+wand~
+a dragon wand~
+A rift wand is here~
+unknown~
+wand 0 AO
+1000 110 110 'dragon' 0
+110 0 0 P
+#0
+
+
+
+#ROOMS
+#871
+Bloodfang Temple~
+This is the central room to the clan Bloodfang, a following of vampires
+and lichs.  Light never pirces the black stone walls, and it's very cold.  A
+dark power seems to eminate in the walls.  
+~
+0 1024 0
+D0
+~
+~
+0 0 875
+D1
+~
+~
+0 0 874
+D4
+~
+~
+0 0 873
+D5
+~
+~
+0 0 872
+S
+#872
+Restoration Room~
+A truly evil place.  There is a pool filled with blood here, and a figure
+dressed in black who appears to be casting spells.  
+~
+0 1024 0
+D4
+~
+~
+0 0 871
+S
+#873
+.~
+~
+0 1024 0
+D5
+~
+~
+0 0 871
+S
+#874
+Hall of Mirrors~
+As you look around, you notice this room is filled with mirrors. 
+However, when you look into them, they show something other then your
+reflection...  
+~
+0 1024 0
+D3
+~
+~
+0 0 871
+S
+#875
+Training Center~
+This is the main part of the training center, a place where the clan
+comes to practice and become stronger To the west is the practice room and
+to the east is the trainer.  
+~
+0 1024 0
+D1
+~
+~
+0 0 876
+D2
+~
+~
+0 0 871
+D3
+~
+~
+0 0 877
+S
+#876
+Trainer's Room~
+In this room hundreds of vampires have been taught their strongest skills. The trainer learned from the great lord Stantel himself.
+~
+0 1024 0
+D3
+~
+~
+0 0 875
+S
+#877
+Training Room~
+~
+0 0 0
+D1
+~
+~
+0 0 875
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

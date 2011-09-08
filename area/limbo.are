@@ -1,0 +1,423 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 54
+Credits { NONE} Diku    Limbo~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+1 0 0 0 0
+0 0 0 P
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0 1 0 0 0
+0 0 0 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 0 0 P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0 0 0 0 0
+0 0 0 P
+#5
+coins money gcash~
+a pile of money~
+A pile of money.~
+gold~
+money 0 A
+0 0 0 0 0
+0 0 0 P
+#6
+coins platinum gcash~
+a platinum coin~
+One valuable platinum coin.~
+platinum~
+money 0 A
+0 0 0 0 0
+0 0 0 P
+#7
+coins platinum gcash~
+%d platinum coins~
+A pile of platinum coins.~
+platinum~
+money 0 A
+0 0 0 0 0
+0 0 0 P
+#8
+token quest~
+a Quest token~
+A Quest token is here~
+unknown~
+token a A
+0 0 0 0 0
+1 0 0 P
+#9
+quest pill~
+a Quest Pill~
+A pill worth 10 QPs is here.~
+qps~
+pill GIY A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 1 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 5 0 D
+#11
+corpse pccorpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 5 0 D
+#12
+%s head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+trash 0 AO
+0 0 0 0 0
+0 50 0 D
+#13
+%s heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+food 0 AO
+16 16 0 0 0
+0 20 0 D
+#14
+%s arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+food 0 AO
+20 20 0 0 0
+0 50 0 D
+#15
+%s leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+food 0 AO
+20 20 0 0 0
+0 50 0 D
+#16
+%s guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food 0 AO
+5 5 0 A 0
+0 20 0 D
+#17
+%s brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food 0 AO
+10 10 0 0 0
+0 20 0 D
+#18
+pool blood~
+{Ra pool of blood{x~
+A small {Rpool of blood{x is here.~
+~
+fountain PT 0
+1 1 'blood' 0 0
+0 0 0 G
+#19
+sword flaming~
+{1F{3l{!a{#m{3i{!n{1g S{3w{!o{#r{!d{0~
+A {1F{3l{!a{#m{3i{!n{1g S{3w{!o{#r{!d burns here{0~
+unknown~
+weapon 0 AN
+sword 0 0 flame A
+0 1 10000 P
+#20
+corn on the cob~
+{@A {#C{3o{#r{3n {#o{3n {#t{3h{#e {3C{#o{3b{0~
+An ear of corn is here.~
+food~
+food 0 A
+12 12 0 0 0
+0 10 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A A
+0 0 999 0 0
+0 0 0 P
+#22
+spring coffee~
+a {yC{Do{yf{Df{ye{De{x dispenser~
+A {yC{Do{yf{Df{ye{De{x dispenser is here, dispensing {yC{Do{yf{Df{ye{De{x~
+coffee~
+fountain G A
+1000 1000 'coffee' 0 0
+0 200 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 P
+#24
+bag~
+a corpsebag~
+A corpsebag for make bag spell.~
+unknown~
+container Y A
+5000 0 0 0 0
+0 0 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0 0 0 0 0
+0 0 0 P
+#26
+eggnog egg nog~
+{2A {^G{7l{&a{7s{^s{2 of {#E{3g{#g {3N{#o{3g{0~
+{2A {^G{7l{&a{7s{^s{2 of {#E{3g{#g {3N{#o{3g{0 is here.~
+unknown~
+potion I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 1 P
+#27
+easter egg~
+{%E{5a{!s{1t{&e{7r {@E{2g{#g{0~
+An {%E{5a{!s{1t{&e{7r {@E{2g{#g{0 is here.~
+unknown~
+token I A
+CFG 0 0 0 0
+1 0 0 P
+#28
+shamrock~
+{@S{2h{@a{2m{@r{2o{@c{2k{0~
+A {@S{2h{@a{2m{@r{2o{@c{2k{0 is here.~
+unknown~
+pill I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#29
+american flag~
+{!A{&m{$e{&r{!i{&c{$a{&n {!F{&l{$a{&g{0~
+An {!A{&m{$e{&r{!i{&c{$a{&n {!F{&l{$a{&g{0 is flying high!~
+unknown~
+pill I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#30
+pumpkin~
+a {1p{3u{1m{3p{1k{3i{1n{0~
+A {1p{3u{1m{3p{1k{3i{1n{0 is glowing here.~
+unknown~
+pill I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#31
+turkey leg~
+a {#T{3u{#r{3k{#e{3y {!L{1e{!g{0~
+A {#T{3u{#r{3k{#e{3y {!L{1e{!g{0 is here.~
+unknown~
+pill I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#32
+chocolate coin~
+a {3Chocolate {#Coin{0~
+A {3Chocolate {#Coin{0 is here.~
+unknown~
+pill I A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#33
+andes mint~
+{GA{gn{wd{Ge{gs {wM{Gi{gn{wt{x~
+A tasty {GA{gn{wd{Ge{gs {wM{Gi{gn{wt{x is here.~
+unknown~
+pill 0 A
+110 'quest pill' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#34
+death pill~
+death pill~
+Death pill gunna kill ya?~
+unknown~
+pill 0 A
+10000 'blizzard' 'inferno' 'tsunami' 'thunderstorm'
+101 0 0 P
+#35
+energy ball~
+an {WE{Yn{We{Yr{Wg{Yy {WB{Ya{Wl{Yl{x~
+An {WE{Yn{We{Yr{Wg{Yy {WB{Ya{Wl{Yl{x is hovering in midair.~
+energy~
+furniture AP 0
+10 1000000 CFIL 10000 10000
+0 0 0 P
+#49
+huge giant bonfire~
+a {RG{ri{ya{Yn{yt {rB{Ro{rn{yf{Yi{yr{re{x~
+A {RG{ri{ya{Yn{yt {rB{Ro{rn{yf{Yi{yr{re{x is roasting here.~
+unknown~
+trash A 0
+0 0 0 0 0
+110 0 0 P
+#50
+pill quest white~
+a shimmering white pill~
+A shimmering white pill has been dropped here.~
+jelly~
+pill AGHTa A
+110 'quest pill' '' '' ''
+0 1 0 P
+#51
+%s voodoo doll~
+a voodoo doll of %s~
+A voodoo doll of %s is lying here.~
+energy~
+treasure G AO
+0 0 0 0 0
+20 5 50 P
+#52
+exit~
+exit~
+Nothing special there.~
+energy~
+exit ORTY 0
+A 0 0 0 0
+1 1 1 P
+#53
+exit chain up~
+the chain~
+The chain disappears in the clouds.~
+iron~
+exit ORTY 0
+BDFGHJKLM 0 0 0 0
+1 1 1 P
+E
+chain~
+The chain reaches the clouds high above you, the bottom link is mangled,
+and almost scrapes the ground.
+~
+#54
+bag~
+a paper bag~
+A small paper bag.~
+leather~
+container 0 A
+50 0 0 5 100
+0 10 0 G
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+D4
+~
+~
+0 -1 3001
+S
+#3
+A Round Room~
+You are in a round room.  You were told to sit in the corner, but every
+time you try to find it, you get confused.  Keep your nose in the corner
+like a good little player?  How can you, for you can't find it!  Well, you
+sniff your ass with your head between your legs, for a lack of a corner to
+put your nose into.  There is a keychain here.  
+~
+0 41988 1
+E
+side3~
+Well, either you made a typo, or you are a complete idiot!  
+~
+E
+keychain~
+Want to know how to keep an idiot occupied for hours?  Look side1 to find
+out!  
+~
+E
+side1~
+Look side2 to keep an idiot occupied for hours!  
+~
+E
+side2~
+Look side1 to keep an idiot occupied for hours!  
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

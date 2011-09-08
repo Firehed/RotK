@@ -1,0 +1,263 @@
+#AREADATA
+Name New Builder Testing~
+Builders None~
+VNUMs 29990 29995
+Credits [ IMM ] NewBlds New Builder Testing~
+Security 1
+End
+
+
+
+#MOBILES
+#29990
+death~
+{wDe{Wa{wth{x~
+{wDe{Wa{wth{W is awaiting you.{x
+~
+Death stands here awaiting for you as it has nothing better to do.  Death
+comes whenever it chooses and nothing can stop it...
+~
+dragon~
+ABGc JT 0 -1000 0
+80 74 50d10+4200 60d60+100 5d20+51 crush
+-13
+FIK 0 BEH FI
+stand stand male 680
+AHZ ACDEFGHIJKPQUVX medium unknown
+#29991
+the Janitor~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+2 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#29992
+janitor~
+a tired janitor~
+The janitor is here, cleaning up all this...junk
+~
+~
+Human~
+A 0 0 0 0
+2 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#29993
+misery~
+{mMisery{x~
+{mMisery{W lingers here as death surrounds the room.{x
+~
+Misery lingers here as death surrounds the room.  The pain and sorrow of misery
+can not be touched.  For death has seem to made sure misery last a lifetime
+to those who meets up with misery.
+~
+dragon~
+ABGc JT 0 -1000 0
+80 74 50d10+4200 60d60+100 5d20+51 punch
+-13
+FIK 0 BEH FI
+stand stand female 680
+AHZ ACDEFGHIJKPQUVX medium unknown
+#29995
+(null)~
+none ~
+None
+~
+~
+Goblin~
+AB J 0 -1000 0
+100 0 1d2+0 0d0+0 1d1+0 none
+0
+0 0 P NSXY
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#29990
+hood of death~
+{wHood {Wof {wDe{Wa{wth{x~
+{WThe {wHood {Wof {wDe{Wa{wth{W lies here withering in pure evil.{x~
+skin~
+armor 0 AE
+20 21 20 21 0
+80 2 500 P
+A
+13 70
+#29991
+pile poo~
+a big pile of poo~
+Sitting here is a huge chunk of poo, you do not know where it came from but it is disgusting~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#29992
+crack wall~
+{wA {yCrack {Win the {rWall{x~
+{wA {yCrack {Win the {rWall{W shines some light.{x~
+unknown~
+portal 0 A
+0 H H 29994 0
+80 0 0 P
+#29993
+poo spoon~
+a spoon of poop is here~
+Sitting here is a huge chunk of poo, you do not know where it came from but it is disgusting~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#29990
+{wWithin {Wthe {yTunnel {WOf {rPain{x~
+Standing inside the tunnel of Pain, one can see the pain within the
+walls here.  The walls seem to be crying tears as one looks about the
+tunnel.  One feels the life that was here before ended so sad.  The feelings
+of betrayal and lies fill the room with pain.  The tears falls upon the
+ground in puddles as one tries to avoid the tears.  The walls seem to be
+crying out for help as one stands here in awe and wonders how their life has
+come to what it is now.  
+~
+0 0 0
+D2
+~
+~
+0 0 29991
+S
+#29991
+{wInside {Wthe {yTunnel {Wof {cBetrayal{x~
+Standing inside the tunnel of betrayal, one can truly feel the questers
+pain as they notice the fallen questers skeletons scattered all around the
+tunnel here.  The voice inside ones mind tries to warn them to turn back now
+and not become the next victim to such a tragic death.  The heart beat of
+one starts to beat fast as they wonder to themselves "{rMy god, why has thee
+lead me to this forsaken place?  {G" As they begin to shake in fear as the
+tears form and begin to fall from their eyes as they try to focus on the
+tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 29990
+D1
+~
+~
+0 0 29992
+S
+#29992
+{yTunnel {Wof {rBlood{x~
+Standing inside the tunnel of blood, one feels their blood might be
+added to the other dried blood upon the ground.  The ceiling, floors and
+walls surrounding the tunnel seems to be over flowing with blood.  One
+begins to wonder why they have chosen such a quest and now wishes to return
+to the life they had before.  Staring at the fallen questers lying in heaps
+on the ground, one can only imagine their lives had no meaning as for them
+to take such a quest and fallen before they could complete such a quest. 
+Only the strong can survive such a stressful quest as one looks about the
+tunnel and hope they will be able to endured what is left to come.  
+~
+0 0 0
+D1
+~
+~
+0 0 29993
+D3
+~
+~
+0 0 29991
+S
+#29993
+{yTunnel {Wof {wDe{Wa{wth{x~
+As one stands in the tunnel of death, their body begins to shake in
+fear.  The walls of the tunnel are covered in pain, death and misery as one
+looks about the tunnel.  The pain is from one tried to survive the death of
+this hellish tunnel, as well as the misery this tunnel causes upon the last
+questers.  One sits down and ponders on their life as wonders why death has
+decided to become a reality before them.  Their minds are racing with fear
+as one knows the past questers have fallen before they could even get a
+glimpse of life that was head of them.  No one knows how death is always
+surrounding ones soul as they sigh for one will never know 
+~
+0 0 0
+D1
+~
+~
+0 0 29994
+D3
+~
+~
+0 0 29992
+S
+#29994
+{yTunnel {Wof {wLife{x~
+One stands here in the tunnel of Life, they wonder how there is life
+after death.  The tunnel of death shown no means of life as they have
+entered the tunnel of life.  One prays to their god "Oh my god above, I knew
+you wouldn't let me down!"  .  As one looks about the tunnel they notice
+tiny crystals scattered about the tunnel.  The crystals are giving off a
+bright light as one decides to rest their weary bones.  One reaches to touch
+a crystal and notices it is not hot to the touch but instead cool.  One
+breathes a sigh of relief as they have made it this far alive and wonders
+what is in store for them after that is.  One notices a small crack in the
+far corner of the tunnel as it seems to be giving off some cool air.  
+~
+0 0 0
+D3
+~
+~
+0 0 29993
+S
+#29995
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 29990 1 29993 1
+E 0 29990 0 6
+O 0 29992 0 29993
+M 0 29993 1 29993 1
+M 0 29992 1 29994 1
+O 0 29992 0 29995
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

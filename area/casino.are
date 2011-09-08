@@ -1,0 +1,1107 @@
+#AREADATA
+Name Casino~
+Builders Sleighty~
+VNUMs 21500 21599
+Credits [BLDG.] Slei.   Casino~
+Security 9
+End
+
+
+
+#MOBILES
+#21504
+doorman~
+the doorman~
+The doorman smiles a toothless smile.
+~
+The doorman offers to carry your bags when he notices you looking at him.  
+~
+Human~
+AB 0 0 500 0
+120 150 1d1+1499 0d0+0 1d1+99 punch
+-6
+EI 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 21500 aaa~
+M SPEECH 21501 numbers~
+M SPEECH 21502 up?~
+M SPEECH 21503 you?~
+M GREET 21504 100~
+#21506
+seller~
+a ticket seller~
+The ticket seller stands behind the counter.
+~
+The ticket seller greedily eyes your coin purse.
+~
+Human~
+AB 0 0 0 0
+0 0 1d1+0 0d0+0 0d0+0 pound
+0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 21506 100~
+#21507
+casino bouncer~
+a casino bouncer~
+A casino bouncer growls at you.
+~
+The bouncer's tight-fitting tuxedo shows off their rippling muscles.
+~
+Titan~
+AB Da 0 -500 0
+130 175 1d1+1749 0d0+0 5d10+75 punch
+-7
+EFKU B DHI JMP
+stand stand male 650
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 21507 100~
+M DELAY 21505 100~
+#21514
+hostess~
+a hostess~
+A woman showing a little too much cleavage and a little too much leg is here.
+~
+~
+Elf~
+AB DJ 0 500 0
+150 0 1d1+1999 0d0+0 10d10+200 slap
+-10
+EFRU 0 0 B
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+F vul Z
+M GRALL 21514 100~
+#21525
+high roller~
+a (slot machine?) high roller~
+A man shoves platinum after platinum into a slot machine.
+~
+~
+Human~
+AG 0 0 500 0
+130 200 1d1+1999 0d0+0 5d10+0 none
+-10
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21539
+high roller bouncer~
+a high-roller bouncer~
+The bouncer's tight-fitting tuxedo shows off his rippling muscles.
+~
+~
+Titan~
+AB Da 0 -500 0
+150 200 1d1+2499 0d0+0 10d10+150 punch
+-10
+EFKU BLQR CD E
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+F vul M
+M GRALL 21539 100~
+#0
+
+
+
+#OBJECTS
+#21504
+secret pass casinopass~
+the secret pass~
+The secret pass is here! Take it!~
+unknown~
+trash F A
+0 0 0 0 0
+40 0 0 P
+#21506
+casino pass casinopass~
+a casino pass~
+A casino pass lies here forgotten.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1000 P
+#21507
+poker~
+{0Sleighty's poker~
+Sleighty's poker is on the ground.~
+unknown~
+weapon 0 AN
+exotic 0 0 stab 0
+0 0 0 P
+#21525
+scrap paper highrollerpass~
+a scrap of paper~
+A scrap of paper lies crumpled on the ground.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+paper~
+There is a black dot on the paper, its only marking.
+~
+E
+scrap~
+There is a black dot on the paper, its only marking.
+~
+#0
+
+
+
+#ROOMS
+#21504
+Before the Flashing Sign~
+Magical flames burn brilliantly and illuminate a red carpet before huge
+bronze pillars.  Large double crystal doors beckon you inside.  
+~
+0 0 1
+E
+doors~
+The doors are made entirely of beautifully etched crystal.
+~
+E
+crystal~
+The doors are made entirely of beautifully etched crystal.
+~
+E
+pillars~
+Ten pillars run parallel along both sides of the carpet.
+~
+E
+carpet~
+The stunning red carpet is laid out flawlessly.
+~
+D0
+~
+~
+1 0 21505
+D1
+~
+~
+0 0 21503
+S
+#21505
+The Entrance~
+Elegant, polished marble stretches out in all directions under your feet.
+Crystal double doors are to the south.  A counter appears to be to the east.
+~
+0 0 0
+E
+crystal~
+The doors are made entirely of beautifully etched crystal.
+~
+E
+doors~
+The doors are made entirely of beautifully etched crystal.
+~
+D0
+~
+~
+0 0 21507
+D1
+~
+~
+0 0 21506
+D2
+~
+~
+1 0 21504
+S
+#21506
+The Ticket Counter~
+A chain-link fence and marble counter guard the ticket seller.
+~
+0 1024 0
+D3
+~
+~
+0 0 21505
+S
+#21507
+The Grand Foyer~
+A massive room with sparkling marble floors and incredibly high ceilings
+swallows you up.
+~
+0 0 0
+D0
+~
+~
+0 0 21508
+D1
+~
+~
+0 0 21509
+D2
+~
+~
+0 0 21505
+D3
+~
+~
+0 0 21511
+S
+#21508
+North Part of The Grand Foyer~
+Polished marble stretches out in all directions.  To the north the
+incredibly high ceilings slope down to a more normal height.  
+~
+0 0 0
+D0
+~
+~
+0 0 21513
+D1
+~
+~
+0 0 21510
+D2
+~
+~
+0 0 21507
+D3
+~
+~
+0 0 21512
+S
+#21509
+East Part of The Grand Foyer~
+Polished marble stretches out in all directions.  To the east the
+incredibly high ceilings slope down to a more normal height.  
+~
+0 0 0
+D0
+~
+~
+0 0 21510
+D3
+~
+~
+0 0 21507
+S
+#21510
+Northeast Corner of The Grand Foyer~
+Brillant magical flames light this corner of the massive Grand Foyer.
+~
+0 0 0
+D2
+~
+~
+0 0 21509
+D3
+~
+~
+0 0 21508
+S
+#21511
+West Part of The Grand Foyer~
+Polished marble stretches out in all directions.  To the west the
+incredibly high ceilings slope down to a more normal height.  
+~
+0 0 0
+D0
+~
+~
+0 0 21512
+D1
+~
+~
+0 0 21507
+S
+#21512
+Northwest Corner of The Grand Foyer~
+Brillant magical flames light this corner of the massive Grand Foyer.
+~
+0 0 0
+D1
+~
+~
+0 0 21508
+D2
+~
+~
+0 0 21511
+S
+#21513
+Hallway to the Slot Machines~
+The marble floors extend to the end of the hallway then give way to soft
+carpet.  Millions of lights can be seen flickering ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 21514
+D2
+~
+~
+0 0 21508
+S
+#21514
+Slot Room Entrance~
+The sudden blinking of millions of lights and clang and chings associated
+with slot machines assault your ear drums as you enter the room.  People can
+be seen putting different denominations of money in machines all around the
+room, wasting away their forturnes minute amounts at a time.  Call girls hit
+on the high rollers, while other women wander around in skimpy attire
+offering the low rollers drinks.  
+~
+0 0 0
+D0
+~
+~
+0 0 21519
+D1
+~
+~
+0 0 21517
+D2
+~
+~
+0 0 21513
+D3
+~
+~
+0 0 21515
+S
+#21515
+South Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21520
+D1
+~
+~
+0 0 21514
+D3
+~
+~
+0 0 21516
+S
+#21516
+Southwest Corner of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21521
+D1
+~
+~
+0 0 21515
+S
+#21517
+South Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".  
+~
+0 0 0
+D0
+~
+~
+0 0 21522
+D1
+~
+~
+0 0 21518
+D3
+~
+~
+0 0 21514
+S
+#21518
+Southeast Corner of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21523
+D3
+~
+~
+0 0 21517
+S
+#21519
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21524
+D1
+~
+~
+0 0 21522
+D2
+~
+~
+0 0 21514
+D3
+~
+~
+0 0 21520
+S
+#21520
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21525
+D1
+~
+~
+0 0 21519
+D2
+~
+~
+0 0 21515
+D3
+~
+~
+0 0 21521
+S
+#21521
+West Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21526
+D1
+~
+~
+0 0 21520
+D2
+~
+~
+0 0 21516
+S
+#21522
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21527
+D1
+~
+~
+0 0 21523
+D2
+~
+~
+0 0 21517
+D3
+~
+~
+0 0 21519
+S
+#21523
+East Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21528
+D2
+~
+~
+0 0 21518
+D3
+~
+~
+0 0 21522
+S
+#21524
+Center of the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21529
+D1
+~
+~
+0 0 21527
+D2
+~
+~
+0 0 21519
+D3
+~
+~
+0 0 21525
+S
+#21525
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21530
+D1
+~
+~
+0 0 21524
+D2
+~
+~
+0 0 21520
+D3
+~
+~
+0 0 21526
+S
+#21526
+West Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21531
+D1
+~
+~
+0 0 21525
+D2
+~
+~
+0 0 21521
+S
+#21527
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21532
+D1
+~
+~
+0 0 21528
+D2
+~
+~
+0 0 21522
+D3
+~
+~
+0 0 21524
+S
+#21528
+East Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21533
+D2
+~
+~
+0 0 21523
+D3
+~
+~
+0 0 21527
+S
+#21529
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21534
+D1
+~
+~
+0 0 21532
+D2
+~
+~
+0 0 21524
+D3
+~
+~
+0 0 21530
+S
+#21530
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21535
+D1
+~
+~
+0 0 21529
+D2
+~
+~
+0 0 21525
+D3
+~
+~
+0 0 21531
+S
+#21531
+West Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21536
+D1
+~
+~
+0 0 21530
+D2
+~
+~
+0 0 21526
+S
+#21532
+Among the Slots~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21537
+D1
+~
+~
+0 0 21533
+D2
+~
+~
+0 0 21527
+D3
+~
+~
+0 0 21529
+S
+#21533
+East Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D0
+~
+~
+0 0 21538
+D2
+~
+~
+0 0 21528
+D3
+~
+~
+0 0 21532
+S
+#21534
+North Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D1
+~
+~
+0 0 21537
+D2
+~
+~
+0 0 21529
+D3
+~
+~
+0 0 21535
+S
+#21535
+North Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D1
+~
+~
+0 0 21534
+D2
+~
+~
+0 0 21530
+D3
+~
+~
+0 0 21536
+S
+#21536
+Northwest Corner of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D1
+~
+~
+0 0 21535
+D2
+~
+~
+0 0 21531
+S
+#21537
+North Wall of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".
+~
+0 0 0
+D1
+~
+~
+0 0 21538
+D2
+~
+~
+0 0 21532
+D3
+~
+~
+0 0 21534
+S
+#21538
+Northeast Corner of the Slot Room~
+Annoying metallic sounds, ringing bells, and the sounds of falling coins
+are abundent.  Loud cheers errupt from every part of the huge room, but not
+as common as loud groans.  People seem quite happy to waste away their life
+fortunes on the chance that the next time will be that "big pay off".  A
+light on the east wall flickers intermittently.  
+~
+0 0 0
+D1
+~
+~
+3 0 21539
+D2
+~
+~
+0 0 21533
+D3
+~
+~
+0 0 21537
+S
+#21539
+Secret Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 21540
+D3
+~
+~
+3 0 21538
+S
+#21540
+~
+~
+0 0 0
+D0
+~
+~
+0 0 21539
+S
+#21544
+~
+~
+0 4 0
+S
+#21545
+~
+~
+0 4 0
+S
+#21546
+Northwest Corner of the Slot Room~
+~
+0 4 0
+S
+#21547
+~
+~
+0 4 0
+S
+#21548
+Northeast Corner of the Slot Room~
+~
+0 4 0
+S
+#21500
+A Back Alley~
+Winds whip through the concrete canyon that is the alley and toss paper
+around.  Dim lights can be seen far away.  
+~
+0 0 1
+D0
+~
+~
+0 0 21501
+S
+#21501
+A Back Alley~
+Papers swirl around you from the strong winds generated in the alley. 
+The lights are noticeably brighter.  
+~
+0 0 1
+D0
+~
+~
+0 0 21502
+D2
+~
+~
+0 0 21500
+S
+#21502
+A Dark Bend in the Alley~
+You almost stumble blindly into a wall covered with graffiti.  Strong
+lights radiate from the west.  
+~
+0 0 1
+E
+graffiti~
+Various tag names and dirty phone numbers are spray painted on the wall.  
+~
+E
+phone~
+(such as (802)878-8286 and (802)879-4232)
+~
+E
+numbers~
+(such as (802)878-8286 and (802)879-4232)
+~
+D2
+~
+~
+0 0 21501
+D3
+~
+~
+0 0 21503
+S
+#21503
+Before Bright Lights~
+Bright lights contrast with the dark alley to the east.  A large sign is
+not quite legible to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 21502
+D3
+~
+~
+0 0 21504
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 21538 1 1
+D 0 21539 3 1
+M 0 21504 1 21504 1
+G 0 21504 0
+M 0 21506 1 21506 1
+G 0 21506 0
+M 0 21507 2 21507 2
+M 0 21514 2 21514 2
+M 0 21525 1 21525 1
+E 0 21525 0 17
+M 0 21539 2 21539 2
+S
+
+
+
+#SHOPS
+21506 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#21500
+say WWWWWWWWWWAAAAAAAAAASSSSSSSSSSSSSSSSSSSSAAAAAAAAAA?!?!?!?!?!
+tongue
+~
+#21501
+conspire $n
+say shhh!
+~
+#21502
+say not much, you?
+~
+#21503
+say I'm okay, and you?
+~
+#21504
+bow $n
+say Good evening $n!
+~
+#21505
+if hastarget $i
+conspire bouncer
+say you know, I hear $Q is gay...
+else
+mob forget
+endif
+~
+#21506
+grin $n
+say Care for a casino pass?
+~
+#21507
+if carries $n 'casinopass'
+bow $n
+say Welcome to the Casino, $N!
+break
+else
+growl $n
+mob kill $n
+endif
+mob remember $n
+mob delay 1
+~
+#21514
+say Heya $N
+say Anything I can do for you?
+flirt $n
+~
+#21539
+if carries $n 'highrollerpass'
+bow $n
+say Welcome, $N
+say They're expecting you
+break
+else
+growl $n
+say You are not welcome!!!
+mob kill $n
+endif
+~
+#0
+
+#$

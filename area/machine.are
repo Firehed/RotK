@@ -1,0 +1,435 @@
+#AREADATA
+Name Machine World~
+Builders Baal~
+VNUMs 22150 22199
+Credits [BLDG.] Baal    Machine World~
+Security 1
+End
+
+
+
+#MOBILES
+#22150
+your mom~
+Your mom ~
+You see your mom sitting here on the bed
+~
+Your mom is here..and she looks like shes been having a little too much fun.
+~
+Human~
+ABC 0 0 0 0
+1 0 10d169+920 10d169+920 10d169+920 none
+0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22151
+under pant gnome~
+an underpants gnome is here looking for underpants~
+An underpants gnome is here looking for underpants
+~
+~
+Gnome~
+AC J 0 0 0
+15 0 10d169+920 10d169+920 10d169+920 none
+0
+0 0 P R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#22150
+jet black leggings~
+a pair of jet black leggings~
+A pair of jet black leggings lies here~
+unknown~
+armor 0 AF
+1111100000 1111100000 1111100000 1111100000 0
+106 0 0 P
+A
+19 2000
+A
+18 2000
+#22151
+pair tiny white lace panties~
+a pair of tiny white lace panties~
+A pair of tiny white lace panties~
+unknown~
+armor P AF
+0 0 0 0 0
+1 0 0 P
+#22152
+desk~
+a dark shadowy desk~
+A dark shadowy desk~
+unknown~
+furniture 0 0
+3 0 EHK 0 0
+0 0 0 P
+E
+desk~
+a dark stone desk sits facing the fireplace, ontop is scattered with scrolls and maps
+~
+#22153
+screen~
+a privacy screen is set up in the corner~
+A privacy screen is set up in the corner~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#22154
+a dark blood key~
+a key dripping with blood~
+A key dripping with blood~
+unknown~
+key P A
+0 0 0 0 0
+0 0 0 P
+#22155
+dark black cloak~
+a dark black cloak~
+A dark black cloak~
+unknown~
+container 0 AD
+100000 0 0 100000 0
+0 0 0 P
+#22156
+special purple rose~
+a special purple rose~
+A special purple rose~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#22157
+semi-circle of flowers~
+a semi-circle of lavender and mauve flowers ~
+A semi-circle of lavender and mauve flowers sits here~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#22158
+satin whote flowing dress pearl buttons~
+a long satin white flowing dress with shining pearl buttons~
+A long satin white flowing dress with shining pearl buttons lies here ~
+unknown~
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+#22159
+key iron granet~
+an ornately carved iron key with red garnet stones ~
+An ornately carved iron key with red garnet stones ~
+unknown~
+key HOY A
+0 0 0 0 0
+0 0 0 P
+#22160
+magic 8 ball~
+{*a magic 8 ball{0~
+{*a magic 8 ball{0 lies here~
+unknown~
+armor 0 AO
+0 0 0 0 0
+0 0 0 P
+#22161
+see through lace teddy~
+a see though {&white lace teddy{0~
+A see though {&white lace teddy{0 lies here~
+unknown~
+armor 0 AK
+0 0 0 0 0
+107 0 0 P
+E
+teddy~
+~
+#22162
+white lace push up bra~
+a {&white{0 lace bra~
+A {&white{0 lace bra lies here~
+unknown~
+armor 0 AD
+0 0 0 0 0
+107 0 0 P
+E
+bra~
+a {&white{0 lace, front clasping push up bra can be seen under the {&white{0 lace teddy
+~
+#22163
+white lace arm covers~
+a pair of {&white{0 lace arm covers~
+A pair of {&white{0 lace arm covers lies here~
+unknown~
+armor 0 AI
+0 0 0 0 0
+0 0 0 P
+E
+arm~
+a pair of {&white{0 lace arm covers that are hooked onto the middle finger of each hand cover up to the shoulder
+~
+#22164
+white lace stockings~
+a pair of {&white{0 lace stockings~
+A pair of {&white{0 lace stockings lies here~
+unknown~
+armor 0 AF
+0 0 0 0 0
+107 0 0 P
+#22165
+white lace collar lead~
+a {&white{0 lace collar~
+A {&white{0 lace collar lies here~
+unknown~
+armor 0 AC
+0 0 0 0 0
+107 0 0 P
+E
+collar~
+a {&white{0 lace collar is fitted around your neck with a matching {&white{0 lace lead for your master
+~
+#22166
+white lace blindfold~
+a {&white{0 lace blindfold~
+A {&white{0 lace blindfold lies here~
+unknown~
+armor 0 AR
+0 0 0 0 0
+107 0 0 P
+E
+blindfold~
+a {&white{0 lace blindfold is wrapped tightly around your head, covering your eyes from whats about to happen next
+~
+#22167
+white lace ribbon~
+a {&white{0 lace ribbon~
+A {&white{0 lace ribbon lies here~
+unknown~
+armor 0 AE
+0 0 0 0 0
+107 0 0 P
+E
+ribbon~
+a {&white{0 lace ribbon is tied holding your hair back
+~
+#22168
+metal strongbox~
+a {Wmetal strongbox{0~
+A {Wmetal strongbox{0 lies here~
+unknown~
+container Y A
+50 0 0 100000 0
+0 0 0 P
+#22169
+throne key~
+a throne key~
+A throne key lies here~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#22170
+t shirt~
+a small well worn tight fitting white t shirt~
+A small well worn tight fitting white t shirt lies here~
+unknown~
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+#22171
+red g-string~
+a {1red g-string{0~
+A {1red g-string{0 lies here~
+unknown~
+armor P AF
+0 0 0 75 0
+1 0 0 P
+#22172
+long knee high leather boots~
+a pair of knee high leather boots~
+A pair of knee high leather boots lies here~
+unknown~
+armor 0 AG
+0 0 0 0 0
+0 0 0 P
+#22173
+pair of ray bans~
+a pair of ray bans shine from reflected light~
+A pair of ray bans lies here~
+unknown~
+armor 0 AR
+0 0 0 0 0
+0 0 0 P
+#22174
+balsa~
+a cold marble slab~
+A cold marble slab looks very...hard~
+unknown~
+furniture 0 0
+2 0 EH 0 0
+0 0 0 P
+#22175
+bean bag chair~
+a large bean bag chair~
+A large bean bag chair~
+unknown~
+furniture 0 A
+2 0 EH 0 0
+0 0 0 P
+#22176
+comfy beach chair~
+a comfy beach chair.~
+A comfy beach chair that would be perfect for two people.~
+unknown~
+furniture 0 0
+2 0 EH 0 0
+0 0 0 P
+#22177
+pool~
+a nicely sized pool~
+A nicely sized pool~
+unknown~
+furniture 0 0
+2 0 FI 0 0
+0 0 0 P
+#22178
+pool robe~
+a comfy light pool robe~
+A comfy light pool robe~
+unknown~
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+#22179
+yellow flip flops~
+a pair of bright yellow flip flops~
+A pair of bright yellow flip flops~
+unknown~
+armor 0 AG
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#22150
+welcome friend~
+Welcome, as you look around you are amazed by the slopines of the person who lives here.
+~
+0 0 0
+D0
+~
+~
+0 0 22151
+S
+#22151
+hallway~
+you walk down a long long hallway, you see many rooms branching off in different directions.
+~
+0 0 0
+D0
+~
+~
+0 0 22153
+D1
+~
+~
+0 0 22152
+D2
+~
+~
+0 0 22150
+S
+#22152
+your moms room~
+As you enter the room your nostrils fill with the smell of incense.
+As you look around you see many familiar faces..a few too many infact...
+~
+0 0 0
+D3
+~
+~
+0 0 22151
+S
+#22153
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22151
+S
+#22154
+Home~
+This is Baal's true domain. As you move about you get a spine chilling sense of blood and death.
+You get the feeling you are being watched by some sort of powerful entity.
+On one side of the room is a rather large fireplace, burning with high {1crimson{0 flames
+~
+0 512 0
+E
+fireplace~
+As you look at this large fireplace, big {1crimson{0 flames soar high then dip back down. Is it really just a fireplace? or is there more to it.
+~
+E
+down~
+a big puffy dark wine colored rug covers much of the floor here.
+~
+E
+painting~
+Above the fireplace is a portrait of Baal painted in shades of red, and beside him Cami, painted in shades of blues, where they come in contact, the blue and red emits a purple glow.
+~
+E
+up~
+As you look up you can see straight off into the sky, via the well hidden sky light.
+~
+D1
+~
+~
+0 0 22155
+D5
+~
+~
+1 22154 18053
+S
+#22155
+pool room~
+As you enter this room you hear the sound of trickling water from small waterfall that spills into a nicely sized pool.
+~
+0 0 0
+D3
+~
+~
+0 0 22154
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 22154 5 2
+O 0 22176 0 22155
+O 0 22177 0 22155
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

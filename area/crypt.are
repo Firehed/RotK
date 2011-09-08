@@ -1,0 +1,1565 @@
+#AREADATA
+Name The Crypt~
+Builders Wardrof~
+VNUMs 100 199
+Credits [ HERO] Wardrof The Crypt~
+Security 1
+End
+
+
+
+#MOBILES
+#100
+fiend~
+a crypt fiend~
+A crypt fiend is here, munching on corpses.
+~
+~
+hobgoblin~
+AFO DFJX H 0 0
+110 5000 1d1+20000 0d0+0 1d1+10000 chomp
+7500
+0 0 LQ 0
+stand stand male 1000
+AHIMV ABCDEFGHIJKY medium unknown
+#101
+spider~
+a giant spider~
+A giant spider is here, sucking the blood of its victim.
+~
+~
+pig~
+AF DF H 0 0
+110 5000 1d1+20000 0d0+0 1d1+10000 none
+7500
+0 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium unknown
+#102
+gargoyle~
+a stone gargoyle~
+A stone gargoyle is here, watching over the crypt hall.
+~
+~
+dragon~
+AF DFJT H 0 0
+110 5000 1d1+20000 0d0+0 1d1+10000 none
+7500
+0 0 BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#103
+rainbow dragon~
+{!R{3a{#i{@n{$b{5o{%w {&Dragon{x~
+A rainbow dragon is here.
+~
+~
+dragon~
+ABF DFJT H 0 0
+120 5000 1d1+30000 0d0+0 1d1+25000 none
+7500
+0 0 BEH FI
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#104
+poseidon~
+{$P{6o{6s{^e{^i{6d{6o{$n{x~
+Poseidon is here, trident in hand.
+~
+~
+Titan~
+ABF DFa H 0 0
+120 5000 1d1+30000 0d0+0 1d1+25000 none
+7500
+0 B 0 M
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+F res D
+#105
+titan king~
+{3T{1h{3e {3T{1i{3t{1a{3n {#K{3i{#n{3g{x~
+The Titan King is here, slaying you.
+~
+~
+Titan~
+AF Da H 0 0
+110 5500 1d1+30000 1d1+30000 1d1+25000 beating
+7500
+0 B 0 M
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+F res D
+#0
+
+
+
+#OBJECTS
+#100
+key crypt~
+key to the crypt~
+A key, inscribed with the words "Crypt Master".~
+unknown~
+key 0 A
+0 0 0 0 0
+1 0 100 P
+#101
+silver anklets~
+{7Silver anklets{x~
+Silver anklets are laying on the floor here.~
+unknown~
+armor ABI AU
+100 0 0 0 0
+101 0 10000 P
+F
+S 0 0 N
+A
+13 450
+A
+12 450
+A
+18 60
+A
+19 60
+#102
+no name~
+(no short description)~
+(no description)~
+unknown~
+key 0 0
+0 0 0 0 0
+0 0 0 P
+#103
+poseidon's trident~
+{$P{6os{^ei{6do{$n's {#T{3r{#i{3d{#e{3n{#t{x~
+Poseidon's Trident is here.~
+unknown~
+weapon 0 AN
+polearm 20 19 slash ACDFG
+101 0 0 P
+A
+20 -50
+A
+20 -50
+A
+19 80
+A
+18 80
+A
+14 800
+A
+12 800
+A
+13 800
+#104
+earring titans~
+{1Earring{x of the {1T{3i{1t{3a{1n{3s{x~
+The Earring of the Titans is here.~
+unknown~
+armor 0 AS
+50 0 0 0 0
+101 0 0 P
+F
+R 0 0 D
+#197
+token housetoken~
+a house token~
+A house token is here, waiting to be used.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#198
+bane life~
+{8T{1h{8e {!B{1a{1n{!e {8o{8f {!L{1i{1f{!e{x~
+{8T{1h{8e {!B{1a{1n{!e {8o{8f {!L{1i{1f{!e{x is here.~
+unknown~
+armor 0 AM
+51 0 0 0 0
+101 0 0 P
+A
+18 56
+A
+12 200
+A
+20 -50
+A
+13 590
+A
+19 75
+#199
+wardrof's ring~
+ring of regeneration~
+Wardrof's ring of regeneration is here~
+unknown~
+armor 0 AB
+8000 0 0 0 0
+110 0 0 P
+F
+A 0 0 c
+F
+A 0 0 H
+#0
+
+
+
+#ROOMS
+#100
+Entrance to the Crypt~
+You are standing in the entrace to the Crypt.  This dark, towering
+building looks over Midgaard.  Some believe that this dark place was once
+the training grounds for the Midgaard cityguards, but now it has been
+overrun by the evil undead beasts.  The rewards for taking control of the
+tower would be great, and your name would live on forever.  
+~
+0 4 0
+D0
+~
+~
+3 0 101
+D2
+~
+~
+0 0 3527
+S
+#101
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 104
+D1
+~
+~
+0 0 106
+D2
+~
+~
+3 0 100
+D3
+~
+~
+0 0 102
+S
+#102
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 103
+D1
+~
+~
+0 0 101
+S
+#103
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 104
+D2
+~
+~
+0 0 102
+D3
+~
+~
+0 0 108
+S
+#104
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 107
+D1
+~
+~
+0 0 105
+D2
+~
+~
+0 0 101
+D3
+~
+~
+0 0 103
+S
+#105
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 119
+D3
+~
+~
+0 0 104
+S
+#106
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D3
+~
+~
+0 0 101
+S
+#107
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 130
+D2
+~
+~
+0 0 104
+S
+#108
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 103
+D3
+~
+~
+0 0 109
+S
+#109
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 108
+D3
+~
+~
+0 0 110
+S
+#110
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 118
+D1
+~
+~
+0 0 109
+D2
+~
+~
+0 0 111
+D3
+~
+~
+0 0 115
+S
+#111
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 110
+D3
+~
+~
+0 0 112
+S
+#112
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 115
+D1
+~
+~
+0 0 111
+D3
+~
+~
+0 0 113
+S
+#113
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 114
+D1
+~
+~
+0 0 112
+S
+#114
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 116
+D1
+~
+~
+0 0 115
+D2
+~
+~
+0 0 113
+S
+#115
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 117
+D1
+~
+~
+0 0 110
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 114
+S
+#116
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 114
+S
+#117
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 118
+D2
+~
+~
+0 0 115
+D3
+~
+~
+0 0 116
+S
+#118
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D2
+~
+~
+0 0 110
+D3
+~
+~
+0 0 117
+S
+#119
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 120
+D3
+~
+~
+0 0 105
+S
+#120
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 121
+D3
+~
+~
+0 0 119
+S
+#121
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 125
+D2
+~
+~
+0 0 122
+D3
+~
+~
+0 0 120
+S
+#122
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 121
+D1
+~
+~
+0 0 126
+S
+#123
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 124
+D2
+~
+~
+0 0 121
+S
+#124
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 129
+D2
+~
+~
+0 0 125
+D3
+~
+~
+0 0 123
+S
+#125
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 128
+D2
+~
+~
+0 0 126
+D3
+~
+~
+0 0 121
+S
+#126
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 125
+D1
+~
+~
+0 0 127
+D3
+~
+~
+0 0 122
+S
+#127
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 128
+D3
+~
+~
+0 0 126
+S
+#128
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 129
+D2
+~
+~
+0 0 127
+D3
+~
+~
+0 0 125
+S
+#129
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D2
+~
+~
+0 0 128
+D3
+~
+~
+0 0 124
+S
+#130
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 131
+D2
+~
+~
+0 0 107
+S
+#131
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 0 0
+D0
+~
+~
+0 0 132
+D2
+~
+~
+0 0 130
+S
+#132
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 2 0
+D1
+~
+~
+0 0 133
+D2
+~
+~
+0 0 131
+D3
+~
+~
+0 0 134
+S
+#133
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 6 0
+D3
+~
+~
+0 0 132
+D4
+~
+~
+0 0 135
+S
+#134
+First Floor of the Crypt~
+Standing in the first floor of the Crypt there are many crypt fiends
+running along the ground.  These savage beasts have no mercy for any mortal
+man.  One should stay as far away from these lawless beasts as they can. 
+One who can take control of this tower is truly a hero by name of
+{1G{7o{&d{x.  
+~
+0 2 0
+D1
+~
+~
+0 0 132
+S
+#135
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 6 0
+D1
+~
+~
+0 0 136
+D5
+~
+~
+0 0 133
+S
+#136
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D1
+~
+~
+0 0 139
+D2
+~
+~
+0 0 137
+D3
+~
+~
+0 0 135
+S
+#137
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D0
+~
+~
+0 0 136
+D1
+~
+~
+0 0 140
+D2
+~
+~
+0 0 138
+S
+#138
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D0
+~
+~
+0 0 137
+D1
+~
+~
+0 0 141
+S
+#139
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D2
+~
+~
+0 0 140
+D3
+~
+~
+0 0 136
+S
+#140
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D0
+~
+~
+0 0 139
+D2
+~
+~
+0 0 141
+D3
+~
+~
+0 0 137
+S
+#141
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 0 0
+D0
+~
+~
+0 0 140
+D2
+~
+~
+0 0 142
+D3
+~
+~
+0 0 138
+S
+#142
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D1
+~
+~
+0 0 144
+S
+#143
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D2
+~
+~
+0 0 144
+S
+#144
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 143
+D1
+~
+~
+0 0 147
+D2
+~
+~
+0 0 145
+D3
+~
+~
+0 0 142
+S
+#145
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 144
+S
+#146
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D2
+~
+~
+0 0 147
+S
+#147
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 146
+D1
+~
+~
+0 0 150
+D2
+~
+~
+0 0 148
+D3
+~
+~
+0 0 144
+S
+#148
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 147
+S
+#149
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D2
+~
+~
+0 0 150
+S
+#150
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8196 0
+D0
+~
+~
+0 0 149
+D2
+~
+~
+0 0 151
+D3
+~
+~
+0 0 147
+D4
+~
+~
+0 0 152
+S
+#151
+Second Floor of the Crypt~
+The second floor of the Crypt has been overrun by giant spiders!  These
+huge beasts have fangs the size of any moral man's arms.  This floor of the
+Crypt is barely lit, making it even harder to engage the spiders in combat. 
+The people of Midgaard would praise the hero that returned the tower to
+them.  
+~
+0 8192 0
+D0
+~
+~
+0 0 150
+S
+#152
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8196 0
+D1
+~
+~
+0 0 153
+D5
+~
+~
+0 0 150
+S
+#153
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D2
+~
+~
+0 0 154
+D3
+~
+~
+0 0 152
+S
+#154
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 153
+D1
+~
+~
+0 0 155
+S
+#155
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 158
+D1
+~
+~
+0 0 156
+D2
+~
+~
+0 0 159
+D3
+~
+~
+0 0 154
+S
+#156
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 160
+D1
+~
+~
+0 0 157
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 155
+S
+#157
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 162
+D1
+~
+~
+0 0 164
+D2
+~
+~
+0 0 163
+D3
+~
+~
+0 0 156
+S
+#158
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D1
+~
+~
+0 0 167
+D2
+~
+~
+0 0 155
+S
+#159
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 155
+D2
+~
+~
+0 0 166
+S
+#160
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D2
+~
+~
+0 0 156
+S
+#161
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 156
+S
+#162
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D2
+~
+~
+0 0 157
+S
+#163
+Third Floor of the Crypt~
+This third and final floor of the Crypt is watched over by massive
+gargoyles.  These gargoyles have skin of stone, making them nearly
+impossible to kill.  If any hero could get through this mess and return
+safely to Midgaard, the people of Midgaard would rejoice!  
+~
+0 8192 0
+D0
+~
+~
+0 0 157
+S
+#164
+Dragon's Lair~
+~
+0 8194 0
+D1
+~
+~
+4 100 165
+S
+#165
+Free Trip Home!~
+~
+0 4 0
+S
+#166
+Poseidon's Sea~
+~
+0 8194 0
+D2
+~
+~
+4 100 165
+S
+#167
+Titan's Rock~
+~
+0 8194 0
+D2
+~
+~
+4 100 165
+S
+#0
+
+
+
+#SPECIALS
+M 105 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 100 0 1
+D 0 101 2 1
+D 0 164 1 1
+D 0 166 2 2
+D 0 167 2 2
+M 0 100 34 101 2
+M 0 100 34 102 2
+M 0 100 34 103 2
+M 0 100 34 104 2
+M 0 100 34 105 2
+M 0 100 34 106 2
+M 0 100 34 107 2
+M 0 100 34 108 2
+M 0 100 34 109 2
+M 0 100 34 110 2
+M 0 100 34 111 2
+M 0 100 34 112 2
+M 0 100 34 113 2
+M 0 100 34 114 2
+M 0 100 34 115 2
+M 0 100 34 116 2
+M 0 100 34 117 2
+M 0 100 34 118 2
+M 0 100 34 119 2
+M 0 100 34 120 2
+M 0 100 34 121 2
+M 0 100 34 122 2
+M 0 100 34 123 2
+M 0 100 34 124 2
+M 0 100 34 125 2
+M 0 100 34 126 2
+M 0 100 34 127 2
+M 0 100 34 128 2
+M 0 100 34 129 2
+M 0 100 34 130 2
+M 0 100 34 131 2
+M 0 100 34 132 2
+M 0 100 34 134 2
+M 0 101 15 136 2
+M 0 101 15 137 2
+M 0 101 15 138 2
+M 0 101 15 139 2
+M 0 101 15 140 2
+M 0 101 15 141 2
+M 0 101 15 142 2
+M 0 101 15 143 2
+M 0 101 15 144 2
+M 0 101 15 145 2
+M 0 101 15 146 2
+M 0 101 15 147 2
+M 0 101 15 148 2
+M 0 101 15 149 2
+M 0 102 15 153 2
+M 0 102 15 154 2
+M 0 102 15 155 2
+M 0 102 15 156 2
+M 0 102 15 157 2
+M 0 102 15 158 2
+M 0 102 15 159 2
+M 0 102 15 160 2
+M 0 102 15 161 2
+M 0 102 15 162 2
+M 0 102 15 163 2
+M 0 103 1 164 1
+G 0 100 0
+E 0 101 0 25
+M 0 104 1 166 1
+G 0 100 0
+E 0 103 0 16
+M 0 105 1 167 1
+E 0 104 0 21
+G 0 100 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

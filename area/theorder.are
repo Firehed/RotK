@@ -1,0 +1,336 @@
+#AREADATA
+Name The Order Clan Hall~
+Builders Malice~
+VNUMs 22630 22639
+Credits [ CLAN] Malice  The Order Clanhall~
+Security 1
+End
+
+
+
+#MOBILES
+#22630
+priest order~
+Grand Priest of The Order~
+{7The Grand Priest of {1T{7h{1e {7O{1r{7d{1e{7r stands here preaching about the sins of the world. {7
+~
+A musclar man, he look like he could easly kill you, without a even breaking a sweat.
+He looks like he's been around, with a long scar running along his cheek and even as he talks you notice a small dagger in his cloak.
+~
+Human~
+ABGJKZa F CDHOR -500 0
+101 25 10d10+50 12d3+5 10d10+500 none
+0
+FK BHN Q DLM
+stand stand male 10000
+CV ABDEFIK large flesh
+F for AHM
+F par CGHJ
+#22631
+dummy~
+a wooden dummy~
+A wooden dummy leans along the wall
+~
+This dummy can take a beating, and keep on ticking.
+~
+Human~
+ABGM H 0 -59 0
+101 20 2d1+0 5d10+5 0d0+0 slap
+0
+0 ABCDFHIJLMNOPQRSTXYZ 0 0
+stand stand none 0
+J A medium unknown
+F for AHMV
+F par BCDEFGHIJK
+#22632
+shopkeeper Order~
+{1T{7h{1e {7O{1r{7d{1e{7r{1s {7shopkeeper~
+{1T{7h{1e {7O{1r{7d{1e{7r{1s {0shopkeeper sits here on a stool.
+~
+He sells all the Orders clan items....he, makes the big bucks.
+~
+Human~
+ABGUe 0 0 0 0
+101 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 2000000000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#22630
+long sword clan rune blade~
+{3Soltari {7Longsword {8with {1r{8u{1n{8i{1c {8b{1l{8a{1d{8e {7~
+A long rune-encrusted sword lays along the ground~
+unknown~
+weapon ABGPSUZ AN
+sword 23 19 wrath ADFGH
+101 10 100000 P
+A
+1 5
+A
+2 5
+A
+13 600
+A
+14 600
+A
+19 15
+A
+19 13
+F
+A 0 0 X
+#22631
+portal~
+a portal to the Glacier~
+A portal to somewhere...~
+gold~
+portal ABG P
+0 0 0 450 0
+50 2 100 P
+#22632
+portal~
+a small portal~
+A shimming portal~
+unknown~
+portal 0 0
+0 0 0 3014 0
+25 0 0 P
+#22633
+aura Order~
+{8|||||||||||||||||||||||||| {0~
+Nothing..~
+unknown~
+armor ABJPUY AQ
+-140 0 0 0 0
+77 0 100000 P
+F
+A 0 1 D
+F
+A 0 1 c
+F
+A 0 0 c
+#22634
+clan order tattoo~
+{4Insignia {6of {1T{7h{1e {7O{1r{7d{1e{7r {0~
+A small chest lays here~
+metal~
+armor BJU APT
+-200 0 0 0 0
+70 100 100000 P
+A
+23 -20
+A
+24 -20
+#22635
+bag diamond black encrusted~
+{8a {7d{6i{7a{6m{7o{6n{7d{6-{7e{6n{7c{6r{7u{6s{7t{6e{7d {8black bag{x~
+A diamond-encrusted black bag is here.~
+unknown~
+container CGJ AO
+37 AC 0 0 0
+25 2 100 P
+#22636
+ooze pit glowing~
+a glowing pit of ooze~
+A glowing pit of {2o{4o{2z{4e {7~
+unknown~
+furniture A 0
+3 100000 FIL 500 500
+50 0 0 P
+#22637
+portal~
+a glowing portal to Market Square~
+This portal leads to market square.~
+unknown~
+portal A 0
+0 0 0 3014 0
+1 0 0 P
+#22638
+portal~
+a funkly looking portal~
+A portal to the Training Grounds hovers here.~
+Metal~
+portal APT 0
+0 0 0 16241 0
+1 1 1 P
+#22639
+crystal water fountain~
+a crystal fountain~
+A beautiful crystal fountain sits in the middle of the room.~
+metal~
+fountain AI 0
+0 0 'water' 0 0
+0 5 10000 P
+A
+20 -100
+A
+12 100
+A
+13 100
+A
+19 15
+A
+18 10
+#0
+
+
+
+#ROOMS
+#22630
+Entry Hall~
+This is the Orders Entry hall.  Be afraid, be very afraid, Along the
+walls hang different animals, some with their eyes and mouths sewn shut. 
+Weapons and other items of pain hang along the walls.  A few bloody maces
+and a rusty ax hang about the door.  
+~
+0 4 0
+D0
+~
+~
+0 0 22631
+S
+#22631
+Hallway to the Sancuary~
+Walking down this loney dark hallway, lit only with touchs, You see rows
+of dusty armor along the walls, laying next to broken axes and arrows.  
+~
+0 0 0
+D1
+~
+~
+0 0 22632
+D2
+~
+~
+0 0 22630
+D3
+~
+~
+0 0 22633
+S
+#22632
+The Sanctuary~
+A bright healing pool sits in the room, around it is a pedastool where it
+looks like someone important speaks from.  Surronding the stool is a twin
+statues of griffens.  The soft glow beckons you to sit and stay a while, but
+you must move on.  
+~
+0 1024 0
+D3
+~
+~
+0 0 22631
+S
+#22633
+Hallway of Portals~
+This Hallway leads deeper into the dungeon. Hopefully theren't dead people down here.
+~
+0 0 0
+D0
+~
+~
+0 0 22636
+D1
+~
+~
+0 0 22631
+D2
+~
+~
+0 0 22634
+D3
+~
+~
+0 0 22635
+C order~
+S
+#22634
+A portal to somewhere...?~
+A soft glow comes from the portal in the middle of the room, why don't you enter it?
+~
+0 0 0
+D0
+~
+~
+0 0 22633
+S
+#22635
+Another set of Portals~
+Like it says a another set of portals.
+~
+0 0 0
+D0
+~
+~
+0 0 22637
+D1
+~
+~
+0 0 22633
+S
+#22636
+The Order's Shop~
+This is where you can buy The Orders clan eq.  What ever you do don't
+try to attack the shopkeeper.  He is very strong and would kill you in a
+second 
+~
+0 1024 0
+D2
+~
+~
+0 0 22633
+C order~
+S
+#22637
+Portal to the Training Grounds~
+~
+0 0 0
+D2
+~
+~
+0 0 22635
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 22637 0 22630
+M 0 22631 1 22630 1
+O 0 22636 0 22632
+M 0 22630 1 22632 1
+O 0 22639 0 22632
+O 0 22631 0 22634
+M 0 22632 1 22636 1
+G 0 16202 0
+G 0 22630 0
+G 0 22633 0
+G 0 22634 0
+G 0 866 0
+G 0 856 0
+G 0 1111 0
+S
+
+
+
+#SHOPS
+22632 0 0 0 0 0 7 13 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

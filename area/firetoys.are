@@ -1,0 +1,261 @@
+#AREADATA
+Name Firehed's Toys~
+Builders Firehed~
+VNUMs 721 729
+Credits [ IMP ] Firehed Firehed's Toys~
+Security 9
+End
+
+
+
+#MOBILES
+#721
+carlos~
+Carlos~
+Carlos is here, selling Scout Stuff.
+~
+~
+Human~
+AB DF CDEHPQRS 1000 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#721
+vigil honor sash~
+{&Vigil {1Ho{!n{1or {&Sash{0~
+A {&Vigil {1Ho{!n{1or {&Sash{0 is here.~
+unknown~
+armor AB AT
+50 50 50 50 0
+101 0 1 P
+A
+13 500
+A
+12 500
+A
+14 500
+A
+18 100
+A
+19 100
+#722
+brotherhood sash~
+{7Br{&ot{1he{!r{1ho{&od{7 Sash{0~
+A {7Br{&ot{1he{!r{1ho{&od{7 Sash{0 is here.~
+unknown~
+armor AB AT
+30 30 30 30 0
+101 0 1 P
+A
+13 300
+A
+12 300
+A
+14 300
+A
+18 30
+A
+19 30
+#723
+ordeal sash~
+{7Or{&de{1a{!l{1 S{&as{7h{0~
+An {7Or{&de{1a{!l{1 S{&as{7h{0 is here.~
+unknown~
+armor AB AT
+10 10 10 10 0
+101 0 1 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+#724
+life badge~
+{1L{!if{1e {$Sco{4ut {&Bad{7ge{0~
+A {1L{!if{1e {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+43 43 43 43 0
+101 0 1 P
+A
+13 425
+A
+12 425
+A
+14 425
+A
+18 43
+A
+19 43
+#725
+star badge~
+{3S{#ta{3r {$Sco{4ut {&Bad{7ge{0~
+A {3S{#ta{3r {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+35 35 35 35 0
+101 0 1 P
+A
+13 350
+A
+12 350
+A
+14 350
+A
+18 35
+A
+19 35
+#726
+first class 1st badge~
+{3Firs{6t Cl{3ass {$Sco{4ut {&Bad{7ge{0~
+A {3Firs{6t Cl{3ass {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+28 28 28 28 0
+101 0 1 P
+A
+13 275
+A
+12 275
+A
+14 275
+A
+18 28
+A
+19 28
+#727
+2nd second class badge~
+{5Secon{^d C{5lass {$Sco{4ut {&Bad{7ge{0~
+A {5Secon{^d C{5lass {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+20 20 20 20 0
+30 0 1 P
+A
+13 200
+A
+12 200
+A
+14 200
+A
+18 20
+A
+19 20
+#728
+tenderfoot scout badge~
+{*Te{7nde{&r{7fo{*ot {$Sco{4ut {&Bad{7ge{0~
+A {*Te{7nde{&r{7fo{*ot {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+13 13 13 13 0
+101 0 1 P
+A
+13 125
+A
+12 125
+A
+14 125
+A
+18 13
+A
+19 13
+#729
+new scout badge~
+{2N{@e{2w {$Sco{4ut {&Bad{7ge{0~
+A {2N{@e{2w {$Sco{4ut {&Bad{7ge{0 is here.~
+unknown~
+armor AB AT
+5 5 5 5 0
+101 0 1 P
+A
+13 50
+A
+12 50
+A
+14 50
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#721
+The Trading Post~
+This is the trading post.  You can buy various goods here.  You see a
+fine assortment of Scouting memoribelia.  Don't you wish you could have
+some?  
+~
+0 1028 0
+D4
+~
+~
+0 0 722
+M 10000 H 10000
+O firehed~
+S
+#722
+Upper Trading Post~
+This is where you can get your Order of the Arrow stuff.  The sashes for
+the three different ranks are sold here.  
+~
+0 1024 0
+D5
+~
+~
+0 0 721
+M 10000 H 10000
+O firehed~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 721 2 721 2
+G 0 3397 0
+G 0 724 0
+G 0 725 0
+G 0 726 0
+G 0 727 0
+G 0 728 0
+G 0 729 0
+M 0 721 2 722 2
+G 0 721 0
+G 0 722 0
+G 0 723 0
+S
+
+
+
+#SHOPS
+721 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,741 @@
+#AREADATA
+Name The Avenue~
+Builders Grimace~
+VNUMs 9400 9449
+Credits [01 60] Grimace The Avenue~
+Security 9
+End
+
+
+
+#MOBILES
+#9400
+cardinal~
+a cardinal~
+A cardinal sits here.
+~
+A red cardinal sits on a branch, minding it's own business.  
+~
+song bird~
+ABG T 0 -1000 0
+85 7 3d50+150 1d1+100 3d6+2 none
+-1
+FH 0 0 0
+stand stand either 130
+AGW ACDEFHKP medium unknown
+#9401
+blue jay~
+a blue jay~
+A blue jay is here.
+~
+A big blue jay sits up in the tree.  
+~
+song bird~
+ABG DT 0 1000 0
+85 7 3d75+130 3d9+100 4d4+3 none
+2
+FH 0 0 C
+stand stand either 120
+ABGVW ACDEFHJKPQV medium 0
+#9402
+gardener~
+a gardener~
+A gardener weeds the garden.
+~
+The gardener works all day and all night, never getting tired.  
+~
+Human~
+AG 0 0 1000 0
+100 10 3d80+300 6d9+100 4d6+3 none
+0
+0 0 0 0
+sit stand either 250
+AHMV ABCDEFGHIJK medium 0
+#9403
+bumble bee~
+a bumble bee~
+A bumble bee buzzes around.
+~
+You see a black and yellow striped fuzzy looking bumble bee.  
+~
+bat~
+AG TZ 0 -1000 0
+80 3 3d25+125 4d9+100 2d3+2 none
+3
+0 0 0 0
+stand stand either 75
+AGHV ACDEFHJKP medium 0
+F off FH
+F vul S
+#9404
+woman~
+a woman~
+A woman walks along here.
+~
+The woman walks around the avenue to relax herself.  
+~
+Human~
+ACG 0 0 1000 0
+90 10 4d50+250 1d9+100 2d5+3 none
+2
+F 0 0 0
+stand stand female 250
+AHMV ABCDEFGHIJK medium 0
+#9405
+oldstyle toxic slime~
+The toxic slime~
+A pool of toxic slime lies on  the floor.
+~
+Yick.  Looks like someone had digestion problems!  Either that, or the 
+hydraulic fluid is leaking again.
+~
+Human~
+ABC 0 0 0 0
+8 0 2d7+46 2d9+100 1d5+1 none
+6
+EFNU 0 0 0
+sit sit none 0
+AHMV ABCDEFGHIJK medium 0
+#9406
+oldstyle worker~
+The factory worker~
+A Mob Factory worker is standing here, looking bored.
+~
+The worker wears a bright orange pair of overalls, with the words "Mob
+Factory" written in a bright purple starburst.  Fashion plate, he's not.
+~
+Human~
+AGH 0 0 100 0
+5 0 2d6+35 1d9+100 1d6+0 none
+7
+EFNU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#9407
+oldstyle worker~
+The factory worker~
+A Mob Factory worker is here, asleep in a chair.
+~
+If Floyd walks in, you can bet there'll be trouble.  Guess she shouldn't have
+worked the late shift!
+~
+Human~
+ABH 0 0 150 0
+5 0 2d6+35 1d9+100 1d6+0 none
+7
+EFNU 0 0 0
+sleep sit female 3
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#9400
+hoe~
+a hoe~
+A hoe is on the ground.~
+unknown~
+weapon 0 AN
+polearm 2 3 smash 0
+1 4 25 P
+#9401
+gardener gloves~
+a pair of gardener's gloves~
+A pair of gardener's gloves is on the ground.~
+unknown~
+armor 0 AH
+2 1 1 1 0
+1 1 35 P
+#0
+
+
+
+#ROOMS
+#9400
+The Avenue~
+You are on a cobblestone avenue between two buildings.  The one to the
+east is the Poway Inn, tall and skinny.  You see the market a ways to the
+south, and the avenue lined with trees goes north.  
+~
+0 0 0
+D0
+~
+~
+0 0 9401
+D2
+~
+~
+0 0 21417
+S
+#9401
+The Avenue~
+You are on a cobblestone avenue that is lined with trees.  Under and
+around the trees is a perfect, weedless lawn, obviously taken care of very
+well.  The avenue seems to be a popular place to take a walk.  
+~
+0 0 0
+D0
+~
+~
+0 0 9402
+D1
+~
+~
+0 0 9408
+D2
+~
+~
+0 0 9400
+D3
+~
+~
+0 0 9409
+S
+#9402
+The Avenue~
+You are on a cobblestone avenue that is lined with trees.  Under and
+around the trees is a perfect, weedless lawn, obviously taken care of very
+well.  The avenue seems to be a popular place to take a walk.  
+~
+0 0 0
+D0
+~
+~
+0 0 9403
+D1
+~
+~
+0 0 9407
+D2
+~
+~
+0 0 9401
+D3
+~
+~
+0 0 9410
+S
+#9403
+The Avenue~
+You are on a cobblestone avenue that is lined with trees.  Under and
+around the trees is a perfect, weedless lawn, obviously taken care of very
+well.  The avenue seems to be a popular place to take a walk.  
+~
+0 0 0
+D0
+~
+~
+0 0 9404
+D1
+~
+~
+0 0 9406
+D2
+~
+~
+0 0 9402
+D3
+~
+~
+0 0 9411
+S
+#9404
+The Avenue~
+You are on a cobblestone avenue that is lined with trees.  Under and
+around the trees is a perfect, weedless lawn, obviously taken care of very
+well.  The avenue seems to be a popular place to take a walk.  
+~
+0 0 0
+D1
+~
+~
+0 0 9405
+D2
+~
+~
+0 0 9403
+D3
+~
+~
+0 0 9412
+S
+#9405
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the east.  
+~
+0 8 0
+D1
+~
+fence~
+1 0 9421
+D2
+~
+~
+0 0 9406
+D3
+~
+~
+0 0 9404
+D4
+~
+~
+0 0 9420
+S
+#9406
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 9405
+D2
+~
+~
+0 0 9407
+D3
+~
+~
+0 0 9403
+D4
+~
+~
+0 0 9419
+S
+#9407
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 9406
+D2
+~
+~
+0 0 9408
+D3
+~
+~
+0 0 9402
+D4
+~
+~
+0 0 9418
+S
+#9408
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 9407
+D1
+~
+fence~
+1 0 9424
+D3
+~
+~
+0 0 9401
+D4
+~
+~
+0 0 9417
+S
+#9409
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 9410
+D1
+~
+~
+0 0 9401
+D3
+~
+fence~
+1 0 9425
+D4
+~
+~
+0 0 9416
+S
+#9410
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 9411
+D1
+~
+~
+0 0 9402
+D2
+~
+~
+0 0 9409
+D4
+~
+~
+0 0 9415
+S
+#9411
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 9412
+D1
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9410
+D4
+~
+~
+0 0 9414
+S
+#9412
+Under a Tree~
+You are under a fairly large tree with big branches and wide leaves.  The
+grass beneath your feet is nice and soft, inviting you to take a rest.  You
+hear birds in the trees around you.  There is a beautiful flower garden to
+the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 9404
+D2
+~
+~
+0 0 9411
+D3
+~
+~
+1 0 9428
+D4
+~
+~
+0 0 9413
+S
+#9413
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9412
+S
+#9414
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9411
+S
+#9415
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9410
+S
+#9416
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9409
+S
+#9417
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9408
+S
+#9418
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9407
+S
+#9419
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9406
+S
+#9420
+In a Tree~
+You are up in one of the large trees.  There are branches and big leaves
+all around you, and you can hear the birds much better from here.  You can
+see the nice lawn below you.  
+~
+0 4 0
+D5
+~
+~
+0 0 9405
+S
+#9421
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D2
+~
+~
+0 0 9422
+D3
+~
+fence~
+1 0 9405
+S
+#9422
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9421
+D2
+~
+~
+0 0 9423
+S
+#9423
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9422
+D2
+~
+~
+0 0 9424
+S
+#9424
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9423
+D3
+~
+fence~
+1 0 9408
+S
+#9425
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9426
+D1
+~
+~
+1 0 9409
+S
+#9426
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9427
+D2
+~
+~
+0 0 9425
+S
+#9427
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 9428
+D2
+~
+~
+0 0 9426
+S
+#9428
+In a Flower Garden~
+You are in a beautiful flower garden, surrounded by a white, picket
+fence.  There are flowers of all different sorts, and you see bees flying
+amongst them.  There are small stepping stones to walk on.  
+~
+0 0 0
+D1
+~
+fence~
+1 0 9412
+D2
+~
+~
+0 0 9427
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9405 1 1
+D 0 9408 1 1
+D 0 9409 3 1
+D 0 9412 3 1
+D 0 9421 3 1
+D 0 9424 3 1
+D 0 9425 1 1
+D 0 9428 1 1
+M 0 9404 4 9400 1
+M 0 9404 4 9404 1
+M 0 9404 4 9408 1
+M 0 9404 4 9411 1
+M 0 9400 4 9413 1
+M 0 9400 4 9414 1
+M 0 9400 4 9415 1
+M 0 9400 4 9416 1
+M 0 9401 4 9417 1
+M 0 9401 4 9418 1
+M 0 9401 4 9419 1
+M 0 9401 4 9420 1
+M 0 9403 6 9421 1
+M 0 9403 6 9422 1
+M 0 9403 6 9423 1
+M 0 9402 2 9424 1
+E 0 9400 0 16
+E 0 9401 0 9
+M 0 9403 6 9425 1
+M 0 9403 6 9426 1
+M 0 9403 6 9427 1
+M 0 9402 2 9428 1
+E 0 9400 0 16
+E 0 9401 0 9
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

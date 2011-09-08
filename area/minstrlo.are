@@ -1,0 +1,1836 @@
+#AREADATA
+Name Minstrello~
+Builders Grimace~
+VNUMs 18200 18299
+Credits [10 50] Grimace Minstrello~
+Security 9
+End
+
+
+
+#MOBILES
+#18202
+fisherman man~
+a fisherman~
+A fisherman is here, catching fish.
+~
+~
+Human~
+AB 0 0 1000 0
+130 0 10d169+920 1d1+100 5d10+25 none
+-17
+FJ 0 0 0
+stand stand none 250
+AMV ABCDEFGHIJK medium unknown
+F for H
+#18205
+miller~
+a miller~
+A miller is here, putting flour into sacks.
+~
+~
+Human~
+AB 0 0 1000 0
+132 0 10d169+1200 1d1+100 5d10+33 none
+-19
+FIKN 0 0 0
+stand stand none 270
+AMV ABCDEFGHIJK medium unknown
+F for H
+#18209
+woman~
+a woman~
+A woman is cleaning up the house.
+~
+~
+Human~
+ACG 0 0 1000 0
+130 0 10d169+990 1d1+100 5d10+28 none
+-16
+FJ 0 0 0
+stand stand none 250
+AHMV ABCDEFGHIJK medium unknown
+#18215
+boy~
+a boy~
+An intelligent boy is here, examining the various contraptions.
+~
+~
+Human~
+ABG 0 0 1000 0
+125 0 10d169+800 1d1+100 5d10+29 none
+-18
+FIJN P 0 DE
+stand stand none 250
+AMV ABCDEFGHIJK medium unknown
+F for H
+#18217
+gardener~
+The Gardener~
+The Gardener is here, watering flowers.
+~
+~
+Human~
+ACG 0 0 1000 0
+130 0 10d169+920 1d1+100 5d10+25 none
+-17
+J 0 0 0
+stand stand none 250
+AGMV ABCDEFGHIJK medium unknown
+F for H
+#18218
+old woman~
+an old woman~
+An old woman is knitting at the table.
+~
+The old woman is here, knitting quilts that she sells to the other villagers.
+~
+Human~
+A 0 0 1000 0
+126 0 10d169+800 1d1+100 5d10+20 none
+-14
+0 0 0 0
+stand stand none 210
+AGM ABCDEFGHIJK medium unknown
+F for HV
+#18220
+old man~
+an old man~
+An old man is here bottling wine.
+~
+The man is very old and very wrinkled, looking like an easy target.
+~
+Human~
+ABC 0 0 1000 0
+125 0 10d169+850 1d1+100 5d10+20 none
+-15
+0 0 0 I
+stand stand none 200
+AGM ABCDEFGHIJK medium unknown
+F for HV
+#18224
+worker~
+a worker~
+A mill worker is here, delivering flour.
+~
+~
+Human~
+AG 0 0 1000 0
+130 0 10d169+950 1d1+100 5d10+28 none
+-17
+FI 0 0 0
+stand stand none 250
+AMV ABCDEFGHIJK medium unknown
+F for H
+#18228
+overseer~
+the overseer~
+The overseer is here, looking out over the fields.
+~
+The overseer appears to like his job, bossing people around from atop the
+windmill.  Maybe a storm will come up and lightning will strike him?  
+~
+Human~
+AB 0 0 1000 0
+140 100 5d23+2000 1d1+200 5d8+17 none
+-6
+FIK P ABI HJ
+stand stand male 2343
+AHMV ABCDEFGHIJK medium unknown
+M GREET 18228 100~
+M RANDOM 18228 1~
+#18229
+worker~
+a worker~
+A worker is here, cutting wheat.
+~
+~
+Human~
+AB 0 0 1000 0
+131 0 10d169+1100 1d1+100 5d10+30 none
+-18
+0 0 0 0
+stand stand none 251
+AMV ABCDEFGHIJK medium unknown
+F for H
+#18236
+priest~
+The Priest~
+The Priest is standing here.
+~
+~
+Human~
+ABZ CDEFG H 1000 0
+40 0 5d5+1000 3d4+300 2d5+5 none
+-10
+0 0 0 0
+stand stand none 200
+AV 0 medium unknown
+F for HM
+F par ABCDEFGHIJK
+#18243
+rabbit~
+a big rabbit~
+A big rabbit is here, frolicking in the forest.
+~
+~
+Human~
+AG 0 0 1000 0
+85 0 5d9+300 1d1+100 2d5+5 none
+-1
+0 0 0 0
+stand stand none 50
+AGMV ADEFHJK medium unknown
+F for H
+F par BCGI
+#18261
+trout~
+a trout~
+A trout is swimming here.
+~
+~
+Human~
+AB 0 0 1000 0
+80 0 5d10+250 1d1+100 5d9+9 none
+-4
+0 0 0 0
+stand stand none 50
+AGb ADEFKX medium unknown
+F for HMV
+F par BCGHIJ
+#0
+
+
+
+#OBJECTS
+#18202
+bucket~
+a wooden bucket~
+A wooden bucket sits here.~
+wood~
+drink 0 AO
+15 15 'water' 0 0
+0 5 100 P
+#18203
+fishing pole~
+a fishing pole~
+A long fishing pole lies here.~
+wood~
+weapon 0 AN
+flail 2 5 slash 0
+1 5 55 P
+#18205
+sack flour~
+a sack of flour~
+A big sack of flour sits here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 40 250 P
+#18207
+bench~
+a bench~
+A wooden bench is here.~
+wood~
+furniture 0 0
+3 100000 EHK 20 20
+0 800 0 P
+#18208
+couch~
+a long soft couch~
+A long soft couch lies here.~
+unknown~
+furniture 0 0
+4 50000 EHK 100 100
+0 100 0 P
+#18209
+fridge refridgerator~
+a HUGE fridge containing tons of food.~
+A HUGE fridge is here, half open overflowing with scrumpcious food.~
+unknown~
+container 0 0
+50000 AC 0 50 2
+0 100 100 P
+#18210
+bed~
+a Well Crafted Sturdy Bed~
+A finely crafted bed is here...ready for you...and your guest.~
+unknown~
+furniture 0 0
+10 999999 EHK 100 100
+0 500 0 P
+#18211
+bench~
+some stone benches~
+Some stone benches are here.~
+stone~
+furniture 0 0
+8 5000 EHK 20 0
+0 1000 0 P
+#18212
+fountain~
+a stone fountain~
+A stone fountain is here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 1500 0 P
+#18220
+barrel wine~
+a barrel of wine~
+A barrel of wine is here.~
+wood~
+fountain 0 0
+0 0 'red wine' 0 0
+0 500 0 P
+#18235
+pile gold~
+a pile of gold~
+A pile of gold is here!~
+unknown~
+money 0 A
+1000 0 0 0 0
+0 1 0 P
+#18236
+pue~
+a wooden pue~
+Large wooden pues sit here in rows.~
+wood~
+furniture 0 0
+50 2147483647 EHK 10 30
+0 800 0 P
+#18237
+chest~
+an old chest~
+An old chest sits here.~
+unknown~
+container 0 0
+1500 AC 0 0 0
+0 500 0 P
+#0
+
+
+
+#ROOMS
+#18200
+Path Through the Forest~
+You are on a path through a shaded forest.  The trees are quite large and
+block most of the sunlight from reaching the ground.  A few moss covered
+logs lie scattered about the forest.  
+~
+0 4 0
+D1
+~
+~
+0 0 20484
+D3
+~
+~
+0 0 18201
+S
+#18201
+Path Through the Forest~
+You are on a path through a shaded forest.  The trees are quite large and
+block most of the sunlight from reaching the ground.  You see an old sign
+here.  
+~
+0 0 0
+E
+sign~
+The sign reads:
+ 
+Village of Minstrello
+~
+D0
+~
+~
+0 0 18202
+D1
+~
+~
+0 0 18200
+S
+#18202
+Bridge over the Brook~
+You are on a stone bridge that crosses the large brook.  The sound of the
+flowing water makes everything seem peaceful.  You look over the railing of
+the bridge and see little fish swimming around the rocks.  You see a big
+frog sitting on a slimy looking rock at the edge of the brook, croaking at
+you.  You see a loose stone on the bridge.  
+~
+0 0 0
+E
+down~
+You see a movable rock slab.
+~
+D0
+~
+~
+0 0 18203
+D2
+~
+~
+0 0 18201
+D5
+~
+~
+1 0 18247
+S
+#18203
+Path Through the Forest~
+You are on a path through the shaded forest in Minstrello.  The trees are
+really big around and they are pretty tall.  You see a brook to the south
+that is crossed by a bridge, and you see a watermill to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 18206
+D1
+~
+~
+0 0 18204
+D2
+~
+~
+0 0 18202
+S
+#18204
+Outside the Watermill~
+You are in the shaded forest next to the watermill and the brook is
+flowing along the path eastward.  You see the big wheel rotating and
+splashing water all over the place.  
+~
+0 0 0
+D1
+~
+~
+0 0 18205
+D3
+~
+~
+0 0 18203
+S
+#18205
+Inside the Watermill~
+You are inside the watermill, a little dark and dusty.  The floor in here
+is wood, and when you walk it creaks.  You can tell just by looking around
+that this is an old mill.  A lantern is lit on the table, giving off a light
+glow.  You see large sacks of flour in piles about the room.  
+~
+0 8 0
+D3
+~
+~
+0 0 18204
+S
+#18206
+Path Through the Forest~
+You are on a path through the shaded forest.  Great tall trees are all
+around, and you see a cottage west of here.  You see a fox scampering
+through the forest to the east.  
+~
+0 0 0
+D2
+~
+~
+0 0 18203
+D3
+~
+~
+0 0 18207
+S
+#18207
+Path Through the Forest~
+You are on a path through the shaded forest.  A wooden bench is along the
+path under a willow tree.  There is a quaint cottage here to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 18211
+D1
+~
+~
+0 0 18206
+D3
+~
+~
+1 0 18208
+S
+#18208
+Doza's Pad~
+This is a nice old cottage, built long ago.  The families that lived here
+have kept it in excellent shape.  There are bookshelves along the wall and
+there is a big stuffed chair and couch.  The floor is covered with a big
+round rug.  There is another room to the west and there's some stairs going
+up.  
+~
+0 8 0
+D1
+~
+~
+1 0 18207
+D3
+~
+~
+0 0 18209
+D4
+~
+~
+0 0 18210
+S
+#18209
+Doza's Great Kitchen~
+This kitchen smells excellent because of the cookies being made!  There
+is a big window over the sink with flowers on its ledge.  The cupboards are
+all along the walls, and there is a large cabinet on the north wall.  A
+small wooden table sits in the corner.  
+~
+0 8 0
+D1
+~
+~
+0 0 18208
+S
+#18210
+Doza's Bedroom~
+The ceiling is a little on the low side, but you just clear it.  There
+are beds with wooden headposts and quilted blankets.  There is a clock on
+the wall, ticking.  You look out the window and see the brook south of here.
+Looking out the other window, you can see some other cottages around here
+with smoke rising from the chimneys.  
+~
+0 8 0
+E
+south~
+Looking out the window you see the brook flowing through the forest.  
+~
+E
+east~
+You see the path through Minstrello and the watermill east of here.  
+~
+E
+north~
+Looking north you see the village fountain and the old church.  You also
+see the other cottages with smoke rising from their chimneys.  
+~
+E
+west~
+Looking west you see where the forest clears and there is a large
+windmill.  
+~
+D5
+~
+~
+0 0 18208
+S
+#18211
+Path Through the Forest~
+You are on a path through the shaded forest.  The path here looks like it
+used to be brick, but most of them have crumbled.  You see an intersection
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18212
+D2
+~
+~
+0 0 18207
+S
+#18212
+Intersection of Paths~
+You are at an intersection of paths inside this shaded forest.  The paths
+here are made of old bricks and are pretty worn out.  There is an old stone
+fountain in the center of the intersection that still has water in it. 
+Around the fountain are some old stone benches with some designs carved into
+them.  
+~
+0 0 0
+D0
+~
+~
+0 0 18235
+D1
+~
+~
+0 0 18213
+D2
+~
+~
+0 0 18211
+D3
+~
+~
+0 0 18223
+S
+#18213
+Path Through the Forest~
+You are on a path through the shaded forest that is made of old bricks. 
+You see a few streaks of sunlight shining through the trees.  To the east
+you see a group of cottages.  
+~
+0 0 0
+D1
+~
+~
+0 0 18214
+D3
+~
+~
+0 0 18212
+S
+#18214
+A Path Through the Forest~
+You are on an old brick path through the shaded forest.  There are three
+old cottages that are around here.  
+~
+0 0 0
+D0
+~
+~
+1 0 18215
+D1
+~
+~
+1 0 18218
+D2
+~
+~
+1 0 18221
+D3
+~
+~
+0 0 18213
+S
+#18215
+Inside a Cottage~
+You are in a nice old cottage with lots of strange things lying around. 
+There are big and small metal contraptions here and there and you don't know
+what they do.  You also see a metal thing that resembles a human, all rusty
+and old.  
+~
+0 8 0
+D1
+~
+~
+1 0 18217
+D2
+~
+~
+1 0 18214
+D4
+~
+~
+0 0 18216
+S
+#18216
+The Loft~
+You are in a small loft in the cottage.  There are a couple beds here and
+a big wooden dresser.  Near the dresser is a big mirror that is old and
+dusty.  There is a small window on the east wall that looks out over the
+garden.  
+~
+0 8 0
+D5
+~
+~
+0 0 18215
+S
+#18217
+A Garden~
+You are in a beautiful garden!  There are flowers everywhere, making the
+air smell wonderful.  There many flat grey rocks on the ground that form a
+path through the garden.  You see grape vines growing on the sides of the
+cottages.  There is great willow tree that is at the edge of the garden with
+its long branches swaying calmly in the light breeze.  
+~
+0 0 0
+E
+portal~
+A magical oval made of a mysterious liquid glows to the east.  When
+touched, waves undulate across its surface as your finger enters another
+realm.  It gives off a pleasant blue glow.  
+~
+E
+east~
+A magical oval made of a mysterious liquid glows to the east.  When
+touched, waves undulate across its surface as your finger enters another
+realm.  It gives off a pleasant blue glow.  
+~
+D1
+~
+~
+0 0 891
+D2
+~
+~
+1 0 18218
+D3
+~
+~
+1 0 18215
+S
+#18218
+Inside a Cottage~
+You are in a big cottage with a loft up above.  There are chairs around a
+medium-sized wooden table with a green table cloth.  There is a big brick
+fireplace in the back of the room with a kettle hanging over it.  The floor
+is wooden and by the fireplace the floor is slate.  There is a door leading
+to the garden to the north and a ladder that goes up into the loft.  
+~
+0 8 0
+D0
+~
+~
+1 0 18217
+D3
+~
+~
+1 0 18214
+D4
+~
+~
+0 0 18219
+D5
+~
+~
+1 0 18220
+S
+#18219
+The Loft~
+You are in a large loft with a pointed ceiling.  It is nice and warm up
+here because of the heat rising from the fireplace below.  There are a few
+beds up here with padded quilts on them.  There are small windows around the
+room, and looking out the north window you see the garden.  
+~
+0 8 0
+D5
+~
+~
+0 0 18218
+S
+#18220
+The Wine Cellar~
+You are in a dark wine cellar that smells like mildew.  The air is damp
+and cool.  There are barrels of wine stacked on one wall and on the other
+walls there are shelves of wine bottles.  In the center of the room is a
+small table with a candle on it.  
+~
+0 8 0
+D4
+~
+~
+1 0 18218
+S
+#18221
+Inside a Cottage~
+You are in an old cottage.  There are many windows around the room and
+they give you a view of the other cottages nearby and the forest.  There is
+a small stone fireplace with a pot of soup cooking over it.  There are
+flowers growing on the window sills that you have never seen before.  There
+is a door to the west.  
+~
+0 8 0
+D0
+~
+~
+1 0 18214
+D3
+~
+~
+1 0 18222
+S
+#18222
+A Bedroom~
+You are in a small bedroom with two wooden beds in it.  The beds have
+blue and white quilts on them that look very cozy.  The floor has a big rug
+on it made of different colored cloths.  The walls are an off-white color,
+and the ceiling is the same with some wooden beams holding it up.  
+~
+0 8 0
+D1
+~
+~
+1 0 18221
+S
+#18223
+Path Through the Forest~
+You are on a path through the shaded forest.  The path here looks like it
+used to be brick, but most of them have crumbled.  You see an intersection
+to the east and to the west you see a clearing.  
+~
+0 0 0
+D1
+~
+~
+0 0 18212
+D3
+~
+~
+0 0 18224
+S
+#18224
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 18234
+D1
+~
+~
+0 0 18223
+D3
+~
+~
+0 0 18225
+S
+#18225
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 18226
+D1
+~
+~
+0 0 18224
+D3
+~
+~
+0 0 18229
+S
+#18226
+Inside the Windmill~
+You are inside a big windmill!  It's really dusty in here and it makes
+you sneeze.  There are lots of empty bags here waiting to be filled with
+flour.  You hear the creaking of the windmill as it turns.  There are stairs
+that lead upwards.  
+~
+0 8 0
+D2
+~
+~
+0 0 18225
+D4
+~
+~
+0 0 18227
+S
+#18227
+Climbing the Stairs~
+You are on some narrow wooden stairs that climb around the walls of the
+windmill.  There's no railing so you are extra careful.  You look down and
+see all of the bags and piles of flour below.  The stairs continue to go up.
+~
+0 8 0
+D4
+~
+~
+0 0 18228
+D5
+~
+~
+0 0 18226
+S
+#18228
+Top of the Windmill~
+You are at the top of the windmill.  There are large open windows up here
+and you feel a cool breeze coming through.  You see cobwebs that cover the
+very top of the ceiling.  As you look out the windows, you see some people
+working in the fields and the shaded forest that surrounds them.  
+~
+0 0 0
+D5
+~
+~
+0 0 18227
+S
+#18229
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 18230
+D1
+~
+~
+0 0 18225
+S
+#18230
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 18231
+D2
+~
+~
+0 0 18229
+S
+#18231
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 18232
+D2
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18238
+S
+#18232
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 18233
+D3
+~
+~
+0 0 18231
+S
+#18233
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D2
+~
+~
+0 0 18234
+D3
+~
+~
+0 0 18232
+S
+#18234
+Path Through the Wheat Fields~
+You are on a dirt path through the wheat fields.  The field is quite
+large and in the middle of the field you see a big windmill.  There are
+birds flying around and going in and out of the nearby forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 18233
+D2
+~
+~
+0 0 18224
+S
+#18235
+Path Through the Forest~
+You are on a brick path through the shaded forest.  Looking around, you
+see an old stone church to the north and an intersection to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 18236
+D2
+~
+~
+0 0 18212
+S
+#18236
+The Old Church~
+You are in a really old church with stained glass windows and a cathedral
+ceiling.  The walls and floor are made of light grey stone.  Lit golden
+candlesticks send off a calm glow.  Old wooden pues sit in two rows along
+the red carpeted center isle leading to the priest's podium.  
+~
+0 1032 0
+D2
+~
+~
+0 0 18235
+D5
+~
+~
+1 0 18237
+S
+#18237
+Dark Basement~
+You are in the dark basement of the old church.  It is damp and musty
+down here, and you can hardly see a thing.  
+~
+0 8 0
+D4
+~
+~
+1 0 18236
+S
+#18238
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  You see people working
+the fields to the east, and you can see a bridge west of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 18231
+D3
+~
+~
+0 0 18239
+S
+#18239
+Old Stone Bridge~
+You are on the old stone bridge that crosses the brook inside this shaded
+forest.  The brook flows from the north to the south through the forest. 
+You notice a movable slab of rock on the bridge.  The dirt path leads east
+and west.  
+~
+0 0 0
+E
+down~
+You see a mobable slab of rock.
+~
+D1
+~
+~
+0 0 18238
+D3
+~
+~
+0 0 18240
+D5
+~
+~
+1 0 18261
+S
+#18240
+Path Through the Forest~
+You are on a path through the shaded forest.  The brook is east of here
+and you see a fish jump out of it!  A bridge crosses the brook to the east
+and the dirt path travels west.  
+~
+0 0 0
+D1
+~
+~
+0 0 18239
+D3
+~
+~
+0 0 18241
+S
+#18241
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  The trees are very big
+around here and quite tall.  There is a great fallen tree here, laying next
+to the path.  The path goes east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 18240
+D3
+~
+~
+0 0 18242
+S
+#18242
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  There is an old,
+dilapidated inn here, waiting for someone to fix it up.  The roof of the inn
+is mostly caved in with a tree fallen onto it.  
+~
+0 0 0
+D1
+~
+~
+0 0 18241
+D3
+~
+~
+0 0 18243
+S
+#18243
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  To the west is a very
+steep hillside with trees growing on its steep slopes.  The dirt path goes
+east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 18242
+D2
+~
+~
+0 0 18244
+S
+#18244
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  To the west is a very
+steep hillside with trees growing on its steep slopes.  The path goes north
+and south along the hillside.  
+~
+0 0 0
+D0
+~
+~
+0 0 18243
+D2
+~
+~
+0 0 18245
+S
+#18245
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  To the west is a very
+steep hillside with trees growing on its steep slopes.  The path goes north
+and south along the hillside.  There appears to be an abandoned mine in the
+hillside.  
+~
+0 0 0
+D0
+~
+~
+0 0 18244
+D2
+~
+~
+0 0 18246
+D3
+~
+~
+0 0 18278
+S
+#18246
+Path Through the Forest~
+You are on a dirt path through the shaded forest.  To the west is a very
+steep hillside with trees growing on its steep slopes.  The path ends here. 
+~
+0 0 0
+D0
+~
+~
+0 0 18245
+S
+#18247
+Wading in the Brook~
+You are wading around in a brook.  The water is nice and cool and the bed
+of the brook is shale.  The water is fairly clear and you can see fish
+swimming around.  The bridge is overhead.  
+~
+0 0 0
+D1
+~
+~
+0 0 18248
+D3
+~
+~
+0 0 18249
+D4
+~
+~
+1 0 18202
+S
+#18248
+Wading in the Brook~
+You are wading around in a brook.  The water is nice and cool and the bed
+of the brook is shale.  The water is fairly clear and you can see fish
+swimming around.  You cannot go any farther east because of the mill's big
+water wheel.  
+~
+0 0 0
+D3
+~
+~
+0 0 18247
+S
+#18249
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 18247
+D3
+~
+~
+0 0 18250
+S
+#18250
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18251
+D1
+~
+~
+0 0 18249
+S
+#18251
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  You see a cottage nearby.  
+~
+0 0 0
+D2
+~
+~
+0 0 18250
+D3
+~
+~
+0 0 18252
+S
+#18252
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 18251
+D3
+~
+~
+0 0 18253
+S
+#18253
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18254
+D1
+~
+~
+0 0 18252
+S
+#18254
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  North through the forest you can see a field.
+~
+0 0 0
+D2
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18255
+S
+#18255
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  North through the forest you can see a field.
+~
+0 0 0
+D1
+~
+~
+0 0 18254
+D3
+~
+~
+0 0 18256
+S
+#18256
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  North through the forest you can see a field.
+~
+0 0 0
+D1
+~
+~
+0 0 18255
+D3
+~
+~
+0 0 18257
+S
+#18257
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18258
+D1
+~
+~
+0 0 18256
+S
+#18258
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18259
+D2
+~
+~
+0 0 18257
+S
+#18259
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D2
+~
+~
+0 0 18258
+D3
+~
+~
+0 0 18260
+S
+#18260
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  You see a bridge to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18261
+D1
+~
+~
+0 0 18259
+S
+#18261
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  There is a bridge above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18262
+D2
+~
+~
+0 0 18260
+D4
+~
+~
+1 0 18239
+S
+#18262
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  You see a stone bridge to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 18263
+D2
+~
+~
+0 0 18261
+S
+#18263
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18264
+D2
+~
+~
+0 0 18262
+S
+#18264
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D2
+~
+~
+0 0 18263
+D3
+~
+~
+0 0 18265
+S
+#18265
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18266
+D1
+~
+~
+0 0 18264
+S
+#18266
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  You see an open area to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18267
+D2
+~
+~
+0 0 18265
+S
+#18267
+Wading in the Brook~
+You are wading around in a brook that is knee to waist deep.  The water
+is nice, clear, and cool and the bed of the brook is shale.  You are able to
+see fish swimming around you.  You see a waterfall to the north and there is
+a small ledge that is along the edge of the brook.  
+~
+0 0 0
+D0
+~
+~
+0 0 18268
+D1
+~
+~
+0 0 18269
+D2
+~
+~
+0 0 18266
+D3
+~
+~
+0 0 18275
+S
+#18268
+Wading in the Pool~
+You are wading around in the pool that is neck deep.  The water is nice,
+clear, and cool and the bed of the pool is shale.  You are able to see fish
+swimming around you.  The waterfall is splashing down on you.  
+~
+0 0 0
+D2
+~
+~
+0 0 18267
+S
+#18269
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  You can jump into the water
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18270
+D3
+~
+~
+0 0 18267
+S
+#18270
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  You can jump into the pool from
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18271
+D2
+~
+~
+0 0 18269
+D3
+~
+~
+0 0 18268
+S
+#18271
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  The ledge goes behind the
+waterfall.  
+~
+0 0 0
+D2
+~
+~
+0 0 18270
+D3
+~
+~
+0 0 18272
+S
+#18272
+Behind the Waterfall~
+You are behind the waterfall on the slippery ledge.  The waterfall puts a
+lot of mist into the air and makes it somewhat hard to see.  You notice a
+loose rock on the north wall.  You can jump through the waterfall and into
+the pool from here.  
+~
+0 0 0
+E
+north~
+You see a movable rock to the north.
+~
+E
+south~
+The waterfall pours down infront of you.
+~
+D0
+~
+~
+1 0 18276
+D1
+~
+~
+0 0 18271
+D2
+~
+~
+0 0 18268
+D3
+~
+~
+0 0 18273
+S
+#18273
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  The ledge goes behind the
+waterfall.  
+~
+0 0 0
+D1
+~
+~
+0 0 18272
+D2
+~
+~
+0 0 18274
+S
+#18274
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  You can jump into the pool from
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18273
+D1
+~
+~
+0 0 18268
+D2
+~
+~
+0 0 18275
+S
+#18275
+On a Small Ledge~
+You are on a slippery ledge along the edge of the water.  You see the
+waterfall pouring down from above the pool.  You can jump into the water
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18274
+D1
+~
+~
+0 0 18267
+S
+#18276
+A Damp Tunnel~
+You are in a damp dark tunnel.  You see a loose rock to the south and to
+the north you see some light.  
+~
+0 8 0
+D0
+~
+~
+0 0 18277
+D2
+~
+~
+1 0 18272
+S
+#18277
+A Damp Tunnel~
+You are in a damp tunnel and the walls are slimy.  There are small
+puddles of water on the floor.  Light floods in from the north.  To the
+south it is very dark.  
+~
+0 8 0
+D0
+~
+~
+0 0 5600
+D2
+~
+~
+0 0 18276
+S
+#18278
+Inside an Old Mine~
+You are inside an old abondoned mine.  It's really dusty in here and it
+gets in your eyes.  You hear some noise to the west.  There are broken old
+picks laying on the ground.  
+~
+0 12 0
+D1
+~
+~
+0 0 18245
+D3
+~
+~
+0 0 18279
+S
+#18279
+Inside an Old Mine~
+You are inside an old abandoned mine.  Its fairly dark in here, but you
+can see some light east of here.  You hear noises west of here...  Sounds
+like something with a pick.  I thought this mine was abandoned?  
+~
+0 8 0
+D1
+~
+~
+0 0 18278
+D3
+~
+~
+0 0 18280
+S
+#18280
+Inside an Old Mine~
+You are in an old abandoned mine.  Strangely, you hear people picking at
+the stone above here.  There is an old ladder that leads up through a hole. 
+~
+0 8 0
+D1
+~
+~
+0 0 18279
+D4
+~
+~
+0 0 6544
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18202 5 1
+D 0 18207 3 1
+D 0 18208 1 1
+D 0 18214 0 1
+D 0 18214 1 1
+D 0 18214 2 1
+D 0 18215 1 1
+D 0 18215 2 1
+D 0 18217 2 1
+D 0 18217 3 1
+D 0 18218 0 1
+D 0 18218 3 1
+D 0 18218 5 1
+D 0 18220 4 1
+D 0 18221 0 1
+D 0 18221 3 1
+D 0 18222 1 1
+D 0 18236 5 1
+D 0 18237 4 1
+D 0 18239 5 1
+D 0 18247 4 1
+D 0 18261 4 1
+D 0 18272 0 1
+D 0 18276 2 1
+M 0 18202 1 18202 1
+E 0 18203 0 17
+O 0 18202 0 18202
+M 0 18224 2 18204 1
+E 0 18205 0 17
+M 0 18205 2 18205 1
+O 0 18205 0 18205
+O 0 18207 0 18207
+O 0 18208 0 18208
+O 0 18209 0 18209
+M 0 18209 3 18209 1
+O 0 18210 0 18210
+O 0 18212 0 18212
+O 0 18211 0 18212
+M 0 18215 1 18215 1
+M 0 18209 3 18216 1
+M 0 18217 1 18217 1
+M 0 18218 1 18218 1
+O 0 18220 0 18220
+M 0 18220 1 18220 1
+M 0 18209 3 18221 1
+M 0 18224 2 18224 1
+E 0 18205 0 17
+M 0 18205 2 18226 1
+M 0 18229 3 18229 1
+M 0 18229 3 18232 1
+M 0 18229 3 18234 1
+O 0 18236 0 18236
+M 0 18236 1 18236 1
+O 0 18237 0 18237
+P 0 18235 1 18237 1
+M 0 18243 3 18240 1
+M 0 18243 3 18243 1
+M 0 18243 3 18245 1
+M 0 18261 15 18248 1
+M 0 18261 15 18249 1
+M 0 18261 15 18250 1
+M 0 18261 15 18251 1
+M 0 18261 15 18253 1
+M 0 18261 15 18255 1
+M 0 18261 15 18257 1
+M 0 18261 15 18259 1
+M 0 18261 15 18261 1
+M 0 18261 15 18264 1
+M 0 18261 15 18266 1
+M 0 18261 15 18268 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#18228
+yell Work faster!  We have to get the next shipment ready by tomorrow!
+grumble
+say Those workers are too lazy!
+~
+#18229
+yell Hey!
+~
+#0
+
+#$

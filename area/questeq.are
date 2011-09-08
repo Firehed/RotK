@@ -1,0 +1,645 @@
+#AREADATA
+Name Quest Equipment~
+Builders None~
+VNUMs 21251 21299
+Credits [QUEST] Firehed Quest EQ Area~
+Security 69
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#21251
+ring crystal~
+{CCr{wy{Ws{wt{Cal R{Win{Cg{x~
+The {CCr{wy{Ws{wt{Cal R{Win{Cg{x is here.~
+unknown~
+armor AB AB
+50 50 50 50 0
+101 0 0 P
+A
+14 500
+A
+12 500
+A
+13 650
+A
+18 75
+A
+19 75
+#21252
+short sword wardrof~
+{YW{ya{Yr{yd{Yr{yo{Yf{y'{Ys {RS{mhort {RS{mword{x~
+{YW{ya{Yr{yd{Yr{yo{Yf{y'{Ys {RS{mhort {RS{mword{x is here.~
+unknown~
+weapon ABHMTZ AN
+sword 25 19 slice ABCEG
+101 0 0 P
+A
+18 75
+A
+19 75
+A
+13 700
+A
+12 700
+A
+4 5
+A
+5 5
+#21253
+amulet detection~
+{MA{mm{Ru{rl{We{wt {Dof {wD{We{rt{Re{mc{Mt{gi{Go{Cn{x~
+An {MA{mm{Ru{rl{We{wt {Dof {wD{We{rt{Re{mc{Mt{gi{Go{Cn{x is here.~
+unknown~
+armor AB AC
+100 100 100 100 0
+101 0 0 P
+F
+A 0 0 L
+A
+19 40
+A
+18 35
+A
+12 300
+A
+13 250
+F
+A 0 0 E
+F
+A 0 0 G
+F
+A 0 0 C
+F
+A 0 0 F
+F
+A 0 0 D
+#21254
+armor firehed~
+{cThe {WA{wrmor {gof {RF{Yi{rr{ye{ch{Be{bd{x~
+{cThe {WA{wrmor {gof {RF{Yi{rr{ye{ch{Be{bd{x is here.~
+unknown~
+armor AB AD
+250 250 250 250 0
+101 0 0 P
+A
+12 150
+A
+14 100
+A
+18 60
+A
+19 65
+A
+13 600
+#21255
+spellup pill~
+{BSpe{Rllu{Cp P{Will{x~
+A {BSpe{Rllu{Cp P{Will{x is here.~
+unknown~
+pill I A
+150 'sanctuary' 'fireshield' 'iceshield' 'shockshield'
+1 0 0 P
+#21256
+hunting deadly hawk~
+{GD{ge{Ga{gd{Gl{gy {Bh{bu{Bn{bt{Bi{bn{Bg {YH{ya{Yw{yk{x~
+A Hawk is here, ready to protect those who wish to take him.~
+unknown~
+armor AB AQ
+125 125 125 125 0
+101 3 10000 P
+A
+2 4
+A
+4 4
+A
+13 500
+A
+12 700
+A
+19 70
+A
+18 70
+#21257
+amulet permanent sanctuary~
+{MA{mm{Ru{rl{Ye{yt {gof {CP{ce{Cr{cm{Ca{cn{Ce{cn{Ct {WS{wa{Dn{wc{Wt{wu{Da{wr{Wy{x~
+An {MA{mm{Ru{rl{Ye{yt {gof {CP{ce{Cr{cm{Ca{cn{Ce{cn{Ct {WS{wa{Dn{wc{Wt{wu{Da{wr{Wy{x is here.~
+unknown~
+armor GI AC
+100 100 100 100 0
+101 0 0 P
+A
+14 200
+A
+12 400
+A
+13 500
+A
+18 50
+A
+19 50
+A
+20 -25
+F
+S 0 0 H
+#21258
+polearm destiny~
+{rP{Ro{rl{Re{ra{Rr{rm {Gof {CD{We{Cs{Wt{Ci{Wn{Cy{x~
+The {rP{Ro{rl{Re{ra{Rr{rm {Gof {CD{We{Cs{Wt{Ci{Wn{Cy{x is here.~
+unknown~
+weapon CHMZ AN
+polearm 27 25 blast ABEF
+101 0 0 P
+A
+19 55
+A
+18 45
+A
+12 300
+A
+13 900
+#21259
+axe ancients~
+{rA{yx{re {yo{rf {yt{rh{ye {rA{yn{rc{yi{re{yn{rt{ys{x~
+The {rA{yx{re {yo{rf {yt{rh{ye {rA{yn{rc{yi{re{yn{rt{ys{x is here.~
+unknown~
+weapon 0 AN
+axe 23 21 wrath ABEGH
+101 0 0 P
+A
+18 40
+A
+19 40
+A
+20 -15
+A
+13 300
+A
+12 300
+A
+4 5
+A
+1 5
+#21260
+mask tyme~
+{MM{Ca{Ms{Ck {Gof T{Yy{Bm{Me{x~
+The {MM{Ca{Ms{Ck {Gof T{Yy{Bm{Me{x is here.~
+unknown~
+armor 0 AR
+90 15 18 28 0
+95 0 0 P
+A
+20 -70
+A
+19 70
+A
+18 70
+A
+13 600
+A
+12 600
+#21261
+handful icy flames light~
+{RH{ra{yn{Yd{yf{ru{Rl {bof {CIcy {YF{yl{ra{Rm{ye{Ys{x~
+Some icy flames are here.~
+unknown~
+light ABGI A
+0 0 999 0 0
+45 0 0 P
+A
+13 500
+A
+12 600
+A
+19 45
+A
+18 45
+A
+20 -75
+#21262
+leather boots~
+{yL{re{ya{rt{yh{re{yr {wBoots{x~
+A pair of leather laced boots is here.~
+leather~
+armor 0 AG
+100 10 10 5 0
+95 0 0 P
+F
+A 0 0 U
+A
+19 65
+A
+18 65
+A
+13 550
+A
+12 650
+#21263
+dagger wind~
+{rD{ga{ygg{ge{rr {co{wf {ct{wh{ce {CW{Win{Cd{x~
+The dagger of the wind is here.~
+unknown~
+weapon HZ AN
+dagger 26 20 sting ABDGH
+101 0 0 P
+A
+14 900
+A
+12 800
+A
+13 700
+A
+19 50
+A
+18 50
+#21264
+staff striking~
+{CSt{caf{wf O{Df S{wtr{ciki{Cng{x~
+The {CSt{caf{wf O{Df S{wtr{ciki{Cng{x is here.~
+unknown~
+weapon GHMSY AN
+staff 24 22 smash ABCDEGH
+101 0 0 P
+A
+13 600
+A
+12 650
+A
+14 500
+A
+18 55
+A
+19 50
+A
+20 -60
+#21265
+stinging whip~
+{WSt{win{Dg{cin{Dg {wWh{Wip{x~
+The {WSt{win{Dg{cin{Dg {wWh{Wip{x is here.~
+unknown~
+weapon 0 AN
+whip 23 21 sting ABCDEGH
+101 0 0 P
+A
+13 450
+A
+12 500
+A
+14 400
+A
+18 45
+A
+19 50
+A
+20 -30
+#21266
+skullsplitter skullsplitting mace~
+{RS{rk{wu{Dl{wl{rs{Rp{rl{wi{Dt{wt{ri{Rn{rg {wM{Da{wc{re{x~
+The {!S{1k{7u{8l{7l{1s{!p{1l{7i{8t{7t{1e{!r{0 lies here.~
+unknown~
+weapon 0 AN
+mace 19 23 crush CEH
+101 0 0 P
+A
+5 5
+A
+1 5
+A
+14 700
+A
+12 700
+A
+13 700
+A
+19 75
+A
+18 75
+#21267
+elemental flail~
+{cFla{wil {wo{bf {gt{yh{re {GE{Bl{Ye{Wm{Re{Dn{Mt{Cs{x~
+The {cFla{wil {wo{bf {gt{yh{re {GE{Bl{Ye{Wm{Re{Dn{Mt{Cs{x is here.~
+unknown~
+weapon 0 AN
+flail 24 19 thwack ABEG
+101 0 0 P
+A
+18 75
+A
+19 75
+A
+13 700
+A
+12 700
+A
+14 700
+A
+2 5
+A
+3 5
+#21268
+wind force windforce~
+{yW{wi{Dn{wd{yf{wo{Dr{wc{ye{x~
+The great hydra bow Windforce is here.~
+unknown~
+weapon HMY AN
+bow 26 33 pierce ABCDEG
+101 4 0 P
+A
+5 8
+A
+2 8
+A
+19 80
+A
+18 80
+A
+12 700
+A
+13 700
+#21269
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21270
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21271
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21272
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21273
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21274
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21275
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21276
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21277
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21278
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21279
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21280
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21281
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21282
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21283
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21284
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21285
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21286
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21287
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21288
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21289
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21290
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21291
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21292
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21293
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21294
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21295
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21296
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21297
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21298
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21299
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#21251
+~
+~
+0 20 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

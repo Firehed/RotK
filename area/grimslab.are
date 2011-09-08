@@ -1,0 +1,175 @@
+#AREADATA
+Name Grimace's Lab~
+Builders Grimace~
+VNUMs 21350 21399
+Credits [ IMM ] Grimace Grimace's Lab~
+Security 9
+End
+
+
+
+#MOBILES
+#21353
+orc leader~
+the orc leader~
+The Orc Leader is here giving orders to demolish the city!
+~
+~
+orc~
+ABF J 0 -900 0
+80 50 10d169+1600 1d1+500 7d12+50 none
+-33
+CFIKN E Q S
+stand stand none 700
+AHMV ABCDEFGHIJK medium unknown
+#21354
+orc guard~
+an orc guard~
+A big orc guard is standing here!
+~
+~
+orc~
+ABF J 0 -800 0
+76 25 10d169+1400 1d1+100 5d10+50 none
+-28
+CFIKN E Q S
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#21350
+gold golden ring~
+{3Th{#e Gol{&d{#en Ri{3ng{0~
+{3Th{#e Gol{&d{#en Ri{3ng{0 is here, attracting attention.~
+unknown~
+jewelry GY AB
+0 0 0 0 0
+15 1 15987445 P
+A
+20 -75
+#21351
+sapphire bracelet~
+{4The Sap{$phire B{^ra{$ce{4let{0~
+{4The Sap{$phire B{^ra{$ce{4let{0 lies here.~
+unknown~
+jewelry GY AM
+0 0 0 0 0
+15 1 233214322 P
+A
+3 3
+A
+12 250
+#21352
+sparkling cloud~
+{7a {#s{&p{#a{7r{#k{&l{#i{7n{#g {&c{#l{7o{#u{&d{0~
+{7A {#s{&p{#a{7r{#k{&l{#i{7n{#g {&c{#l{7o{#u{&d{0 is floating here!~
+unknown~
+armor A AQ
+100 100 100 200 0
+108 1 1 P
+A
+19 100
+A
+18 100
+#21353
+chest~
+a large chest~
+A large chest sits here.~
+unknown~
+container 0 0
+10000 ACD 21354 5 25
+0 0 0 P
+#21354
+shizzabang~
+{&A {#S{&h{#i{7z{#z{&a{#b{7a{#n{&g{#!{0~
+{&A {#S{&h{#i{7z{#z{&a{#b{7a{#n{&g{0 is floating here!~
+unknown~
+armor HO AQ
+100 0 0 0 0
+108 0 0 P
+A
+18 100
+A
+19 100
+E
+shizzabang~
+This mysterious sparkling cloud seems to have magical abilities.  
+~
+#21355
+money~
+money!~
+Lots of money!~
+unknown~
+money 0 A
+250000 0 0 0 0
+0 0 0 P
+#21356
+baal calling card~
+baal's calling card~
+Baal's calling card is here.~
+unknown~
+treasure A AO
+0 0 0 0 0
+0 0 0 P
+#21357
+grimace calling card~
+grimace's calling card~
+Grimace's calling card is here.~
+unknown~
+treasure AOT AO
+0 0 0 0 0
+0 0 0 P
+#21358
+bongo drum~
+{#The {7B{&ong{7o {#Drum!{0~
+{#The {7B{&ong{7o {#Drum!{0 is here!~
+wood~
+weapon 0 N
+exotic 20 20 beating G
+25 5 23242 P
+#21359
+lightsaber~
+{&|{7={8={7={8={&|{@*************************{0 ~
+{&|{7={8={7={8={&|{0 ~
+unknown~
+weapon OY AN
+sword 10000 10000 slice 0
+109 1 500000 P
+#0
+
+
+
+#ROOMS
+#21350
+Grimace's Laboratory~
+You are in a big candlelit laboratory inside some castle.  You see all
+kinds of strange things around here.  Bookshelves line the walls.  
+~
+0 32780 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

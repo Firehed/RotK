@@ -1,0 +1,106 @@
+#AREADATA
+Name Player Housing~
+Builders Firehed~
+VNUMs 20051 20100
+Credits [ $$$ ] People  Player Housing~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#20051
+pit blood~
+{&P{*i{&t{* o{&f {1B{!l{1o{!o{1d{0~
+A {&P{8i{&t {8o{&f {1B{!l{1o{!o{1d{x has been formed in a large depression here.~
+unknown~
+furniture EG 0
+10 10000 CFIL 10000 10000
+0 0 0 P
+#20052
+duran house key~
+duran's house key~
+Duran's house key is here, better return it to him.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#20053
+set temporary arms~
+{8a {8S{3e{8t {8o{*f {3T{3e{#m{3p{1o{1r{!a{1r{1y {3A{#r{3m{3s{x~
+A set of temporary arms are on the ground here.~
+unknown~
+armor 0 AI
+71 0 0 0 0
+101 3 0 P
+A
+12 328
+A
+18 45
+A
+20 -48
+A
+13 590
+A
+19 75
+#0
+
+
+
+#ROOMS
+#20051
+Shocore's Sanctuary~
+Upon entering the room, you notice large tapestries hanging from walls,
+depicting some sort of battle.  Behind the fallen debris that lays before
+you, you see a statue 40 feet high.  It is of Shocore, the General of the
+Brotherhood.  This statue was presented to Shocore by the demons that dwell
+here.  Demons of varying sizes are here constructing some sort of throne or
+temple.  You feel the sudden urge to leave before Shocore arrives.  
+~
+0 525312 0
+D3
+~
+~
+4 10542 3385
+S
+#20052
+The Lair of the Phantom~
+~
+0 524306 0
+D4
+~
+~
+4 20052 3385
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20051 3 2
+D 0 20052 4 2
+O 0 20051 0 20051
+O 0 20051 0 20052
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,748 @@
+#HELPS
+-1 ROT~
+RoT is a ROM2.4 derived mud, which is originally based on the Merc 1.0 code.
+The RoT modifications to the ROM source are copyright 1996-1997 by Russ Walsh.
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Tesseract, the latest version of the ROM code.
+It can be found at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bug reports
+    and suggestions, saving a lot of headaches
+
+New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle (my wife) and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are largely the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+-1 IMMORTAL IMMORT GOD~
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+-1 SOCIALS~
+
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	laces
+tank	     starve	 aargh	      homework	    puff	differ
+yae	     lightbulb   ogg	      confused	    beam        twitch
+bite	     discodance  scuff        whap	    lag		chortle
+zerbert
+
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and
+ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment
+
+      Special thanks to Vladamir!
+~
+-1 MAP MAPS~
+Thanks to Ezra for drawing the originals of several maps on ROM.
+~
+
+-1 LOGIN~
+{cWhat name do you wish to use?{x ~
+
+-1 GREETING1~
+.
+{!_____  {@_____ {#_____ {$_    {%_   _
+{!|___/  {@|___  {#|___| {$|    {%|\_/|
+{!|   \  {@|____ {#|   | {$|___ {%|   |
+
+  {!____ {@____  {#___ {$_  _ {%____
+  {!|  | {@|__    {#|  {$|__| {%|__
+  {!|__| {@|      {#|  {$|  | {%|___
+          {@_____ {#_____ {$___  {%_____ {^____ {&____
+{!@@@  @@@  {@#___  {##___  {$#__] {%#___  {^#__/ {&[___'
+{!@@@  @@@  {@#____ {##____ {$#    {%#___  {^#  \ {&,___]
+{!@@!  !@@
+{!!@!  @!!
+{!@!@@!@!
+{!!!@!!!
+{!!!: :!!
+{!:!:  !:!
+{!!::  :::
+{! !:  :::{@
+
+~
+
+
+
+-1 GREETING2~
+.
+        {6.              {6o
+                   {6O       {8/`-.__
+                          {8/  \'^|
+             {6o           {8T    l  *
+                        {8_|-..-|_
+                 {6O    {8(^ '----' `)
+                       {8`\-....-/^
+             {6O       {6o  {&)   {3/  {&(
+                       {&_(  {&({1-{&)  {&)_
+                   {6O  {7/{&\ {&)    {&(  /{7\
+                     {7/  {&\(    ) {&|  {7\
+                 {6o  {6o    {&\)  ( {&/    {7\
+                   {7/     {&|(  )|      {7\
+                  {7/    {6o {&\ \( /       {7\
+            {3__.--'   {6O    {&\_ /   .._   {7\
+           {3//|)\      {@,   {#(_)   {3/(((\^)'{7\
+              {7|       {@| {6O         {@)  `  {7|
+              {7|      {@/ {6o{7___      {@/      {7/
+             {7/  {8_.-''^^{7__{6O{7_^^''-._     /
+           {7.'  {8/  {7-''^^    ^^''-  {8\{7--'^
+         {7.'   {8.`.  {7`'''----'''^  {8.`. {7\
+       {7.'    {8/   `'--..____..--'^   {8\ {7\
+      {7/  _.-{8/                        {8\ {7\
+  {7.::'_/^   {8|       {!Realm            {8|  {7`.
+         {7.-'{8|        {!of the          {8|    {7`-.
+   {7_.--'`   {8\       {!Keepers          {8/      {7 `-.
+  {7/          {8\                      {8/           {7`-._
+  {7`'---..__   {8`.                  {8.{7_.._   __       \
+           {7``'''{8`.              {8.'      {7`'^  `''---'^
+                  {8`-..______..-'{@
+
+~
+
+
+
+
+
+-1 GREETING3~
+.
+
+                                           {7.""--..__
+                     {7_                     {8[]       {7``-.._
+                  {7.'` `'.                  {8||{7__           `-._
+                 {7/    ,-.\                 {8||_ {7```---..__     `-.
+                {7/    /{&:::{7\\               {&/{8|{&//}          {7``--._  `.
+                {7|    |{&:::{7||              {&|{&////}                {7`-. \
+                {7|    |{&:::{7||             {&//'{&///                    {7`.\
+                {7|    |{&:::{7||            {&//  {8||'                      {7`|
+                {7/    |{&:::{7|/        _,-{&//\  {8||
+               {7/`    |{&:::{7|`-,__,-'`  |{&/  \ {8||
+             {7/`  |   |{&'' {7||           \   |{8||
+           {7/`    \   |   ||            |  /{8||
+         {7|`       |  |   |)            \ | {8||
+        {7|          \ |   /      ,.__    \| {8||
+        {7/           `         /`    `\   | {8||
+       {7|    {!REALM OF THE     {7/        \  / {8||
+       {7|                     |        | /  {8||
+       {7/         /   {!KEEPERS {7|        `(   {8||
+      {7/          .           /          )  {8||
+     {7|            \          |     {8________||
+    {7/             |          /     {8`-------.|
+   {7|\            /          |              {8||
+   {7\/`-._       |           /              {8||
+    {&//   {7`.    /`           |              {8||
+   {&//{7`.    `. |             \              {8||
+  {&///\ {7`-._  )/             |              {8||
+{&//// )   {7.(/               |              {8||
+{&||||   {7,'` )               /              {8//
+{&||||  {7/                    /             {8||
+{&`\\` {7/`                    |             {8//
+     {7|`                     \            {8||
+    {7/                        |           {8//
+  {7/`                          \         {8//
+{7/`                            |        {8||
+{7`-.___,-.      .-.        ___,'        {8(/
+         {7`---'`   `'----'`
+{@~
+
+
+-1 GREETING4~
+.
+
+{g                                     /|   /|{x
+{g                                    / /  / /{x
+{g                                   | |  | |{x
+{g                                   ; /  ; /{x
+{g                     ___  __      / .\_/ ,(   ___{x
+{g                    /  (.' (     /{G ;;;{g/{G ;;;`"`{g_.-'{x
+{g                 .--'-./ .-'    /{G ;;;{g/{G ;;'{g .-'{x
+{g              _.-` _  `;;\_,   /{G ;;;{g/{G .'{g ,/{x
+{g          ,-"` ;-= {Rg{g>=- .; /  /{G ;;;{g/{G ;',;;{g|{x
+{g           \`__/_     ; ';|  |{G ;;;{g/{G.',;;;;{g'\___,{x
+{r     _    ,={g,-V-' __  ;;  _\ {g/{G.;{g/{G`.`.'` .,:{g---'{x
+{r     `"=="  {g|_.-'`  7_;;  | | ;|{G  .',;;;;;{g/{x
+{Y                   /_{g,;'{g  /  \'\{G `,;;;;;;{g|{x
+{Y                  (_{g,;'^{g _\  /{G;;{g){G.,,,,,`{g'\{x
+{Y                 (_{g;;' ^{g|   /;/{G`.;;;;;;;{g-'`{x
+{Y                (_{g,;'^  {g_\ //{G`.,..`{g_{G'{g;{g/{x
+{Y               (__{g;;  ^  {g\/{G`.;;;;;{g( ',|{x
+{Y               (__{g,;,^ .'`.;;,.`';;{g      _.-/{x
+{Y               (__{g,';,/ ,;'.`;;;,{g._\  _.'  ({x
+{Y                (__{g,';|/|;';;.';{g/` .-' _   /{x
+{Y                 (__{g,-';|; ;;;. {g|._  `//)_/{x
+{Y                  (_/{g '- \,'``\ | `'.//{x
+{g                .-' |'-' '-'';|/ ^   ';{x
+{g               /'-' | '-' '-' ;`;;.^   `\{x
+{g              /  '-' \  '-' '/\_, ';,  ^ \{x
+{g              |'-' .-'\-' '-'|  \_,';,  ^ \{x
+{g         _     \  /    '.'-' \  //\_,; ^  |{x
+{g       ,_{yv{g\     \ |      \ '-( |;/ \_ ;   |{x
+{y       v{g_\ `---_-' \      ;  / |;|  <_; ^ |{x
+{g       (.-')(`` `'-'      | /  | ;`=';'  ;{x
+{y        v  </{g             ||    \ `'`  ^/{x
+{g                          ||     '-...-'{x
+{g                          ||{x
+{g                     __  / |_{x
+{y                   v-={g_;` __ `){x
+{c                 /"{yv-{g(_.-'{c""{y`v{c""""""\{x
+{c                 |    {yv{c             |{x
+{c                 |    {RREALM OF{c      |{x
+{c                 |   {RTHE KEEPERS{c    |{x
+{c                 |                  |{x
+{c                 \__________________/{x
+
+~
+
+-1 GREETING5~
+.
+{g                    _                      _{x
+{g                  ,/                        \,{x
+{g        _________{{(                          })_________{x
+{g       /.-------./\\                        //\.-------.\{x
+{g      //{G@@@@@@@{g//{G@@{g\\  )                (  //{G@@{g\\{G@@@@@@@{g\\{x
+{g     //{G@@@@@@@{g//{G@@@@{g>>/                  \<<{G@@@@{g\\{G@@@@@@@{g\\{x
+{g    //{GO@O@O@O{g//{G@O@O{g//                      \\{GO@O@{g\\{GO@O@O@O{g\\{x
+{g  //{GOOOOOOOO{g//{GOOOO{g||         {W \  /{g          ||{GOOOO{g\\{GOOOOOOOO{g\\{x
+{g //{GO%O%O%O%{g//{GO%O%O%{g\\        {W ))(({g         //{G%O%O%O{g\\{G%O%O%O%O{g\\{x
+{g||{G%%%%%%%%{g//{G'  `%%%%{g\\       {W//  \\{g       //{G%%%%'   `{g\\{G%%%%%%%{g||{x
+{g(({G%%%%%%%{g(({G      %%%%%{g\\    {W(( {b__ {W)){g    //{G%%%%%       {g)){G%%%%%%{g)){x
+{g \{G:::' `::{g\\{G      `:::::{g\\   {W\)  ({W/{g    //{G:::::'      {g//{G::' `:::{g/{x
+{g  ){G'     `;{g)'{G      (`  ` {g\\{b `<{r@  @{b>'{g / / '  ')      {g`(;'     {g`({x
+{g          ({G               {g\`\ {b)^^({g /  /               ){x
+{W        _{b                  {g) \{b\{woo{b/{g   ({x
+{W       (@){b                  {g\{r  `'{g   /                      _{x
+{W       |-|\__________________{g\{W__{r^{W__{g<{W________{goOo{W__________ (@){x
+{W       | |                                  {gVVV{W          \|-|{x
+{W       |-|            {RRealm of the Keepers{W                |-|{x
+{W       |_|\_____________________________________________  | |{x
+{W       (@)              {g   / ,/ \_____/ \\  \/ {W         `\|-|{x
+{g                      ___//^       \____/\\               {W(@){x
+{g                     <<<  \     __  <____/||               {W-{x
+{g                               <   \ <___/||{x
+{g                                  || <___//{x
+{g                                  \ \/__//{x
+{g                                   \----/{x
+
+~
+
+-1 AUTHORS~
+.
+                Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+                Tom Madsen, Michael Seifert, and Sebastian Hammer
+                Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+                ROM 2.4 copyright (c) 1993-1995 Russ Taylor
+                ROT 1.4 copyright (c) 1996-1997 Russ Walsh
+                The Changes to this MUD were made by the Implementors,
+                George (Wardrof) and Eric (Firehed)
+
+                LOTS OF THANKS TO VLADAMIR FOR MAKING THIS MUD WORK!
+		LOTS OF THANKS TO LOKI FOR HELPING US OUT ONCE IT WORKED!
+~
+
+-1 MOTD~
+{C**************************************************************************{x
+{C*{g Read the 'help rules' and 'help clanrules' files.  If you don't know   {C*{x
+{C*{g the rules and you break one, it's your own fault, so read them!        {C*{x
+{C*{g Keep up with your notes, ideas, news, changes, etc.  They are there    {C*{x
+{C*{g they're for you to read, and have important information for you!       {C*{x
+{C*{g Use {RDELETE{g to get rid of characters that you no longer want            {C*{x
+{C*{g Use {RC{YO{GL{BO{MR{g to turn on color                                             {C*{x
+{C*{g Use {BSECOND{g to wield a second weapon                                    {C*{x
+{C*{g Use {BHELP FLAGS{g to get a list of the affect flags                       {C*{x
+{C*{g Use {YHELP WORLD{g to check out a list of how to walk to places!           {C*{x
+{C*{g Please look at the {WHELP CHANNELS{g to see the rules about channel use    {C*{x
+{C**************************************************************************{x
+
+ [Hit Return to continue]
+~
+
+102 IMOTD~
+{^Welcome {#S{3t{#a{3f{#f {3o{#f {#K{3e{#e{3p{#e{3r{#S{!!
+
+{xYou are responsible for following the laws of immortal behavior.
+
+* Type 'help laws' for the rules you are expected to follow as an Imm.
+* Type 'help jobs' to get some idea of what you should be doing.
+
+ [Hit Return to continue]
+~
+
+102 JOBS~
+This is a partial list of what a god of any given level should be doing. It is
+not complete yet.
+
+New builders: (102)
+If you want to become a full-fledged builder, show us what you have!
+
+Questors:     (103)
+Your main job is to run miniquests for the mortals, but don't go too
+crazy with the prizes, mainly just give out QPs.
+
+Divinities:   (104)
+You are basically like peacekeepers, but not as severe.
+Builders:     (105)
+Build! Build! Build!  Basically, leave the mortals alone for the most
+part, answer questions if they have it, but all you really need to do
+is build, usually while wizi.  Note: Don't attack new mobs! (That goes
+for anyone)
+
+Clan Leaders: (106)
+Run your clan.  Don't member everyone in sight, let them approach you.
+First tier they need to be level 25, second tier 15, and third tier,
+any level is fine.
+
+Peacekeepers: (107)
+Name says it all: Keep the peace!  Peacekeepers enforce the rules (even
+though any immortal really can).  You would mainly be the people who do
+NOCHANNEL type punishments, and cornering.  Illegal EQ confiscation is
+OK too.  You can now corner <char> # so they serve their corner time
+and not have to worry about an immortal being on to let them out.  They
+get transferred to the Quest Shop when they are done.  Talk to the IMPs
+if a character is repeatedly being a 
+jerk, and needs deletion.
+
+Head Questor: (108)
+Tekino, thanks for your work on Talagrath, have fun with it as you
+please!
+
+Head Builder: (109)
+Make sure that no immortal is making insanely good areas, level 16000
+mobs, etc.  You build as well, but you really are here to keep track of
+the other builders.
+
+Implementors  (110)
+You put this place here, you know what to do! *cackle*
+
+{! ******************************************************************{x
+{! * Cheating for your mortal is bad, severe punishments... or NUKE *{x
+{! * Having a test mortal is OK, just has to have 'test' somewhere  *{x
+{! * in the name, if you have a mortal that you actually play, do   *{x
+{! * NOT help him/her in any way!                                   *{x
+{! ******************************************************************{x
+~
+
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+Player killing and player stealing are allowed to all persons, provided the
+victim is is within 10 levels of the character.
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+              ****************************************
+              ** The Rules of Realms of the Keepers **
+              ****************************************
+
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+
+2)  Do not cheat for ANY mortal in ANY way, especially your own.
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,
+    and softening up or altering mobs.
+
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+
+5)  DO NOT use reboot.  <--- Note, simple English.
+    * One exception: Reboot may be used by an Non-IMP ONLY for the sake
+    * of not crashing the mud after attacking a mob that would be new.
+    --->{z{!Quests ONLY{0<---
+
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+
+7)  A note on quests: Quests are a good thing, more or less, BUT
+    do not give out overly extravagant prizes.  Exercise some
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+
+8)  Do not undermine the authority of a higher level god.  If you
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+
+9)  Do not try to overrule each other.
+
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+~
+
+-1 RULES~
+These are the rules of RotK.  For other matters, use common sense.
+For clan specific rules, see HELP CLANRULES.
+
+* A member of a clan may kill a member of any other clan.
+
+* A member of a clan may steal from a member of any other clan.
+
+* If you join a clan, and someone either pkills you, or psteals from you,
+  do not complain to the gods, or ask the gods to return your eq or do
+  a corpse retrieval for you, as they are forbidden from doing so.
+
+* Your presence here is a privilege not a right. Obey any orders from gods,
+  and you will be fine.  Deletion does not require a reason, appeals are to
+  be sent to the implementors.
+
+* Watch your language in public areas and channels.
+
+* No multiple logins, multiple playing, or helping your own characters with
+  other characters you own -- by any arrangment.
+
+* No kill stealing.  This means you cannot attack a mob someone else is
+  fighting, unless they ask you to. Also avoid attacking fleeing mobs.
+
+* Cheating will not be tolerated.  This includes accepting favors from gods
+  and exploiting bugs. If you find a bug, report it, then do not use it.
+
+* Changes to these rules are at the discretion of the immortals, and may be
+  done without warning, notice, or even evidence of sanity. 
+~
+
+-1 CLANRULES~
+1. Do NOT join any clan until you investigate ALL clans.
+
+2  If you get pkilled, you ask your CLAN MATES to retrieve your corpse,
+re-equip you, help you avenge your death, etc. Do not count on the
+IMMs for help,. as it is against the laws.
+
+3. Clanned characters are *not* allowed to pkill anyone in their own clan.
+
+4. If you get pkilled, you will *NOT* be reimbursed ANY eq by the IMMs;
+this includes edited EQ, items of sentimental value, quest items, etc.
+
+5. If your corpse gets lost in a crash, and you can verify it with a log
+that your eqipment was lost, and what you had, we will reimburse you for
+any items lost.  Note that if you are simply unable to retrieve your 
+corpse, that is your own problem.  See 5 below.
+
+6. Clanned characters are not allowed to ask for or receive ANY kind of
+IMM-related help; this includes corpse retrievals, spellups, assistance
+locating chars, reimbursements, etc, unless rule 5 comes into effect.
+
+7. If you are a clan leader, you are expected to MUD on a regular basis.
+If you do not actively play your character for three weeks, and have not
+found a replacement, you will be removed as leader.
+
+8. If you are in a clan, your alignment must follow your clan's alignment.
+This means that you cannot go walking arounds with an align of 1000 in an
+evil clan.  You will be reminded once if nessecary, but once is all.
+Continuing to keep an inapropriate align can result in punishment.  Your clan
+should have a mob where you can repent/curse your aling appropriately.
+
+9. As a member of a clan, you are expected to assist other members of your
+clan. This includes spellups, corpse retrievals, levelling, etc.
+
+
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.  Second tier players should use reroll to recreate a
+character, instead of the delete command.
+~
+
+0 REROLL~
+The reroll command may be used once you reach hero status in the first
+tier of classes, or at any time while playing a second tier character.
+This command must be typed twice to reroll a character, and you cannot
+be forced to reroll.  Typing reroll with an argument will return your
+character to 'safe' status if you change your mind after the first reroll.
+
+After typing reroll the second time, you will be forced to quit.  When
+you reconnect, you will have to re-create your character, but will be
+given the second tier classes to choose from, instead of the first tier
+classes. (see 'help tier')
+
+After rerolling, you will start out in your new class at level 1, so
+this command is similar to deleting and recreating your character.
+~
+
+0 TIER~
+There are currently fourteen classes in ROT, split into two tiers.
+1st tier classes:
+   {RM{rage    {RC{rleric  {RT{rhief      {RW{rarrior    {RR{ranger   {RD{rruid  {RV{rampire{x
+2nd tier classes:
+   {BW{bizard  {BP{briest  {BM{bercenary  {BG{bladiator  {BS{btrider  {BS{bage   {BL{bich{x
+
+The second tier classes are notably stronger than the first tier
+classes, but you cannot create a character in these classes until
+you reach the hero level in a first tier class. (see 'help reroll')
+
+You DO NOT have to choose the second tier class that is in the same
+slot as the first tier class, ie: a mage does not have to become
+a wizard, you are given the option of choosing any of the classes.
+
+Because of the strength difference between the tiers, player killing
+and player stealing is forbidden between the tiers.
+~
+
+0 HEALER~
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 30 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~
+
+
+-1 GAIN~
+The gain command is used to learn new skills, once the proper trainer has
+been found. (Check New Thalos) The following options can be used with gain:
+
+gain list:    list all groups and skills that can be learned
+gain points:  lower your creation points by 1 (costs two sessions)
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert: turns 6 practices into one training session
+gain study:   turns 1 training session into 6 practices
+
+Gain uses training sessions, not practices. (see 'help train')
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points. 
+~
+
+-1 RESTRING~
+Syntax: restring obj <string>
+
+The restring command is used to change the name of an object in your
+inventory.  Only specific trainers have the ability to restring an object
+for you (Check New Thalos), and charge you 50 quest points per item.
+
+Restringing an object will only change the short name of the object, not
+the long description or keywords associated with that object, so you will
+still have to use the original keywords to use a restrung object.
+
+For example:
+    Object to be restrung is 'an imperial sword',
+
+       > restring sword a battle axe
+
+    This will now show up as 'a battle axe' in your inventory, and will use
+    this string in actions:  '<char> wields a battle axe' or '<char> gets a
+    battle axe'.
+
+    Because the keywords of the object are not changed, to wield or
+    manipulate this object, you will still need to use 'sword' or 'imperial',
+    ie:  get sword     wield sword
+~
+
+102 CLONE~
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.  
+Strung extended descriptions on objects are not kept, however.
+~
+
+110 RANDCLAN~
+Syntax: randclan
+
+Randclan will move the entrances to all clan halls to new randomly selected
+locations.  This is automatically done by the system at boot, and once per
+day thereafter, but can be called by an implementor to correct any problems
+in the choice of locations from the last automatic run.
+~
+
+0 SKILLS SPELLS~
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+~
+
+
+0 OUTFIT~
+The outfit command, usable by levels 9 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOSTORE AUTOPEEK~
+ROT uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autoall   : turns all of the auto's on <-- {YNew!{0
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac	  : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassist: makes you help group members in combat
+autostore : saves all tells during combat
+autopeek  : will show inventory during a look <char> (with the peek skill)
+
+Typing a command sets the action , typing it again removes it. 
+~
+-1 CLAN~
+   A Clan is a collection of players, united to follow and further
+a common cause.  Each clan has rules and regulations, to find out
+more about clans and their 'beliefs' type "help <clan name>".  To
+join a Clan you must be level 25 or above.  Second tier players
+may join a clan starting at level 15.  Speak to the Clan
+Leader about joining.  If you go Loner you may join a Clan later.
+
+   New Clans may be formed by writing a note to the immortals.
+Please remember that their word is final on all matters not covered by
+this help.
+
+A list of current clans can be obtained with:  clan list
+~
+
+-1 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+
+-1 GATE~
+The gate spell is a powerful transportation magic that opens up a portal
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also
+immune to gate, as well as any player who has no summon set.  Clan members
+may not be gated to except by their fellow Clan members.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+0 $~
+#$

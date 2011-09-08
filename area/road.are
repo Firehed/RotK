@@ -1,0 +1,589 @@
+#AREADATA
+Name Road to Hell~
+Builders Karu~
+VNUMs 20721 20754
+Credits [60 99] Karu    Road to hell~
+Security 9
+End
+
+
+
+#MOBILES
+#20721
+street pedlar~
+{GStreet {Bpedlar{x~
+A {GStreet {Bpedlar{x pedlar dressed in rags tries to sell trinkets and good luck charms.
+~
+~
+Human~
+AFG D 0 -1000 0
+130 65 1d1+9800 130d10+100 1d1+200 none
+-19
+F M 0 N
+stand stand none 300
+AHMV ABCDEFGHIJK medium mammal
+#20722
+red devil~
+{RRed D{re{Rv{ri{Rl{x~
+{RRed D{re{Rv{ri{Rl{x walks by you and sneezes.
+~
+Small fiery devils, released from hell.
+~
+Draconian~
+AFG T 0 -1000 0
+140 70 1d1+7200 140d10+100 1d1+275 claw
+-19
+CF LQ HI FGJ
+stand stand none 1234
+AHMV ABCDEFGHIJKPQ medium unknown
+#20723
+Huge Devil~
+{bHuge {rDevil{x~
+{bHuge {rdevil{D floats over the room and breaths the fire.{x
+~
+~
+Draconian~
+AFG T 0 -1000 0
+145 90 1d1+5600 145d10+100 1d1+340 none
+-20
+CF LQ HI FGJ
+stand stand none 1344
+AHMV ABCDEFGHIJKPQ medium unknown
+#20724
+overlord~
+{bOv{rer{mlo{crd{x~
+{bOv{rer{mlo{crd{x screams and attacks.
+~
+~
+Giant~
+AFG d 0 -1000 0
+150 78 1d1+8000 150d10+100 1d1+400 bite
+-19
+0 0 HI JP
+stand stand none 2300
+AHMV ABCDEFGHIJK medium unknown
+#20725
+black devil~
+{mB{bl{ma{bc{mk {bd{me{bv{mi{bl{x~
+{mB{bl{ma{bc{mk {bd{me{bv{mi{bl{x has just arrived from hell.
+~
+~
+Goblin~
+AFG J 0 -1000 0
+150 125 1d1+7900 150d10+100 1d1+320 none
+-24
+0 0 P NSXY
+stand stand none 1200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20747
+potion~
+trash~
+Trash~
+unknown~
+trash N A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#20721
+Start of the Road to Hell~
+The road to Hell is supposed to be paved with good intentions.  Strange,
+this road looks just like an ordinary cobblestone street.  The only thing
+that would distinguish it from a road in any other town are the buildings
+that front onto it.  They are so irregular in shape that it is a wonder that
+they can stand at all.  The road continues to the south.  
+~
+0 524288 0
+D0
+~
+~
+0 0 3472
+D2
+~
+~
+0 0 20722
+S
+#20722
+The Road to Hell~
+Can this be the right road?  It is just a plain cobblesone road. 
+Nothing here would indicate that it leads to Hell.  The buidlings do look
+more bizarre though, almost as if they would collapse if they were not
+leaning against one another.  The road continues to the north and south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20721
+D2
+~
+~
+0 0 20723
+S
+#20723
+Chance for a Side Trip~
+The cobblestone street continues.  There is still not really anything
+to indicate that it leads to somewhere special.  Perhaps someone in the
+builing to the west could provide some information.  There is a road to the
+east and this road continue to the north and south.  Which could be the road
+to Hell?
+~
+0 524288 0
+D0
+~
+~
+0 0 20722
+D1
+~
+~
+0 0 20730
+D2
+~
+~
+0 0 20724
+D3
+~
+~
+0 0 20741
+S
+#20724
+Road to Hell~
+The buildings here are more macabre than any place along the road so
+far.  In addition, the cobblestones seem to have a much brighter red tinge
+than they have to the north.  Perhaps this is the right road after all.  In
+any event, the road continues to the north and south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20723
+D2
+~
+~
+0 0 20725
+S
+#20725
+More Diversions~
+The cobblestones are now a bright scarlet color.  It is beginning to
+look like this might be the right road after all.  It appears as if the
+building to the west can be entered.  There is also a street leading off to
+the east and this street continues north and south.  If this is the road to
+hell why does it give so many choices on the way to go?
+~
+0 524288 0
+D0
+~
+~
+0 0 20724
+D1
+~
+~
+0 0 20731
+D2
+~
+~
+0 0 20726
+D3
+~
+~
+0 0 20742
+S
+#20726
+Which Way to Go?~
+Who would have thought that there would have been so many choices on
+the road to Hell?  The road here continues to the north and south but there
+is also a road to the east.  The cobblesones are a much brighter scarlet now
+and are quite warm.  There is a strangely shaped building to the west.
+~
+0 524288 0
+D0
+~
+~
+0 0 20725
+D1
+~
+~
+0 0 20732
+D2
+~
+~
+0 0 20727
+D3
+~
+~
+0 0 20743
+S
+#20727
+Still More Choices~
+Do the choices never end?  Once again there is a road to the east as
+well as the north south road.  The cobblestones here are quite noticeably
+hot.  Perhaps the bizarrely shaped building to the west could provide some
+respite.
+~
+0 524288 0
+D0
+~
+~
+0 0 20726
+D1
+~
+~
+0 0 20733
+D2
+~
+~
+0 0 20728
+D3
+~
+~
+0 0 20744
+S
+#20728
+Road to Hell~
+At least there are no choices here as the road runs straight north and
+south.  The road itself is becoming rather warm to walk on and any liquid
+spilled soon turns to steam.  Surely Hell cannot be much further.
+~
+0 524288 0
+D0
+~
+~
+0 0 20727
+D2
+~
+~
+0 0 20729
+S
+#20729
+Nearing Hell~
+The road here is quite noticeably hot, a sure sign that Hell must be
+near.  The cobblestones themselves are an almost blinding red.  There is a
+small sign here.  From here you can go in any of the cardinal directions.
+~
+0 524288 0
+D0
+~
+~
+0 0 20728
+D1
+~
+~
+0 0 20734
+D2
+~
+~
+0 0 10401
+D3
+~
+~
+0 0 20745
+S
+#20730
+Wild Goose Lane~
+This is the start of a road much different from the main road to Hell. 
+The cobblestones on this road are entirely normal in both color and
+temperature.  The buildings along the side of the road also appear to be
+normal.  A road runs to the west and this road continues to the south.
+~
+0 524288 0
+D1
+~
+~
+0 0 20735
+D3
+~
+~
+0 0 20723
+S
+#20731
+Another Red Herring~
+This side road looks much similar to the main road to Hell.  Could it
+actually be the right road to take.  The cobblestone are still bright red
+and quite warm.  Maybe there is more than one road to Hell?  The road runs
+to the east and west.
+~
+0 524288 0
+D1
+~
+~
+0 0 20737
+D3
+~
+~
+0 0 20725
+S
+#20732
+Road to Nowhere~
+This side road looks much similar to the main road to Hell.  Could it
+actually be the right road to take.  The cobblestone are still bright red
+and quite warm.  Maybe there is more than one road to Hell?  The road runs
+to the east and west.
+~
+0 524288 0
+D1
+~
+~
+0 0 20738
+D3
+~
+~
+0 0 20726
+S
+#20733
+Last Chance Lane~
+This side road looks much similar to the main road to Hell.  Could it
+actually be the right road to take.  The cobblestone are still bright red
+and quite warm.  Maybe there is more than one road to Hell?  The road runs
+to the east and west.
+~
+0 524288 0
+D1
+~
+~
+0 0 20739
+D3
+~
+~
+0 0 20727
+S
+#20734
+Parking Lot for Hell~
+his appears to be a very large parking lot.  Cars seem to be parked in
+no particular pattern though.  They are just scattered randomly over the lot
+which makes for a crooked walking path.  Something else is striking.  While
+there is an entrance to the parking lot, there is no way for cars to leave.
+~
+0 524288 0
+D3
+~
+~
+0 0 20729
+S
+#20735
+Path of Good Intentions~
+This is the start of a road much different from the main road to Hell. 
+The cobblestones on this road are entirely normal in both color and
+temperature.  The buildings along the side of the road also appear to be
+normal.  A road runs to the west and this road continues to the south.
+~
+0 524288 0
+D2
+~
+~
+0 0 20736
+D3
+~
+~
+0 0 20730
+S
+#20736
+Path of Good Intentions~
+The normal city street continues here.  The cobblestones are entirely
+normal and the buildings lining the street are also normal.  It appears that
+there is a small church to the east.  The road runs to the north and south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20735
+D2
+~
+~
+0 0 20737
+S
+#20737
+Path of Good Intentions~
+The normal city street continues here.  The cobblestones are entirely
+normal and the buildings lining the street are also normal.  There is a road
+to the west here and this road continues to the north and south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20736
+D2
+~
+~
+0 0 20738
+D3
+~
+~
+0 0 20731
+S
+#20738
+Path of Good Intentions~
+The normal city street continues here.  The cobblestones are entirely
+normal and the buildings lining the street are also normal.  There is a road
+to the west and this road runs to the north and south.
+~
+0 524288 0
+D0
+~
+~
+0 0 20737
+D2
+~
+~
+0 0 20739
+D3
+~
+~
+0 0 20732
+S
+#20739
+End of the Path~
+It appears that all good things must come to an end and that is what
+has happened to this road.  It appears that it was just a side trip on the
+road to Hell.  The road runs to the north.  The only other way to go is to
+the west.
+~
+0 524288 0
+D0
+~
+~
+0 0 20738
+D3
+~
+~
+0 0 20733
+S
+#20741
+An Oasis~
+This place is like an oasis on the road to Hell.  This is the only
+place that appears to have any greenery growing at all.  That greenery is
+very thick and lush.  There is a small pool in the center of the vegetation
+that promises some relief from the heat of the road.
+~
+0 524288 0
+D1
+~
+~
+0 0 20723
+S
+#20742
+Red Hot Hostel~
+The road to Hell must be a long one for here is a hostel offering beds
+to the weary travellers on the road.  The hostel is not large.  There are
+perhaps 12 beds here.  The beds are plain affairs, nothing more than some
+straw on a pallet.  There is a passage to the east.
+~
+0 524288 0
+D1
+~
+~
+0 0 20725
+S
+#20743
+Boarding House for the Weak of Will~
+It appears that not all people make it all the way to Hell.  Why else
+would there be the need for a boarding house on the road to Hell?  It
+appears that there are a number of rooms for rent here.  The prices appear
+to be rather steep but when you are going to Hell what choice to you have? 
+There is an exit to the east.
+~
+0 524288 0
+D1
+~
+~
+0 0 20726
+S
+#20744
+Check-in to Hell~
+There is a long counter here which bisects the room from north to
+south.  On the east side of the counter are long lines of people.  It
+appears that they will be waiting for a long time since nobody on the other
+side of the counter is moving to help them.  There is a small sign here. 
+The only exit is to the east.
+ 
+~
+0 524288 0
+D1
+~
+~
+0 0 20727
+S
+#20745
+Parking Lot for Hell~
+This appears to be a very large parking lot.  Cars seem to be parked in
+no particular pattern though.  They are just scattered randomly over the lot
+which makes for a crooked walking path.  Something else is striking.  While
+there is an entrance to the parking lot, there is no way for cars to leave.
+~
+0 524288 0
+D1
+~
+~
+0 0 20729
+S
+#20746
+Burning Trap~
+~
+0 524293 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20723 20 20721 1
+M 0 20721 20 20721 1
+M 0 20721 20 20722 1
+M 0 20723 20 20723 1
+M 0 20724 20 20724 1
+M 0 20721 20 20724 1
+M 0 20721 20 20726 1
+M 0 20722 20 20727 1
+M 0 20724 20 20729 1
+M 0 20725 10 20730 1
+M 0 20721 20 20731 1
+M 0 20723 20 20732 1
+M 0 20722 20 20732 1
+M 0 20725 10 20734 1
+M 0 20725 10 20735 1
+M 0 20724 20 20735 1
+M 0 20721 20 20737 1
+M 0 20722 20 20739 1
+M 0 20723 20 20739 1
+M 0 20722 20 20741 1
+M 0 20722 20 20741 1
+M 0 20721 20 20741 1
+M 0 20725 10 20742 1
+M 0 20723 20 20742 1
+M 0 20723 20 20743 1
+M 0 20722 20 20743 1
+M 0 20722 20 20744 1
+M 0 20721 20 20744 1
+M 0 20725 10 20745 1
+M 0 20724 20 20745 1
+M 0 20723 20 20745 1
+M 0 20722 20 20745 1
+M 0 20721 20 20745 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

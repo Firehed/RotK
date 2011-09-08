@@ -1,0 +1,170 @@
+#AREADATA
+Name Enigma Clan Hall~
+Builders Rhiannon~
+VNUMs 16425 16444
+Credits [ CLAN} Rhian.  Enigma~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#16425
+beautiful marble fountain~
+a beautiful marble fountain~
+A beautiful marble fountain stands here.~
+unknown~
+fountain 0 0
+-1 -1 'lemonade' 0 0
+0 0 0 P
+E
+beautiful~
+This fountain is adorned with 3 intricately carved dragons, wingtip to
+wingtip, forming a circle in the middle of the pool.  A refreshing pink
+liquid spills from their open mouths and cascades into the pool below.  
+~
+E
+fountain~
+This fountain is adorned with 3 intricately carved dragons, wingtip to
+wingtip, forming a circle in the middle of the pool.  A refreshing pink
+liquid spills from their open mouths and cascades into the pool below.  
+~
+E
+marble~
+This fountain is adorned with 3 intricately carved dragons, wingtip to
+wingtip, forming a circle in the middle of the pool.  A refreshing pink
+liquid spills from their open mouths and cascades into the pool below.  
+~
+#16431
+steamy spa~
+the soothing spa~
+Hot springs converge forming a steamy spa~
+unknown~
+furniture 0 0
+500 1000000000 FIL 10000 10000
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#16425
+Safe Haven~
+~
+0 1052 0
+D0
+~
+~
+0 0 16426
+S
+#16426
+Glowing Hallway~
+~
+0 1052 0
+D0
+~
+~
+0 0 16428
+D2
+~
+~
+0 0 16425
+D4
+~
+~
+0 0 16427
+S
+#16427
+Haven't Decided Yet~
+~
+0 1052 0
+D3
+~
+~
+0 0 3382
+D5
+~
+~
+0 0 16426
+S
+#16428
+No Clue Yet~
+~
+0 1052 0
+D0
+~
+~
+0 0 16431
+D1
+~
+~
+0 0 16429
+D2
+~
+~
+0 0 16426
+D3
+~
+~
+0 0 16430
+S
+#16429
+Glowing Hallway~
+~
+0 1052 0
+D3
+~
+~
+0 0 16428
+S
+#16430
+Glowing Hallway~
+~
+0 1052 0
+D1
+~
+~
+0 0 16428
+S
+#16431
+Hot Springs~
+Steam rises from the ground where two underground hot springs emerge and
+form a spa which has dramatic healing effects on those who rest their weary
+bones here.  
+~
+0 1052 0
+D2
+~
+~
+0 0 16428
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 16425 0 16425
+O 0 16431 0 16431
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

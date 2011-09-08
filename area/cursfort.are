@@ -1,0 +1,179 @@
+#AREADATA
+Name The Cursed Fortress~
+Builders Nyskel~
+VNUMs 22200 22299
+Credits [BLDG.] Nyskel  The Cursed Fortress~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22200
+Before the Rusted Drawbridge~
+~
+0 0 0
+D0
+~
+~
+0 0 22201
+S
+#22201
+On the Drawbridge~
+~
+0 0 0
+D0
+~
+~
+0 0 22202
+D2
+~
+~
+0 0 22200
+S
+#22202
+Before the Doors of a Dark Fortress~
+~
+0 0 0
+D0
+~
+~
+0 0 22203
+D2
+~
+~
+0 0 22201
+S
+#22203
+At the Massive Doors~
+~
+0 0 0
+D0
+~
+~
+0 0 22206
+D1
+~
+~
+0 0 22204
+D2
+~
+~
+0 0 22202
+D3
+~
+~
+0 0 22205
+S
+#22204
+~
+~
+0 0 0
+D0
+~
+~
+0 0 22207
+D3
+~
+~
+0 0 22203
+S
+#22205
+~
+~
+0 0 0
+D0
+~
+~
+0 0 22208
+D1
+~
+~
+0 0 22203
+S
+#22206
+~
+~
+0 0 0
+D1
+~
+~
+0 0 22209
+D2
+~
+~
+0 0 22203
+D3
+~
+~
+0 0 22210
+S
+#22207
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22204
+S
+#22208
+~
+~
+0 0 0
+D2
+~
+~
+0 0 22205
+S
+#22209
+~
+~
+0 0 0
+D3
+~
+~
+0 0 22206
+S
+#22210
+~
+~
+0 0 0
+D1
+~
+~
+0 0 22206
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

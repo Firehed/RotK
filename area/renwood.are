@@ -1,0 +1,769 @@
+#AREADATA
+Name Renwood~
+Builders Grimace~
+VNUMs 21800 21849
+Credits [50 80] Grimace Renwood~
+Security 10
+End
+
+
+
+#MOBILES
+#21800
+male centaur~
+a male centaur~
+A male centaur carries a dead rabbit over his shoulder.
+~
+This centaur is big and strong, and chooses to live the traditional way
+of life in the forest.  
+~
+Centaur~
+ACG 0 0 -1000 0
+155 250 10d100+2500 1d1+100 5d10+100 pound
+-23
+J 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#21801
+female centaur~
+a female centaur~
+A female centaur searches for nuts and berries.
+~
+The female centaur is very big and powerful.  
+~
+Centaur~
+ACG 0 0 -1000 0
+155 250 10d100+2700 1d1+100 5d10+100 pound
+-19
+0 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#21802
+nymph~
+a nymph~
+A beautiful tree nymph walks around you.
+~
+The beautiful tree nymph looks sweet and gentle.  
+~
+Elf~
+ACG J 0 -1000 0
+159 250 10d50+2500 1d1+100 3d7+120 slap
+-25
+0 0 B Z
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#21803
+dark centaur~
+a dark centaur~
+A dark centaur stops and eyes you closely.
+~
+This centaur is like the other males except he has dark colored hair and
+skin.  
+~
+Human~
+AG 0 0 -1000 0
+156 250 10d100+2500 1d1+100 5d10+100 pound
+0
+C 0 0 0
+stand stand either 1005
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#21800
+centaur spear~
+a centaur spear~
+You see a high quality centaur spear on the ground.~
+unknown~
+weapon 0 AN
+polearm 10 10 stab 0
+50 5 35000 P
+#21801
+beautiful necklace~
+a beautiful necklace~
+A nymph's necklace is on the ground.~
+unknown~
+jewelry 0 AC
+0 0 0 0 0
+50 1 34000 P
+A
+3 2
+A
+12 50
+#21802
+hide bag~
+a hide bag~
+A bag made of animal hide lies here.~
+unknown~
+container 0 AO
+50 A 0 0 0
+1 2 1500 P
+#0
+
+
+
+#ROOMS
+#21800
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  There is a main road to the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 21801
+D3
+~
+~
+0 0 20121
+S
+#21801
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21802
+D3
+~
+~
+0 0 21800
+S
+#21802
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21803
+D3
+~
+~
+0 0 21801
+S
+#21803
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21804
+D2
+~
+~
+0 0 21802
+S
+#21804
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21814
+D1
+~
+~
+0 0 21805
+D2
+~
+~
+0 0 21803
+S
+#21805
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21806
+D3
+~
+~
+0 0 21804
+S
+#21806
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D2
+~
+~
+0 0 21807
+D3
+~
+~
+0 0 21805
+S
+#21807
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21806
+D1
+~
+~
+0 0 21808
+S
+#21808
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21810
+D1
+~
+~
+1 0 21809
+D3
+~
+~
+0 0 21807
+S
+#21809
+A Hut~
+You are inside an old hut.  There are clay jars and pots filled with nuts
+and berries.  There is a straw bed on the dirt floor.  
+~
+0 8 0
+D3
+~
+~
+1 0 21808
+S
+#21810
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21811
+D1
+~
+~
+0 0 21813
+D2
+~
+~
+0 0 21808
+S
+#21811
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21812
+D2
+~
+~
+0 0 21810
+S
+#21812
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D2
+~
+~
+0 0 21813
+D3
+~
+~
+0 0 21811
+S
+#21813
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21812
+D3
+~
+~
+0 0 21810
+S
+#21814
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21815
+D2
+~
+~
+0 0 21804
+S
+#21815
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21816
+D2
+~
+~
+0 0 21814
+S
+#21816
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21818
+D1
+~
+~
+1 0 21817
+D3
+~
+~
+0 0 21815
+S
+#21817
+A Hut~
+You are inside an old hut.  There are clay jars and pots filled with nuts
+and berries.  There is a straw bed on the dirt floor.  
+~
+0 8 0
+D3
+~
+~
+1 0 21816
+S
+#21818
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21819
+D2
+~
+~
+0 0 21816
+S
+#21819
+An Old Trail~
+You are on the old trail in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21826
+D2
+~
+~
+0 0 21818
+D3
+~
+~
+0 0 21820
+S
+#21820
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21819
+D3
+~
+~
+0 0 21821
+S
+#21821
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21820
+D2
+~
+~
+0 0 21822
+D3
+~
+~
+0 0 21824
+S
+#21822
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21821
+D3
+~
+~
+0 0 21823
+S
+#21823
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21824
+D1
+~
+~
+0 0 21822
+S
+#21824
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+1 0 21825
+D1
+~
+~
+0 0 21821
+D2
+~
+~
+0 0 21823
+S
+#21825
+A Hut~
+You are inside an old hut.  There are clay jars and pots filled with nuts
+and berries.  There is a straw bed on the dirt floor.  
+~
+0 8 0
+D2
+~
+~
+1 0 21824
+S
+#21826
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21827
+D1
+~
+~
+0 0 21831
+D2
+~
+~
+0 0 21819
+S
+#21827
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21828
+D1
+~
+~
+0 0 21830
+D2
+~
+~
+0 0 21826
+S
+#21828
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21829
+D2
+~
+~
+0 0 21827
+S
+#21829
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D1
+~
+~
+0 0 21834
+D2
+~
+~
+0 0 21830
+D3
+~
+~
+0 0 21828
+S
+#21830
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21829
+D1
+~
+~
+0 0 21833
+D2
+~
+~
+0 0 21831
+D3
+~
+~
+0 0 21827
+S
+#21831
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21830
+D1
+~
+~
+0 0 21832
+D3
+~
+~
+0 0 21826
+S
+#21832
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21833
+D3
+~
+~
+0 0 21831
+S
+#21833
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D0
+~
+~
+0 0 21834
+D2
+~
+~
+0 0 21832
+D3
+~
+~
+0 0 21830
+S
+#21834
+The Renwood~
+You are wandering around in the Renwood.  The trees in these woods are
+fairly large.  Song birds sit in the trees and watch you pass by.  You see
+hoove marks on the ground.  
+~
+0 0 3
+D2
+~
+~
+0 0 21833
+D3
+~
+~
+0 0 21829
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21800 6 21809 1
+E 0 21800 0 16
+M 0 21801 6 21809 1
+M 0 21802 5 21811 1
+E 0 21801 0 3
+M 0 21802 5 21813 1
+E 0 21801 0 3
+M 0 21800 6 21817 1
+E 0 21800 0 16
+M 0 21801 6 21817 1
+M 0 21802 5 21822 1
+E 0 21801 0 3
+M 0 21802 5 21824 1
+E 0 21801 0 3
+M 0 21800 6 21825 1
+E 0 21800 0 16
+M 0 21801 6 21825 1
+M 0 21801 6 21826 1
+M 0 21803 6 21827 1
+E 0 21802 0 17
+M 0 21803 6 21828 1
+M 0 21801 6 21828 1
+M 0 21803 6 21829 1
+M 0 21802 5 21829 1
+E 0 21801 0 3
+M 0 21803 6 21830 1
+M 0 21801 6 21830 1
+M 0 21800 6 21831 1
+E 0 21800 0 16
+M 0 21803 6 21832 1
+E 0 21802 0 17
+M 0 21800 6 21832 1
+E 0 21800 0 16
+M 0 21800 6 21833 1
+E 0 21800 0 16
+M 0 21803 6 21834 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

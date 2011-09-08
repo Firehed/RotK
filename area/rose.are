@@ -1,0 +1,79 @@
+#AREADATA
+Name Rose~
+Builders Stantel~
+VNUMs 871 890
+Credits [ CLAN] Stantel Rose~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#871
+{!Rose {@Garden{0~
+This is where young Following of the Rose members grow into strong
+warriors.  Every room seems to be connected to this main hall. 
+~
+0 0 0
+D4
+~
+~
+0 0 873
+D5
+~
+~
+0 0 872
+S
+#872
+~
+~
+0 0 0
+D4
+~
+~
+0 0 871
+S
+#873
+Healing Room~
+This is where the followers go to heal. The sun can be seen high above beaming light down in the area, and everything is growing.
+You almost think this place is a place of good, except for the fact the water is an evil black, and the fountain of blood in the corner
+~
+0 0 0
+D5
+~
+~
+0 0 871
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

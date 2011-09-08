@@ -1,0 +1,541 @@
+#AREADATA
+Name Immortal Hangout~
+Builders Baal~
+VNUMs 21201 21250
+Credits [ IMM ] Baal    Immortal Hangout~
+Security 1
+End
+
+
+
+#MOBILES
+#21201
+bouncer~
+bouncer~
+A huge bouncer says 'if your not on the list, eat pie and die fool'
+~
+A large Bouncer stand here, with an expression of a cow looking at an on-comming train.
+You would have hoped the imms could have sprung for something more intelligent but *sigh* there you go when you let Baal do stuff.
+~
+Human~
+AB 0 0 0 0
+101 0 20d20+20 0d0+0 20d20+20 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#21201
+lava lamp~
+lava lamp~
+Lava Lamp sits here lavaing..you know what i mean~
+unknown~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+#21202
+bright red couch~
+a bright {!red{0 couch~
+A nice comfy bright {!red{0 couch~
+unknown~
+furniture 0 A
+3 0 E 0 0
+0 0 0 P
+#21203
+Pretzel bag ~
+pretzel bag~
+A Pretzel Bag lies here, filled with pretzels to choke on~
+unknown~
+container 0 0
+0 0 0 2000 0
+0 0 0 P
+#21204
+Pretzle~
+pretzel~
+A Pretzel for choking to death on sits here~
+unknown~
+food 0 A
+10 0 0 0 0
+0 0 0 P
+#21205
+sword in the stone~
+sword in the Stone~
+The famed Sword in the stone is here for no apprent reason~
+unknown~
+furniture 0 0
+1 0 E 0 0
+0 0 0 P
+#21206
+Wine tree~
+wine tree~
+On this tree grows the best bottles of wine~
+shiny~
+container 0 0
+0 0 0 2000 0
+0 0 0 P
+#21207
+wine bottle~
+bottle of wine~
+A bottle of fine french wine~
+unknown~
+drink 0 A
+32676 32676 'water' 0 0
+0 0 0 P
+#21208
+first~
+for 1st place~
+For 1st place~
+unknown~
+container 0 A
+50000 A 0 5000 0
+1 0 0 P
+#21209
+second~
+for 2nd place~
+For 2nd place~
+unknown~
+container 0 A
+50000 A 0 50000 0
+2 0 0 P
+#21210
+last~
+for 3rd place~
+For 3rd place~
+unknown~
+container 0 A
+50000 A 0 50000 0
+0 0 0 P
+#21211
+entry~
+entry qps~
+Entry qps~
+unknown~
+container 0 A
+50000 A 0 50000 0
+2 0 0 P
+#21213
+race~
+for Baals Race Quest~
+For Baals Race Quest~
+unknown~
+container 0 A
+100000 A 0 100000 0
+106 0 0 P
+#21214
+extream scooby snack~
+a Scooby Snack~
+A Scooby Snack~
+unknown~
+food 0 A
+0 0 0 0 0
+1 0 0 P
+#21215
+frosted scooby snack~
+frosted Scooby Snack~
+Frosted Scooby Snack~
+unknown~
+food 0 A
+0 0 0 0 0
+1 0 0 P
+#21216
+low fat scooby snack~
+low Fat Scooby Snack~
+Low Fat Scooby Snack~
+unknown~
+food 0 A
+0 0 0 0 0
+0 0 0 P
+#21217
+ultimate folding portable lazy boy~
+the Ultimate Folding Portable Lazy Boy~
+The Ultimate Folding Portable Lazy Boy with arm-rest mounted beer dispensers is bein lazy over there.~
+shiny~
+furniture 0 A
+2 2147483647 BCEFHIKL 10000 10000
+1 0 0 P
+#21218
+bloodstone~
+the Bloodstone~
+The Bloodstone encrusted with blood red rubies lies here.~
+unknown~
+portal 0 0
+0 ACDEHIJKLMNOPQRSTUVWXYZabcdef ACDEHIJKLMNOPQRSTUVWXYZabcdef 70 0
+1 0 0 P
+#21219
+goblet~
+a goblet with bright {@emeralds{0 running along the lip~
+A goblet with bright {@emeralds{0 running along the lip~
+unknown~
+drink 0 AO
+100000 100000 'blood' 0 0
+0 100 0 P
+#21220
+bat~
+a Large Black Bat is flying above its owner~
+A Large Black Bat is flying to its owner~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+0 0 0 P
+A
+19 10
+A
+18 10
+#21221
+mole~
+the Beloved hero of "Whack-A-Mole"~
+The Beloved hero of "Whack-A-Mole" is here and boy does he look pissed.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+1 0 0 P
+A
+19 10
+A
+18 10
+#21222
+wedding band~
+(no short description)~
+(no description)~
+unknown~
+armor 0 AM
+0 0 0 75 0
+0 0 0 P
+#21223
+leather baldric~
+a leather baldric~
+A leather baldric, worn over the shoulder'~
+unknown~
+container 0 AT
+1000000 A 0 100000000 0
+1 0 0 P
+#21224
+sweet pill~
+a sweet pill~
+A sweet pill lies here~
+unknown~
+pill 0 A
+200 'golem' 'golem' 'golem' 'golem'
+1 0 0 P
+#21225
+tire iron~
+a tire iron for beating the shit out of shit~
+A tire iron for beating the shit out of shit is here.~
+unknown~
+weapon 0 AN
+exotic 200 90000 beating 0
+106 0 0 P
+#21226
+red jasper stone~
+a red jasper stone for someone special~
+A red jasper stone lies here~
+unknown~
+armor 0 AM
+20 20 20 20 0
+1 0 0 P
+A
+13 10
+A
+19 10
+A
+18 10
+#21227
+glowing crystal pin~
+a glowing {^crystal{0 pin ~
+A glowing crystal pin lies here~
+unknown~
+light 0 AT
+0 0 999 0 0
+1 0 0 P
+#21228
+tickle feather~
+a feather for {1T{2i{3c{4k{5l{6e {!W{@a{#r{$s{0~
+A feather for {1T{2i{3c{4k{5l{6e {!W{@a{#r{$s{0 lies here~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#21229
+fine leather waterskin~
+a fine leather waterskin with ancient runes running down the center of it~
+A fine leather waterskin lies here~
+unknown~
+drink 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#21230
+decoder ring~
+a Captain {*Midnight{0 {!D{@e{#c{$o{%d{^e{&r{0 Ring~
+A Captain {*Midnight{0 {!D{@e{#c{$o{%d{^e{&r{0 Ring lies here.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+1 0 0 P
+A
+19 20
+A
+18 20
+A
+12 100
+A
+13 100
+#21231
+silver boot chains~
+{&silver{0 boot chains~
+{&silver{0 boot chains lies here~
+unknown~
+armor 0 AU
+0 0 0 0 0
+1 0 0 P
+A
+19 20
+A
+18 20
+#21232
+x ray glasses~
+a pair of {*X{!-{@r{#a{$y {%g{^l{&a{!s{@s{#e{$s{0~
+A pair of {*X{!-{@r{#a{$y {%g{^l{&a{!s{@s{#e{$s{0 lies here~
+unknown~
+armor 0 AR
+0 0 0 0 0
+1 0 0 P
+#21233
+belly button ring~
+a {^belly {6button {^r{6i{^n{6g{0~
+A {^belly {6button {^r{6i{^n{6g{0 lies here~
+unknown~
+armor 0 AL
+1 1 1 1 0
+1 0 0 P
+A
+18 25
+A
+19 60
+A
+13 553
+A
+12 41
+#21234
+perfume~
+a bottle of a lovely scent of perfume~
+A bottle of a lovely scent of perfume sits here~
+unknown~
+potion 0 A
+200 'final blessing' 'improved sanctuary' 'heroes feast' 'full life'
+101 0 0 P
+#21235
+bfg~
+the "{@BFG{0"~
+The "{@BFG{0" is sitting here~
+unknown~
+weapon 0 AN
+exotic 9000 9000 blast 0
+106 0 0 P
+A
+19 2500
+#21236
+leather pants lace sides~
+a pair of leather pants that lace up the sides ~
+A pair of leather pants that lace up the sides lies here~
+unknown~
+armor P AF
+58 58 58 58 0
+101 0 0 P
+A
+20 -37
+A
+18 32
+A
+19 55
+A
+13 232
+A
+12 430
+#21237
+bath robe~
+a fluffy bath robe~
+A fluffy bath robe sits here~
+unknown~
+armor 0 AD
+100000 100000 100000 100000 0
+107 0 0 P
+#21238
+pipe~
+a small pipe~
+A small pipe sits here~
+unknown~
+wand 0 AO
+200 10000000 10000000 'final blessing' 0
+107 0 0 P
+#21239
+tigh black lace leather top~
+a tight fitting black leather top with black lace sides and back~
+A tight fitting black leather top with black lace sides and back lies here~
+unknown~
+armor 0 AD
+50 50 50 50 0
+0 0 0 P
+A
+19 15
+#21240
+tight leather pants~
+tight black leather pants~
+A pair of Tight black leather pants rests here.~
+unknown~
+armor 0 AF
+50 50 50 50 0
+0 0 0 P
+A
+19 20
+#21241
+black leather high heel boots~
+a pair of black leather high heel boots~
+A pair of black leather high heel boots sits here~
+unknown~
+armor 0 AG
+50 50 50 50 0
+0 0 0 P
+A
+19 20
+#21243
+silver hoop belt~
+a sparkling silver hoop belt~
+A sparkling silver hoop belt lies here~
+unknown~
+armor 0 AL
+25 25 25 25 0
+0 0 0 P
+A
+19 15
+#21244
+delicate silver chains~
+delicate silver chains dangle from the ankles~
+A pair of delicate silver chains sits here~
+unknown~
+armor 0 AU
+0 0 0 0 0
+0 0 0 P
+A
+19 25
+#21245
+black leather biker boots~
+a pair of black leather biker boots~
+A pair of black leather biker boots lies here~
+unknown~
+armor 0 AG
+15 15 15 15 0
+1 0 0 P
+A
+18 20
+A
+19 20
+#21246
+half t shirt with wildthing printed on it~
+a white half T-shirt with the word {!W{@i{#l{$d {%T{^h{&i{!n{@g{0~
+A white half T-shirt with the word {!W{@i{#l{$d {%T{^h{&i{!n{@g{0 lies here~
+unknown~
+armor P AD
+372 372 372 372 0
+1 0 0 P
+A
+12 581
+A
+13 289
+A
+20 -26
+A
+18 51
+A
+19 56
+#21247
+wanderers shield~
+shield of the {!W{*a{!n{*d{!e{*r{!e{*r{!s{0~
+Shield of the {!W{*a{!n{*d{!e{*r{!e{*r{!s{0 lies here~
+unknown~
+armor 0 AJ
+35 35 35 35 0
+1 0 0 P
+A
+18 25
+A
+19 25
+#21248
+titanium mask with zmandforkso written in blood~
+a {^shiny{0 titanium mask with the words Zmandforkso written in {1blood{0 ~
+A {^shiny{0 titanium mask with the words Zmandforkso written in {1blood{0 lies here~
+unknown~
+armor 0 AR
+25 25 25 25 0
+1 0 0 P
+A
+18 25
+A
+19 25
+#21249
+red blue purple ring~
+a ring shimmering red, purple and blue~
+A ring shimmering red, purple and blue lies here~
+unknown~
+armor 0 AB
+25 25 25 25 0
+1 0 0 P
+A
+18 25
+A
+19 25
+E
+ring~
+The ring shimmers red on one side, turns purple in the center, and is blue on the other side, Red for Baal, blue for cami, together for always as purple
+~
+#21250
+a long silvery blue sheer night gown~
+a long {6silvery{0 {^blue{0 sheer night gown~
+A long {6silvery{0 {^blue{0 sheer night gown lies here~
+unknown~
+armor P ADF
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#21201
+Lounge~
+This is the room where immortals join to rant about clannies and other useles stories that no one care about.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 21203 0 21201
+P 0 21204 20 21203 20
+O 0 21206 0 21201
+P 0 21207 20 21206 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

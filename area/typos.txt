@@ -1,0 +1,23 @@
+[ 3367] Ephiny: list
+[   58] Sleighty: list
+[17091] Ephiny: In Talagrath, room vnum 17091, the statue desc reads 'A beautifully carved statue of Tekino, the protector of talagrath, is here.' SHOULD read (If Talagrath is a proper noun), 'A beautifully carved statue of Tekino, the protector of Talagrath, is he
+[17091] Ephiny: Room vnum 17091, the statue desc reads 'A beautifully carved statue of Tekino, the protector of talagrath, is here.' SHOULD read (If Talagrath is a proper noun), 'A beautifully carved statue of Tekino, the protector of Talagrath, is here.' Ephiny.
+[ 3383] Shocore: Resources is spelled wrong when getting a balance from the bank.
+[16221] Firehed: self
+[16221] Firehed: *meant to do type*
+[  700] Grimace: subj
+[16221] Firehed: [16221] [16221]
+[   61] Ephiny: list
+[  831] Sleighty: scroll
+[18051] Doza: to implementors
+[18051] Doza: show
+[18051] Doza: show
+[18051] Doza: err...how does typo work?
+[17090] Cerridwen: line one Onr=one. Line 2 An Adault=adult. Line 3 and punch it=punches it
+[ 3393] Somora: "our love life will rin into trouble when your fiance hurls a javelin through your chest" should be RUN into trouble
+[16250] Riven: no desc in this room
+[20390] Talic: In the room "The prison cell" inside the lost city, it says, "There must be some secret passge out from here otherwise you are cone!"  An inside joke? :)
+[ 9047] Grimace: Aviable skill/spells for the class: Gladiator
+[ 3017] Jandin: lots in help seperation (including seperation  = sepAration)
+[  700] Grimace: Double exp as expired!
+[  700] Grimace: Double Exp as been enabled

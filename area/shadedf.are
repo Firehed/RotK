@@ -1,0 +1,2051 @@
+#AREADATA
+Name Shaded Forest~
+Builders Grimace~
+VNUMs 20451 20600
+Credits [ ALL ] Grimace Shaded Forest~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20480
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20481
+D1
+~
+~
+0 0 20485
+D2
+~
+~
+0 0 20479
+S
+#20481
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20482
+D2
+~
+~
+0 0 20480
+S
+#20482
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20483
+D2
+~
+~
+0 0 20481
+S
+#20483
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20482
+D3
+~
+~
+0 0 20484
+S
+#20484
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20483
+D3
+~
+~
+0 0 18200
+S
+#20485
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20486
+D3
+~
+~
+0 0 20480
+S
+#20486
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20485
+S
+#20487
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20488
+D3
+~
+~
+0 0 20452
+S
+#20488
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20489
+D3
+~
+~
+0 0 20487
+S
+#20489
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20490
+D3
+~
+~
+0 0 20488
+S
+#20490
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20491
+D3
+~
+~
+0 0 20489
+S
+#20491
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20492
+D2
+~
+~
+0 0 20490
+S
+#20492
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20493
+D1
+~
+~
+0 0 20509
+D2
+~
+~
+0 0 20491
+S
+#20493
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20492
+D3
+~
+~
+0 0 20494
+S
+#20494
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20495
+D1
+~
+~
+0 0 20493
+S
+#20495
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20496
+D2
+~
+~
+0 0 20494
+S
+#20496
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20495
+D3
+~
+~
+0 0 20497
+S
+#20497
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20496
+D2
+~
+~
+0 0 20498
+S
+#20498
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20497
+D2
+~
+~
+0 0 20499
+S
+#20499
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20498
+D2
+~
+~
+0 0 20500
+S
+#20500
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20499
+D1
+~
+~
+0 0 20501
+S
+#20501
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20502
+D3
+~
+~
+0 0 20500
+S
+#20502
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20501
+D3
+~
+~
+0 0 20503
+S
+#20503
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20502
+D3
+~
+~
+0 0 20504
+S
+#20504
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20505
+D1
+~
+~
+0 0 20503
+S
+#20505
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20504
+D3
+~
+~
+0 0 20506
+S
+#20506
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20507
+D1
+~
+~
+0 0 20505
+S
+#20507
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20506
+D3
+~
+~
+0 0 20508
+S
+#20508
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20507
+D3
+~
+~
+0 0 20457
+S
+#20509
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20510
+D3
+~
+~
+0 0 20492
+S
+#20510
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20515
+D1
+~
+~
+0 0 20511
+D3
+~
+~
+0 0 20509
+S
+#20511
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20512
+D3
+~
+~
+0 0 20510
+S
+#20512
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20513
+D3
+~
+~
+0 0 20511
+S
+#20513
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20512
+D1
+~
+~
+0 0 20514
+S
+#20514
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  You see a building
+made of logs to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20755
+D3
+~
+~
+0 0 20513
+S
+#20515
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20516
+D2
+~
+~
+0 0 20510
+S
+#20516
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20517
+D2
+~
+~
+0 0 20515
+S
+#20517
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20521
+D1
+~
+~
+0 0 20518
+D2
+~
+~
+0 0 20516
+S
+#20518
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20519
+D3
+~
+~
+0 0 20517
+S
+#20519
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20518
+D1
+~
+~
+0 0 20520
+S
+#20520
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20519
+S
+#20521
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20528
+D2
+~
+~
+0 0 20517
+D3
+~
+~
+0 0 20522
+S
+#20522
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20521
+D2
+~
+~
+0 0 20523
+S
+#20523
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20522
+D3
+~
+~
+0 0 20524
+S
+#20524
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20525
+D1
+~
+~
+0 0 20523
+S
+#20525
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20524
+D3
+~
+~
+0 0 20526
+S
+#20526
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20525
+D3
+~
+~
+0 0 20527
+S
+#20527
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  Looking north, you
+see some buildings with dark clouds swirling around them.  It looks
+dangerous!  
+~
+0 524288 0
+D0
+~
+~
+0 0 20851
+D1
+~
+~
+0 0 20526
+S
+#20528
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20521
+D3
+~
+~
+0 0 20529
+S
+#20529
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20530
+D1
+~
+~
+0 0 20528
+S
+#20530
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20531
+D2
+~
+~
+0 0 20529
+S
+#20531
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20551
+D1
+~
+~
+0 0 20541
+D2
+~
+~
+0 0 20530
+D3
+~
+~
+0 0 20532
+S
+#20532
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20531
+D3
+~
+~
+0 0 20533
+S
+#20533
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20534
+D1
+~
+~
+0 0 20532
+S
+#20534
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20535
+D2
+~
+~
+0 0 20533
+S
+#20535
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20534
+D3
+~
+~
+0 0 20536
+S
+#20536
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20537
+D1
+~
+~
+0 0 20535
+S
+#20537
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20536
+D3
+~
+~
+0 0 20538
+S
+#20538
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20537
+D2
+~
+~
+0 0 20539
+S
+#20539
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20538
+D3
+~
+~
+0 0 20540
+S
+#20540
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20539
+D3
+~
+~
+0 0 20468
+S
+#20541
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20542
+D3
+~
+~
+0 0 20531
+S
+#20542
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20547
+D1
+~
+~
+0 0 20543
+D3
+~
+~
+0 0 20541
+S
+#20543
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20544
+D3
+~
+~
+0 0 20542
+S
+#20544
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20543
+D2
+~
+~
+0 0 20545
+S
+#20545
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20544
+D1
+~
+~
+0 0 20546
+S
+#20546
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 20545
+S
+#20547
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20548
+D2
+~
+~
+0 0 20542
+S
+#20548
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20549
+D2
+~
+~
+0 0 20547
+S
+#20549
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20550
+D3
+~
+~
+0 0 20548
+S
+#20550
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20549
+S
+#20551
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20552
+D2
+~
+~
+0 0 20531
+S
+#20552
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20553
+D2
+~
+~
+0 0 20551
+S
+#20553
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20554
+D3
+~
+~
+0 0 20552
+S
+#20554
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20555
+D2
+~
+~
+0 0 20553
+S
+#20555
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20554
+D3
+~
+~
+0 0 20556
+S
+#20556
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20555
+D3
+~
+~
+0 0 20557
+S
+#20557
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20556
+D3
+~
+~
+0 0 20558
+S
+#20558
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20559
+D1
+~
+~
+0 0 20557
+S
+#20559
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20560
+D2
+~
+~
+0 0 20558
+S
+#20560
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20559
+D3
+~
+~
+0 0 20561
+S
+#20561
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20560
+D3
+~
+~
+0 0 20562
+S
+#20562
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20563
+D1
+~
+~
+0 0 20561
+S
+#20563
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20564
+D2
+~
+~
+0 0 20562
+S
+#20564
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20565
+D2
+~
+~
+0 0 20563
+S
+#20565
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20564
+D3
+~
+~
+0 0 20572
+S
+#20566
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20462
+D3
+~
+~
+0 0 20567
+S
+#20567
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20568
+D1
+~
+~
+0 0 20566
+S
+#20568
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20569
+D2
+~
+~
+0 0 20567
+S
+#20569
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20570
+D2
+~
+~
+0 0 20568
+S
+#20570
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20571
+D3
+~
+~
+0 0 20569
+S
+#20571
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20570
+D1
+~
+~
+0 0 20465
+S
+#20572
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20573
+D1
+~
+~
+0 0 20565
+S
+#20573
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20572
+S
+#20451
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20452
+D2
+~
+~
+0 0 9783
+S
+#20452
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20487
+D2
+~
+~
+0 0 20451
+D3
+~
+~
+0 0 20453
+S
+#20453
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20452
+D3
+~
+~
+0 0 20454
+S
+#20454
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20455
+D1
+~
+~
+0 0 20453
+S
+#20455
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20456
+D2
+~
+~
+0 0 20454
+S
+#20456
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20457
+D2
+~
+~
+0 0 20455
+S
+#20457
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20508
+D2
+~
+~
+0 0 20456
+D3
+~
+~
+0 0 20458
+S
+#20458
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20459
+D1
+~
+~
+0 0 20457
+S
+#20459
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20460
+D2
+~
+~
+0 0 20458
+S
+#20460
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20461
+D2
+~
+~
+0 0 20459
+S
+#20461
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20462
+D2
+~
+~
+0 0 20460
+S
+#20462
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20566
+D1
+~
+~
+0 0 20463
+D3
+~
+~
+0 0 20461
+S
+#20463
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20464
+D3
+~
+~
+0 0 20462
+S
+#20464
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20465
+D2
+~
+~
+0 0 20463
+S
+#20465
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20466
+D2
+~
+~
+0 0 20464
+D3
+~
+~
+0 0 20571
+S
+#20466
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20467
+D2
+~
+~
+0 0 20465
+S
+#20467
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20468
+D2
+~
+~
+0 0 20466
+S
+#20468
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20540
+D2
+~
+~
+0 0 20467
+D3
+~
+~
+0 0 20469
+S
+#20469
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20470
+D1
+~
+~
+0 0 20468
+S
+#20470
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20469
+D3
+~
+~
+0 0 20471
+S
+#20471
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20472
+D1
+~
+~
+0 0 20470
+S
+#20472
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20473
+D2
+~
+~
+0 0 20471
+S
+#20473
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20474
+D2
+~
+~
+0 0 20472
+S
+#20474
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20475
+D2
+~
+~
+0 0 20473
+S
+#20475
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20476
+D3
+~
+~
+0 0 20474
+S
+#20476
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20477
+D2
+~
+~
+0 0 20475
+S
+#20477
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20476
+D3
+~
+~
+0 0 20478
+S
+#20478
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20477
+D3
+~
+~
+0 0 20479
+S
+#20479
+Shaded Forest~
+You are inside the Shaded Forest.  Very little sunlight passes through,
+making it dark beneath the trees.  The trees are tall and big around, and
+the path you are on is rarely traveled and made of dirt.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20480
+D1
+~
+~
+0 0 20478
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,6066 @@
+#AREADATA
+Name Forest Temple~
+Builders Grimace~
+VNUMs 20851 21200
+Credits [ HERO] Grimace Forest Temple~
+Security 9
+End
+
+
+
+#MOBILES
+#20852
+guardian devil~
+a guardian devil~
+A guardian devil is here.
+~
+You see a great black guardian devil in a maroon cloak.  
+~
+Goblin~
+ABF DFJ FHQ -1000 0
+101 500 10d169+17000 1d1+1000 50d100+400 none
+-40
+CEFIJKNOU A P NSXY
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#20853
+bone dragon~
+a bone dragon~
+A huge bone dragon is flying here!
+~
+The huge, grey bone dragon has flaring red eyes.  Smoke and flames shoot
+out of his nostrils!  
+~
+dragon~
+AFGO DFT DH -1000 0
+101 550 10d169+18000 1d1+300 60d120+800 none
+-43
+CDEFJKMN A BEH FI
+stand stand either 3500
+AHZ ACDEFGHIJKPQUVX medium unknown
+F aff J
+#20854
+hell hound~
+a hell hound~
+A hell hound is here!
+~
+~
+fido~
+AFGO DFJ D -1000 0
+101 500 10d169+16000 1d1+100 55d100+700 none
+-40
+FMR A 0 C
+stand stand either 3400
+ABGV ACDEFHJKQV medium unknown
+#20855
+cloaker~
+a cloaker~
+A cloaker is standing here.
+~
+The cloaker is short and has dark green and bumpy skin.  It wears a black
+cloak to cover it's hideous body.  
+~
+Goblin~
+AFG DF DH -1000 0
+101 500 10d169+18000 5d10+1000 52d100+700 none
+-40
+EFKN A P NSXY
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#20856
+thug~
+a thug~
+A thug in a black cloak moves about the room.
+~
+A short thug with green bumpy skin wearing a black cloak is moving about
+the room.  
+~
+Goblin~
+AFG DFJ DH -1000 0
+101 600 10d169+16000 1d1+700 50d100+760 none
+-37
+BCDEFGIJKNO A P NSXY
+stand stand either 3900
+AHMV ABCDEFGHIJK medium unknown
+#20857
+dark knight~
+a dark knight~
+A dark knight is mounted upon a horse.
+~
+You see a dark knight, wearing metalic black armor and riding upon a
+black horse.  
+~
+Goblin~
+AFG DF DH -1000 0
+101 700 10d169+20000 5d10+1000 52d100+830 none
+-45
+CDEFGIJKNO A P NSXY
+stand stand male 5500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#20858
+hench~
+a hench~
+A mean looking hench is here.
+~
+You see a short, fat little hench, who has metal plate-like patches of
+skin, making him one tough nut.  
+~
+Goblin~
+AFG D DH -1000 0
+101 600 10d169+16500 1d1+500 52d100+860 none
+-47
+CDEFGIJKNO A P NSXY
+stand stand male 4500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#20859
+necromancer~
+a necromancer~
+A necromancer is chanting here.
+~
+You see a tall necromancer wearing a black robe, showing his skeleton
+body with his arms held up chanting.  
+~
+Goblin~
+ABF DF DH -1000 0
+102 700 10d169+22000 5d10+1500 60d100+750 none
+-45
+CDEFGIJKNO A P NSXY
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#20860
+greater devil guaeru~
+Guaeru~
+Guaeru the Greater Devil is here.
+~
+You see Guaeru the Greater Devil here!  He is a stalky devil, very
+experienced with evil ways.  Guaeru wears a dark blue cloak, said to be a
+gift from the Devil King.  
+~
+Human~
+ABF DFJ DEFHO -1000 0
+101 750 10d169+30000 10d20+5000 100d200+1500 none
+-70
+AEFIJKN A 0 0
+stand stand male 1500000
+AHMV ABCDEFGHIJKV medium unknown
+#20861
+medes apprentice devil~
+Medes~
+Medes, the apprentice devil, is spelling up a storm!
+~
+You see Medes, the apprentice to the Greater Devil Guaeru.  
+~
+Human~
+ABF DFJ DHO -1000 0
+101 700 10d169+25000 10d20+3000 75d150+1000 none
+-60
+FIJKN A 0 0
+stand stand male 150000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20857
+temple key~
+a temple key~
+A temple key is here.~
+unknown~
+key P AO
+0 0 0 0 0
+0 1 500 P
+#20860
+greater devil cloak~
+a greater devil's cloak~
+A dark, mysterious blue cloak is here.~
+unknown~
+armor EGY AK
+50 50 50 250 0
+101 2 560000 P
+A
+12 500
+A
+23 -50
+A
+24 -50
+F
+R 0 0 C
+#20861
+scroll protection~
+scroll of protection~
+A scroll of protection lies here.~
+unknown~
+scroll G AO
+101 'sanctuary' 'reserved' 'reserved' 'reserved'
+101 3 250000 P
+#20862
+smooth stick staff~
+a big smooth stick~
+You see a big smooth stick broken off of a tree.~
+unknown~
+staff G AO
+101 10 10 'fire breath' 0
+101 2 260000 P
+#20863
+staff of thorns~
+the {8S{3t{8af{3f {8o{3f {8T{3h{8orn{3s{0~
+The mighty {8S{3t{8af{3f {8o{3f {8T{3h{8orn{3s{0 is here!~
+unknown~
+weapon E AN
+staff 20 20 scratch H
+101 3 340000 P
+A
+19 50
+A
+12 350
+A
+20 -48
+A
+4 5
+A
+3 5
+#20864
+black breastplate~
+a {8black brea{7stp{8late{0~
+A {8black brea{7stp{8late{0 sits on the ground.~
+unknown~
+armor EJL AD
+200 200 200 300 0
+101 5 420000 P
+A
+13 600
+A
+24 -50
+A
+5 4
+#20865
+horned helmet~
+the {8Great {&H{8orned {&H{8elmet{0~
+The {8Great {&H{8orned {&H{8elmet{0 lies on the floor.~
+unknown~
+armor EJ AE
+230 230 230 250 0
+101 4 540000 P
+A
+1 5
+A
+13 500
+A
+12 500
+A
+23 -47
+#20866
+ring of doom~
+the {8Ri{&ng {!of {&Do{8om{0~
+The powerful {8Ri{&ng {!of {&Do{8om{0 draws your attention.~
+unknown~
+armor EJ AB
+0 0 0 50 0
+101 2 435000 P
+A
+9 -5
+A
+17 10
+A
+20 -65
+A
+12 500
+#20867
+bat~
+a black bat~
+A black bat flies in circles.~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+101 1 5430000 P
+F
+A 0 0 T
+#20868
+pentagram necklace~
+a {1p{8ent{1a{8gra{1m{0~
+A {1p{8ent{1a{8gra{1m{0 is on the ground...~
+unknown~
+jewelry EJ AC
+0 0 0 0 0
+101 0 43234343 P
+F
+I 0 0 M
+#20869
+tree fragment~
+a {@t{7ree {@f{7ragment{0~
+A petrified {@t{7ree {@f{7ragment{0 lies forgotten here.~
+unknown~
+jewelry GKL AC
+0 0 0 0 0
+101 3 4355223 P
+F
+R 0 1 M
+#20915
+scroll~
+a dusty scroll~
+A dusty scroll lies here.~
+unknown~
+scroll G AO
+101 'heal' 'heal' 'reserved' 'reserved'
+101 2 250000 P
+#20916
+desk~
+an old wooden desk~
+An old wooden desk is here.~
+unknown~
+container 0 0
+50 AC 0 5 0
+0 0 0 P
+#20921
+bucket~
+a wooden bucket~
+You see a wooden bucket sitting here.~
+unknown~
+container 0 AO
+35 0 0 15 50
+50 7 25000 P
+#20928
+large barrel~
+a large barrel~
+You see a large barrel labeled 'Red Wine.'~
+unknown~
+fountain E 0
+-1 -1 'blood' 0 0
+0 500 1000 P
+#20950
+chest~
+a dusty chest~
+A dusty chest sits on a platform.~
+unknown~
+container 0 0
+500 AC 0 5 0
+0 0 0 P
+#20967
+great key~
+the Great Key~
+The Great Key is here.~
+unknown~
+key P AO
+0 0 0 0 0
+0 1 100000 P
+#21132
+guaeru insignia ring~
+{8Gu{1aeru's In{!signia {1Rin{8g{0~
+{8Gu{1aeru's In{!signia {1Rin{8g{0 lies here...~
+unknown~
+jewelry GY AB
+0 0 0 0 0
+101 1 857698743 P
+A
+13 750
+#21133
+wooden key~
+a wooden key~
+A wooden key is here.~
+unknown~
+key P AO
+0 0 0 0 0
+0 1 10000 P
+#21137
+sleeves elven chain~
+e{@lv{7e{&n c{7h{@ai{0n s{@l{7e{&e{7v{@e{0s~
+E{@lv{7e{&n c{7h{@ai{0n s{@l{7e{&e{7v{@e{0s lie on the floor.~
+unknown~
+armor AOY AI
+150 150 150 150 0
+101 3 780000 P
+A
+18 80
+A
+19 80
+#0
+
+
+
+#ROOMS
+#20851
+Before the Arch~
+You are before a great arch made of stone that looks pretty old.  A
+cobblestone path is here that leads north under the arch.  The sky is very
+dark and grey with the clouds swirling around.  You hear loud, rolling
+thunder, and you see bright lightning streak through the sky.  It looks VERY
+dangerous to go north, but the forest to the south looks peaceful.  
+~
+0 589824 0
+D0
+~
+~
+0 0 20852
+D2
+~
+~
+0 0 20527
+S
+#20852
+Under the Arch~
+You are underneath a great arch made of stone.  A cobblestone path leads
+south to the forest and north into the Forest Temple area.  The sky is very
+dark and grey with clouds swirling around.  You hear loud, rolling thunder,
+and you see bright lightning streak through the sky.  Looking north, you see
+a great temple with two smaller temples around it.  It looks as though it
+used to be beautiful.  However, now it looks treacherous with the stormy
+sky, dead plants, and especially with all of those devils running around.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20853
+D2
+~
+~
+0 0 20851
+S
+#20853
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20861
+D1
+~
+~
+0 0 20854
+D2
+~
+~
+0 0 20852
+D3
+~
+~
+0 0 20868
+S
+#20854
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streak though the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20860
+D1
+~
+~
+0 0 20855
+D3
+~
+~
+0 0 20853
+S
+#20855
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20856
+D3
+~
+~
+0 0 20854
+S
+#20856
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20857
+D2
+~
+~
+0 0 20855
+D3
+~
+~
+0 0 20860
+S
+#20857
+Before the Major Temple~
+You are in the large temple plaza made of cobblestone.  East is the major
+temple.  The sky is very dark and grey with clouds swirling around.  You
+hear loud, rolling thunder, and you see bright lightning streak through the
+sky.  
+~
+0 524288 0
+D1
+~
+~
+4 20857 20917
+D2
+~
+~
+0 0 20856
+D3
+~
+~
+0 0 20858
+S
+#20858
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20859
+D1
+~
+~
+0 0 20857
+D2
+~
+~
+0 0 20860
+D3
+~
+~
+0 0 20862
+S
+#20859
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  You see strange
+purple lights swirling around the top of the great temple.  The sky is very
+dark and grey with clouds swirling around.  You hear loud, rolling thunder,
+and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20858
+D3
+~
+~
+0 0 20863
+S
+#20860
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20858
+D1
+~
+~
+0 0 20856
+D2
+~
+~
+0 0 20854
+D3
+~
+~
+0 0 20861
+S
+#20861
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20862
+D1
+~
+~
+0 0 20860
+D2
+~
+~
+0 0 20853
+D3
+~
+~
+0 0 20867
+S
+#20862
+Remains of the Great Tree~
+You are in the large temple plaza where the Great Tree had been.  The
+tree was massive, for the jagged stump is wider than a house!  The sky is
+very dark and grey with clouds swirling around.  You hear clashes of thunder
+as lightning bolts above you.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20863
+D1
+~
+~
+0 0 20858
+D2
+~
+~
+0 0 20861
+D3
+~
+~
+0 0 20866
+D5
+~
+~
+4 21133 21134
+S
+#20863
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  You see strange
+purple lights swirling around the top of the great temple.  The sky is very
+dark and grey with clouds swirling around.  You hear loud, rolling thunder,
+and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20864
+D1
+~
+~
+0 0 20859
+D2
+~
+~
+0 0 20862
+D3
+~
+~
+0 0 20865
+S
+#20864
+Steps Before the Great Temple~
+You are on the steps that lead up to the great temple.  The steps are
+made of marble, but there are bits of rock scattered all over them that fell
+off of the temple during the invasion.  South you see the temple plaza with
+the remains of the great tree in the middle.  North you see a great door.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20968
+D2
+~
+~
+0 0 20863
+S
+#20865
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  You see strange
+purple lights swirling around the top of the great temple.  The sky is very
+dark and grey with clouds swirling around.  You hear loud, rolling thunder,
+and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20863
+D2
+~
+~
+0 0 20866
+S
+#20866
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20865
+D1
+~
+~
+0 0 20862
+D2
+~
+~
+0 0 20867
+D3
+~
+~
+0 0 20871
+S
+#20867
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20866
+D1
+~
+~
+0 0 20861
+D2
+~
+~
+0 0 20868
+D3
+~
+~
+0 0 20870
+S
+#20868
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streak through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20867
+D1
+~
+~
+0 0 20853
+D3
+~
+~
+0 0 20869
+S
+#20869
+Before the Minor Temple~
+You are in the large temple plaza made of cobblestone.  The minor temple
+is west of here.  The sky is very dark and grey with clouds swirling around.
+You hear loud, rolling thunder, and you see bright lightning streak though
+the sky.  Looking up at the temple, you see dead plants on the roof's
+terrace.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20870
+D1
+~
+~
+0 0 20868
+D3
+~
+~
+1 0 20872
+S
+#20870
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20871
+D1
+~
+~
+0 0 20867
+D2
+~
+~
+0 0 20869
+S
+#20871
+Temple Plaza~
+You are in the large temple plaza made of cobblestone.  There is a great
+temple on the north side, and two smaller ones on the east and west.  The
+sky is very dark and grey with clouds swirling around.  You hear loud,
+rolling thunder, and you see bright lightning streek through the sky.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20866
+D2
+~
+~
+0 0 20870
+S
+#20872
+Entryway of the Minor Temple~
+You are inside the minor temple.  To your surpise, you see a few candles
+lit so you can somewhat get a look of your surroundings.  The floor has a
+zigzag tile design, and the walls are tan and they look old because of some
+cracks in them.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20869
+D3
+~
+~
+0 0 20873
+S
+#20873
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  There are stairs that go up here,
+and the hall goes north, south, and west.  East is the entryway.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20887
+D1
+~
+~
+0 0 20872
+D2
+~
+~
+0 0 20874
+D3
+~
+~
+0 0 20880
+D4
+~
+~
+0 0 20893
+S
+#20874
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  There are old wooden doors on
+both sides of the hall.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20873
+D1
+~
+~
+1 0 20876
+D2
+~
+~
+0 0 20877
+D3
+~
+~
+1 0 20875
+S
+#20875
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the east
+wall.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20874
+S
+#20876
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the west
+wall.  
+~
+0 524296 0
+D3
+~
+~
+1 0 20874
+S
+#20877
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  There are old wooden doors on
+both sides of the hall.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20874
+D1
+~
+~
+1 0 20879
+D3
+~
+~
+1 0 20878
+S
+#20878
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  There is a round, red rug in
+the center of the room.  The door is in the east wall.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20877
+D5
+~
+rug~
+1 0 20907
+S
+#20879
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the west
+wall.  
+~
+0 524296 0
+D3
+~
+~
+1 0 20877
+S
+#20880
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes east and west.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20873
+D3
+~
+~
+0 0 20881
+S
+#20881
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes east and south, and
+there is an old wooden door on the west.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20880
+D2
+~
+~
+0 0 20882
+D3
+~
+~
+1 0 20886
+S
+#20882
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes north and south,
+and there is an old wooden door on the west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20881
+D2
+~
+~
+0 0 20884
+D3
+~
+~
+1 0 20883
+S
+#20883
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the east
+wall.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20882
+S
+#20884
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes north and there is
+an old wooden door on the west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20882
+D3
+~
+~
+1 0 20885
+S
+#20885
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the east
+wall.  
+~
+0 524288 0
+D1
+~
+~
+1 0 20884
+S
+#20886
+A Chamber~
+The chamber is fairly simple, having one bed, an old wooden door, a small
+dresser, and a nightstand with a candle on it.  The door is in the east
+wall.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20881
+S
+#20887
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes north and south.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20888
+D2
+~
+~
+0 0 20873
+S
+#20888
+Minor Temple Hall~
+You are in the minor temple hall.  The floor has a zigzag tile pattern
+and the walls are tan, old, and chipping.  The hall goes south and there is
+a library to the west.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20887
+D3
+~
+~
+0 0 20889
+S
+#20889
+Temple Library~
+You are in the temple library.  The room is wrecked, bookshelves toppled
+over, some skeletons lying on piles of books.  It's not a pretty sight.  You
+see some pages torn out of a book.  
+~
+0 524296 0
+E
+page~
+The Forest Temple is protected by the Great Tree, nothing has ever been
+able to overpower it...  
+~
+D1
+~
+~
+0 0 20888
+D2
+~
+~
+0 0 20890
+D3
+~
+~
+0 0 20892
+S
+#20890
+Temple Library~
+You are in the temple library.  The room is wrecked, bookshelves toppled
+over, some skeletons lying on piles of books.  It's not a pretty sight.  You
+see some pages torn out of a book.  
+~
+0 524296 0
+E
+page~
+Many evil armies have tried to invade the Temples, yet the Great Tree has
+kept them out.  
+~
+D0
+~
+~
+0 0 20889
+D3
+~
+~
+0 0 20891
+S
+#20891
+Temple Library~
+You are in the temple library.  The room is wrecked, bookshelves toppled
+over, some skeletons lying on piles of books.  It's not a pretty sight.  You
+see some pages torn out of a book.  
+~
+0 524296 0
+E
+page~
+Many years ago, we Elves grew another tree inside of the Great Temple. 
+With this second tree, we made an orb that could harness the energy of the
+new tree...  
+~
+D0
+~
+~
+0 0 20892
+D1
+~
+~
+0 0 20890
+S
+#20892
+Temple Library~
+You are in the temple library.  The room is wrecked, bookshelves toppled
+over, some skeletons lying on piles of books.  It's not a pretty sight.  You
+see some pages torn out of a book.  
+~
+0 524296 0
+E
+page~
+The Minor Temple is the eldest of the temples, and then the Major Temple
+was built, and later the Great Temple.  The Orb is stored at the top of the
+North Tower in the Great Temple.  
+~
+D1
+~
+~
+0 0 20889
+D2
+~
+~
+0 0 20891
+S
+#20893
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  There are stone stairs that lead down into the
+temple and up to the top.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20906
+D2
+~
+~
+0 0 20896
+D4
+~
+~
+0 0 20894
+D5
+~
+~
+0 0 20873
+S
+#20894
+Top of the Minor Temple~
+You are at the top of some stone stairs that connect the terrace and the
+top of the temple.  There isn't a railing to hold on to and the wind is
+really picking up.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20895
+D5
+~
+~
+0 0 20893
+S
+#20895
+The Petrified Tree~
+You are on top of the minor temple, where people would come to worship
+this once living miniature tree.  However, the greater devil came and turned
+it to stone.  Around you on the next floor down are bunches of dead plants
+that was once a flourishing garden on the terrace.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20894
+S
+#20896
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20893
+D2
+~
+~
+0 0 20897
+S
+#20897
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20896
+D1
+~
+~
+0 0 20898
+S
+#20898
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20899
+D3
+~
+~
+0 0 20897
+S
+#20899
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20900
+D3
+~
+~
+0 0 20898
+S
+#20900
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20901
+D2
+~
+~
+0 0 20899
+S
+#20901
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20902
+D2
+~
+~
+0 0 20900
+S
+#20902
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20903
+D2
+~
+~
+0 0 20901
+S
+#20903
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20902
+D3
+~
+~
+0 0 20904
+S
+#20904
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20903
+D3
+~
+~
+0 0 20905
+S
+#20905
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20904
+D2
+~
+~
+0 0 20906
+S
+#20906
+Temple Terrace~
+You are on the temple terrace, where a beautiful garden once flourished. 
+Now there are but dead plants up here, due to the lack of sun from the
+stormy sky.  The pathway up here is brick and there is dirt on both sides of
+it where the plants grew.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20905
+D2
+~
+~
+0 0 20893
+S
+#20907
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  There is a ladder here.  
+~
+0 524296 0
+D3
+~
+~
+0 0 20908
+D4
+~
+~
+1 0 20878
+S
+#20908
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20909
+D1
+~
+~
+0 0 20907
+S
+#20909
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20910
+D2
+~
+~
+0 0 20908
+S
+#20910
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20909
+D3
+~
+~
+0 0 20911
+S
+#20911
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20912
+D1
+~
+~
+0 0 20910
+S
+#20912
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20913
+D2
+~
+~
+0 0 20911
+S
+#20913
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20914
+D2
+~
+~
+0 0 20912
+S
+#20914
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20915
+D3
+~
+~
+0 0 20913
+S
+#20915
+Underground Hallway~
+You are inside a dark, underground hallway.  The walls are made of grey
+stone, and the floor is a zigzag tile.  You see a lit room to the south.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20916
+D3
+~
+~
+0 0 20914
+S
+#20916
+Underground Room~
+You are in a secret underground room.  The floor is covered by a large
+red rug, and there are bookshelves along the walls.  There is the skeleton
+of an elf lying on the floor.  There is a journal on the table.  
+
+~
+0 524296 0
+E
+journal~
+As I went to the Major Temple to check a few things, a major storm came
+up.  Next thing we heard was a loud crash as lightning struck the Great
+Tree!  This caused great alarm as the Tree is our only defense, other than
+the tree inside the Great Temple.  However, that tree only has power to
+protect its own temple.  Next, I hurried over to my temple and went to the
+roof.  Hundreds of devils swarmed in from the forest, as if they knew this
+would happen.  I saw them sack the Major Temple where I had just been, and
+they were trying to break into the Great Temple.  Then there was a great
+devil who flew in from the trees and took command...  Then I ran down into
+my secret room here for fear of my life, for at any moment the devils will
+be into this temple.  Hopefully the Elves in the Great Temple will be able
+to escape to the ...  
+~
+D0
+~
+~
+0 0 20915
+S
+#20917
+Entrance of the Major Temple~
+You are inside the major temple, the second oldest of the three.  The
+floor is tile and the walls are light grey.  There are candles lit along the
+walls.  There is a large wooden door on the west.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20918
+D1
+~
+~
+0 0 20919
+D3
+~
+~
+4 20857 20857
+S
+#20918
+A Waiting Room~
+You are in a small waiting room with some broken benches next to the
+walls.  The floor is made of stone tiles with some cracks in it.  There is
+an exit to the south.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20917
+S
+#20919
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The Hall of Ceremonies is to the south and the
+hallway goes east and north.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20930
+D1
+~
+~
+0 0 20939
+D2
+~
+~
+0 0 20920
+D3
+~
+~
+0 0 20917
+S
+#20920
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20919
+D1
+~
+~
+0 0 20929
+D2
+~
+~
+0 0 20922
+D3
+~
+~
+1 0 20921
+S
+#20921
+A Storage Room~
+You are inside a small dark storage room.  There are piles of buckets and
+mobs and brooms everywhere.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20920
+S
+#20922
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20920
+D1
+~
+~
+0 0 20924
+D3
+~
+~
+1 0 20923
+S
+#20923
+A Storage Room~
+You are inside a small dark storage room.  There are piles of buckets and
+mobs and brooms everywhere.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20922
+S
+#20924
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20929
+D1
+~
+~
+0 0 20925
+D3
+~
+~
+0 0 20922
+S
+#20925
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20928
+D1
+~
+~
+0 0 20926
+D3
+~
+~
+0 0 20924
+S
+#20926
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20927
+D3
+~
+~
+0 0 20925
+S
+#20927
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20926
+D3
+~
+~
+0 0 20928
+S
+#20928
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20927
+D2
+~
+~
+0 0 20925
+D3
+~
+~
+0 0 20929
+S
+#20929
+Hall of Ceremonies~
+You are in a huge hall where ceremonies are held.  The floor is marble,
+yet covered with dust because nobody has been around to clean it.  There are
+chandeliers hanging from the ceiling.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20928
+D2
+~
+~
+0 0 20924
+D3
+~
+~
+0 0 20920
+S
+#20930
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes north and south.  
+~
+0 589832 0
+D0
+~
+~
+0 0 20931
+D2
+~
+~
+0 0 20919
+S
+#20931
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes south and the Hall of Murals is
+to the north.  There is a door on the west.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20933
+D2
+~
+~
+0 0 20930
+D3
+~
+~
+1 0 20932
+S
+#20932
+The Quiet Room~
+You are in a tiny quiet room where people meditate in silence.  The room
+is very plain, only one candle lights the room.  
+~
+0 524296 0
+D1
+~
+~
+1 0 20931
+S
+#20933
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+west~
+The mural shows a bunch of elves dancing around a tree.  
+~
+D0
+~
+~
+0 0 20938
+D1
+~
+~
+0 0 20934
+D2
+~
+~
+0 0 20931
+S
+#20934
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+south~
+The mural shows the finished Great Temple with the East, West, and North
+Towers and the Atrium.  
+~
+D0
+~
+~
+0 0 20937
+D1
+~
+~
+0 0 20935
+D3
+~
+~
+0 0 20933
+S
+#20935
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+south~
+The mural shows the construction of the great Atrium and the North Tower.  
+~
+E
+east~
+The mural shows the completion of the Great Temple and the East and West
+Towers.  
+~
+D0
+~
+~
+0 0 20936
+D3
+~
+~
+0 0 20934
+S
+#20936
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+east~
+The mural shows the building of the West and East Towers.  
+~
+E
+north~
+The mural shows the Great Temple being built.  
+~
+D2
+~
+~
+0 0 20935
+D3
+~
+~
+0 0 20937
+S
+#20937
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+north~
+The mural shows many elves on the tops of both temples and around the
+Great Tree celebrating the completion of the Major Temple.  
+~
+D1
+~
+~
+0 0 20936
+D2
+~
+~
+0 0 20934
+D3
+~
+~
+0 0 20938
+S
+#20938
+Hall of Murals~
+You are in the Hall of Murals.  All along the walls are pictures of the
+history of the Forest Temple.  The floor is tile and dust covered.  A few
+candles light the large hall.  
+~
+0 524296 0
+E
+north~
+The mural shows a larger temple being built northeast of the tree, which
+has become known as the Great Tree.  
+~
+E
+west~
+The mural shows a new temple being built southwest of the tree.  
+~
+D1
+~
+~
+0 0 20937
+D2
+~
+~
+0 0 20933
+S
+#20939
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes east and west.  North is a wooden
+door.  
+~
+0 524296 0
+D0
+~
+~
+1 0 20940
+D1
+~
+~
+0 0 20941
+D3
+~
+~
+0 0 20919
+S
+#20940
+A Quiet Room~
+You are in a tiny quiet room where people meditate in silence.  The room
+is very plain, only one candle lights the room.  
+~
+0 524296 0
+D2
+~
+~
+1 0 20939
+S
+#20941
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes east and west.  North is a wooden
+door.  
+~
+0 524296 0
+D0
+~
+~
+1 0 20942
+D1
+~
+~
+0 0 20943
+D3
+~
+~
+0 0 20939
+S
+#20942
+A Quiet Room~
+You are in a tiny quiet room where people meditate in silence.  The room
+is very plain, only one candle lights the room.  
+~
+0 524296 0
+D2
+~
+~
+1 0 20941
+S
+#20943
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes north and west.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20944
+D3
+~
+~
+0 0 20941
+S
+#20944
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes north and south.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20945
+D2
+~
+~
+0 0 20943
+S
+#20945
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes west and south.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20944
+D3
+~
+~
+0 0 20946
+S
+#20946
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  The hallway goes east and west.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20945
+D3
+~
+~
+0 0 20947
+S
+#20947
+A Large Hallway~
+You are in a large hallway in the major temple.  The hallway is tall and
+wide, and on the walls are indents where candles light the hall.  The floor
+is made up of grey tile.  There are large stone steps that lead up.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20946
+D4
+~
+~
+0 0 20948
+S
+#20948
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  There are stairs that lead down here.  
+~
+0 524296 0
+D0
+~
+~
+1 0 20949
+D1
+~
+~
+0 0 20958
+D2
+~
+~
+0 0 20957
+D3
+~
+~
+0 0 20951
+D5
+~
+~
+0 0 20947
+S
+#20949
+A Secret Staircase~
+You are in a room with stone walls and floor.  An inch of dust covers
+everything in here.  There is a room above, and on the south wall you see a
+secret door.  
+~
+0 524296 0
+D2
+~
+~
+1 0 20948
+D4
+~
+~
+0 0 20950
+S
+#20950
+Chamber of the Key~
+You are in a large room, the floor and walls are stone and the ceiling is
+dark.  There are small rectanglular windows in the walls allowing some light
+in.  There is a stone platform in the center of the room.  Dust is
+everywhere, causing your nose to itch.  
+~
+0 524296 0
+D5
+~
+~
+0 0 20949
+S
+#20951
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20948
+D2
+~
+~
+0 0 20952
+S
+#20952
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20951
+D1
+~
+~
+0 0 20957
+D2
+~
+~
+0 0 20953
+S
+#20953
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20952
+D1
+~
+~
+0 0 20956
+D2
+~
+~
+0 0 20954
+S
+#20954
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20953
+D1
+~
+~
+0 0 20955
+S
+#20955
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  There are large doors to the south.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20956
+D1
+~
+~
+0 0 20961
+D2
+~
+~
+1 0 20962
+D3
+~
+~
+0 0 20954
+S
+#20956
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20957
+D1
+~
+~
+0 0 20960
+D2
+~
+~
+0 0 20955
+D3
+~
+~
+0 0 20953
+S
+#20957
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20948
+D1
+~
+~
+0 0 20959
+D2
+~
+~
+0 0 20956
+D3
+~
+~
+0 0 20952
+S
+#20958
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20959
+D3
+~
+~
+0 0 20948
+S
+#20959
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20958
+D2
+~
+~
+0 0 20960
+D3
+~
+~
+0 0 20957
+S
+#20960
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20959
+D2
+~
+~
+0 0 20961
+D3
+~
+~
+0 0 20956
+S
+#20961
+Hall of Worship~
+You are in a huge worship hall.  The hall is somewhat eerie, being dark
+and dusty.  There are lots of statues of trees and famous elves around the
+room.  The walls are large stone pillars, with large gaps allowing you to
+get a good view of the outside.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20960
+D3
+~
+~
+0 0 20955
+S
+#20962
+A Wide Staircase~
+You are at the bottom of a wide marble staircase that leads up to the top
+of the temple.  Looking up you see the stormy sky and you can feel a draft
+coming down from above.  
+~
+0 524296 0
+D0
+~
+~
+1 0 20955
+D4
+~
+~
+0 0 20963
+S
+#20963
+The Major Temple's Top~
+You are at the top of the wide marble steps that lead down into the
+temple.  Up here you can see the forest that stretches out all around, and
+the temple plaza between the temples.  The sky is stormy and the strong west
+wind causes your hair and clothes to blow wildly.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20964
+D5
+~
+~
+0 0 20962
+S
+#20964
+The Major Temple's Top~
+You are on the top of the temple.  Up here you can see the forest that
+stretches out all around, and the temple plaza between the temples.  The sky
+is stormy and the strong west wind causes your hair and clothes to blow
+wildly.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20965
+D2
+~
+~
+0 0 20963
+S
+#20965
+The Major Temple's Top~
+You are on the top of the temple.  Up here you can see the forest that
+stretches out all around, and the temple plaza between the temples.  The sky
+is stormy and the strong west wind causes your hair and clothes to blow
+wildly.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20966
+D2
+~
+~
+0 0 20964
+S
+#20966
+The Major Temple's Top~
+You are on the top of the temple.  Up here you can see the forest that
+stretches out all around, and the temple plaza between the temples.  The sky
+is stormy and the strong west wind causes your hair and clothes to blow
+wildly.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20967
+D2
+~
+~
+0 0 20965
+S
+#20967
+Before Sealed Doors~
+You are before two large doors that don't look like they will open.  Up
+here you can see the forest that stretches out all around, and the temple
+plaza between the temples.  The sky is stormy and the strong west wind
+causes your hair and clothes to blow wildly.  Bolts of lighting strike
+nearby.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20966
+S
+#20968
+The Great Door~
+You are before the great wooden doors of the great temple.  Looking up,
+you see the tall, front side of the temple.  Looking south you see the
+temple plaza and the shaded forest surrounding this place.  The doors have
+many cuts and claw marks on it.  
+~
+0 524288 0
+D0
+~
+~
+4 20967 20969
+D2
+~
+~
+0 0 20864
+S
+#20969
+Great Temple Entryway~
+You are inside the Great Temple.  The floor is made of stone tile and the
+walls are tan.  There is rubble all over the floor from when the devils
+invaded.  You see old armor left from the elves who guarded the door to the
+south.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20970
+D2
+~
+~
+4 20967 20968
+S
+#20970
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east,
+west, and north.  
+~
+0 524296 0
+D0
+~
+~
+0 0 21060
+D1
+~
+~
+0 0 21059
+D2
+~
+~
+0 0 20969
+D3
+~
+~
+0 0 20971
+S
+#20971
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20970
+D3
+~
+~
+0 0 20972
+S
+#20972
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west and a library is to the south.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20971
+D2
+~
+~
+0 0 20973
+D3
+~
+~
+0 0 20977
+S
+#20973
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20972
+D1
+~
+~
+0 0 20976
+D2
+~
+~
+0 0 20974
+S
+#20974
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20973
+D1
+~
+~
+0 0 20975
+S
+#20975
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20976
+D3
+~
+~
+0 0 20974
+S
+#20976
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D2
+~
+~
+0 0 20975
+D3
+~
+~
+0 0 20973
+S
+#20977
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west and a library is to the south.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20972
+D2
+~
+~
+0 0 20978
+D3
+~
+~
+0 0 20983
+S
+#20978
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20977
+D2
+~
+~
+0 0 20979
+D3
+~
+~
+0 0 20981
+S
+#20979
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20978
+D3
+~
+~
+0 0 20980
+S
+#20980
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20981
+D1
+~
+~
+0 0 20979
+S
+#20981
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20978
+D2
+~
+~
+0 0 20980
+S
+#20983
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall turns
+south.  
+~
+0 524296 0
+D1
+~
+~
+0 0 20977
+D2
+~
+~
+0 0 20984
+S
+#20984
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall turns west
+and north.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20983
+D3
+~
+~
+0 0 20985
+S
+#20985
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and north you see a staircase.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20986
+D1
+~
+~
+0 0 20984
+S
+#20986
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20985
+D4
+~
+~
+0 0 20987
+S
+#20987
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20988
+D5
+~
+~
+0 0 20986
+S
+#20988
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20989
+D3
+~
+~
+0 0 20987
+S
+#20989
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20988
+D3
+~
+~
+0 0 20990
+S
+#20990
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20989
+D4
+~
+~
+0 0 20991
+S
+#20991
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20992
+D5
+~
+~
+0 0 20990
+S
+#20992
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20993
+D2
+~
+~
+0 0 20991
+S
+#20993
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  There is a
+corridor that leads east.  
+~
+0 524288 0
+D1
+~
+~
+0 0 21003
+D2
+~
+~
+0 0 20994
+D3
+~
+~
+0 0 20992
+S
+#20994
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20993
+D4
+~
+~
+0 0 20995
+S
+#20995
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 589824 0
+D3
+~
+~
+0 0 20996
+D5
+~
+~
+0 0 20994
+S
+#20996
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20997
+D1
+~
+~
+0 0 20995
+S
+#20997
+The West Tower~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20998
+D2
+~
+~
+0 0 20996
+S
+#20998
+A Staircase~
+You are in the West Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 524288 0
+D3
+~
+~
+0 0 20997
+D4
+~
+~
+0 0 20999
+S
+#20999
+Top of a Staircase~
+You are on top of the West Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 524288 0
+E
+north~
+You see the North Tower protruding from the Grand Atrium north of here,
+taller than the East and West Towers, and you see purple light swirling
+around it.  
+~
+E
+east~
+You see the East Tower to the east of here.  
+~
+D2
+~
+~
+0 0 21002
+D3
+~
+~
+0 0 21000
+D5
+~
+~
+0 0 20998
+S
+#21000
+The West Tower Top~
+You are on top of the West Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+north~
+You see the North Tower protruding from the Grand Atrium north of here,
+taller than the East and West Towers, and you see purple light swirling
+around it.  
+~
+E
+west~
+You see forest as far as the eye can see.  
+~
+D1
+~
+~
+0 0 20999
+D2
+~
+~
+0 0 21001
+S
+#21001
+The West Tower Top~
+You are on top of the West Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+south~
+You see lots of forest and a city way off in the distance.  
+~
+E
+west~
+You see forest as far as the eye can see.  
+~
+D0
+~
+~
+0 0 21000
+D1
+~
+~
+0 0 21002
+S
+#21002
+The West Tower Top~
+You are on top of the West Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+east~
+You see the East Tower to the east of here.  
+~
+E
+south~
+You see lots of forest and a city way off in the distance.  
+~
+D0
+~
+~
+0 0 20999
+D3
+~
+~
+0 0 21001
+S
+#21003
+A Corridor~
+You are in a dark corridor.  The walls feel cold and as you walk you hear
+crunches.  You see light to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 21004
+D3
+~
+~
+0 0 20993
+S
+#21004
+A Corridor~
+You are in a dark corridor.  The walls feel cold and as you walk you hear
+crunches.  There appears to be a door to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21003
+D1
+~
+~
+1 0 21005
+S
+#21005
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  There is a
+door to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21010
+D1
+~
+~
+0 0 21008
+D2
+~
+~
+0 0 21006
+D3
+~
+~
+1 0 21004
+S
+#21006
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21005
+D1
+~
+~
+0 0 21007
+S
+#21007
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21008
+D3
+~
+~
+0 0 21006
+S
+#21008
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  There is a
+door to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21009
+D1
+~
+~
+1 0 21011
+D2
+~
+~
+0 0 21007
+D3
+~
+~
+0 0 21005
+S
+#21009
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 21008
+D3
+~
+~
+0 0 21010
+S
+#21010
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 21009
+D2
+~
+~
+0 0 21005
+S
+#21011
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+E
+west~
+There is an old wooden door.  
+~
+D0
+~
+~
+0 0 21012
+D1
+~
+~
+0 0 21014
+D2
+~
+~
+0 0 21016
+D3
+~
+~
+1 0 21008
+S
+#21012
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D1
+~
+~
+0 0 21013
+D2
+~
+~
+0 0 21011
+S
+#21013
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D1
+~
+~
+0 0 21019
+D2
+~
+~
+0 0 21014
+D3
+~
+~
+0 0 21012
+S
+#21014
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D0
+~
+~
+0 0 21013
+D1
+~
+~
+0 0 21018
+D2
+~
+~
+0 0 21015
+D3
+~
+~
+0 0 21011
+S
+#21015
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D0
+~
+~
+0 0 21014
+D1
+~
+~
+0 0 21017
+D3
+~
+~
+0 0 21016
+S
+#21016
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D0
+~
+~
+0 0 21011
+D1
+~
+~
+0 0 21015
+S
+#21017
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D0
+~
+~
+0 0 21018
+D3
+~
+~
+0 0 21015
+S
+#21018
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D0
+~
+~
+0 0 21019
+D1
+~
+~
+1 0 21020
+D2
+~
+~
+0 0 21017
+D3
+~
+~
+0 0 21014
+S
+#21019
+The Tree Nursery~
+You are in the spacious tree nursery.  There are big windows on the south
+wall where light would flood in if the sky wasn't quite so stormy.  There
+are rows and rows of ceramic pots with dead sapplings growing in them, must
+have been killed by those devils.  
+~
+0 0 0
+D2
+~
+~
+0 0 21018
+D3
+~
+~
+0 0 21013
+S
+#21020
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  There is a
+door to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21021
+D1
+~
+~
+0 0 21023
+D2
+~
+~
+0 0 21025
+D3
+~
+~
+1 0 21018
+S
+#21021
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 21022
+D2
+~
+~
+0 0 21020
+S
+#21022
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 21023
+D3
+~
+~
+0 0 21021
+S
+#21023
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  There is a
+door to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 21022
+D1
+~
+~
+1 0 21026
+D2
+~
+~
+0 0 21024
+D3
+~
+~
+0 0 21020
+S
+#21024
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21023
+D3
+~
+~
+0 0 21025
+S
+#21025
+The Seed Room~
+You are in one of the large seed rooms.  The room isn't well lit, but you
+can still see the wreckage in the room.  You see large wooden bins torn down
+off of the walls and their crunched seeds all over the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21020
+D1
+~
+~
+0 0 21024
+S
+#21026
+A Corridor~
+You are in a dark corridor.  The walls feel cold and as you walk you hear
+crunches.  There appears to be a door to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 21027
+D3
+~
+~
+1 0 21023
+S
+#21027
+A Corridor~
+You are in a dark corridor.  The walls feel cold and as you walk you hear
+crunches.  You see light to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21028
+D2
+~
+~
+0 0 21026
+S
+#21028
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  West you see a
+corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 21038
+D2
+~
+~
+0 0 21029
+D3
+~
+~
+0 0 21027
+S
+#21029
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 21028
+D4
+~
+~
+0 0 21030
+S
+#21030
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 21031
+D5
+~
+~
+0 0 21029
+S
+#21031
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 21032
+D3
+~
+~
+0 0 21030
+S
+#21032
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 21031
+D3
+~
+~
+0 0 21033
+S
+#21033
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 21032
+D4
+~
+~
+0 0 21034
+S
+#21034
+Top of a Staircase~
+You are on top of the East Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+north~
+You see the North Tower protruding from the back of the Grand Atrium
+where purple light is swirling around.  
+~
+E
+west~
+You see the West Tower to the west.  
+~
+D1
+~
+~
+0 0 21035
+D2
+~
+~
+0 0 21037
+D5
+~
+~
+0 0 21033
+S
+#21035
+The East Tower Top~
+You are on top of the East Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+north~
+You see the North Tower protruding from the back of the Grand Atrium
+where purple light is swirling around.  
+~
+E
+east~
+Looking east there is forest as far as the eye can see.  
+~
+D2
+~
+~
+0 0 21036
+D3
+~
+~
+0 0 21034
+S
+#21036
+The East Tower Top~
+You are on top of the East Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+east~
+Looking east there is forest as far as the eye can see.  
+~
+E
+south~
+You see forest all around, and far off to the south you see a city.  
+~
+D0
+~
+~
+0 0 21035
+D3
+~
+~
+0 0 21037
+S
+#21037
+The East Tower Top~
+You are on top of the East Tower, with a cone shaped roof on top.  There
+are wide open windows allowing you to look out all over the place.  
+~
+0 0 0
+E
+south~
+You see forest all around, and far off to the south you see a city.  
+~
+E
+west~
+You see the West Tower to the west.  
+~
+D0
+~
+~
+0 0 21034
+D1
+~
+~
+0 0 21036
+S
+#21038
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 21039
+D3
+~
+~
+0 0 21028
+S
+#21039
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 21038
+D5
+~
+~
+0 0 21040
+S
+#21040
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D3
+~
+~
+0 0 21041
+D4
+~
+~
+0 0 21039
+S
+#21041
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 21042
+D1
+~
+~
+0 0 21040
+S
+#21042
+The East Tower~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 21043
+D2
+~
+~
+0 0 21041
+S
+#21043
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 0 0
+D3
+~
+~
+0 0 21042
+D5
+~
+~
+0 0 21044
+S
+#21044
+A Staircase~
+You are in the East Tower.  It spirals up and up, connecting the first
+and second floors, and also going up much higher to the top.  The floors and
+walls are made of stone and there are torches on the walls.  
+~
+0 8 0
+D2
+~
+~
+0 0 21045
+D4
+~
+~
+0 0 21043
+S
+#21045
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes west
+and north you see a staircase.  
+~
+0 8 0
+D0
+~
+~
+0 0 21044
+D3
+~
+~
+0 0 21046
+S
+#21046
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall turns north
+and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 21047
+D1
+~
+~
+0 0 21045
+S
+#21047
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes west
+and south.  
+~
+0 8 0
+D2
+~
+~
+0 0 21046
+D3
+~
+~
+0 0 21048
+S
+#21048
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 21047
+D3
+~
+~
+0 0 21049
+S
+#21049
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west and a library is to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 21048
+D2
+~
+~
+0 0 21050
+D3
+~
+~
+0 0 21054
+S
+#21050
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21049
+D1
+~
+~
+0 0 21051
+D2
+~
+~
+0 0 21053
+S
+#21051
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D2
+~
+~
+0 0 21052
+D3
+~
+~
+0 0 21050
+S
+#21052
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21051
+D3
+~
+~
+0 0 21053
+S
+#21053
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21050
+D1
+~
+~
+0 0 21052
+S
+#21054
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west and a library is to the south.  
+~
+0 65536 0
+D1
+~
+~
+0 0 21049
+D2
+~
+~
+0 0 21055
+D3
+~
+~
+0 0 21059
+S
+#21055
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21054
+D2
+~
+~
+0 0 21056
+D3
+~
+~
+0 0 21058
+S
+#21056
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21055
+D3
+~
+~
+0 0 21057
+S
+#21057
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D0
+~
+~
+0 0 21058
+D1
+~
+~
+0 0 21056
+S
+#21058
+The Great Library~
+You are in part of the Great Library, the once magnificent center for
+learning about elves and nature, now completely ruined.  There are tables
+broken in two, books ripped and trampled on, and chairs overturned.  
+~
+0 8 0
+D1
+~
+~
+0 0 21055
+D2
+~
+~
+0 0 21057
+S
+#21059
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes east
+and west.  
+~
+0 65544 0
+D1
+~
+~
+0 0 21054
+D3
+~
+~
+0 0 20970
+S
+#21060
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes north
+and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21061
+D2
+~
+~
+0 0 20970
+S
+#21061
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  The hall goes north
+and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21062
+D2
+~
+~
+0 0 21060
+S
+#21062
+The Great Hall~
+You are in the Great Hall of the temple.  There is rubble all over the
+stone tiled floor and the walls are a light tan color.  North is a doorway
+that leads into a huge room with a great tree inside.  
+~
+0 8 0
+E
+door~
+The doors have square windows in them to see north into the atrium.  
+~
+D0
+~
+~
+1 0 21063
+D2
+~
+~
+0 0 21061
+S
+#21063
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  You assume the devils are responsible for the death of the tree. 
+~
+0 0 0
+D1
+~
+~
+0 0 21064
+D2
+~
+~
+1 0 21062
+D3
+~
+~
+0 0 21104
+S
+#21064
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21065
+D3
+~
+~
+0 0 21063
+S
+#21065
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21070
+D1
+~
+~
+0 0 21066
+D3
+~
+~
+0 0 21064
+S
+#21066
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21069
+D1
+~
+~
+0 0 21067
+D3
+~
+~
+0 0 21065
+S
+#21067
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21068
+D3
+~
+~
+0 0 21066
+S
+#21068
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21072
+D2
+~
+~
+0 0 21067
+D3
+~
+~
+0 0 21069
+S
+#21069
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21071
+D1
+~
+~
+0 0 21068
+D2
+~
+~
+0 0 21066
+D3
+~
+~
+0 0 21070
+S
+#21070
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21069
+D2
+~
+~
+0 0 21065
+S
+#21071
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21072
+D2
+~
+~
+0 0 21069
+S
+#21072
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21073
+D2
+~
+~
+0 0 21068
+D3
+~
+~
+0 0 21071
+S
+#21073
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21074
+D2
+~
+~
+0 0 21072
+S
+#21074
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21077
+D2
+~
+~
+0 0 21073
+D3
+~
+~
+0 0 21075
+S
+#21075
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21076
+D1
+~
+~
+0 0 21074
+S
+#21076
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21079
+D1
+~
+~
+0 0 21077
+D2
+~
+~
+0 0 21075
+D3
+~
+~
+0 0 21081
+S
+#21077
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21078
+D2
+~
+~
+0 0 21074
+D3
+~
+~
+0 0 21076
+S
+#21078
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D2
+~
+~
+0 0 21077
+D3
+~
+~
+0 0 21079
+S
+#21079
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21078
+D2
+~
+~
+0 0 21076
+D3
+~
+~
+0 0 21080
+S
+#21080
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21079
+D2
+~
+~
+0 0 21081
+D3
+~
+~
+0 0 21083
+S
+#21081
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21080
+D1
+~
+~
+0 0 21076
+D3
+~
+~
+0 0 21082
+S
+#21082
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21083
+D1
+~
+~
+0 0 21081
+S
+#21083
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21080
+D2
+~
+~
+0 0 21082
+D3
+~
+~
+0 0 21084
+S
+#21084
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  North you see the entrance to the North Tower.  
+~
+0 0 0
+D0
+~
+~
+1 0 21105
+D1
+~
+~
+0 0 21083
+D3
+~
+~
+0 0 21085
+S
+#21085
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21084
+D2
+~
+~
+0 0 21086
+D3
+~
+~
+0 0 21088
+S
+#21086
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21085
+D3
+~
+~
+0 0 21087
+S
+#21087
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21088
+D1
+~
+~
+0 0 21086
+D3
+~
+~
+0 0 21092
+S
+#21088
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21085
+D2
+~
+~
+0 0 21087
+D3
+~
+~
+0 0 21089
+S
+#21089
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21088
+D2
+~
+~
+0 0 21092
+D3
+~
+~
+0 0 21090
+S
+#21090
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21089
+D2
+~
+~
+0 0 21091
+S
+#21091
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21090
+D1
+~
+~
+0 0 21092
+D2
+~
+~
+0 0 21094
+S
+#21092
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21089
+D1
+~
+~
+0 0 21087
+D2
+~
+~
+0 0 21093
+D3
+~
+~
+0 0 21091
+S
+#21093
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21092
+D3
+~
+~
+0 0 21094
+S
+#21094
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21091
+D1
+~
+~
+0 0 21093
+D2
+~
+~
+0 0 21095
+S
+#21095
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21094
+D2
+~
+~
+0 0 21096
+S
+#21096
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21095
+D1
+~
+~
+0 0 21097
+D2
+~
+~
+0 0 21099
+S
+#21097
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D2
+~
+~
+0 0 21098
+D3
+~
+~
+0 0 21096
+S
+#21098
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21097
+D1
+~
+~
+0 0 21103
+D2
+~
+~
+0 0 21101
+D3
+~
+~
+0 0 21099
+S
+#21099
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21096
+D1
+~
+~
+0 0 21098
+D2
+~
+~
+0 0 21100
+S
+#21100
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21099
+D1
+~
+~
+0 0 21101
+S
+#21101
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21098
+D1
+~
+~
+0 0 21102
+D3
+~
+~
+0 0 21100
+S
+#21102
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D0
+~
+~
+0 0 21103
+D1
+~
+~
+0 0 21104
+D3
+~
+~
+0 0 21101
+S
+#21103
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D2
+~
+~
+0 0 21102
+D3
+~
+~
+0 0 21098
+S
+#21104
+The Grand Atrium~
+You are inside the Grand Atrium, where in the center you see a great
+tree, withered and drained of its power.  The room is collosal, many stories
+tall, dirt floor, and great walls of pillars that have gaps for light to
+shine in.  
+~
+0 0 0
+D1
+~
+~
+0 0 21063
+D3
+~
+~
+0 0 21102
+S
+#21105
+A Corridor~
+You are in a glass corridor that connects the North Tower and the Grand
+Atrium.  Looking up, you feel dizzy because of how high the buildings are. 
+The walkway through the corridor is cobblestone.  
+~
+0 0 0
+D0
+~
+~
+1 0 21106
+D2
+~
+~
+1 0 21084
+S
+#21106
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21107
+D2
+~
+~
+1 0 21105
+S
+#21107
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D0
+~
+~
+0 0 21108
+D3
+~
+~
+0 0 21106
+S
+#21108
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D2
+~
+~
+0 0 21107
+D3
+~
+~
+0 0 21109
+S
+#21109
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21108
+D3
+~
+~
+0 0 21110
+S
+#21110
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21109
+D2
+~
+~
+0 0 21111
+S
+#21111
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D0
+~
+~
+0 0 21110
+D4
+~
+~
+0 0 21112
+S
+#21112
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21113
+D5
+~
+~
+0 0 21111
+S
+#21113
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D3
+~
+~
+0 0 21112
+D4
+~
+~
+0 0 21114
+S
+#21114
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21115
+D5
+~
+~
+0 0 21113
+S
+#21115
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D3
+~
+~
+0 0 21114
+D4
+~
+~
+0 0 21116
+S
+#21116
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D0
+~
+~
+0 0 21117
+D5
+~
+~
+0 0 21115
+S
+#21117
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D2
+~
+~
+0 0 21116
+D4
+~
+~
+0 0 21118
+S
+#21118
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D3
+~
+~
+0 0 21119
+D5
+~
+~
+0 0 21117
+S
+#21119
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D1
+~
+~
+0 0 21118
+D4
+~
+~
+0 0 21120
+S
+#21120
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  
+~
+0 0 0
+D2
+~
+~
+0 0 21121
+D5
+~
+~
+0 0 21119
+S
+#21121
+The North Tower~
+You are in the North Tower, the tallest of the three.  The stairs are
+fairly steep and pretty narrow.  There are little square windows along the
+outside, letting you peek out.  The steps here go up to a door.  
+~
+0 0 0
+D0
+~
+~
+0 0 21120
+D4
+~
+~
+1 0 21122
+S
+#21122
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D1
+~
+~
+0 0 21123
+D2
+~
+~
+0 0 21127
+D5
+~
+~
+1 0 21121
+S
+#21123
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D1
+~
+~
+0 0 21124
+D2
+~
+~
+0 0 21126
+D3
+~
+~
+0 0 21122
+S
+#21124
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D2
+~
+~
+0 0 21125
+D3
+~
+~
+0 0 21123
+S
+#21125
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D0
+~
+~
+0 0 21124
+D3
+~
+~
+0 0 21126
+D4
+~
+~
+0 0 21130
+S
+#21126
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D0
+~
+~
+0 0 21123
+D1
+~
+~
+0 0 21125
+D3
+~
+~
+0 0 21127
+D4
+~
+~
+0 0 21129
+S
+#21127
+The North Tower~
+You are on the top floor of the North Tower.  There are floating blue
+flames that light the area, and you can see the marble floor and the dark,
+stormy sky.  There are stairs along the south that lead up to the next
+level.  
+~
+0 0 0
+D0
+~
+~
+0 0 21122
+D1
+~
+~
+0 0 21126
+D4
+~
+~
+0 0 21128
+S
+#21128
+The North Tower~
+You are on the upper level of the top floor, stairs lead down to the
+lower level.  There are floating blue flames that light the area.  The
+marble floor goes across the top of the steps, and there is a walkway in the
+center that leads to the altar.  
+~
+0 0 0
+D1
+~
+~
+0 0 21129
+D5
+~
+~
+0 0 21127
+S
+#21129
+The Altar Walkway~
+You are on the upper level of the top floor, stairs lead down to the
+lower level.  There are floating blue flames that light the area.  The
+marble floor goes across the top of the steps, and there is a walkway in the
+center that leads to the altar.  
+~
+0 0 0
+D1
+~
+~
+0 0 21130
+D2
+~
+~
+0 0 21131
+D3
+~
+~
+0 0 21128
+D5
+~
+~
+0 0 21126
+S
+#21130
+The North Tower~
+You are on the upper level of the top floor, stairs lead down to the
+lower level.  There are floating blue flames that light the area.  The
+marble floor goes across the top of the steps, and there is a walkway in the
+center that leads to the altar.  
+~
+0 0 0
+D3
+~
+~
+0 0 21129
+D5
+~
+~
+0 0 21125
+S
+#21131
+The Altar Walkway~
+You are on the marble altar walkway that connects the north end of the
+floor with the altar.  Floating blue flames light the walkway, and looking
+down you see a huge black drop off.  
+~
+0 0 0
+D0
+~
+~
+0 0 21129
+D2
+~
+~
+0 0 21132
+S
+#21132
+Before the Altar~
+You are on a small marble landing at the foot of the altar.  Looking
+north, you can see all of the floating blue flames that light the dark room.
+Steps lead up to the altar.  
+~
+0 0 0
+D0
+~
+~
+0 0 21131
+D4
+~
+~
+0 0 21133
+S
+#21133
+The Forest Temple Altar~
+You are at the Forest Temple Altar.  There is a spot where the Forest Orb
+sits...  But wait...  Its not here!  Looking around, you see the marble
+pillars that hold up the roof, and you see the stormy skies swirling around
+you.  
+~
+0 0 0
+D5
+~
+~
+0 0 21132
+S
+#21134
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D4
+~
+~
+4 21133 20862
+D5
+~
+~
+0 0 21135
+S
+#21135
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D2
+~
+~
+0 0 21136
+D4
+~
+~
+0 0 21134
+S
+#21136
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21135
+D1
+~
+~
+0 0 21142
+D2
+~
+~
+0 0 21137
+D3
+~
+~
+0 0 21138
+S
+#21137
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21136
+S
+#21138
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21139
+D1
+~
+~
+0 0 21136
+D2
+~
+~
+0 0 21141
+D3
+~
+~
+0 0 21140
+S
+#21139
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  You see a message on
+the wall.  
+~
+0 8 0
+E
+wall~
+We have sealed the shelter door and we have been down here a while.  One
+of the mages say they have found a way to use the orb to transport people to
+another place...  
+~
+D2
+~
+~
+0 0 21138
+S
+#21140
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D1
+~
+~
+0 0 21138
+S
+#21141
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21138
+S
+#21142
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21143
+D1
+~
+~
+0 0 21145
+D2
+~
+~
+0 0 21144
+D3
+~
+~
+0 0 21136
+S
+#21143
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  There is a message on
+the wall.  
+~
+0 8 0
+E
+wall~
+We drained the power of the tree and concentrated it into the orb,
+allowing us to travel unseen into the secret shelter.  Only twelve of us
+made it.  
+~
+D2
+~
+~
+0 0 21142
+S
+#21144
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21142
+S
+#21145
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21147
+D1
+~
+~
+0 0 21146
+D3
+~
+~
+0 0 21142
+S
+#21146
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D3
+~
+~
+0 0 21145
+S
+#21147
+The Secret Shelter~
+You are in a secret shelter amongst the roots of the Great Tree.  This
+area is used for dire emergencies as a last resort, since you can't really
+go anywhere once you're down here.  There are little circular stones along
+the ground, and there are unlit torches on the walls.  
+~
+0 8 0
+D2
+~
+~
+0 0 21145
+S
+#0
+
+
+
+#SPECIALS
+M 20852 spec_cast_undead
+M 20853 spec_breath_fire
+M 20854 spec_breath_fire
+M 20855 spec_cast_mage
+M 20856 spec_cast_cleric
+M 20857 spec_cast_cleric
+M 20858 spec_cast_undead
+M 20859 spec_cast_mage
+M 20860 spec_cast_mage
+M 20861 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 20857 1 2
+D 0 20862 5 2
+D 0 20869 3 1
+D 0 20872 1 1
+D 0 20874 1 1
+D 0 20874 3 1
+D 0 20875 1 1
+D 0 20876 3 1
+D 0 20877 1 1
+D 0 20877 3 1
+D 0 20878 1 1
+D 0 20878 5 1
+D 0 20879 3 1
+D 0 20881 3 1
+D 0 20882 3 1
+D 0 20883 1 1
+D 0 20884 3 1
+D 0 20885 1 1
+D 0 20886 1 1
+D 0 20907 4 1
+D 0 20917 3 2
+D 0 20920 3 1
+D 0 20921 1 1
+D 0 20922 3 1
+D 0 20923 1 1
+D 0 20931 3 1
+D 0 20932 1 1
+D 0 20939 0 1
+D 0 20940 2 1
+D 0 20941 0 1
+D 0 20942 2 1
+D 0 20948 0 1
+D 0 20949 2 1
+D 0 20955 2 1
+D 0 20962 0 1
+D 0 20968 0 2
+D 0 20969 2 2
+D 0 21004 1 1
+D 0 21005 3 1
+D 0 21008 1 1
+D 0 21011 3 1
+D 0 21018 1 1
+D 0 21020 3 1
+D 0 21023 1 1
+D 0 21026 3 1
+D 0 21062 0 1
+D 0 21063 2 1
+D 0 21084 0 1
+D 0 21105 0 1
+D 0 21105 2 1
+D 0 21106 2 1
+D 0 21121 4 1
+D 0 21122 5 1
+D 0 21134 4 2
+M 0 20852 12 20852 3
+M 0 20854 10 20853 2
+M 0 20854 10 20855 2
+M 0 20852 12 20857 2
+M 0 20853 5 20858 1
+M 0 20853 5 20859 1
+M 0 20853 5 20860 1
+M 0 20854 10 20862 2
+M 0 20853 5 20863 1
+M 0 20854 10 20866 2
+M 0 20854 10 20867 2
+M 0 20852 12 20869 2
+M 0 20853 5 20871 1
+M 0 20856 25 20872 2
+M 0 20855 20 20873 2
+M 0 20856 25 20874 1
+M 0 20855 20 20877 2
+M 0 20856 25 20880 1
+M 0 20856 25 20881 1
+M 0 20856 25 20882 1
+M 0 20855 20 20884 2
+M 0 20856 25 20887 1
+M 0 20856 25 20890 1
+M 0 20856 25 20891 1
+M 0 20855 20 20892 2
+M 0 20856 25 20893 1
+M 0 20856 25 20894 1
+O 0 20869 0 20895
+M 0 20856 25 20898 1
+M 0 20856 25 20900 1
+M 0 20856 25 20901 1
+M 0 20856 25 20902 1
+M 0 20855 20 20905 2
+O 0 20916 0 20916
+P 0 20857 1 20916 1
+P 0 20915 1 20916 1
+M 0 20856 25 20921 2
+O 0 20921 0 20921
+M 0 20856 25 20923 2
+M 0 20855 20 20926 2
+M 0 20855 20 20927 2
+O 0 20928 0 20928
+M 0 20855 20 20932 2
+M 0 20855 20 20940 2
+M 0 20856 25 20941 2
+M 0 20855 20 20942 2
+M 0 20858 33 20944 1
+M 0 20856 25 20945 2
+M 0 20858 33 20947 1
+M 0 20856 25 20948 2
+O 0 20967 0 20950
+M 0 20858 33 20952 1
+E 0 20864 0 5
+M 0 20857 31 20953 1
+M 0 20859 26 20955 2
+M 0 20857 31 20957 1
+M 0 20857 31 20959 1
+E 0 20865 0 6
+M 0 20861 1 20967 1
+G 0 20861 0
+E 0 20866 0 2
+E 0 20867 0 18
+E 0 20868 0 3
+M 0 20852 12 20968 3
+M 0 20857 31 20969 2
+M 0 20858 33 20979 3
+M 0 20858 33 20988 3
+M 0 20858 33 20995 2
+M 0 20859 26 20999 3
+E 0 20863 0 16
+M 0 20858 33 21011 3
+M 0 20858 33 21013 2
+M 0 20858 33 21014 3
+M 0 20859 26 21015 1
+O 0 20862 0 21015
+M 0 20858 33 21018 3
+M 0 20859 26 21034 4
+M 0 20858 33 21041 3
+M 0 20858 33 21050 3
+M 0 20857 31 21060 2
+M 0 20857 31 21061 2
+M 0 20857 31 21062 2
+M 0 20857 31 21063 3
+E 0 20865 0 6
+M 0 20859 26 21069 3
+E 0 20863 0 16
+M 0 20857 31 21073 3
+E 0 20865 0 6
+M 0 20857 31 21078 3
+E 0 20865 0 6
+M 0 20859 26 21081 3
+M 0 20852 12 21084 2
+M 0 20859 26 21087 3
+E 0 20863 0 16
+M 0 20857 31 21090 3
+E 0 20865 0 6
+M 0 20859 26 21095 3
+M 0 20859 26 21098 3
+M 0 20857 31 21100 3
+M 0 20857 31 21105 2
+M 0 20858 33 21110 1
+E 0 20864 0 5
+M 0 20858 33 21112 1
+E 0 20864 0 5
+M 0 20858 33 21114 1
+E 0 20864 0 5
+M 0 20858 33 21116 1
+E 0 20864 0 5
+M 0 20858 33 21117 1
+M 0 20857 31 21118 1
+M 0 20859 26 21120 1
+E 0 20863 0 16
+M 0 20860 1 21132 1
+E 0 20860 0 12
+E 0 21133 0 17
+E 0 21132 0 2
+O 0 21137 0 21144
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

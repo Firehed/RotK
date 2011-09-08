@@ -1,0 +1,1830 @@
+#AREADATA
+Name The Ravine~
+Builders Grimace~
+VNUMs 5600 5699
+Credits [50 70] Grimace The Ravine~
+Security 4
+End
+
+
+
+#MOBILES
+#5600
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5622
+large wolf~
+a large wolf~
+A large nasty wolf is here!
+~
+You are looking at a large nasty wolf!  It could tear you apart!  
+~
+wolf~
+AFG JZ 0 -1000 0
+130 0 10d169+1050 1d1+100 5d10+40 none
+-22
+H 0 I H
+stand stand none 100
+M U medium unknown
+F off F
+F for AGV
+F par ACDEFJKQV
+#5623
+wolf~
+a wolf~
+A mean wolf is here!
+~
+This looks like on mean wolf to mess with.  
+~
+wolf~
+AFG JZ 0 -1000 0
+125 0 10d169+990 1d1+100 5d10+35 none
+-19
+FH 0 I H
+stand stand none 50
+AGMV ACDEFJKQUV medium unknown
+#5640
+orc hunter~
+a hunting orc~
+An orc is hunting here!
+~
+The orc is ugly looking, with very dark, almost black skin.  It's a
+fairly thin orc, but still quite strong.  
+~
+orc~
+ACFG J 0 -1000 0
+140 25 10d169+1200 1d1+100 5d10+45 none
+-25
+EFIKN 0 Q S
+stand stand either 2500
+AHMV ABCDEFGHIJK medium unknown
+#5676
+orc warrior~
+an orc warrior~
+A big orc warrior is here.
+~
+There is a great, ugly orc warrior here.  He has huge muscles and has all
+kinds of scars on his dark skin.  
+~
+orc~
+ACFG J 0 -1000 0
+150 25 10d169+1300 1d1+100 5d10+50 none
+-28
+CEFIJKN 0 Q S
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#5607
+mushroom~
+a tasty mushroom~
+There is a tasty looking mushroom growing here.~
+mushroom~
+food 0 A
+-1 12 0 0 0
+0 1 20 P
+#5640
+wicked bow~
+a wicked bow~
+A wicked looking bow is here.~
+unknown~
+weapon 0 AN
+staff 10 11 pierce 0
+50 8 35000 P
+#5660
+bag~
+(no short description)~
+A bag made from a dead person's corpse.~
+corpse~
+container 0 A
+0 0 0 0 0
+1 2 0 P
+#5676
+wicked mace~
+a wicked mace~
+A wicked looking mace is here.~
+unknown~
+weapon 0 AN
+mace 10 11 pound 0
+50 10 35000 P
+#0
+
+
+
+#ROOMS
+#5600
+Outside a Tunnel~
+You are out in the open air, with a dark tunnel to the south.  The tunnel
+is at the base of a large, steep, bush covered hill.  The ground here is
+dirt with lots of small rocks lying all around.  There appears to be the
+start of a dirt path here that heads north through the ravine.  Looking out
+over the ravine, you see two mountains on the east and west sides with
+thousands of evergreen trees in between.  Out past the ravine to the north
+you see a wide, open grassy area.  
+~
+0 0 4
+D0
+~
+~
+0 0 5601
+D2
+~
+~
+0 0 18277
+S
+#5601
+The Ravine Path~
+You are on the path that leads through the ravine.  This is the edge of
+the evergreen tree area, because south is an open area.  There are brown
+pine needles that cover the ground here.  You see that the pine trees'
+branches don't start until about a third to half way up the trees, allowing
+you to see a short ways around you.  The path leads north and south.  
+~
+0 0 4
+D0
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 5600
+S
+#5602
+The Ravine Path~
+You are on the path that leads through the ravine.  Evergreen trees are
+all around, and the path leads deeper into the ravine and southernly out of
+the ravine.  
+~
+0 0 4
+D2
+~
+~
+0 0 5601
+D5
+~
+~
+0 0 5603
+S
+#5603
+The Ravine Path~
+You are on the path that leads through the ravine.  Evergreen trees are
+all around.  The path goes down along the steep slopes of the ravine. 
+Looking over the edge of the path on the west, you can see an almost
+vertical drop off down to the depths of the ravine.  
+~
+0 0 4
+D0
+~
+~
+0 0 5604
+D4
+~
+~
+0 0 5602
+S
+#5604
+The Ravine Path~
+You are on the path that leads through the ravine.  Pine needles cover
+the slope and there are a few grey rocks sticking out of the hillside.  The
+path goes south and west down the steep slope.  
+~
+0 0 4
+D2
+~
+~
+0 0 5603
+D3
+~
+~
+0 0 5605
+S
+#5605
+The Ravine Path~
+You are on the path that leads through the ravine.  The path is very
+steep here.  You can follow the path east to go up the ravine or down
+farther into it.  
+~
+0 0 4
+D1
+~
+~
+0 0 5604
+D5
+~
+~
+0 0 5606
+S
+#5606
+The Ravine Path~
+You are on the path that leads through the ravine.  There are crude steps
+that go up the ravine here, not actually made by someone, but just by the
+way the roots and stone in the ground are formed.  
+~
+0 0 4
+D0
+~
+~
+0 0 5607
+D4
+~
+~
+0 0 5605
+S
+#5607
+The Ravine Path~
+You are on the path that leads through the ravine.  The path is narrow
+here, traveling right along the slope of the ravine.  Going south leads up
+the ravine, and going north leads deeper into the ravine.  Looking down you
+see a ledge that you can jump to.  It looks like the least safe way to go.  
+~
+0 0 4
+D0
+~
+~
+0 0 5608
+D2
+~
+~
+0 0 5606
+D5
+~
+~
+0 0 5687
+S
+#5608
+The Ravine Path~
+You are on the path that leads through the ravine.  The path is wet
+because there is a spring coming out of the ravine and flows down the hill. 
+The path bends to the east down the ravine and south leads up the ravine.  
+~
+0 0 4
+D1
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 5607
+S
+#5609
+The Ravine Path~
+You are on the path that leads through the ravine.  There is a very steep
+drop off here, and looking down it you see the tops of evergreen trees.  The
+path bends west following up the ravine and north down it.  
+~
+0 0 4
+D0
+~
+~
+0 0 5610
+D3
+~
+~
+0 0 5608
+S
+#5610
+The Ravine Path~
+You are on the path that leads through the ravine.  You look up and see a
+few rays of light poking through the trees.  There are roots along the slope
+of the ravine here, enabling you to climb up the hill here.  
+~
+0 0 4
+D0
+~
+~
+0 0 5624
+D2
+~
+~
+0 0 5609
+D4
+~
+~
+0 0 5611
+S
+#5611
+Climbing the Ravine~
+You are climbing up the ravine by using the roots to grab onto.  You
+could go up farther, but first you would have to move some prickers.  You
+wonder how safe it is to be leaving the path...  
+~
+0 0 5
+D4
+~
+prickers~
+1 0 5612
+D5
+~
+~
+0 0 5610
+S
+#5612
+In the Ravine~
+You are on a flat are in the ravine.  You see a pricker bush that is
+infront of a place where you can climb down the ravine using roots.  You
+hear a howling in the distance...  Creepy...  
+~
+0 0 4
+D0
+~
+~
+0 0 5616
+D1
+~
+~
+0 0 5614
+D5
+~
+prickers~
+1 0 5611
+S
+#5613
+Secret Ravine Battle Lab~
+What are you doing in Grimace's Secret Ravine Battle Lab?!  You'd better
+scat!  This room is cursed by the way.  
+~
+0 4 0
+S
+#5614
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  The steep
+slope of the ravine is on the east side of you.  
+~
+0 0 4
+D0
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 5612
+S
+#5615
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  The steep
+slope of the ravine is on the east side of you.  
+~
+0 0 4
+D0
+~
+~
+0 0 5618
+D2
+~
+~
+0 0 5614
+D3
+~
+~
+0 0 5616
+S
+#5616
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  There is a
+steep drop off on the west that you dare not go down.  
+~
+0 0 4
+D0
+~
+~
+0 0 5617
+D1
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 5612
+S
+#5617
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  There is a
+steep drop off on the west that you dare not go down.  You see hear a wolf
+howl nearby!  
+~
+0 0 4
+D0
+~
+~
+0 0 5619
+D1
+~
+~
+0 0 5618
+D2
+~
+~
+0 0 5616
+S
+#5618
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  There is an
+inlet in the side of the ravine here.  
+~
+0 0 4
+D0
+~
+~
+0 0 5620
+D1
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 5617
+S
+#5619
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  There are
+steep drop offs to the west and to the north.  You kick a rock over and you
+count.  One, two, three, four, five, CLUNK.  
+~
+0 0 4
+D1
+~
+~
+0 0 5620
+D2
+~
+~
+0 0 5617
+S
+#5620
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  There is a
+steep drop off to the north that you dare not go down.  
+~
+0 0 4
+D1
+~
+~
+0 0 5621
+D2
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5619
+S
+#5621
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  The steep
+slope of the ravine is on the north side of you.  
+~
+0 0 4
+D2
+~
+~
+0 0 5622
+D3
+~
+~
+0 0 5620
+S
+#5622
+In the Ravine~
+You are on a flat area of the ravine.  There are many evergreen trees
+here, making it somewhat dark.  You don't feel very safe here.  This spot
+here is a small inlet in the side of the ravine.  There is a small den to
+the east.  
+~
+0 0 4
+D0
+~
+~
+0 0 5621
+D1
+~
+~
+0 0 5623
+D3
+~
+~
+0 0 5618
+S
+#5623
+In a Wolf Den~
+You are inside a wolf den made into the side of the ravine!  There are
+bones laying here that have been recently chewed on.  Hopefully you aren't
+next!  There is a small caved in hole in the corner.  
+~
+0 8 4
+D3
+~
+~
+0 0 5622
+S
+#5624
+The Ravine Path~
+You are on the path that leads through the ravine.  You look over the
+drop off and see that you are fairly close to the floor of the ravine.  The
+ravine's upward slope on the east is almost vertical.  The path goes upwards
+to the south and down some stair-like rocks.  
+~
+0 0 4
+D2
+~
+~
+0 0 5610
+D5
+~
+~
+0 0 5625
+S
+#5625
+The Ravine Path~
+You are on the path that leads through the ravine.  Looking west, you are
+at the treetop level.  The path goes up some rocks and north downhill.  
+~
+0 0 4
+D0
+~
+~
+0 0 5626
+D4
+~
+~
+0 0 5624
+S
+#5626
+The Ravine Path~
+You are on the path that leads through the ravine.  There is a wall of
+rock on the east side of the trail, and a drop off to the west.  The path
+goes upwards to the south and down towards the ravine floor.  
+~
+0 0 4
+D2
+~
+~
+0 0 5625
+D5
+~
+~
+0 0 5627
+S
+#5627
+The Ravine Path~
+You are on the path that leads through the ravine.  There is a very
+steep, rocky wall on the east and a drop off on the west.  There is a ledge
+very high above you.  The path goes up some rocks here and north around the
+rocky wall.  
+~
+0 0 4
+D0
+~
+~
+0 0 5628
+D4
+~
+~
+0 0 5626
+S
+#5628
+The Ravine Path~
+You are on the path that leads through the ravine.  Here, you are close
+to the ground.  The path goes south and east, hugging the rocky wall.  
+~
+0 0 4
+D1
+~
+~
+0 0 5629
+D2
+~
+~
+0 0 5627
+S
+#5629
+The Ravine Path~
+You are on the path that leads through the ravine.  There is an almost
+vertical rocky wall on the south that the path is right next to.  The path
+goes east and west, with a the path gradually rising eastward.  
+~
+0 0 4
+D1
+~
+~
+0 0 5630
+D3
+~
+~
+0 0 5628
+S
+#5630
+The Ravine Path~
+You are on the path that leads through the ravine.  You see that way
+above you, at the top of the rocky wall on the south, is a ledge with a wolf
+howling from it.  The path will be on the ravine floor to the north and west
+of here the path goes up the side of the ravine.  
+~
+0 0 4
+D0
+~
+~
+0 0 5631
+D3
+~
+~
+0 0 5629
+S
+#5631
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance.  To
+the south the path begins to go up the side of the ravine.  To the north the
+path goes through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 5632
+D2
+~
+~
+0 0 5630
+S
+#5632
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  The path goes west and south.  
+~
+0 0 3
+D2
+~
+~
+0 0 5631
+D3
+~
+~
+0 0 5634
+S
+#5633
+~
+~
+0 4 0
+S
+#5634
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  The path goes east and west
+through the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 5632
+D3
+~
+~
+0 0 5635
+S
+#5635
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  There are three ways you can
+go, east and west on the path, or north on a deer trail.  
+~
+0 0 3
+D0
+~
+~
+0 0 5636
+D1
+~
+~
+0 0 5634
+D3
+~
+~
+0 0 5650
+S
+#5636
+A Deer Trail~
+You are on a deer trail through this forest of evergreens in the ravine. 
+The trail gets dark to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 5637
+D2
+~
+~
+0 0 5635
+S
+#5637
+A Deer Trail~
+You are on a deer trail through this evergreen forest in the ravine.  The
+trail is a little muddy and the trees are thick, making it dark here.  The
+trail heads east and south to where it is lighter.  
+~
+0 0 3
+D1
+~
+~
+0 0 5638
+D2
+~
+~
+0 0 5636
+S
+#5638
+A Deer Trail~
+You are on a dark deer trail through this evergreen forest in the ravine.
+There is a corpse of a deer lying here, with a dangerous arrow sticking out
+of it.  You feel very strange, as if someone is watching you.  You have an
+urge to turn back.  
+~
+0 4 3
+E
+corpse~
+You see the bloody corpse of a deer here, lying in some mud.  
+~
+D1
+~
+~
+0 0 5639
+D3
+~
+~
+0 0 5637
+S
+#5639
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 5640
+D3
+~
+~
+0 0 5638
+S
+#5640
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 5649
+D2
+~
+~
+0 0 5641
+D3
+~
+~
+0 0 5639
+S
+#5641
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 5640
+D1
+~
+~
+0 0 5642
+S
+#5642
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 5643
+D3
+~
+~
+0 0 5641
+S
+#5643
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 5644
+D3
+~
+~
+0 0 5642
+S
+#5644
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 5645
+D2
+~
+~
+0 0 5643
+S
+#5645
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  You notice something on the ground.  
+~
+0 0 3
+E
+down~
+You see a trap door on the ground.  
+~
+D0
+~
+~
+0 0 5646
+D2
+~
+~
+0 0 5644
+D5
+~
+trap~
+1 0 5676
+S
+#5646
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D2
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 5647
+S
+#5647
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 5646
+D3
+~
+~
+0 0 5648
+S
+#5648
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 5647
+D2
+~
+~
+0 0 5649
+S
+#5649
+A Deer Trail~
+You are on a dark deer trail through the evergreen forest inside the
+ravine.  You have the scary feeling of someone watching you from within the
+trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 5648
+D2
+~
+~
+0 0 5640
+S
+#5650
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  The path goes east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 5635
+D3
+~
+~
+0 0 5651
+S
+#5651
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  The path goes east and north.  
+~
+0 0 3
+D0
+~
+~
+0 0 5652
+D1
+~
+~
+0 0 5650
+S
+#5652
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  The path goes north and south. 
+~
+0 0 3
+D0
+~
+~
+0 0 5653
+D2
+~
+~
+0 0 5651
+S
+#5653
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The dirt path is covered with pine needles.  You see an area of dense trees
+to the east.  The path goes south and west 
+~
+0 0 3
+D0
+~
+~
+0 0 5654
+D2
+~
+~
+0 0 5652
+D3
+~
+~
+0 0 5677
+S
+#5654
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path goes south to a lighter area, and north through the dark
+section.  
+~
+0 4 3
+D0
+~
+~
+0 0 5655
+D2
+~
+~
+0 0 5653
+S
+#5655
+A Dark Intersection~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The main path goes south here, and splits to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 5656
+D2
+~
+~
+0 0 5654
+D3
+~
+~
+0 0 5660
+S
+#5656
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  You feel uneasy about this place.  The path goes west and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 5657
+D3
+~
+~
+0 0 5655
+S
+#5657
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  You wonder where this path leads to.  The path goes west and north.
+~
+0 0 3
+D0
+~
+~
+0 0 5658
+D3
+~
+~
+0 0 5656
+S
+#5658
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path goes south and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 5659
+D2
+~
+~
+0 0 5657
+S
+#5659
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  You find that this path ends here, so the only way to go is west.  
+~
+0 0 3
+D3
+~
+~
+0 0 5658
+S
+#5660
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  There are a different kind of footprints imprinted on the path
+here.  The path goes north and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 5661
+D1
+~
+~
+0 0 5655
+S
+#5661
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path goes north and south through the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 5662
+D2
+~
+~
+0 0 5660
+S
+#5662
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path turns here, going south and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 5663
+D2
+~
+~
+0 0 5661
+S
+#5663
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path turns to the west and north.  
+~
+0 0 3
+D0
+~
+~
+0 0 5664
+D3
+~
+~
+0 0 5662
+S
+#5664
+A Dark Path~
+You are on a path through a dark section of the evergreen forest.  With
+it being dark, you see eyes glowing in the distance and you hear strange
+noises.  The path only goes south from here, but there is a wooden trap door
+on the ground.  
+~
+0 0 3
+E
+down~
+You see a trap door on the ground.  
+~
+D2
+~
+~
+0 0 5663
+D5
+~
+trap~
+1 0 5665
+S
+#5665
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  You notice a
+trap door on above with light coming through.  
+~
+0 8 0
+D1
+~
+~
+0 0 5666
+D4
+~
+trap~
+1 0 5664
+S
+#5666
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D1
+~
+~
+0 0 5667
+D3
+~
+~
+0 0 5665
+S
+#5667
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D2
+~
+~
+0 0 5668
+D3
+~
+~
+0 0 5666
+S
+#5668
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D0
+~
+~
+0 0 5667
+D1
+~
+~
+0 0 5669
+S
+#5669
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D1
+~
+~
+0 0 5670
+D3
+~
+~
+0 0 5668
+S
+#5670
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D1
+~
+~
+0 0 5671
+D3
+~
+~
+0 0 5669
+S
+#5671
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D2
+~
+~
+0 0 5672
+D3
+~
+~
+0 0 5670
+S
+#5672
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D0
+~
+~
+0 0 5671
+D2
+~
+~
+0 0 5673
+S
+#5673
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D0
+~
+~
+0 0 5672
+D1
+~
+~
+0 0 5674
+S
+#5674
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D1
+~
+~
+0 0 5675
+D3
+~
+~
+0 0 5673
+S
+#5675
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  
+~
+0 8 0
+D2
+~
+~
+0 0 5676
+D3
+~
+~
+0 0 5674
+S
+#5676
+A Dark Tunnel~
+You are in a dark tunnel.  The walls and floor seem to be mostly dirt. 
+This tunnel is very scary.  You see movement in the darkness!  There is a
+trap door above where light peeks through.  
+~
+0 8 0
+D0
+~
+~
+0 0 5675
+D4
+~
+trap~
+1 0 5645
+S
+#5677
+The Ravine Path~
+You are on the path that leads through the ravine.  There are tall
+evergreen trees all around, allowing you to see only a limited distance. 
+The path is gravel here.  Looking west, you see a clearing.  The path goes
+west and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 5653
+D3
+~
+~
+0 0 5678
+S
+#5678
+Near the River~
+You are on the gravel path through the ravine.  There is a river west of
+here, with a surplus of stones laying around the bank.  The path leads east
+and west to the river.  
+~
+0 0 3
+D1
+~
+~
+0 0 5677
+D3
+~
+~
+0 0 5679
+S
+#5679
+The Riverbank~
+You are on the stoney bank of the river.  There are trees to the east and
+also on the other side of the river, but not as many.  The ravine path goes
+east and west through the river crossing.  
+~
+0 0 2
+D1
+~
+~
+0 0 5678
+D3
+~
+~
+0 0 5680
+S
+#5680
+The River Crossing~
+You are in the shallow river crossing.  The current here isn't too fast,
+but is still moving steady.  The rocks beneath you are rounded and smooth. 
+The water is cool and refreshing.  You river flows from the south to the
+north.  You see the ravine path that is on both sides of the river.  
+~
+0 0 0
+D1
+~
+~
+0 0 5679
+D3
+~
+~
+0 0 5681
+S
+#5681
+The Riverbank~
+You are on the stoney bank of the river.  There are some trees on this
+side of the river, but you see many more on the other side.  The ravine path
+goes west out of the bank and east through the shallow river crossing.  
+~
+0 0 2
+D1
+~
+~
+0 0 5680
+D3
+~
+~
+0 0 5682
+S
+#5682
+The Ravine Path~
+You are on the path that leads through the ravine.  You see a river to
+the east with lots of stones on its banks.  There are trees on the west that
+go all up along the ravine's side and trees are also to the south.  North,
+along the riverbank, is a grassy area, where the path goes through to exit
+the north end of the ravine.  
+~
+0 0 2
+D0
+~
+~
+0 0 5683
+D1
+~
+~
+0 0 5681
+S
+#5683
+The Ravine Path~
+You are on the path that leads through the ravine.  The river is to the
+east and the path is on a grassy area between the trees and the riverbank. 
+The path goes north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 5684
+D2
+~
+~
+0 0 5682
+S
+#5684
+The Ravine Path~
+You are on the path that leads through the ravine.  The river is to the
+east and the path is on a grassy area between the trees and the riverbank. 
+The path goes east and south.  
+~
+0 0 2
+D1
+~
+~
+0 0 5685
+D2
+~
+~
+0 0 5683
+S
+#5685
+The Ravine Path~
+You are on the path that leads through the ravine.  The river is to the
+east and the path is on a grassy area between the trees and the riverbank. 
+You are almost out of the north end of the ravine.  The path goes west and
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 5686
+D3
+~
+~
+0 0 5684
+S
+#5686
+The Ravine Path~
+You are at the north end of the ravine.  Looking south at the ravine, you
+see a great evergreen forest between the two steep slopes on each side, with
+a river running through the middle.  You are on a path that will safely lead
+you through it, if you stay on it.  The path goes south.  
+~
+0 0 2
+D0
+~
+~
+0 0 20101
+D2
+~
+~
+0 0 5685
+S
+#5687
+A Ledge~
+You are on a ledge on the side of a ravine.  There is a steep drop off on
+the west and there is a small hole in the side of the ravine.  It looks like
+it goes in quite a ways...  You feel cold air coming from the hole, giving
+you a chill.  You cannot climb back up because there is nothing to hold on
+to.  
+~
+0 0 5
+D1
+~
+~
+0 0 5688
+S
+#5688
+Inside the Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  There is an opening to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 5689
+D3
+~
+~
+0 0 5687
+S
+#5689
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 5690
+D3
+~
+~
+0 0 5688
+S
+#5690
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 5691
+D2
+~
+~
+0 0 5689
+S
+#5691
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 0 5692
+D2
+~
+~
+0 0 5690
+S
+#5692
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 0 5693
+D3
+~
+~
+0 0 5691
+S
+#5693
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 0 5694
+D3
+~
+~
+0 0 5692
+S
+#5694
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 5695
+D3
+~
+~
+0 0 5693
+S
+#5695
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D2
+~
+~
+0 0 5694
+D4
+~
+~
+0 0 5696
+S
+#5696
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 5697
+D5
+~
+~
+0 0 5695
+S
+#5697
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 0 5698
+D2
+~
+~
+0 0 5696
+S
+#5698
+The Hole~
+You are in a chilly dark hole.  The hole is pretty small and there are
+roots that hang down from the ceiling.  There is a small opening above that
+you can squeeze through.  
+~
+0 8 0
+D3
+~
+~
+0 0 5697
+D4
+~
+~
+0 0 5623
+S
+#5699
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5611 4 1
+D 0 5612 5 1
+D 0 5645 5 1
+D 0 5664 5 1
+D 0 5665 4 1
+D 0 5676 4 1
+M 0 5623 7 5614 1
+M 0 5623 7 5615 1
+M 0 5623 7 5616 1
+M 0 5623 7 5617 1
+M 0 5623 7 5620 1
+M 0 5623 7 5623 2
+M 0 5622 2 5623 2
+M 0 5640 8 5641 1
+E 0 5640 0 16
+M 0 5640 8 5643 1
+E 0 5640 0 16
+M 0 5640 8 5645 1
+E 0 5640 0 16
+M 0 5640 8 5647 1
+E 0 5640 0 16
+M 0 5640 8 5657 1
+E 0 5640 0 16
+M 0 5640 8 5658 1
+E 0 5640 0 16
+M 0 5640 8 5660 1
+E 0 5640 0 16
+M 0 5640 8 5663 1
+E 0 5640 0 16
+M 0 5676 5 5667 1
+E 0 5676 0 16
+M 0 5676 5 5669 1
+E 0 5676 0 16
+M 0 5676 5 5671 1
+E 0 5676 0 16
+M 0 5676 5 5674 1
+E 0 5676 0 16
+M 0 5676 5 5675 1
+E 0 5676 0 16
+O 0 5607 0 5690
+O 0 5607 0 5693
+O 0 5607 0 5697
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

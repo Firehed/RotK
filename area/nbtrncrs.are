@@ -1,0 +1,1049 @@
+#AREADATA
+Name Newbie Training Course~
+Builders Grimace~
+VNUMs 21700 21799
+Credits [01 09] Grimace Newbie Training Course~
+Security 9
+End
+
+
+
+#MOBILES
+#21701
+adept~
+an adept of Grimace~
+An adept of Grimace is here, looking over the training courses.
+~
+The adept smiles at you and wishes you luck in the training courses.  
+~
+Elf~
+ABa J 0 0 0
+101 0 1d1+100 10d10+1000 1d1+100 none
+-10
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21702
+storekeeper~
+the storekeeper~
+The storekeeper is checking inventory.
+~
+The shopkeeper looks very friendly.  
+~
+Human~
+AB DF 0 0 0
+50 0 1d1+1 1d1+1 1d1+1 none
+0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21705
+chipmunk~
+a chipmunk~
+A chipmunk frolicks through the leaves.
+~
+The chipmunk is tiny!  Nobody would ever hurt a chipmunk...  
+~
+fox~
+A Z 0 0 0
+2 1 3d3+15 1d1+99 1d2+1 bite
+9
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV medium unknown
+#21706
+squirrel~
+a squirrel~
+You see a gray squirrel eating nuts.
+~
+This gray squirrel has a long bushy tail!  
+~
+fox~
+A Z 0 0 0
+4 1 3d3+22 1d1+99 1d2+2 bite
+9
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV medium unknown
+#21707
+crow~
+a crow~
+A big black crow sits on a branch.
+~
+The black crow watches you while you walk.  
+~
+song bird~
+A T 0 0 0
+5 1 3d3+25 0d0+0 1d4+1 peck
+8
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#21708
+rabbit~
+a rabbit~
+A brown rabbit is munching on grass.
+~
+The brown rabbit looks like he is content with his life.  
+~
+rabbit~
+A 0 0 0 0
+3 1 3d3+18 1d1+99 1d2+1 bite
+10
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium unknown
+#21709
+butterfly~
+a butterfly~
+A big yellow butterfly rests on a flower.
+~
+The butterfly rests on the flower, oblivious to you.  
+~
+bat~
+A TZ 0 0 0
+2 1 1d3+12 0d0+0 1d1+1 none
+10
+FH 0 0 S
+stand stand either 0
+AGV ACDEFHJKP medium unknown
+#21710
+moose~
+a moose~
+A moose wanders across the meadow.
+~
+The moose is big and majestic.  
+~
+cat~
+A Z 0 0 0
+6 1 3d3+35 1d1+99 1d5+2 none
+8
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQ medium unknown
+F par UV
+#21711
+mosquito~
+a mosquito~
+A mosquito buzzes by your ear.
+~
+This mosquito is really bugging you!  
+~
+Human~
+A 0 0 0 0
+3 1 3d3+13 1d1+99 1d2+1 bite
+7
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#21712
+fish~
+a fish~
+A fish swims around your ankles.
+~
+You can't exactly see the fish, but its shadow in the muddy water.  
+~
+Human~
+A 0 0 0 0
+4 1 3d3+20 1d1+99 1d3+1 none
+8
+0 0 0 0
+stand stand either 0
+0 AK medium unknown
+F for AHMV
+F par BCDEFGHIJ
+#21713
+frog~
+a frog~
+A frog sits on a lillypad
+~
+The frog is small, green, and slimy.  
+~
+lizard~
+A 0 0 0 0
+4 1 3d3+22 1d1+99 1d3+1 none
+8
+0 0 L I
+stand stand either 0
+AGXc ACDEFHKQV medium unknown
+#21714
+salamander~
+a salamander~
+An orange salamander is floating in the swamp.
+~
+The salamander is orange with little speckles.  
+~
+Human~
+A 0 0 0 0
+4 1 3d3+20 1d1+99 1d2+1 none
+9
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#21715
+scorpion~
+a scorpion~
+A scorpion crawls across the sand.
+~
+The scorpion looks mean!  
+~
+centipede~
+A Z 0 0 0
+5 1 3d3+15 1d1+99 1d6+1 pierce
+6
+0 0 FI E
+stand stand either 0
+ABGO ACK medium unknown
+#21716
+vulture~
+a vulture~
+A vulture circles above.
+~
+The vulture is a creepy looking bird.  
+~
+water fowl~
+A Tb 0 0 0
+5 1 3d3+26 1d1+99 1d4+1 peck
+8
+0 0 R 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#21717
+tarantula~
+a tarantula~
+A tarantula hides behind a rock.
+~
+The tarantula is big and hairy!  
+~
+centipede~
+A Z 0 0 0
+6 1 3d3+15 0d0+0 1d6+1 bite
+8
+0 0 FI E
+stand stand either 0
+ABGO ACK medium unknown
+#21718
+cobra~
+a cobra~
+A cobra slithers on the ground.
+~
+The cobra tries to intimidate you by sticking its tongue out at you!  
+~
+snake~
+A 0 0 0 0
+6 1 3d3+25 1d1+99 1d6+1 bite
+8
+0 0 L I
+stand stand either 0
+AGXYc ADEFKLQVX medium unknown
+#0
+
+
+
+#OBJECTS
+#21702
+canteen~
+a canteen~
+A silver canteen is here.~
+unknown~
+drink 0 AO
+10 10 'water' 0 0
+0 1 20 P
+#21703
+beef jerky~
+some beef jerky~
+Some beef jerky sits here.~
+unknown~
+food 0 A
+13 13 0 0 0
+0 1 7 P
+#21704
+bag trail mix~
+a bag of trail mix~
+A bag of trail mix is waiting to be eaten.~
+unknown~
+food 0 A
+15 15 0 0 0
+0 1 9 P
+#21705
+chipmunk~
+a chipmunk~
+A chipmunk lies motionless on the ground.~
+unknown~
+armor 0 AE
+1 1 1 2 0
+1 1 25 P
+E
+chipmunk~
+The chipmunk isn't moving...  I think it is dead.  
+~
+#21706
+rabbit foot~
+a rabbit's foot~
+A rabbit's severed foot lies on the ground.~
+unknown~
+armor 0 AC
+1 1 1 3 0
+1 1 50 P
+E
+foot~
+A rabbit's foot.  Maybe it's lucky?  
+~
+#21707
+crow feather shawl~
+{8a crow feather shawl{0~
+{8A mass of crow feathers lie on the ground.{0~
+unknown~
+armor 0 AK
+1 1 1 1 0
+1 1 1 P
+E
+shawl~
+This shawl made of crow feathers looks very fashionable.  
+~
+#0
+
+
+
+#ROOMS
+#21700
+The Training Course~
+You are at the entrance to the training course.  This is an area
+for young adventurers to practice fighting various creatures to prepare for
+the real world.  North exits the training course and going south takes you
+into the course.  
+~
+0 0 2
+D0
+~
+~
+0 0 3700
+D2
+~
+~
+0 0 21701
+S
+#21701
+Atop a Grassy Knoll~
+You are on top of a small, grassy knoll.  From here, you can see the
+forest course to the east, the meadow course to the south, the desert course
+southwest of the meadow, and the swamp course southeast of the meadow. 
+There is a small travellers' shop on the west side of the grassy knoll.  
+There is a sign here.
+~
+0 1028 2
+E
+sign~
+When you SACRIFICE or SAC a corpse, the corpse will disappear and you
+will get money for it.  
+~
+D0
+~
+~
+0 0 21700
+D1
+~
+~
+0 0 21703
+D2
+~
+~
+0 0 21714
+D3
+~
+~
+0 0 21702
+S
+#21702
+Travellers' Shop~
+You are inside the Travellers' Shop.  The shop is somewhat small and
+simple.  There is a shelf behind the counter that displays what is for sale.
+There is a note written on the desk.
+~
+0 1024 0
+E
+note~
+Type LIST and I will tell you what I am selling.
+Type BUY <item> to purchase something.
+Type SELL <item> to sell something.
+~
+E
+shelf~
+On the shelf you see a few canteens, some beef jerky, and a bag of trail
+mix.  
+~
+D1
+~
+~
+0 0 21701
+S
+#21703
+Entrance to the Forest Course~
+You are at the entrance to the forest course.  You see the forest to the
+east where you can practice your skills on furry little creatures.  You see
+the safe, grassy knoll to the west.  
+There is a sign stuck in the ground.
+~
+0 4 3
+E
+sign~
+Remember, if things get sticky while fighting, FLEE!  
+~
+D1
+~
+~
+0 0 21704
+D3
+~
+~
+0 0 21701
+S
+#21704
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21705
+D1
+~
+~
+0 0 21713
+D3
+~
+~
+0 0 21703
+S
+#21705
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D1
+~
+~
+0 0 21706
+D2
+~
+~
+0 0 21704
+S
+#21706
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21707
+D3
+~
+~
+0 0 21705
+S
+#21707
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D1
+~
+~
+0 0 21708
+D2
+~
+~
+0 0 21706
+S
+#21708
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D2
+~
+~
+0 0 21709
+D3
+~
+~
+0 0 21707
+S
+#21709
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21708
+D2
+~
+~
+0 0 21710
+S
+#21710
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21709
+D2
+~
+~
+0 0 21711
+S
+#21711
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21710
+D3
+~
+~
+0 0 21712
+S
+#21712
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D0
+~
+~
+0 0 21713
+D1
+~
+~
+0 0 21711
+S
+#21713
+Forest Course~
+You are in the forest course.  Trees are all around you.  There are birds
+flying around and furry little creatures running amuck.  
+~
+0 0 3
+D2
+~
+~
+0 0 21712
+D3
+~
+~
+0 0 21704
+S
+#21714
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D0
+~
+~
+0 0 21701
+D1
+~
+~
+0 0 21715
+D2
+~
+~
+0 0 21717
+D3
+~
+~
+0 0 21719
+S
+#21715
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D2
+~
+~
+0 0 21716
+D3
+~
+~
+0 0 21714
+S
+#21716
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D0
+~
+~
+0 0 21715
+D2
+~
+~
+0 0 21720
+D3
+~
+~
+0 0 21717
+S
+#21717
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D0
+~
+~
+0 0 21714
+D1
+~
+~
+0 0 21716
+D3
+~
+~
+0 0 21718
+S
+#21718
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D0
+~
+~
+0 0 21719
+D1
+~
+~
+0 0 21717
+D3
+~
+~
+0 0 21729
+S
+#21719
+Meadow Course~
+You are in the meadow course.  The meadow has lots of green grass growing
+in it, with patches of clover scattered around.  On the north side of the
+meadow you can see the grassy knoll.  
+~
+0 0 2
+D1
+~
+~
+0 0 21714
+D2
+~
+~
+0 0 21718
+S
+#21720
+Entrace to the Swamp Course~
+You are at the entrance to the swamp course.  You know this because of
+the mosquitos buzzing around and the distinct smell in the air.  The meadow
+course is to the north.  
+~
+0 4 3
+D0
+~
+~
+0 0 21716
+D1
+~
+~
+0 0 21721
+S
+#21721
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D1
+~
+~
+0 0 21722
+D2
+~
+~
+0 0 21728
+D3
+~
+~
+0 0 21720
+S
+#21722
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 21723
+D1
+~
+~
+0 0 21725
+D2
+~
+~
+0 0 21727
+D3
+~
+~
+0 0 21721
+S
+#21723
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D1
+~
+~
+0 0 21724
+D2
+~
+~
+0 0 21722
+S
+#21724
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D2
+~
+~
+0 0 21725
+D3
+~
+~
+0 0 21723
+S
+#21725
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 21724
+D2
+~
+~
+0 0 21726
+D3
+~
+~
+0 0 21722
+S
+#21726
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 21725
+D3
+~
+~
+0 0 21727
+S
+#21727
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 21722
+D1
+~
+~
+0 0 21726
+D3
+~
+~
+0 0 21728
+S
+#21728
+Swamp Course~
+You are in the swamp course, standing in water about knee deep.  The mud
+under the water is squishy.  There are lots of plants growing in the muddy
+water, and you notice that strange swamp smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 21721
+D1
+~
+~
+0 0 21727
+S
+#21729
+Entrance to the Desert Course~
+You are at the entrance to the desert course.  To the east is the nice,
+grassy meadow, and south west is the dry, dusty desert.  You see a rocky
+hill on the west side of the desert.  
+~
+0 4 10
+D1
+~
+~
+0 0 21718
+D2
+~
+~
+0 0 21730
+S
+#21730
+Desert Course~
+You are in the desert course.  Sand covers the entire area except for the
+rocky hill to the west.  Gusts of wind cause sand to swirl into the air and
+into your face.  
+~
+0 0 10
+D0
+~
+~
+0 0 21729
+D2
+~
+~
+0 0 21731
+D3
+~
+~
+0 0 21733
+S
+#21731
+Desert Course~
+You are in the desert course.  Sand covers the entire area except for the
+rocky hill to the west.  Gusts of wind cause sand to swirl into the air and
+into your face.  
+~
+0 0 10
+D0
+~
+~
+0 0 21730
+D3
+~
+~
+0 0 21732
+S
+#21732
+Desert Course~
+You are in the desert course.  Sand covers the entire area except for the
+rocky hill to the west.  Gusts of wind cause sand to swirl into the air and
+into your face.  
+~
+0 0 10
+D0
+~
+~
+0 0 21733
+D1
+~
+~
+0 0 21731
+D4
+~
+~
+0 0 21735
+S
+#21733
+Desert Course~
+You are in the desert course.  Sand covers the entire area except for the
+rocky hill to the west.  Gusts of wind cause sand to swirl into the air and
+into your face.  
+~
+0 0 10
+D1
+~
+~
+0 0 21730
+D2
+~
+~
+0 0 21732
+D4
+~
+~
+0 0 21734
+S
+#21734
+Desert Course~
+You are on top of the rocky, desert hill.  The wind is very gusty up here
+getting sand in your eyes.  The sun beats down on the surface, making it too
+hot to stand in place for long.  
+~
+0 0 10
+D2
+~
+~
+0 0 21735
+D3
+~
+~
+0 0 21737
+D5
+~
+~
+0 0 21733
+S
+#21735
+Desert Course~
+You are on top of the rocky, desert hill.  The wind is very gusty up here
+getting sand in your eyes.  The sun beats down on the surface, making it too
+hot to stand in place for long.  
+~
+0 0 10
+D0
+~
+~
+0 0 21734
+D3
+~
+~
+0 0 21736
+D5
+~
+~
+0 0 21732
+S
+#21736
+Desert Course~
+You are on top of the rocky, desert hill.  The wind is very gusty up here
+getting sand in your eyes.  The sun beats down on the surface, making it too
+hot to stand in place for long.  
+~
+0 0 10
+D0
+~
+~
+0 0 21737
+D1
+~
+~
+0 0 21735
+S
+#21737
+Desert Course~
+You are on top of the rocky, desert hill.  The wind is very gusty up here
+getting sand in your eyes.  The sun beats down on the surface, making it too
+hot to stand in place for long.  
+~
+0 0 10
+D1
+~
+~
+0 0 21734
+D2
+~
+~
+0 0 21736
+S
+#0
+
+
+
+#SPECIALS
+M 21701 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 21701 1 21701 1
+M 0 21702 1 21702 1
+G 0 21702 0
+G 0 21703 0
+G 0 21704 0
+M 0 21705 4 21704 4
+G 0 21705 0
+M 0 21706 3 21706 3
+M 0 21707 3 21709 3
+G 0 21707 0
+M 0 21708 4 21712 4
+G 0 21706 0
+M 0 21710 2 21717 2
+M 0 21709 6 21719 6
+M 0 21711 5 21722 5
+M 0 21712 4 21724 4
+M 0 21713 3 21726 3
+M 0 21714 3 21728 3
+M 0 21715 4 21731 4
+M 0 21716 4 21733 4
+M 0 21717 2 21735 2
+M 0 21718 2 21737 2
+S
+
+
+
+#SHOPS
+21702 0 0 0 0 0 120 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

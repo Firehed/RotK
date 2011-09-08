@@ -1,0 +1,819 @@
+#AREADATA
+Name The Cirus Sea~
+Builders Grimace~
+VNUMs 9450 9499
+Credits [ ALL ] Grimace The Cirus Sea~
+Security 9
+End
+
+
+
+#MOBILES
+#9450
+haddock~
+haddock~
+Haddock
+~
+~
+Human~
+AG b 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9450
+Next to the Docks~
+You are on the Cirus Sea, next to some village docks.  You see some
+people looking at you from the docks, wondering where you came from.  The
+water is quite clear here.  
+~
+0 0 7
+D1
+~
+~
+0 0 20330
+D2
+~
+~
+0 0 9451
+D3
+~
+~
+0 0 9452
+S
+#9451
+Next to the Docks~
+You are on the Cirus Sea, next to some village docks.  You see some
+people looking at you from the docks, wondering where you came from.  The
+water is quite clear here.  
+~
+0 0 7
+D0
+~
+~
+0 0 9450
+D1
+~
+~
+0 0 20329
+D3
+~
+~
+0 0 9453
+S
+#9452
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9452
+D1
+~
+~
+0 0 9450
+D2
+~
+~
+0 0 9453
+D3
+~
+~
+0 0 9452
+S
+#9453
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9452
+D1
+~
+~
+0 0 9451
+D2
+~
+~
+0 0 9453
+D3
+~
+~
+0 0 9454
+S
+#9454
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9454
+D1
+~
+~
+0 0 9453
+D2
+~
+~
+0 0 9455
+D3
+~
+~
+0 0 9456
+S
+#9455
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9454
+D1
+~
+~
+0 0 9455
+D2
+~
+~
+0 0 9455
+D3
+~
+~
+0 0 9457
+S
+#9456
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9456
+D1
+~
+~
+0 0 9454
+D2
+~
+~
+0 0 9457
+D3
+~
+~
+0 0 9456
+S
+#9457
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9456
+D1
+~
+~
+0 0 9455
+D2
+~
+~
+0 0 9457
+D3
+~
+~
+0 0 9458
+S
+#9458
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9458
+D1
+~
+~
+0 0 9457
+D2
+~
+~
+0 0 9458
+D3
+~
+~
+0 0 9459
+S
+#9459
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9459
+D1
+~
+~
+0 0 9458
+D2
+~
+~
+0 0 9459
+D3
+~
+~
+0 0 9460
+S
+#9460
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9460
+D1
+~
+~
+0 0 9459
+D2
+~
+~
+0 0 9461
+D3
+~
+~
+0 0 9460
+S
+#9461
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see an
+island off to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 9460
+D1
+~
+~
+0 0 9461
+D2
+~
+~
+0 0 9480
+D3
+~
+~
+0 0 9462
+S
+#9462
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see an
+island off to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 9462
+D1
+~
+~
+0 0 9461
+D2
+~
+~
+0 0 9475
+D3
+~
+~
+0 0 9463
+S
+#9463
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see an
+island off to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 9463
+D1
+~
+~
+0 0 9462
+D2
+~
+~
+0 0 9475
+D3
+~
+~
+0 0 9464
+S
+#9464
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see an
+island off to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 9465
+D1
+~
+~
+0 0 9463
+D2
+~
+~
+0 0 9475
+D3
+~
+~
+0 0 9464
+S
+#9465
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9465
+D1
+~
+~
+0 0 9465
+D2
+~
+~
+0 0 9464
+D3
+~
+~
+0 0 9466
+S
+#9466
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9466
+D1
+~
+~
+0 0 9465
+D2
+~
+~
+0 0 9466
+D3
+~
+~
+0 0 9467
+S
+#9467
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9468
+D1
+~
+~
+0 0 9466
+D2
+~
+~
+0 0 9472
+D3
+~
+~
+0 0 9471
+S
+#9468
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9468
+D1
+~
+~
+0 0 9468
+D2
+~
+~
+0 0 9467
+D3
+~
+~
+0 0 9469
+S
+#9469
+The Cirus Sea~
+You are on the Cirus Sea, with land not too far west of here.  The water
+is dark blue and fairly calm.  There is an old rickety dock to the
+southwest, and open sea to the north and east.  
+~
+0 0 7
+D0
+~
+~
+0 0 9469
+D1
+~
+~
+0 0 9468
+D2
+~
+~
+0 0 9471
+D3
+~
+~
+0 0 9470
+S
+#9470
+Next to a Stoney Beach~
+You are on the Cirus Sea next to a stoney beach.  The water is dark blue
+and fairly calm.  There is an old rickety dock to the south, and open sea to
+the east.  
+~
+0 0 7
+D0
+~
+~
+0 0 9470
+D1
+~
+~
+0 0 9469
+D2
+~
+~
+0 0 21923
+S
+#9471
+Next to a Dock~
+You are on the Cirus Sea, with land just west of here.  The water is dark
+blue and fairly calm.  There is an old rickety dock to the west, and open
+sea to the east.  
+~
+0 0 7
+D0
+~
+~
+0 0 9469
+D1
+~
+~
+0 0 9467
+D2
+~
+~
+0 0 9473
+D3
+~
+~
+0 0 21923
+S
+#9472
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and fairly calm.  You
+look into the water, but it is too dark to see anything in it.  You see
+water all around you.  
+~
+0 0 7
+D0
+~
+~
+0 0 9467
+D1
+~
+~
+0 0 9472
+D2
+~
+~
+0 0 9472
+D3
+~
+~
+0 0 9473
+S
+#9473
+The Cirus Sea~
+You are on the Cirus Sea, with land not too far west of here.  The water
+is dark blue and fairly calm.  There is an old rickety dock to the
+northwest, and open sea to the east.  
+~
+0 0 7
+D0
+~
+~
+0 0 9471
+D1
+~
+~
+0 0 9472
+D2
+~
+~
+0 0 9473
+D3
+~
+~
+0 0 9474
+S
+#9474
+Next to a Stoney Beach~
+You are on the Cirus Sea, with a stoney beach to the west.  The water is
+dark blue and fairly calm.  There is an old rickety dock to the north, and
+open sea to the east.  
+~
+0 0 7
+D0
+~
+~
+0 0 21923
+D1
+~
+~
+0 0 9473
+D2
+~
+~
+0 0 9474
+S
+#9475
+The Cirus Sea~
+You are on the Cirus Sea.  The water is dark blue and you see waves
+splash up onto the beaches of an island to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 9462
+D1
+~
+~
+0 0 9475
+D2
+~
+~
+0 0 9476
+D3
+~
+~
+0 0 9475
+S
+#9476
+The Cirus Sea~
+You are on the Cirus Sea next to an island.  As you go by the island, you
+look up at the great mountain on its north side to your east.  You try to go
+off to the west, but the current prevents it.  There looks to be a fairly
+safe landing spot south of here.  
+~
+0 0 7
+D0
+~
+~
+0 0 9475
+D2
+~
+~
+0 0 9477
+D3
+~
+~
+0 0 9476
+S
+#9477
+The Cirus Sea~
+You are floating on the Cirus Sea just west of a sandy beach, which looks
+like a safe place to land.  The water current prevents you from going west
+and keeps you near the island.  
+~
+0 0 7
+D0
+~
+~
+0 0 9476
+D1
+~
+~
+0 0 9000
+D2
+~
+~
+0 0 9482
+D3
+~
+~
+0 0 9477
+S
+#9478
+The Cirus Sea~
+You are on the Cirus Sea near an island.  The water is pretty wavey here
+because of the rocks in the water.  You see the pirate ship above you, and
+there is a great big whole in the side of it.  You try to go east, but the
+current is too strong and keeps you near the island.  
+~
+0 0 7
+D0
+~
+~
+0 0 9479
+D1
+~
+~
+0 0 9478
+D2
+~
+~
+0 0 9481
+S
+#9479
+The Cirus Sea~
+You are on the Cirus Sea next to a jungle type island.  The shores are
+rocky and the waves crash into them.  You try to go east, but the current is
+too strong for you to let you go out farther.  
+~
+0 0 7
+D0
+~
+~
+0 0 9480
+D1
+~
+~
+0 0 9479
+D2
+~
+~
+0 0 9478
+S
+#9480
+The Cirus Sea~
+You are on the Cirus Sea near the northeast corner of an island.  A great
+mountain is on the north side of the island, and vines hang off of it.  The
+current prevents you from going east.  
+~
+0 0 7
+D0
+~
+~
+0 0 9461
+D1
+~
+~
+0 0 9480
+D2
+~
+~
+0 0 9479
+S
+#9481
+The Cirus Sea~
+You are off the southeast corner of a rocky island on the Cirus Sea.  The
+water crashes into the rocky beaches and you see a shipwreck north of here. 
+~
+0 0 7
+D0
+~
+~
+0 0 9478
+D1
+~
+~
+0 0 9481
+D2
+~
+~
+0 0 9481
+D3
+~
+~
+0 0 9482
+S
+#9482
+The Cirus Sea~
+You are off of the southwest corner of a rocky island on the Cirus Sea. 
+The waves crash into the island onto the rocks.  There appears to be a small
+sandy beach farther north.  
+~
+0 0 7
+D0
+~
+~
+0 0 9477
+D1
+~
+~
+0 0 9481
+D2
+~
+~
+0 0 9482
+D3
+~
+~
+0 0 9482
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

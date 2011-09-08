@@ -1,0 +1,92 @@
+#AREADATA
+Name Bink's Quest Stuff~
+Builders Bink~
+VNUMs 18071 18120
+Credits [QUEST] Bink    Quest Stuff~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#18071
+binks quest pill~
+{4Bink's {2Quest {1Pill{7~
+{4Bink's {2Quest {1Pill{7 lays here.~
+unknown~
+token 0 A
+CDFI 0 0 0 0
+0 1 1000000000 P
+#18072
+quest token~
+{1Bink's {2 Token{7~
+{1Bink's {2 Token{7 lays here.~
+unknown~
+token 0 AP
+ABDG 0 0 0 0
+0 1 1000000000 P
+#18073
+binks gauntlets~
+{1Bink's Gauntlets{0~
+{1Bink's Gauntlets{7 lay here.{0~
+leather~
+armor AB AH
+-100 -100 -100 -100 0
+102 1 1000000000 P
+A
+14 10000
+A
+18 1000
+A
+19 1000
+A
+12 10000
+A
+13 10000
+#18120
+binks sword of distrustion~
+{4Bink's {*Sword {&of {!Destruction{0~
+{4Bink's {*Sword {&of {!Destruction{0 lays here.~
+Adamantite~
+weapon AB AN
+exotic 350 350 stab AE
+102 1 2147483647 P
+A
+17 -500
+A
+18 1000
+A
+19 1000
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

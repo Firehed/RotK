@@ -1,0 +1,338 @@
+#AREADATA
+Name Malus Clan Hall~
+Builders Srixen~
+VNUMs 16445 16454
+Credits [ CLAN] Malus   Malus Clanhall~
+Security 1
+End
+
+
+
+#MOBILES
+#16445
+man cloaked figure~
+a cloaked figure~
+A man dressed in a long black cloak is standing here, handing out supplies.
+~
+~
+Human~
+AB 0 0 0 0
+600 0 10000d1+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16446
+man attendant~
+an attendant~
+A man in a long cloak is here, tending the scrolls.
+~
+~
+Human~
+ABJKb DFJZ 0 0 0
+100 0 10d10+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16445 100~
+#16447
+woman~
+a cloaked woman~
+A slender woman dressed in a long cloak is standing here.
+~
+~
+Human~
+ABa 0 0 0 0
+100 0 10d10+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16448
+training dummy~
+a training dummy~
+A magically animated training dummy is here.
+~
+~
+Human~
+AB AHc 0 0 0
+1 -100 10000d1+100000 0d0+0 0d0+0 none
+0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16449
+Nait~
+Nait~
+Nait is here to help you with your purchases.
+~
+~
+Human~
+AB 0 0 0 0
+0 0 1d1+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16445
+heal potion~
+{!a {!h{1e{!a{1l{!i{1n{!g {!p{1o{!t{1i{!o{1n{0~
+{!A {!h{1e{!a{1l{!i{1n{!g {!p{1o{!t{1i{!o{1n{0 is on the ground.~
+unknown~
+potion Y AO
+101 'heal' 'heal' 'heal' 'heal'
+1 0 500 P
+#16446
+spellup potion~
+{!a {@s{#p{$e{%l{^l{&u{!p {@p{#o{$t{%i{^o{&n{0~
+{!A {@s{#p{$e{%l{^l{&u{!p {@p{#o{$t{%i{^o{&n{0 is on the ground.~
+unknown~
+potion Y AO
+101 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+1 0 500 P
+#16447
+cospellup potion~
+{!a {@c{3o{$s{5p{^e{7l{&l{1u{@p {#p{4o{%t{6i{&o{8n{0~
+{!A {@c{3o{$s{5p{^e{7l{&l{1u{@p {#p{4o{%t{6i{&o{8n{0 is on the ground.~
+unknown~
+potion Y AO
+101 'acidshield' 'holyshield' 'watershield' 'glassshield'
+1 0 500 P
+#16448
+cureall potion~
+{@a {$c{@u{$r{@e{$a{@l{$l {@p{$o{@t{$i{@o{$n{0~
+{@A {$c{@u{$r{@e{$a{@l{$l {@p{$o{@t{$i{@o{$n{0 is on the ground.~
+unknown~
+potion Y AO
+150 'cure poison' 'cure disease' 'cure blindness' 'remove curse'
+1 0 500 P
+#0
+
+
+
+#ROOMS
+#16445
+Malus Clan Hall~
+Built in the center of an ancient volcano, this clan hall was created by
+the Fathers of Malus to protect those of the order.  The obsidian walls are
+carved with intricate patterns and murals, all depicting the history of the
+Malus.  A small magical rift is in the center of the room, leading to the
+center of Midgaard.  
+~
+0 524296 0
+D0
+~
+~
+0 0 16446
+D5
+~
+~
+0 0 3014
+M 1000 H 1000
+S
+#16446
+Hallway~
+This hallway connects the main hall with all the other smaller rooms. 
+The floor is very flat and smooth, but the ceiling is rounded and covered
+with runic patterns and glyphs.  
+~
+0 524296 0
+D0
+~
+~
+0 0 16451
+D1
+~
+~
+0 0 16447
+D2
+~
+~
+0 0 16445
+D3
+~
+~
+0 0 16448
+S
+#16447
+Supply Room~
+This large room is lined with shelves and racks full of weapons and
+armor.  An attendant walks slowly about the room, straightening a weapon
+rack or polishing a piece of armor.  The large domed ceiling is carved with
+protective runes and glyphs like the rest of the hall.  
+~
+0 1032 0
+D3
+~
+~
+0 0 16446
+S
+#16448
+Training Room~
+This is where the followers of Malus come to hone their battle skills. 
+There are exercises to increase speed and strength, as well as magically
+animated dummies for more realistic training.  
+~
+0 8 0
+D0
+~
+~
+0 0 16449
+D1
+~
+~
+0 0 16446
+D3
+~
+~
+0 0 16450
+S
+#16449
+Tomes of Jak'l~
+Filled with knowledge about everything from ancient martial arts to
+combat magic, these tomes are where those of the order come to learn skills
+and spells.  Although older than the clan hall themselves, they have been
+magically preserved and look as though they were only written yesterday.  
+~
+0 1032 0
+D2
+~
+~
+0 0 16448
+S
+#16450
+The Shop~
+Behind the main combat area is the shop of Malus.  Nait is here to help
+you with your purchases.  
+~
+0 8 0
+D1
+~
+~
+0 0 16448
+M 150 H 150
+S
+#16451
+Hallway~
+Leading from the grand hall, this hallway leads to other parts of the
+clan hall deeper in the mountain.  A slight low rumble can be heard, and the
+walls are warm to the touch.  
+~
+0 8 0
+D2
+~
+~
+0 0 16446
+D3
+~
+~
+0 0 16452
+S
+#16452
+Portal Room~
+Built by the ancient Malus fathers, this room crackles with magical
+presence.  Various portals have been opened up leading to places all across
+the realm.  A large stone cube has been placed in the middle of the room and
+enscribed with the destinations of the portals.  
+~
+0 8 0
+E
+cube~
+-' North '- Drakyri Isle
+-' South '- Glacier
+-' East  '- Clan Hall
+-' West  '- Hell
+-' Up    '- Talagrath Maze
+-' Down  '- Renwood
+~
+E
+stone~
+-' North '- Drakyri Isle
+-' South '- Glacier
+-' East  '- Clan Hall
+-' West  '- Hell
+-' Up    '- Talagrath Maze
+-' Down  '- Renwood
+~
+D0
+~
+~
+0 0 11707
+D1
+~
+~
+0 0 16451
+D2
+~
+~
+0 0 450
+D3
+~
+~
+0 0 3472
+D4
+~
+~
+0 0 17000
+D5
+~
+~
+0 0 21800
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 700 0 16445
+O 0 17058 0 16445
+M 0 16447 1 16445 1
+M 0 16445 1 16447 1
+M 0 16448 1 16448 1
+M 0 16448 1 16448 1
+M 0 16446 1 16449 1
+M 0 16449 1 16450 1
+G 0 16448 0
+G 0 16447 0
+G 0 16446 0
+G 0 16445 0
+S
+
+
+
+#SHOPS
+16449 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#16445
+emote watches you as you enter.
+say I see your hunger for knowledge...
+say I hope these tomes may satiated it...
+~
+#0
+
+#$

@@ -1,0 +1,864 @@
+#AREADATA
+Name Beholders~
+Builders Firehed~
+VNUMs 16220 16240
+Credits [ CLAN] Firehed Beholders...~
+Security 9
+End
+
+
+
+#MOBILES
+#16221
+Jax~
+Jax~
+Jax is here, ready to help you {&Train, Practice, or Gain.{x
+~
+~
+Human~
+ABJKb 0 0 0 0
+0 0 1d1+9999 1d1+9999 0d0+0 none
+0
+0 ABCDEFHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium Flesh
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16221 100~
+#16222
+Choco Chocobo~
+{#C{3h{#o{3c{#o{2 the {#GOLDEN C{3h{#o{3c{#o{3b{#o{0~
+Choco the Chocobo is here, loyally following his master.
+~
+~
+water fowl~
+ABI LQTb E 0 9999
+101 0 100d110+120 0d0+0 30d40+50 none
+-10
+0 K IR 0
+stand stand male 0
+AGW ACDEFHKP medium feathers
+#16223
+Sir Eyeballsalot~
+Sir Eyeballsalot~
+Sir Eyeballsalot is here, trading goods.
+~
+~
+Human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16229 100~
+#16224
+attendant~
+an attendant~
+An attendant is here to heal your wounds.
+~
+~
+Human~
+ABXZa 0 0 0 0
+9999 0 1d1+29999 1d1+29999 30d10+2000 none
+-100
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16224 100~
+M SPEECH 16222 align~
+#16225
+lisa~
+Lisa~
+Lisa is here, chewing {%Bubble Gum{0.
+~
+~
+Human~
+AB 0 0 0 9999
+0 0 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16225 100~
+#16226
+Dundrave~
+Dundrave~
+Dundrave is here, watching your greedy fingers.
+~
+~
+Human~
+AB 0 H 0 0
+0 0 1d1+29999 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16226 100~
+M SPEECH 16223 pk~
+#16227
+red chocobo~
+A {!R{1e{!d {1C{!h{1o{!c{1o{!b{1o{0~
+A magical, reddish chocobo is here!
+~
+~
+Human~
+AB 0 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16229
+cyclops eye eyeball~
+A Cyclops Eyeball~
+A gooey eyeball floats here, manning the cash drawer.
+~
+~
+water fowl~
+AB Tb CDEHPQRS 0 0
+101 0 1d1+29999 1d1+29999 0d0+0 none
+-100
+0 0 R 0
+stand stand none 1000000
+AGW ACDEFHKP medium unknown
+M ACT 17901 slap~
+M ACT 17900 poke~
+#16233
+belmakor~
+Belmakor~
+Belmakor is here, smokin' his weed...
+~
+~
+Human~
+AB 0 H -1000 0
+12123 0 30000d1+0 0d0+0 0d0+0 none
+0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16234
+living shrine lord rabbit~
+A living shrine to Firehed~
+A living shrine to Firehed the {DBlack {gand {WWhite {YRabbit{x is here.
+~
+~
+Human~
+A 0 CDEFNOPQRS 0 0
+110 0 0d0+0 0d0+0 0d0+0 none
+1000
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 16231 poison~
+M SPEECH 16230 drink~
+M SPEECH 16230 food~
+M SPEECH 16228 restore~
+M SPEECH 16227 spellup~
+#16239
+killer fucking chocobo of doom~
+{#K{3I{#L{3L{#E{3R {^F{6U{^C{6K{^I{6N{^G {%C{5H{%O{5C{%O{5B{%O{0~
+A {#K{3I{#L{3L{#E{3R {^F{6U{^C{6K{^I{6N{^G {%C{5H{%O{5C{%O{5B{%O is here, and you are already dead{0
+~
+~
+kobold~
+ABFI J CDEHPQRS -1000 0
+1000 10000 30000d1+0 30000d1+0 1000d1000+1000 bite
+-1000
+ABDEFIKO BEFGHIJKLMNOPQRSTXYZ L 0
+stand stand none 0
+ABHMV ABCDEFGHIJKQ medium unknown
+F vul C
+#0
+
+
+
+#OBJECTS
+#16220
+purple velvet armchair shrine lord firehed~
+a {5purple velvet armchair{0~
+A {Dsilver{x shrine to {cLord Firehed{x is here, surrounded by {mvelvet armchairs{x~
+unknown~
+furniture E 0
+6 100000000 BEHK 100000 100000
+101 0 0 P
+E
+nash~
+There is a shrine to lord Nash here, standing at least twelve feet tall,
+and is surrouned by many {5purple velvet armchairs{0 and has lots of
+brightly {Rc{#o{@l{$o{^r{5e{%d{0 lights around it.  
+~
+E
+lord~
+There is a shrine to lord Nash here, standing at least twelve feet tall,
+and is surrouned by many {5purple velvet armchairs{0 and has lots of
+brightly {Rc{#o{@l{$o{^r{5e{%d{0 lights around it.  
+~
+E
+shrine~
+There is a shrine to lord Nash here, standing at least twelve feet tall,
+and is surrouned by many {5purple velvet armchairs{0 and has lots of
+brightly {Rc{#o{@l{$o{^r{5e{%d{0 lights around it.  
+~
+#16221
+healing waters~
+{CH{wol{Cy W{wa{Wt{we{Cr{x~
+A pool of {CH{wol{Cy W{wa{Wt{we{Cr{x is here to rest in.~
+Holy Water~
+furniture I 0
+50 50000 IL 40000 40000
+0 0 0 P
+#16222
+chipwich~
+{#-{$>{&C{7h{*i{7p{&w{7i{*c{7h{$<{#-{0~
+A chipwich is here, dripping slightly.~
+unknown~
+potion Y A
+1 'heal' 'heal' 'mass healing' 'refresh'
+1 0 500 P
+#16223
+vial strawberry syrup~
+{!S{1t{!r{1a{!w{1b{!e{1r{!r{1y {!S{1y{!r{1u{!p{0~
+A vial of red liquid is here, to cure you.~
+unknown~
+potion Y A
+150 'cure disease' 'cure poison' 'cure blindness' 'remove curse'
+1 0 500 P
+#16224
+hunk cheese~
+{#Hunk 'o Cheese{)~
+{# Hunk 'o Cheese{0~
+unknown~
+pill Y A
+150 'shield' 'armor' 'haste' 'giant strength'
+1 0 500 P
+#16225
+elements spellup potion~
+{&El{4em{!en{$tal {0Potion~
+A potions swirled with the colors of the elements is here.~
+elements~
+potion Y A
+150 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+15 0 500 P
+#16226
+earring strength~
+{$E{4a{$r{4r{$i{4n{$g{2 of {#S{3t{#r{3e{#n{3g{#t{3h{0~
+A powerful earring is here, humming and glowing slightly.~
+unknown~
+armor AB AS
+50 50 50 50 0
+25 0 1000 P
+A
+13 120
+A
+12 80
+A
+14 100
+A
+18 10
+A
+19 10
+#16227
+earring magic~
+{$E{4a{$r{4r{$i{4n{$g{2 of {%M{5a{%g{5i{%c{0~
+A magical earring lies here, glowing.~
+unknown~
+armor AG AS
+50 50 50 50 0
+25 0 1000 P
+A
+12 120
+A
+13 80
+A
+14 100
+A
+19 10
+A
+18 10
+#16228
+razor sharp stiletto~
+{$K{4e{$e{4p{$e{4r{$s {#S{3tiletto{0~
+A razor-sharp stiletto lies here.~
+unknown~
+weapon E AN
+dagger 10 12 stab DE
+25 0 1000 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+#16229
+keepers bone mail~
+{!F{1iery {#bone mail etched {^"{4K{$e{4e{$p{4e{$r{4s{^"{0~
+Bone mail is here, smoking slightly.~
+bone~
+armor AE AD
+50 50 50 50 0
+25 0 1000 P
+F
+R 0 0 I
+A
+13 100
+A
+12 100
+A
+14 100
+A
+19 10
+A
+18 10
+#16230
+Topaz gauntlets gloves~
+{#Topaz {%G{5a{%u{5n{%t{5l{%e{5t{%s{0~
+{#Topaz {%G{5a{%u{5n{%t{5l{%e{5t{%s {)of the {4K{$e{4e{$p{4e{$r{4s{0 are here.~
+Topaz~
+armor AY AH
+50 50 50 50 0
+35 0 1000 P
+F
+R 0 0 J
+A
+18 10
+A
+19 10
+A
+13 100
+A
+12 100
+A
+12 100
+#16231
+emerald ruby moccasins~
+{@E{2m{@e{2r{@a{2l{@d {&and {!R{1u{!b{1y {&speckled {#Moccasins{0~
+{@E{2m{@e{2r{@a{2l{@d {&and {!R{1u{!b{1y {&speckled {#Moccasins{0 lie here.~
+leather~
+armor AY AG
+50 50 50 50 0
+85 0 1000 P
+F
+R 0 0 H
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 10
+A
+19 10
+#16232
+mag lite light maglight maglite~
+{$M{4A{$G{@-{#L{3I{#T{3E{0~
+A {%6-D {$M{4A{$G{@-{#L{3I{#T{3E{0 is here.~
+unknown~
+light A A
+0 0 999 0 0
+35 0 1000 P
+A
+18 10
+A
+19 10
+A
+17 50
+A
+13 100
+A
+12 100
+A
+14 100
+#16233
+pit keepers mr howards beard~
+{&Mr. Howard's Beard{0!~
+The Keepers' Donation Pit, {&Mr. Howard's Beard{0, is here.~
+unknown~
+container 0 0
+10000000 0 0 10000000 0
+0 0 0 P
+#16234
+belmakor belm's joint~
+{&Belm's Joint{0~
+A joint is burning on the ground here.~
+unknown~
+armor A AV
+1000 1000 1000 1000 0
+0 0 10000 P
+A
+14 1000
+A
+12 1000
+A
+13 1000
+#16235
+pk healing potion~
+{4P{$K {6P{^o{^t{6i{$o{4n{0~
+A {4P{$K {6P{^o{^t{6i{$o{4n{0 is here.~
+unknown~
+potion Y A
+150 'demi' 'demi' 'demi' 'golem'
+15 0 500 P
+#16236
+heal pk good~
+{4P{$K {*H{7ea{&l{7in{*g {6P{^o{^t{6i{$o{4n{0~
+A {4P{$K {*H{7ea{&l{7in{*g {6P{^o{^t{6i{$o{4n{0 is here.~
+unknown~
+potion Y A
+100 'heal' 'heal' 'heal' 'heal'
+15 0 500 P
+#16237
+icewine fountain~
+a {&M{7a{*r{7b{&l{7e {6Ice{7wine{0 fountain~
+A {&M{7a{*r{7b{&l{7e{0 fountain full of {6Ice{7wine{0 is here.~
+Marble~
+fountain Y AP
+-1 -1 'icewine' 0 0
+0 1 0 P
+#16238
+super spellup~
+{@Sup{$er S{&pel{*lup{0~
+A super spellup potion is here.~
+glass~
+potion AY A
+100 'acidshield' 'watershield' 'holyshield' 'glassshield'
+5 0 500 P
+#16239
+sword wizslap~
+{1W{7i{1z{7s{1l{7a{1p{0~
+An extremely powerful sword is here.~
+unknown~
+weapon EM AN
+sword 11 14 slap ABDEG
+55 0 1000 P
+#16240
+sword machete~
+{#Go{&l{#d{3e{#n {^I{&c{^y {*Ma{7ch{&et{6e{0~
+A {#Go{&l{#d{3e{#n {^I{&c{^y {*Ma{7ch{&et{6e{0 is here.~
+unknown~
+weapon EM AN
+sword 13 20 none ABCDEGH
+99 0 1000 P
+#0
+
+
+
+#ROOMS
+#16221
+The Entrance Hall of the {YB{ye{rh{Yo{yl{rd{Ye{yr{rs{x~
+I need to do a desc for this, gimme some ideas!
+~
+0 1024 0
+E
+rules~
+This is a neutral clan.  You may favor neither those that are good nor
+those that are evil.  
+ 
+This is an aggressive clan.  Although you need not go out of your way
+to make an attack, there is no excuse for passing up a good 
+opportunity.
+ 
+You are forbidden to give out the clan's equipment or knowledge to
+others not in the clan.
+ 
+Failure is not frowned upon.  On the contrary, it is used as an
+opportunity to improve one's skills.
+ 
+Work together, it is the best way to accomplish the goals of a group.
+Do not horde your findings if there is another in the clan that could
+use them.  Spare equipment should go to the donation pit in the clan hall.
+ 
+Justification for your attacks and kills is not required, although it
+is smiled upon.  If the choice arises to avenge the death of a fellow
+member, you are expected to avenge the death.  Failure to do so may
+result in punishment and/or expulsion from the clan.
+ 
+Roleplaying is required.  Please have a description that explains
+your past and the reason that you chose to join our ranks.
+~
+D0
+~
+~
+4 0 16230
+D1
+~
+~
+0 0 16223
+D2
+~
+~
+0 0 16222
+D5
+~
+~
+0 0 3382
+S
+#16222
+A room of Many Portals~
+You have entered the portal room.  There are exits in all directions, but
+only back north will lead you to the safety of the Clan Hall.  
+ 
+EAST - {!A Small Sandy Beach on Kenari Island{0
+ 
+SOUTH - {#The Shimmering Pathway of Drakyri Isle{0
+ 
+WEST - {$Intersection on a Pebbled Path in Divided Souls{0
+ 
+DOWN - {2Ancient Room in Hell{0
+~
+0 0 0
+D0
+~
+~
+0 0 16221
+D1
+~
+~
+0 0 9000
+D2
+~
+~
+0 0 11703
+D3
+~
+~
+0 0 11600
+D5
+~
+~
+0 0 10402
+S
+#16223
+The Intersection~
+As you enter this room, you see a plaque on the wall that officially
+names it "The Intersection".  Back west is the main hall, where the largest
+fire of all burns.  To the north, you see what appear to be beds of cold
+flame (you hope!), to the south is a solitary man, to the east is some
+sort of dummy, through a ret-hot manhole down, you see several pets, and
+glancing up, you see another man at the top of a ladder in what appears to
+be a shop.  
+~
+0 1032 0
+D0
+~
+~
+0 0 16224
+D1
+~
+~
+0 0 16232
+D2
+~
+~
+0 0 16225
+D3
+~
+~
+0 0 16221
+D4
+~
+~
+0 0 16226
+D5
+~
+~
+0 0 16227
+S
+#16224
+The Sanctuary~
+You are now in the Beholders' Sanctuary.  There is an attendant that will
+cast healing spells on you, and some Holy Water for you to rest in to heal
+your wounds.  
+~
+0 1024 0
+D2
+~
+~
+0 0 16223
+M 150 H 300
+S
+#16225
+The Hall of Wisdom~
+~
+0 1032 0
+D0
+~
+~
+0 0 16223
+S
+#16226
+The Stuff Shop~
+Inside the stuff shop, you see an assortment of items.  Vials, candies,
+weapons, and other things line the shelves.  
+~
+0 1024 0
+D0
+~
+~
+0 0 16229
+D5
+~
+~
+0 0 16223
+S
+#16227
+The Pet Shop~
+All sorts of pets are caged up here.  Lisa asks, "May I take your order?"  
+~
+0 5120 0
+D4
+~
+~
+0 0 16223
+S
+#16228
+pet shop place~
+In this room there is a lone statue.  It has a "Kill Me" sign taped to
+it.  As you puzzle inwardly at this, the thought comes to you that this is
+where one would improve their skills and spells.  
+~
+0 1028 0
+S
+#16229
+The Equipment Shop~
+This is the equipment shop.  If you are looking for potions, go south. 
+If you are looking for clan equipment, you've come to the right place.  Some
+sort of floating eyeball is here.  It is appearantly the shopkeeper.  
+~
+0 1024 0
+D1
+~
+~
+0 0 16234
+D2
+~
+~
+0 0 16226
+S
+#16230
+Storage Room~
+Firehed keeps his evil pet chocobo here.  The chocobo attacks you. 
+Firehed put you here for a reason.  You die now.  
+~
+0 4 0
+S
+#16231
+Hero's Portal's~
+There is a portal to the Labrynth here.  Be cautious, because in there,
+one wrong step may end up in death.  I suggest that only Heroes enter this
+portal, and with a group of friends to help.  You have been warned.  
+~
+0 4 0
+S
+#16232
+Path to the Dummy~
+This is a path to the dummy.  If you are using a good MUD client then
+have a trigger for 'Path to the Dummy' to go east :) That is really the only
+purpose of this room.  Have a 'Belmakor is here' 'BS belmakor' trigger for
+you fighting types.  Have fun!  Also, make a flee trigger once you are hero,
+to really rack it up!  Also, you see a room to the south.  That room seems
+to have a large chair in it, and there is also a newly constructed to the
+North.  The room to the North seems to be empty other than pads on all of
+the walls and the floor.  
+~
+0 1024 0
+D0
+~
+~
+0 0 16236
+D1
+~
+~
+0 0 16233
+D2
+~
+~
+0 0 16235
+D3
+~
+~
+0 0 16223
+S
+#16233
+Belmakor's House~
+This is where Belmakor smokes his w-h-e-e-d-e.  Better give him a good
+thrashing, he has done some really naughty things in the past.  You know as
+well as I do that he certainly deserves it :P 
+~
+0 16 0
+D3
+~
+~
+0 0 16232
+S
+#16234
+Weapons Shop!~
+There are all sorts of swords and such hanging off of the wall here.  You
+wonder if people are worthy of this eqipment.  A magical chocobo is acting
+as a shopkeeper here, or so it seems.  
+~
+0 1024 0
+D3
+~
+~
+0 0 16229
+S
+#16235
+The Shrine to Lord Nash~
+There is a huge statue of the great lord Firehed in the center of the room. 
+There are all sorts of various colored lights pointing at the statue, making
+it much more noticable.  There is a small plaque at the {&Quartz{c base of
+the {*Silver{c statue.  
+~
+0 1024 0
+D0
+~
+~
+0 0 16232
+S
+#16236
+Sparring Arena~
+This is the Beholders' Sparring Arena.  The floors and walls in here are
+all padded, and a first aid kit is attached to the wall.  Those who come in
+here do so to test their strength against one of their own without
+penalties.  
+~
+0 16777216 0
+D2
+~
+~
+0 0 16232
+S
+#0
+
+
+
+#SPECIALS
+M 16239 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 16221 0 2
+O 0 49 0 16221
+O 0 16233 0 16221
+O 0 16237 0 16221
+O 0 16221 0 16224
+M 0 16224 1 16224 1
+M 0 16221 1 16225 1
+M 0 16226 1 16226 1
+G 0 16235 0
+G 0 16236 0
+G 0 16222 0
+G 0 16223 0
+G 0 16224 0
+G 0 16225 0
+G 0 16226 0
+G 0 16227 0
+G 0 16238 0
+M 0 16225 1 16227 1
+M 0 16222 1 16228 1
+M 0 16223 1 16229 1
+G 0 16229 0
+G 0 16230 0
+G 0 16231 0
+G 0 16232 0
+M 0 16239 2 16230 2
+E 0 1204 0 16
+M 0 16233 1 16233 5
+E 0 16234 0 26
+M 0 16233 4 16233 5
+M 0 16227 1 16234 1
+G 0 16228 0
+G 0 16239 0
+G 0 16240 0
+O 0 16220 0 16235
+S
+
+
+
+#SHOPS
+16223 10 9 26 1 0 100 100 0 23
+16225 0 0 0 0 0 100 100 0 23
+16226 9 10 0 0 0 100 100 0 23
+16227 5 9 10 39 0 100 100 0 23
+16229 9 0 0 0 0 50 100 0 23
+0
+
+
+
+#MOBPROGS
+#16221
+say Welcome, $n!  Would you like to {^Train{*, {#Practice{*, or {@Gain{* today?{0
+~
+#16222
+say Use 'repent align' and 'curse align' to modify your align.
+say Since this is a neutral clan, your alignment should be around 0.
+smile
+~
+#16223
+say The PK Healing potions are four shots of heal. 'Quaff good' to use them.
+say The PK Potions are something to give to somebody in a PK.
+say They have three spells of demi, followed by a shot of golem.
+say So, it will probably kill them, and if it doesn't, their mana will be almost
+say gone from the spells of demi!
+say So, be careful which one you quaff (Quaff good to use the healing potion, give them
+say the PK Potion with the keywords 'pk healing potion')
+~
+#16224
+say Hello there, $n!
+wink $n
+say If you're not feeling well, I can heal you.
+say Just use 'heal' for help with that.  Say 'align' for alignment help.
+say You can also sleep in the holy water to get healed.
+~
+#16225
+say We have a wide selection of Chocobo's for pets.
+say Take your pick!
+tip $n
+~
+#16226
+say There are lots of potions here to pick from, why don't you get a few?
+nudge $n
+say I also sell some earrings, and there is other stuff to the north!
+say And say 'pk' if you need information on the PK potions.
+~
+#16227
+spellup $n
+~
+#16228
+restore $n
+~
+#16229
+say The clan gear of the Keepers of Fire can be found here!
+say I sure bet that you want some, don't you?
+~
+#16230
+mob cast hero
+~
+#16231
+mob cast 'cure poison' $n
+~
+#0
+
+#$

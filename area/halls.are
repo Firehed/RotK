@@ -1,0 +1,272 @@
+#AREADATA
+Name Halls of Death~
+Builders None~
+VNUMs 22500 22599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#22500
+no name~
+A large figer like creature~
+A large undead creature
+~
+Standing before u is a large figer.  With riped clothes and a old sword. 
+This creature does not look friendly,This person does not look very friendly
+~
+Human~
+A 0 0 5 0
+50 5 0d0+0 0d0+0 0d0+0 none
+0
+0 0 0 0
+stand stand male 5
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#22500
+no name~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 0
+exotic 0 0 stab 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#22500
+Hall Entrance~
+Before you stands a long hall.  Cordoors on each side for as far as the
+eye can see.  The light is dem but it's enough to make out the stone tile
+floor and hand carved doors.  
+~
+0 4 0
+D0
+~
+~
+0 0 22501
+S
+#22501
+Long Hall~
+Standing in this hall it's very noticeable that no one has been in or out
+of this hall for quite some time.  The air is thick and the dust is heavy on
+the walls doors and other items laying around.  
+~
+0 0 0
+D0
+~
+~
+0 0 22502
+D2
+~
+~
+0 0 22500
+S
+#22502
+Long Hall~
+Stand in this hall it's very noticeable that no one has been in or out of
+this hall for quite some time.  The air is thick and the dust is heavy on
+the walls doors and other items laying around.  
+~
+0 0 0
+D0
+~
+~
+0 0 22503
+D2
+~
+~
+0 0 22501
+S
+#22503
+Long Hall~
+Standing in this hall it's very noticeable that no one has been in or
+out of this hall for quite some time.  The air is thick and the dust is
+heavy on the walls doors and other items laying around.  Theres also a door
+on each side of your person.  
+~
+0 0 0
+D0
+~
+~
+0 0 22506
+D1
+~
+~
+0 0 22504
+D2
+~
+~
+0 0 22502
+D3
+~
+~
+0 0 22505
+S
+#22504
+{8Small Crypt Room~
+Standing in the center of a small crypt room the feeling of this area is
+very uneasy.  With broken crypt doors,and missplaced stone slabs.  And claw
+marks on the wall,It looks as if something was trying to escape.  
+~
+0 0 0
+D3
+~
+~
+0 0 22503
+S
+#22505
+{8Small Crypt Room~
+Standing in the center of a small crypt room the feeling of this area is
+very uneasy.  With broken crypt doors,and missplaced stone slabs.  And claw
+marks on the wall,It looks as if something was trying to escape.  
+~
+0 0 0
+D1
+~
+~
+0 0 22503
+S
+#22506
+Long Hall~
+Standing in this hall it's very noticeable that no one has been in or out
+of this hall for quite some time.  The air is thick and the dust is heavy on
+the walls doors and other items laying around.  Theres also a door on each
+side of your person.  
+~
+0 0 0
+D0
+~
+~
+0 0 22507
+D2
+~
+~
+0 0 22503
+S
+#22507
+Long Hall~
+Standing in this hall it's very noticeable that no one has been in or
+out of this hall for quite some time.  The air is thick and the dust is
+heavy on the walls doors and other items laying around.  Theres also a door
+on each side of your person.  
+~
+0 0 0
+D0
+~
+~
+0 0 22512
+D1
+~
+~
+0 0 22508
+D2
+~
+~
+0 0 22506
+D3
+~
+~
+0 0 22509
+S
+#22508
+Small entry Room~
+Standing high in the small room is a statue of a human like figer.  With
+a large build and strong hands witch are grasping a large sword.  The statue
+seems to pulse with a chaotic aura.  There are two passage ways to the north
+and the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 22510
+D2
+~
+~
+0 0 22511
+D3
+~
+~
+0 0 22507
+S
+#22509
+~
+~
+0 0 0
+D1
+~
+~
+0 0 22507
+S
+#22510
+Small Sitting Room~
+Upon arrival to this room you smelled the scent of freshly overturned
+earth.  You now see that the smell was coming from a deeply dug hole in the
+ground.  This sight erases the belief that this area had not been tampered
+with for some time.  
+~
+0 0 0
+D2
+~
+~
+0 0 22508
+S
+#22511
+Out of place room~
+This room seems to be out of place.  But it's hard to put a finger on
+just what it is.  The walls are cracking and the floor is littered with
+broken marble.  It is hard to walk but you seem to keep your balance.  
+~
+0 0 0
+D0
+~
+~
+0 0 22508
+S
+#22512
+Long Hall~
+Standing in this hall it's very noticeable that no one has been in or
+out of this hall for quite some time.  The air is thick and the dust is
+heavy on the walls doors and other items laying around.  Theres also a door
+on each side of your person.  
+~
+0 0 0
+D2
+~
+~
+0 0 22507
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

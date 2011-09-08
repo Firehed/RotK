@@ -1,0 +1,1699 @@
+#AREADATA
+Name Skexie~
+Builders Savvy~
+VNUMs 22400 22499
+Credits [50 80] Savvy   Skexie~
+Security 1
+End
+
+
+
+#MOBILES
+#22400
+skexie healer zantra~
+{rZa{Rnt{rra {wThe {rSk{Rex{rie {yHealer{x~
+{rZa{Rnt{rra {wThe {rSk{Rex{rie {yHealer{W stands waiting to heal one's soul.{x
+~
+Zantra the Skexie healer stands waiting to heal one's soul.  Her slender
+hand waves over one's body to restore them back to full health as she smiles
+upon them.  Her grayish blue eyes shine as she speaks the words of comfort
+to the needy as her long blonde hair hangs past her shoulders.  
+~
+dragon~
+ABGac JT 0 -1000 0
+210 100 100d20+30000 99d99+1100 30d50+150 claw
+-99
+FIK AB BEH FI
+stand stand female 50000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22401
+skexie bachelorette~
+{a {rSk{Rex{rie {wbachelorette{x~
+{A {rSk{Rex{rie {wbachelorette{W sits here listening to love songs.{x
+~
+A Skexie bachelorette sits here listening to love songs playing on her
+radio.  She has wild jasmine flowing through the room to send off some
+sexual vibes.  Her long blonde hair hangs past her shoulders and her grayish
+eyes shine from the candle burning on a nearby stand.  
+~
+dragon~
+ABGc JT CH -1000 0
+100 120 241d40+3637 120d10+85 40d3+65 slap
+-64
+FIK AB BEH FI
+stand stand female 4000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22402
+skexie bachelor~
+{wa {rSk{Rex{rie {wbachelor{x~
+{wA {rSk{Rex{rie {wbachelor{W sits here enjoying his pad.{x
+~
+A Skexie bachelor sits here enjoying his pad.  He is so proud of his home
+as his music he thinks will allure females into it is blasting away.  Just a
+foolish man, females love roses, sweet talking words.  
+~
+dragon~
+ABGc JT CH -1000 0
+100 120 241d40+3637 120d10+85 40d3+65 punch
+-64
+FIK AB BEH FI
+stand stand male 4000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22403
+skexie citizen~
+{wa {rSk{Rex{rie {ycitizen{x~
+{wA {rSk{Rex{rie {ycitizen{W walks about skexie here doing errands.{x
+~
+A Skexie citizen walks about Skexie here doing errands for the day.
+Her long blonde hair blowing as she quickly walks past you.  Her grayish
+blus eyes shine as she smiles a friendly smile towards you.
+~
+dragon~
+AGc JT H -1000 0
+100 90 50d10+3750 100d100+10 5d8+19 slap
+-25
+FIK AB BEH FI
+stand stand female 4000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22404
+skexie warrior~
+{wa {rSk{Rex{rie {wwarrior{x~
+{wA {rSk{Rex{rie {wwarrior{W rests here in his chamber.{x
+~
+A Skexie warrior is resting here in his chamber after doing battle with
+the evil that lurks around Skexie.  He is a huge warrior with large muscular
+arms and legs.  His large hands grips his deadly weapon tight as he notice
+you have invaded his chamber. 
+~
+dragon~
+ABGc JT 0 -1000 0
+101 100 391d65+787 195d10+85 65d3+102 crush
+-72
+FIK 0 BEH FI
+stand stand male 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22405
+skexie jester~
+{wa {rSk{Rex{rie {yjester{x~
+{wA {rSk{Rex{rie {yjester{W stands here thinking of a new prank.{x
+~
+A Skexie jester stands here thinking of a new prank to do.  He stands
+here laughing at his own pranks, who knows they might actually be funny.  
+~
+dragon~
+ABGc JT H -1000 0
+101 100 391d65+7877 195d10+85 65d3+102 slap
+-72
+FIK 0 BEH FI
+stand stand male 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22406
+skexie mage~
+{wa {rSk{Rex{rie {ymage{x~
+{wA {rSk{Rex{rie {ymage{W stands here casting spells.{x
+~
+A Skexie mage stands here casting spells around the chamber.  Her lovely
+figure shows through her gown as she stands here, as a spell she just casted
+brings forth a gush of wind.  
+~
+dragon~
+ABGc JT H -1000 0
+101 101 0d0+0 195d10+85 65d3+102 slap
+-72
+FIK 0 BEH FI
+stand stand female 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22407
+skexie scribe~
+{wa {rSk{Rex{rie {yscribe{x~
+{wA {rSk{Rex{rie {yscribe{W stands here meditating.{x
+~
+A Skexie scribe stands here meditating as her slender hands rises over
+her head.  Her long black hair shines as a glowing light hits it as she
+opens her grayish eyes and looks at you and growls for she feels you
+interrupted her meditation.  
+~
+dragon~
+ABGc JT CH -1000 0
+101 101 391d65+7877 195d10+85 65d3+102 slap
+-72
+FIK 0 BEH FI
+stand stand female 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22408
+skexie soldier~
+{wa {rSk{Rex{rie {ysoldier{x~
+{wA {rSk{Rex{rie {ysoldier{W sits here after doing battle with the intruders.{x
+~
+A Skexie soldier sits here after doing battle with the intruders, who
+insist on coming here and causing havoc on their peaceful land.
+~
+dragon~
+ABGc JT H -1000 0
+101 100 75d10+6777 95d95+100 5d17+42 crush
+-72
+FIK 0 BEH FI
+stand stand male 5000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22409
+skexie captain~
+{wa {rSk{Rex{rie {ycaptain{x~
+{wA {rSk{Rex{rie {ycaptain{W roams skexie keeping a watchful eye on the intruders.{x
+~
+A Skexie captain roams skexie keeping a watchful eye on the intruders.
+His huge muscles show through his armor as his eyes glares around his
+surrounding.
+~
+dragon~
+AGc JT H -1000 0
+100 100 75d10+6777 95d95+100 5d17+42 crush
+-72
+FIK 0 BEH FI
+stand stand male 5000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22410
+skexie deathchild~
+{wa {rSk{Rex{rie {ydeathchild{x~
+{wA {rSk{Rex{rie {ydeathchild{W stands here in pure silence.{x
+~
+A deathchild stands here in pure silence.  She can hear no sound as for
+makes her vulnerable to easy attacks.  One thinks, Her strong sense of
+feeling the ground move beneath her feet lets her know of an intruder.  
+~
+dragon~
+ABGc JT H -1000 0
+101 101 391d65+7877 195d10+85 65d3+102 slap
+-72
+FIK AB BEH FI
+stand stand female 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22411
+gaithor~
+{rGa{with{ror{x~
+{rGa{with{ror{W the proud warrior of Skexie stands here.{x
+~
+Gaithor the proud warrior of Skexie stands here.  He proudly defends the
+world of Skexie as one can see he is huge.  His bulging muscles shows
+through his armor.  He has the look that no one can defeat him as he stands
+here.  
+~
+dragon~
+ABGc JT CH -1000 0
+101 101 391d65+7877 195d10+85 65d3+102 crush
+-72
+FIK AB BEH FI
+stand stand male 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#22412
+raithix~
+{yRa{Yith{yix{x~
+{yRa{Yith{yix{W is resting here after a long day.{x
+~
+Raithix is resting here after a long day.  He is huge like the rest of
+the Skexie warriors here.  His long brown hair hangs beyond his shoulders
+and his grayish eyes are so dull as he looks up at you.  
+~
+dragon~
+ABGc JT DH -1000 0
+101 101 391d65+7877 195d10+85 65d3+102 crush
+-72
+FIK AB BEH FI
+stand stand male 6000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#22400
+soft bed~
+{wa {ysoft {rbed{x~
+{wA {ysoft {rbed{W is glowing here.{x~
+unknown~
+furniture O 0
+100 10000 EHK 1000 1000
+0 0 0 P
+#22401
+nose ring~
+{ynose {wring{x~
+{yNose {wring{W has been discarded here.{x~
+gold~
+armor AI AR
+33 25 33 25 0
+101 0 1000 P
+A
+13 100
+A
+18 20
+A
+19 15
+#22402
+silver anklet~
+{wa {Wsilver {yanklet{x~
+{wA {Wsilver {yanklet{W has been discarded here.{x\~
+silver~
+armor AI AU
+33 25 33 25 0
+101 0 0 P
+A
+13 130
+A
+18 20
+A
+19 15
+#22403
+skexie bracer~
+{wa {rSk{Rex{rie {ybracer{x~
+{wA {rSk{Rex{rie {ybracer{W has been discarded here.{x~
+unknown~
+armor AI AM
+33 35 33 35 0
+101 0 2000 P
+A
+13 150
+A
+18 30
+A
+19 25
+#22404
+jester hat~
+{wa {rJ{be{gs{yt{me{cr{r'{bs {what{x~
+{wA {rJ{be{gs{yt{me{cr{r'{bs {what{W has been tossed here.{x~
+unknown~
+armor ABI AE
+35 33 35 33 0
+101 0 2000 P
+A
+13 150
+A
+18 30
+#22405
+magical orb~
+{wa {mm{ra{yg{gi{cc{wa{bl {yorb{x~
+{wA {mm{ra{yg{gi{cc{wa{bl {yorb{W floats here as it sparkles.{x~
+unknown~
+armor AI A
+35 33 35 33 0
+101 0 2000 P
+A
+13 150
+A
+18 30
+A
+19 25
+#22406
+magical earrings~
+{rEa{Rrr{rin{Rgs {Wof {rM{ya{gg{ci{mc{x~
+{rEa{Rrr{rin{Rgs {Wof {rM{ya{gg{ci{mc{W has been tossed here.{x~
+unknown~
+armor AI AS
+35 33 35 33 0
+101 0 2000 P
+A
+13 150
+A
+18 30
+A
+19 25
+#22407
+skinning knife~
+{wa {ySkinning {Yknife{x~
+{wA {ySkinning {Yknife{W lies in here pure evil.{x~
+metal~
+weapon 0 AN
+dagger 15 14 divine AEH
+101 0 3000 P
+A
+19 25
+A
+18 30
+A
+13 150
+#22408
+skexie ring~
+{wa {rSk{Rex{rie {yring{x~
+{wA {rSk{Rex{rie {yring{W has been discarded here.{x~
+marble~
+armor 0 AB
+44 33 44 33 0
+101 0 3000 P
+A
+17 5
+A
+19 30
+A
+18 30
+A
+13 150
+#22409
+sleeves of afterlife~
+{rSl{Reev{res {wof {RAfterlife{x~
+{rSl{Reev{res {wof {RAfterlife{W has been discarded here.{x~
+unknown~
+armor 0 AI
+44 33 44 33 0
+101 0 3000 P
+A
+18 30
+A
+13 150
+#0
+
+
+
+#ROOMS
+#22400
+{yEntrance {Wto {rSk{Rex{rie{x~
+Standing before a huge gate made out of cast iron, one can see a
+building to the north from here.  The gate has stone-like creatures on each
+side of it as they appear to be that of gargoyles.  The black gate blocks
+much of what is behind it as one tries to see more of the building.  The
+darkness starts to fall all around them as the birds seem to stop chirping
+in a nearby tree.  
+~
+0 0 0
+D0
+~
+~
+1 0 22401
+D2
+~
+~
+0 0 3525
+S
+#22401
+{wInside {Wthe {ygate {Wof {rSk{Rex{rie{x~
+Once inside the gates that is leading towards the building and back out
+to the south from here.  One can now see more of the building as they look
+about their surroundings.  The building is still far off a bit but one can
+see it has been here for ages.  The shingles on the rooftop have seemingly
+begun to fall apart and fall to the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 22402
+D2
+~
+~
+1 0 22400
+S
+#22402
+{wWalkway {Wto the {yBuilding{x~
+The walkway leading towards the north where the building stands.  One
+notice the tree branches have begun to turn a yellowish brown as they look
+to to be dying.  The air seems to stand still as night fall begins to form
+around the building.  
+~
+0 0 0
+D0
+~
+~
+0 0 22403
+D2
+~
+~
+0 0 22401
+S
+#22403
+{YStairs {Wto the {yBuilding{x~
+Standing on the stairs that lead into the building, one now see's the
+the building more clearly as one gets an eerie feeling about the place.  The
+windows seemingly be covered with some blacken mist as one tries to peek
+inside.  The door handle is made out some kind of unknown wood as well as
+the door.  The door seems to be made with some magical force that prevents
+anyone from leaving once they have entered the building.  
+~
+0 0 0
+D0
+~
+~
+1 0 22404
+D2
+~
+~
+0 0 22402
+S
+#22404
+{wA {WDark {yHallway{x~
+Standing inside the dark hallway of the building, which produces very
+lighting from the torches hanging along the wall.  The floors have seen
+their days as they are now covered in scuff marks and scratches are etched
+into the floor.  The walls along the hallway have become dull over time as
+the wallpaper has begun to peel away from the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 22405
+D2
+~
+~
+1 0 22403
+S
+#22405
+{wA {WDark {yHallway{x~
+As one continues to walk along the dark hallway of the building, they
+can surely that many has not walked this path in a long while.  The
+footprints are etched into the ground as one walks along the hallway.  The
+dead silence that surpresses the building is uncanny as to warn anyone from
+going further into the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 22406
+D3
+~
+~
+0 0 22404
+S
+#22406
+{wA {YLong {wand {WDark {yHall{x~
+The long and dark hall seems to go on forever as one walks along it. 
+One can see strange grooves etched into the floor as they look around the
+hall.  The silence continues to echo the hall as the torches flicker from a
+faint breeze blowing around the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 22407
+D3
+~
+~
+0 0 22405
+S
+#22407
+{wA {YLong {wand {WDark {yHall{x~
+Walking along the long and dark hall, one can see markings on the walls
+as if someone or something has dragged their victims off to an unknown
+place.  One would turn back and never to return but something pulls them
+further deeper into the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 22408
+D3
+~
+~
+0 0 22406
+S
+#22408
+{wA {YLong {wand {WDark {yHall{x~
+Waling along the long and dark hall, one can see markings on the walls as
+if someone or something has been dragged their victims off to an unknown
+place.  One would turn back and never to return but something pulls them
+further deeper into the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 22409
+D3
+~
+~
+0 0 22407
+S
+#22409
+{wA {ySlide {Wleading {rDownwards!{x~
+Standing at the base of the slide and wondering if one should even
+attempt to go down.  The air seems to fill the entrance here is musky and
+even holds a foul odor that seemingly be coming from below.  
+~
+0 0 0
+D3
+~
+~
+0 0 22408
+D5
+~
+~
+0 0 22410
+S
+#22410
+{wA {ySlide {Wleading {rDownwards!{x~
+Sliding down the slide and having no ideal where it is talking thee, one
+begins to fear for their life as their body hits branches and twigs as they
+stick out from the edge of the slide.  
+~
+0 0 0
+D4
+~
+~
+0 0 22409
+D5
+~
+~
+0 0 22411
+S
+#22411
+{wA {ySlide {Wleading {rDownwards!{x~
+As one continues to slide downwards, their body has begun to {rbleed{G
+from the scratches the branches has imposed onto their body.  The twigs seem
+to be full of evil as one slides further down the slide.  
+~
+0 0 0
+D4
+~
+~
+0 0 22410
+D5
+~
+~
+0 0 22412
+S
+#22412
+{wA {ySlide {Wleading towards the {rBottom!{x~
+As one continues down the slide, they have become a {rbloody{G mess. 
+The blood from their body has seem to left a trail for all to see how one
+might not take this journey to the unknown.  
+~
+0 0 0
+D4
+~
+~
+0 0 22411
+D5
+~
+~
+0 0 22413
+S
+#22413
+{wA {ySlide {Wleading towards the {rBottom!{x~
+As one hopes they are almost near the end of this nitemare slide.  They
+can barely make out the noises that are coming from the bottom of the slide.
+No one knows how long the slide goes and where it ends.  As the twigs
+continue slice one's body as they slide further down the slide.  
+~
+0 0 0
+D4
+~
+~
+0 0 22412
+D5
+~
+~
+0 0 22414
+S
+#22414
+{wThe {yEnd {Wof the {rSlide{x~
+At last one has reached the bottom of the slide and shouts with a
+whopping {rWoo HOO{G.  I have reached the bottom and lived they shouted as
+they body slowly calms down from rush of the slide ride.  Only one knows if
+they will make it out of here alive and live to tell others to stay away.  
+~
+0 0 0
+D1
+~
+~
+0 0 22415
+D2
+~
+~
+0 0 22420
+D3
+~
+~
+0 0 22416
+D4
+~
+~
+0 0 22413
+S
+#22415
+{wA {rDr{Rak{ran's {yHome{x~
+Walking into the room, one feels someone has been occupying the home
+here.  Looking about the home one senses there is a strange presence lurking
+about the home.  The walls are covered in a material that is unknown to
+many.  The furniture is carved in a unique style and has markings all around
+the frame.  
+~
+0 0 0
+D3
+~
+~
+0 0 22414
+S
+#22416
+{wA {rDr{Rak{ran {yHallway{x~
+Walking along the Drakan hallway, one wonders what kind of race is a
+draken and when did they arrive.  The hallway is lit with an old torch that
+hangs from the wall on the left side of the hallway.  The light does very
+little for the hall as one tries to catch a glimpse of their surrounding.  
+~
+0 0 0
+D1
+~
+~
+0 0 22414
+D3
+~
+~
+0 0 22417
+S
+#22417
+{wA {rDr{Rak{ran {yHallway{x~
+Standing in the hallway of the Drakan's, one can hear moaning coming
+from the south and north from here.  The light in the hallway is very dim
+and the light one uses does very little.  The smell of something foul is
+coming from the south.  The smell is that of magical spells being casted as
+one hears a loud explosion coming from the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 22418
+D1
+~
+~
+0 0 22416
+D2
+~
+~
+0 0 22419
+S
+#22418
+{wA {rDr{Rak{ran's {yHome{x~
+Walking into the Drakan's home, one see's many strange things about the
+room as they look about it.  The walls are covered in a strange ooze and the
+ceiling has some strange drippings coming from it.  One watches the dripping
+of the slimely ooze hit the floor and spread about the room.  The ooze
+leaves a foul smell as it hits the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 22417
+S
+#22419
+{wA {rDr{Rak{ran's {yLair{x~
+Walking into the room, one can see many burnt marks upon the ceiling and
+floors as they look about.  The smell of sulfur fills the air as they look
+about the room.  There are voices coming from the south as one stands here
+glancing around the room.  Continuing looking about the room, one see's
+strange things appearing and disappearing on the walls and ceiling.  There
+is dried {rblood{G upon the ground as one looks around the lair once more.  
+~
+0 0 0
+D0
+~
+~
+0 0 22417
+S
+#22420
+{wA {YLong {yCorridor{x~
+Standing in the long hallway leading from the Drakan's, one thinks they
+are are out of harms way.  One may think so but in reality it has only just
+begun.  The hallway torches does very little here as one continues their
+journey through this land.  The smell of sulfur still lingers in the air as
+one looks about the hallway here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22421
+D1
+~
+~
+0 0 22450
+D2
+~
+~
+0 0 22432
+D3
+~
+~
+0 0 22444
+S
+#22421
+{wA {YLong {yCorridor{x~
+Standing at the long corridor, one wonders which way to proceed from
+here.  There are rooms to the west and east of here as well towards the
+north.  One can hear from all directions voices and moans echoing the
+corridor while standing here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22424
+D1
+~
+~
+0 0 22423
+D2
+~
+~
+0 0 22420
+D3
+~
+~
+0 0 22422
+S
+#22422
+{rSk{Rex{rie {wDeathchild's {yRoom{x~
+Standing in the Skexie Deathchild's room, one see's a huge bed sitting
+in the corner and a table to the right of the room.  There is a book sitting
+upon the table in a strange language as well as a drawing hanging on the
+nearby wall.  The room has very little light as one tries to adjust their
+lighting to examine more of the room before leaving.  
+~
+0 0 0
+D1
+~
+~
+0 0 22421
+S
+#22423
+{rGa{with{ror's {yRoom{x~
+Standing in the room the belongs to Gaithor, one feels they may have
+over stepped their welcome.  The room is huge and has all kinds of deadly
+weapons and armor made from some sort of material scattered about the room. 
+There is a huge candlelabra hanging from the ceiling to give off some light
+as one looks around the room once more.  
+~
+0 0 0
+D3
+~
+~
+0 0 22421
+S
+#22424
+{wA {yCorridor{x~
+Standing in the corridor that leads north and south from here.  There
+are two rooms to the west and east from here as well.  One hears voices
+coming from both rooms and wonders who or what is making such noises as they
+look about the corridor once more.  The torches burn bright with the extreme
+heat coming from them as they hang on both sides of the corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 22427
+D1
+~
+~
+0 0 22425
+D2
+~
+~
+0 0 22421
+D3
+~
+~
+0 0 22426
+S
+#22425
+{yRa{Yith{yix's {wRoom{x~
+Standing in Raithix's room, one see's many usual things laying about his
+room.  There is a huge bed in the corner and a large stand beside it with a
+lantern burning low.  There are shelves after shelves full of books and
+scrolls and a vial of some red liquid resting on one of the shelves.  
+~
+0 0 0
+D3
+~
+~
+0 0 22424
+S
+#22426
+{gZa{Wrth{gor's {yRoom{x~
+Standing in Zarthor's room, one feel the sense that there is more than
+meets the eye here.  The room is like the others, with one exception there
+are poles with skulls attached to them resting by a nearby wall.  There is a
+huge bed to the left of the room as well as a desk in the far corner of the
+room, where Zarthor would look over his ledger for the day and see what one
+must do to protect his world from intruders.  
+~
+0 0 0
+D1
+~
+~
+0 0 22424
+S
+#22427
+{wA {yCorridor{x~
+Standing at the corridor that leads north and south from here, one see's
+there are rooms to the west and east from here.  The sound of rattling and
+moaning has one wondering what could be making such a sound.  One decides if
+they should go and take a look or find their way back out this unknown
+place.  
+~
+0 0 0
+D0
+~
+~
+0 0 22430
+D1
+~
+~
+0 0 22429
+D2
+~
+~
+0 0 22424
+D3
+~
+~
+0 0 22428
+S
+#22428
+{WThe {wGhost {Wof {rMa{Rla{rra{Rth's {wRoom{x~
+Walking into the dim room, one feels someone is watching their every
+moment.  There is a strange presence here and one cannot put their finger on
+it.  The room is blackened with a strange aura as one looks around the room.
+The room is giving off some evil aura as one stands here as see's a shadowly
+figure move about the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 22427
+S
+#22429
+{yKa{rla{yra{rth's {wRoom{x~
+Standing in the room that belongs to Kalarath, one of the many warriors
+here in Skexie.  One feels that whoever was here before them never made it
+out of here alive.  The room is huge like the rest of the rooms here in
+Skexie, as one notices a huge bed to the left corner of the room.  There are
+claw marks etched into the walls as if someone tried to claw their way out
+of here and did not make it.  The dried blood stains on the floors where the
+blood of the last victim flowed from their body as they were being devoured
+to death by whatever lives here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22427
+S
+#22430
+{WThe {YEnd {Wof the {yCorridor{x~
+Standing at the end of the corridor in Skexie, one wonders if they
+should turn back now or proceed further onwards.  The hall is very well lit
+from the torches hanging on both sides of the corridor.  The moaning and
+voices continue to echo the corridor as one stands here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22431
+D2
+~
+~
+0 0 22427
+S
+#22431
+{rBel{wgar{rrath's {yLair{x~
+Walking into Belgarath's Lair, one sense his presence about the room. 
+His lair has a huge painting of some kind hanging over his huge bed that he
+sleeps upon.  There is a huge oval table sitting in the middle of the room. 
+There are shelves after shelves about the room full of books and vials of
+liquids unknown to man.  The sense of danger has come across ones mind as
+they look about the room once more.  
+~
+0 0 0
+D2
+~
+~
+0 0 22430
+S
+#22432
+{wA {YLong {yCorridor {Win {rSk{Rex{rie{x~
+Standing in the corridor of Skexie, one begins to wonder what are
+actually skexies and are they friendly or evil beings.  Looking about the
+one can feel eyes are looking upon them as they stand here wondering why
+haven't the gods answered their simple question "{rWhy am I here!  {g ".  {x
+~
+0 0 0
+D0
+~
+~
+0 0 22420
+D1
+~
+~
+0 0 22433
+D2
+~
+~
+0 0 22435
+D3
+~
+~
+0 0 22434
+S
+#22433
+{rSk{Rex{rie {wWarrior's {yChamber{x~
+Standing inside the Skexie warrior chamber, one can feel the vibes of
+something unknown to them.  The room is huge as racks full of deadly weapons
+are scattered about the room against the walls.  The ceiling is high as to
+prevent one from hitting their head against it.  There are candelabras
+hanging on each side of the room to give off extreme light as one looks
+about the room.  There is a huge, king size bed in the left corner of the
+room where the warrior rest after doing battle with the vile creatures who
+insist on invading this world.  
+~
+0 0 0
+D3
+~
+~
+0 0 22432
+S
+#22434
+{rSk{Rex{rie {wWarrior's {yChamber{x~
+Standing inside the Skexie warrior chamber, one can feel the vibes of
+something unknown to them.  The room is huge as racks full of deadly weapons
+are scattered about the room against the walls.  The ceiling is high as to
+prevent one from hitting their head against it.  There are candelabras
+hanging on each side of the room to give off extreme light as one looks
+about the room.  There is a huge, king size bed in the left corner of the
+room where the warrior rest after doing battle with the vile creatures who
+insist on invading this world.  
+~
+0 0 0
+D1
+~
+~
+0 0 22432
+S
+#22435
+{wA {YLong {yCorridor {Win {rSk{Rex{rie{x~
+As one continues to walk along the corridor in Skexie, they can feel
+there is more than meets the eyes here.  The corridor is well lit as the
+torches on each side of the corridor gives off extreme lighting.  The
+corridor has been used quite alot from the grooves etched into the floor as
+one stands here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22432
+D1
+~
+~
+0 0 22436
+D2
+~
+~
+0 0 22438
+D3
+~
+~
+0 0 22437
+S
+#22436
+{rSk{Rex{rie {wJester's {yRoom{x~
+As one walks into the Skexie jesters room, they notice many unique toys
+laying about the room.  There is a magical ball floating in the air in the
+center of the room as well as colorful lights spraying about the room as one
+looks about.  There is a bed in the left corner of the room.  One can truly
+see this room holds many magical and marvelous entertaining items.  The room
+glows bright as the ball rotates around the center of the room as one stands
+here in marvel.  
+~
+0 0 0
+D3
+~
+~
+0 0 22435
+S
+#22437
+{rSk{Rex{rie {wJester's {yRoom{x~
+As one walks into the Skexie jesters room, they notice many unique toys
+laying about the room.  There is a magical ball floating in the air in the
+center of the room as well as colorful lights spraying about the room as one
+looks about.  There is a bed in the left corner of the room.  One can truly
+see this room holds many magical and marvelous entertaining items.  The room
+glows bright as the ball rotates around the center of the room as one stands
+here in marvel.  
+~
+0 0 0
+D1
+~
+~
+0 0 22435
+S
+#22438
+{wA {YLong {yCorridor{x~
+Standing at the long corridor that either leads to the rooms on the west
+and east of here and to the south.  As the north will take one back towards
+the way they entered.  The corridor gives off extreme light as one stands
+here determine if which way they will go next.  
+~
+0 0 0
+D0
+~
+~
+0 0 22435
+D1
+~
+~
+0 0 22439
+D2
+~
+~
+0 0 22441
+D3
+~
+~
+0 0 22440
+S
+#22439
+{rSk{Rex{rie {wMage's {yChamber{x~
+As one walks into the Skexie mages chamber, their eyes shine as they see
+the wonderful things that is going on in this chamber.  There are floating
+orbs in every color floating about the room as well as potions stirring on a
+nearby table without anyone there.  This chamber has magical forces
+protecting it from harm as one stands here in marvel over what their eyes
+are seeing.  The room is very bright as one can notice shelves full of vials
+and scrolls laying on them.  The room sends off a aura of magic way beyond
+anyones imagination can go.  
+~
+0 0 0
+D3
+~
+~
+0 0 22438
+S
+#22440
+{rSk{Rex{rie {wMage's {yChamber{x~
+As one walks into the Skexie mages chamber, their eyes shine as they see
+the wonderful things that is going on in this chamber.  There are floating
+orbs in every color floating about the room as well as potions stirring on a
+nearby table without anyone there.  This chamber has magical forces
+protecting it from harm as one stands here in marvel over what their eyes
+are seeing.  The room is very bright as one can notice shelves full of vials
+and scrolls laying on them.  The room sends off a aura of magic way beyond
+anyones imagination can go.  
+~
+0 0 0
+D1
+~
+~
+0 0 22438
+S
+#22441
+{wA {YLong {yHallway{x~
+As one journeys along the long hallway in Skexie, the heat from the
+torches burning on each side of the hallway produces extreme heat.  The
+walls are covered in multi-stone marble that sparkles when the light
+flickers against it as it burns froms the torches.  The floors are etched in
+some strange kind of marble.  
+~
+0 0 0
+D0
+~
+~
+0 0 22438
+D2
+~
+~
+0 0 22442
+S
+#22442
+{wA {YLong {yHallway{x~
+As one walks along the end of the long corridor of Skexie, they see a
+room to the south from here.  One looks about the corridor as the torches
+burn bright from both sides of the corridor.  The heat from the torches are
+extremely hot as one stands close to one of them here in the corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 22441
+D2
+~
+~
+0 0 22443
+S
+#22443
+{rSk{Rex{rie {wScribe's {yChamber{x~
+Standing inside the Skexie Scribes chamber, one feels that they might
+have intruded where their shouldn't have.  The room is full of many assorted
+scrolls and vials of potions about on shelves after shelves in the room. 
+There is a huge table in the middle of the room, which seems to be floating
+on air as the room feels to be rotating as one looks about it.  There is a
+bright light swirling above ones head as the colors on the walls move back
+and forth.  
+~
+0 0 0
+D0
+~
+~
+0 0 22442
+S
+#22444
+{wA {WDark {yCorridor{x~
+Walking along the dark corridor of Skexie, one grabs their light source
+to see where they are heading for the lighting here does very little.  The
+walls are covered in a dark stone as the floors shine from the multi-stone
+marble that is emblemed into them.  
+~
+0 0 0
+D1
+~
+~
+0 0 22420
+D3
+~
+~
+0 0 22445
+S
+#22445
+{wA {WDark {yCorridor{x~
+The dark corridor seems to go for miles as one walks along it holding
+onto their light source to see where they are going.  The torches on both
+sides of the corridor burns low and produces some heat from them as they
+hang from the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 22446
+D1
+~
+~
+0 0 22444
+S
+#22446
+{rSo{Rld{rie{Rr's {yBarracks{x~
+Standing by the Soldier's barracks, one can hear voices coming from all
+directions as they stand here.  The voices echo the hall as the lighting
+here shines brightly from the torches hanging on each side of the wall.  The
+walls are covered in a multi-stone marble and shines from the light
+flickering upon them as the torches burn.  
+~
+0 0 0
+D0
+~
+~
+0 0 22449
+D1
+~
+~
+0 0 22448
+D2
+~
+~
+0 0 22445
+D3
+~
+~
+0 0 22447
+S
+#22447
+{rSo{Rld{rie{Rr's {yBarracks{x~
+The soldiers barracks looks like any other barracks, there are beds on
+both sides of the room as well as some tables in the middle of the room for
+the soldiers to rest their weary bones after doing battle with the intruders
+that insist on coming into the land and causing havoc.  
+~
+0 0 0
+D1
+~
+~
+0 0 22446
+S
+#22448
+{rSo{Rld{rie{Rr's {yBarracks{x~
+The soldiers barracks looks like any other barracks, there are beds on
+both sides of the room as well as some tables in the middle of the room for
+the soldiers to rest their weary bones after doing battle with the intruders
+that insist on coming into the land and causing havoc.  
+~
+0 0 0
+D3
+~
+~
+0 0 22446
+S
+#22449
+{rSo{Rld{rie{Rr's {yBarracks{x~
+The soldiers barracks looks like any other barracks, there are beds on
+both sides of the room as well as some tables in the middle of the room for
+the soldiers to rest their weary bones after doing battle with the intruders
+that insist on coming into the land and causing havoc.  
+~
+0 0 0
+D2
+~
+~
+0 0 22446
+S
+#22450
+{wA {YBend {Win the {yCorridor{x~
+Walking along the bend in the corridor of Skexie's, one feels the heat
+from the torches lighting the path here.  The corridor has marble-looking
+stones emblemed into the floor with some strange symbols etched into each
+tiny stone.  
+~
+0 0 0
+D1
+~
+~
+0 0 22451
+D3
+~
+~
+0 0 22420
+S
+#22451
+{wA {YBend {Win the {yCorridor{x~
+Walking along the bend in the corridor of Skexie's, one feels the heat
+from the torches lighting the path here.  The corridor has marble-looking
+stones emblemed into the floor with some strange symbols etched into each
+tiny stone.  
+~
+0 0 0
+D2
+~
+~
+0 0 22452
+D3
+~
+~
+0 0 22450
+S
+#22452
+{yHallway {Wof {rSk{Rex{rie{x~
+Standing at the hallway of Skexie that leads north back to the main
+corridor or to the other rooms in every directions in here.  The hallway is
+lit very bright for one to see where they are going to and what might be
+lurking around the next corner.  
+~
+0 0 0
+D0
+~
+~
+0 0 22451
+D1
+~
+~
+0 0 22454
+D2
+~
+~
+0 0 22455
+D3
+~
+~
+0 0 22453
+S
+#22453
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D1
+~
+~
+0 0 22452
+S
+#22454
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22452
+S
+#22455
+{yHallway {Wof {rSk{Rex{rie{x~
+As one continues to walk along the skexie hallway, one can see more of
+the homes to their left and right as they stand here.  The torches burn
+bright as one looks about as they stand here deciding if they will intrude
+one one of the homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 22452
+D1
+~
+~
+0 0 22457
+D2
+~
+~
+0 0 22458
+D3
+~
+~
+0 0 22456
+S
+#22456
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D1
+~
+~
+0 0 22455
+S
+#22457
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22455
+S
+#22458
+{yHallway {Wof {rSk{Rex{rie{x~
+As one continues to walk along the hallway of Skexie, they begin to
+realize the people of this strange and unusual place are very well informed
+on their history as well as music that one can hear playing from every
+direction as they stand here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22455
+D1
+~
+~
+0 0 22459
+D2
+~
+~
+0 0 22461
+D3
+~
+~
+0 0 22460
+S
+#22459
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22458
+S
+#22460
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D1
+~
+~
+0 0 22458
+S
+#22461
+{yHallway {Wof {rSk{Rex{rie{x~
+Walking along the hallway of Skexie, one can see homes to their left and
+right as they look about the hallway.  The lighting here gives off such a
+glow as one looks to see any movement coming from the homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 22458
+D1
+~
+~
+0 0 22463
+D2
+~
+~
+0 0 22464
+D3
+~
+~
+0 0 22462
+S
+#22462
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D1
+~
+~
+0 0 22461
+S
+#22463
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22461
+S
+#22464
+{yHallway {Wof {rSk{Rex{rie{x~
+Standing in the hallway of Skexie, the torches burn bright as one stands
+here.  The floors show signs of being walked across many times in the past. 
+The walls are covered in a mult-stone marble that glistens as the torches
+flickers against the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 22461
+D1
+~
+~
+0 0 22465
+D2
+~
+~
+0 0 22467
+D3
+~
+~
+0 0 22466
+S
+#22465
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+tempting ones date for the evening.  
+~
+0 0 0
+D3
+~
+~
+0 0 22464
+S
+#22466
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelor, one can see the way one
+lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+tempting ones date for the evening.  
+~
+0 0 0
+D1
+~
+~
+0 0 22464
+S
+#22467
+{YEnd {Wof the {yHallway {Win {rSk{Rex{rie{x~
+Standing at the end of the hallway in Skexie, one can feel the
+peacefulness of this world.  The skexie citizens here have shown they are
+very proud and noble beings.  The torches hanging on both sides of the
+hallway gives off a bright light for all to see how the multi-stone marbles
+shine from the flickering of the flames burning from the torches here.  
+~
+0 0 0
+D0
+~
+~
+0 0 22464
+D1
+~
+~
+0 0 22468
+D2
+~
+~
+0 0 22470
+D3
+~
+~
+0 0 22469
+S
+#22468
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D3
+~
+~
+0 0 22467
+S
+#22469
+{wA {rSk{Rex{rie's {wHome{x~
+Standing inside the home of a skexie bachelorette, one can see the way
+one lives here.  There is a bed in the corner of the room as well as a small
+stand near the bed with an antique lantern burning low to give off a soft
+atmosphere.  There is alluring music being played softly in the background
+for one to tempt their date for the evening here.  
+~
+0 0 0
+D1
+~
+~
+0 0 22467
+S
+#22470
+{rSk{Rex{rie's {wHealing {yAbode{x~
+Walking into the healing abode of Skexie, one can feel at ease as the
+peacefulness surrounds the abode.  The aura of healing surpresses the room
+as one rest their weary body from doing battle with the evil of this world. 
+The walls are covered in the multi-stone marble as they glisten from a torch
+hanging behind the healer's bed made out of a soft comfortable mattress of
+unusual feathers.  
+~
+0 0 0
+D0
+~
+~
+0 0 22467
+S
+#0
+
+
+
+#SPECIALS
+M 22407 spec_breath_any
+M 22410 spec_breath_frost
+M 22411 spec_breath_fire
+M 22412 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 22400 0 1
+D 0 22401 2 1
+D 0 22403 0 1
+D 0 22404 2 1
+M 0 22403 4 22420 4
+M 0 22410 1 22422 1
+E 0 22407 0 16
+M 0 22411 1 22423 1
+E 0 22408 0 2
+M 0 22412 1 22425 1
+E 0 22409 0 10
+M 0 22404 2 22433 1
+M 0 22404 1 22434 1
+E 0 22403 0 15
+M 0 22405 2 22436 1
+M 0 22405 1 22437 1
+E 0 22404 0 6
+M 0 22406 2 22439 1
+M 0 22406 1 22440 1
+E 0 22405 0 18
+M 0 22407 1 22443 1
+E 0 22406 0 21
+E 0 22406 0 22
+M 0 22409 2 22446 2
+M 0 22408 1 22447 1
+M 0 22408 3 22448 2
+M 0 22408 4 22449 2
+M 0 22402 5 22453 2
+M 0 22402 6 22454 2
+E 0 22401 0 20
+M 0 22402 4 22456 2
+E 0 22401 0 20
+M 0 22402 3 22457 2
+M 0 22401 6 22459 2
+M 0 22401 5 22460 2
+E 0 22402 0 25
+M 0 22401 3 22462 2
+M 0 22401 4 22463 2
+M 0 22402 2 22465 1
+M 0 22402 1 22466 1
+M 0 22401 2 22468 1
+M 0 22401 1 22469 1
+E 0 22402 0 25
+M 0 22400 1 22470 1
+O 0 22400 0 22470
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
